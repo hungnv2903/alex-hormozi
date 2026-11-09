@@ -36,7 +36,7 @@ Nội dung trong cuốn sách này nhằm cung cấp thông tin hữu ích về 
 > 
 > RYAN DANIEL MORAN, NHÀ SÁNG LẬP CAPITALISM.COM 
 
-> _“Chúng tôi biết đến Alex và lập tức mua sách của ông ấy. Đây thực sự là cuốn sách kinh doanh hay nhất mà tôi từng đọc. Có lẽ bài học lớn nhất tôi học được từ ông ấy là: trong kinh doanh, rất nhiều lần bạn muốn tính phí khách hàng cao hơn và gần như cảm thấy áy náy kiểu ‘ôi trời, liệu mình có làm được thế không?’. Nhưng không ai giỏi hơn Alex trong việc đóng gói và định giá sản phẩm – vừa giúp bạn tăng giá, vừa đồng thời nâng cao giá trị cho khách hàng._ **_Kể từ khi hợp tác với anh ấy... chỉ trong vòng hai tháng... doanh nghiệp của chúng tôi đã đạt mốc doanh thu $10M/năm... NHÂN ĐÔI LẬP TỨC_** _, và chỉ mới hai tháng trôi qua kể từ khi chúng tôi kết nối với anh ấy, doanh nghiệp đang trên đà chạm mốc doanh thu $23M/năm_ _. Chỉ nhờ thay đổi cách định giá, cách đóng gói sản phẩm, đồng thời mang lại kết quả tốt hơn cho khách hàng.”_ 
+> _“Chúng tôi biết đến Alex và lập tức mua sách của ông ấy. Đây thực sự là cuốn sách kinh doanh hay nhất mà tôi từng đọc. Có lẽ bài học lớn nhất tôi học được từ ông ấy là: trong kinh doanh, rất nhiều lần bạn muốn tính phí khách hàng cao hơn và gần như cảm thấy áy náy kiểu ‘ôi trời, liệu mình có làm được thế không?’. Nhưng không ai giỏi hơn Alex trong việc đóng gói và định giá sản phẩm – vừa giúp bạn tăng giá, vừa đồng thời nâng cao giá trị cho khách hàng._ **_Kể từ khi hợp tác với anh ấy... chỉ trong vòng hai tháng... doanh nghiệp của chúng tôi đã đạt mốc doanh thu 10M USD/năm... NHÂN ĐÔI LẬP TỨC_** _, và chỉ mới hai tháng trôi qua kể từ khi chúng tôi kết nối với anh ấy, doanh nghiệp đang trên đà chạm mốc doanh thu 23M USD/năm_ _. Chỉ nhờ thay đổi cách định giá, cách đóng gói sản phẩm, đồng thời mang lại kết quả tốt hơn cho khách hàng.”_ 
 > 
 > ANDREW ARGUE, NHÀ SÁNG LẬP KIÊM CEO ACCOUNTINGTAX.COM 
 
@@ -116,11 +116,11 @@ Nâng ly vì chúng ta sẽ trở thành những ông già cáu kỉnh trong tư
 
 16. <u>Nâng cấp Offer: Đặt tên (Naming)</u> 
 
-<u>Phần V: Thực thi để đạt $100,000 đầu tiên</u> 
+<u>Phần V: Thực thi để đạt 100,000 USD đầu tiên</u> 
 
 # **BẮT ĐẦU TỪ ĐÂY** 
 
-> _"Lợi nhuận vượt trội thường đến từ việc đi ngược lại với trí tuệ thông thường (conventional wisdom), mà trí tuệ thông thường thì thường là đúng. Với 10% cơ hội nhận về khoản lợi nhuận gấp 100 lần, bạn nên chấp nhận ván cược đó mọi lúc. Nhưng bạn vẫn sẽ sai chín lần trên mười... Tất cả chúng ta đều biết rằng nếu bạn vung gậy thật lực để đánh bóng xa, bạn sẽ hụt bóng rất nhiều, nhưng bạn cũng sẽ ghi được những cú home-run (chạy một mạch về home). Tuy nhiên, điểm khác biệt giữa bóng chày và kinh doanh là bóng chày có phân phối kết quả bị giới hạn. Khi bạn vung gậy, dù bạn đánh bóng chuẩn đến đâu, số điểm tối đa bạn nhận được cũng chỉ là bốn. Trong kinh doanh, thỉnh thoảng, khi bạn bước lên chốt đánh bóng, bạn có thể ghi tới 1.000 điểm. Sự phân phối lợi nhuận kéo dài (long-tailed distribution) này là lý do tại sao bạn cần phải táo bạo. Những người chiến thắng lớn sẽ bù đắp cho vô số lần thử nghiệm thất bại."_ 
+> _"Lợi nhuận vượt trội thường đến từ việc đi ngược lại với trí tuệ thông thường (conventional wisdom), mà trí tuệ thông thường thì thường là đúng. Với 10% cơ hội nhận về khoản lợi nhuận gấp 100 lần, bạn nên chấp nhận ván cược đó mọi lúc. Nhưng bạn vẫn sẽ sai chín lần trên mười... Tất cả chúng ta đều biết rằng nếu bạn vung gậy thật lực để đánh bóng xa, bạn sẽ hụt bóng rất nhiều, nhưng bạn cũng sẽ ghi được những cú home-run (chạy một mạch về home). Tuy nhiên, điểm khác biệt giữa bóng chày và kinh doanh là bóng chày có phân phối kết quả bị giới hạn. Khi bạn vung gậy, dù bạn đánh bóng chuẩn đến đâu, số điểm tối đa bạn nhận được cũng chỉ là bốn. Trong kinh doanh, thỉnh thoảng, khi bạn bước lên chốt đánh bóng, bạn có thể ghi tới 1,000 điểm. Sự phân phối lợi nhuận kéo dài (long-tailed distribution) này là lý do tại sao bạn cần phải táo bạo. Những người chiến thắng lớn sẽ bù đắp cho vô số lần thử nghiệm thất bại."_ 
 > 
 > JEFF BEZOS 
 
@@ -188,7 +188,7 @@ Hai tai tôi nóng ran và đỏ bừng vì chiếc điện thoại ép sát và
 
 - “Tôi rất tiếc, anh Hormozi,” giọng nói ở đầu dây bên kia vang lên, “chúng tôi buộc phải giữ lại số tiền này trong sáu tháng tới. Chúng tôi đã phát hiện một số hoạt động bất thường, nên đây là biện pháp phòng ngừa.”
 
-- “Anh đang đùa tôi đấy à, 120.000 đô-la cơ mà,” tôi gắt lên. “Một biện pháp ‘phòng ngừa’ ư!?”
+- “Anh đang đùa tôi đấy à, 120,000 USD cơ mà,” tôi gắt lên. “Một biện pháp ‘phòng ngừa’ ư!?”
 
 - “Tôi rất tiếc, thưa anh, đội ngũ thẩm định rủi ro của chúng tôi _–_ ”
 
@@ -208,15 +208,15 @@ Tôi sôi sục cả máu.
 
 *Khốn thật.*
 
-Tôi cúp máy và kiểm tra tài khoản của mình. *$23.036.*
+Tôi cúp máy và kiểm tra tài khoản của mình. *23,036 USD.*
 
-Tôi còn nợ nhân viên kinh doanh khoản hoa hồng 22.000 đô-la cho doanh số 120.000 đô-la mà rốt cuộc tôi chẳng nhận được đồng nào.
+Tôi còn nợ nhân viên kinh doanh khoản hoa hồng 22,000 USD cho doanh số 120,000 USD mà rốt cuộc tôi chẳng nhận được đồng nào.
 
 Không cho phép bản thân có thời gian suy nghĩ thêm, tôi chuyển khoản thẳng cho cậu ta.
 
-_-$22.000 Thanh toán thành công._
+_-22,000 USD Thanh toán thành công._
 
-Số dư còn lại: $1.036.
+Số dư còn lại: 1,036 USD.
 
 _Khốn khiếp._
 
@@ -256,11 +256,11 @@ Trước thời điểm này, tôi đã bán 5 trong tổng số 6 phòng tập 
 
 Chuông báo thức reo lên. Tôi mơ màng quờ quạng cánh tay túm lấy bàn cạnh giường ngủ. Tôi tắt báo thức, trong khi Leila vẫn ngủ ngon lành mặc cho mớ hỗn độn xung quanh.
 
-Tôi nằm im lặng, mở tài khoản ngân hàng lên kiểm tra – một thủ tục diễn ra hàng ngày. Số dư hiển thị $300.
+Tôi nằm im lặng, mở tài khoản ngân hàng lên kiểm tra – một thủ tục diễn ra hàng ngày. Số dư hiển thị 300 USD.
 
-Khoan đã. Không thể nào đúng được. Hôm qua trong này vẫn còn $46.000 cơ mà.
+Khoan đã. Không thể nào đúng được. Hôm qua trong này vẫn còn 46,000 USD cơ mà.
 
-Adrenaline trong người tôi trào dâng. Nhìn kỹ hơn, tôi thấy dòng chữ _“-$45.700 Thanh toán thành công.”_ Tôi phát cuồng lên.
+Adrenaline trong người tôi trào dâng. Nhìn kỹ hơn, tôi thấy dòng chữ _“-45,700 USD Thanh toán thành công.”_ Tôi phát cuồng lên.
 
 Số tiền từ việc bán tất cả các phòng tập của tôi đã bay sạch. Tôi kiểm tra xem tiền đã đi đâu. Nó chuyển đến tài khoản của “đối tác” tôi. Hắn ta đã rút sạch tiền.
 
@@ -274,9 +274,9 @@ Tôi cảm thấy chết lặng từ trong tâm can.
 
 Đây đúng là họa vô đơn chí. Điểm tựa duy nhất của tôi trong giai đoạn này là bán một “offer thử thách” (challenge offer) mới cho một phòng tập và thu toàn bộ tiền mặt ngay từ đầu như là “phí” để lật ngược tình thế kinh doanh cho họ.
 
-Thế là tôi làm điều duy nhất mà tôi rành. Tôi *bán hàng*. Nhân viên kinh doanh của tôi đã mang về 120.000 đô-la chỉ trong một tháng, và tôi nợ cậu ta khoản hoa hồng 22.000 đô-la.
+Thế là tôi làm điều duy nhất mà tôi rành. Tôi *bán hàng*. Nhân viên kinh doanh của tôi đã mang về 120,000 USD chỉ trong một tháng, và tôi nợ cậu ta khoản hoa hồng 22,000 USD.
 
-Vấn đề là 120.000 đô-la đó chẳng bao giờ về tài khoản.
+Vấn đề là 120,000 USD đó chẳng bao giờ về tài khoản.
 
 - “Chúng ta cần nói chuyện,” tôi nói khi cùng Leila bước sang căn phòng khác. Tôi lấy hết can đảm để cất lời nhưng mắt vẫn dán chặt xuống sàn nhà đầy xấu hổ.
 
@@ -288,33 +288,33 @@ Cô nắm lấy cằm tôi, kéo mặt tôi hướng về phía cô để tôi c
 
 - “Em tin anh. Mình sẽ tìm cách giải quyết.”
 
-Lúc đó tôi chỉ còn lại hai thứ: một **Grand Slam Offer** và một chiếc thẻ tín dụng doanh nghiệp cũ có hạn mức 100.000 đô-la từ thời tôi còn làm phòng tập.
+Lúc đó tôi chỉ còn lại hai thứ: một **Grand Slam Offer** và một chiếc thẻ tín dụng doanh nghiệp cũ có hạn mức 100,000 USD từ thời tôi còn làm phòng tập.
 
-Vào ngày sau lễ Giáng Sinh (hai ngày sau cú điện thoại đau đớn đến ruột gan với bên xử lý thanh toán), chúng tôi có lịch trình ra mắt sáu phòng tập mới... cùng một lúc. Tính cả vé máy bay, khách sạn, xe thuê, tiền xăng và chi phí chạy quảng cáo (tất cả nhân lên sáu lần), tôi sẽ phải tiêu tốn 3.300 đô-la *mỗi ngày* bằng số tiền mà tôi hoàn toàn không có. Đồng xu cuối cùng của tôi đã dồn để trả lương cho nhân viên kinh doanh. Tôi vẫn nhớ như in bàn tay mình run lẩy bẩy khi các chiến dịch quảng cáo được bật lên: Tắt $\rightarrow$ **BẬT**.
+Vào ngày sau lễ Giáng Sinh (hai ngày sau cú điện thoại đau đớn đến ruột gan với bên xử lý thanh toán), chúng tôi có lịch trình ra mắt sáu phòng tập mới... cùng một lúc. Tính cả vé máy bay, khách sạn, xe thuê, tiền xăng và chi phí chạy quảng cáo (tất cả nhân lên sáu lần), tôi sẽ phải tiêu tốn 3,300 USD *mỗi ngày* bằng số tiền mà tôi hoàn toàn không có. Đồng xu cuối cùng của tôi đã dồn để trả lương cho nhân viên kinh doanh. Tôi vẫn nhớ như in bàn tay mình run lẩy bẩy khi các chiến dịch quảng cáo được bật lên: Tắt $\rightarrow$ **BẬT**.
 
-Cứ thế đấy, tôi lao vào đống nợ với tốc độ 412 đô-la cho mỗi giờ làm việc. Cứ thế đấy, 3.300 đô-la mỗi ngày bắt đầu bị trừ khỏi tài khoản của tôi.
+Cứ thế đấy, tôi lao vào đống nợ với tốc độ 412 USD cho mỗi giờ làm việc. Cứ thế đấy, 3,300 USD mỗi ngày bắt đầu bị trừ khỏi tài khoản của tôi.
 
-&emsp;- $3.300 . . . Giờ thì tôi chính thức trắng tay_
+&emsp;-3,300 USD . . . Giờ thì tôi chính thức trắng tay_
 
-&emsp;- $3.300 . . . Giờ thì tôi chính thức âm cả vào vốn lẫn lời_
+&emsp;-3,300 USD . . . Giờ thì tôi chính thức âm cả vào vốn lẫn lời_
 
-&emsp;- $3.300 . . . Tôi đang nợ nhiều hơn cả số không âm mười nghìn đô-la_
+&emsp;-3,300 USD . . . Tôi đang nợ nhiều hơn cả số không âm mười nghìn USD_
 
-&emsp;- $3.300 . . . Quyết định này sẽ hủy hoại tương lai của tôi đến hết cuộc đời._
+&emsp;-3,300 USD . . . Quyết định này sẽ hủy hoại tương lai của tôi đến hết cuộc đời._
 
 Nhưng rồi mọi thứ bắt đầu khởi sắc. Dưới đây là những gì đã diễn ra trong tháng đó (tháng 1 năm 2017), theo các bản kê khai xử lý thanh toán cũ mà tôi lục lại được. Bạn có thể thấy cột mốc thời gian ở cột bên trái và doanh thu thu về tương ứng ở cột bên phải.
 
 ![](../assets/images/100m-offers/01-01-01.png)
 
-Chúng tôi đã kiếm được $100.117! Vừa đủ để bù đắp khoản chi 3.300 đô-la/ngày đã vắt kiệt chiếc thẻ tín dụng. Mọi thứ thực sự đang guồng quay. Tôi khó lòng tin nổi. Tôi tung ra đường chuyền cầu may (hail mary pass), và vũ trụ đã bắt được nó. Từ chỗ đi tìm luật sư chuyên về phá sản, tôi chuyển sang bối cảnh phải đau đầu nghĩ xem nên làm gì với 3.000.000 đô-la lợi nhuận tích lũy chỉ trong vòng mười hai tháng đầu tiên. Cảm giác thật như mơ. Và ngẫm lại, đến giờ đôi khi tôi vẫn thấy nó ảo diệu thế nào.
+Chúng tôi đã kiếm được 100,117 USD! Vừa đủ để bù đắp khoản chi 3,300 USD USD/ngày đã vắt kiệt chiếc thẻ tín dụng. Mọi thứ thực sự đang guồng quay. Tôi khó lòng tin nổi. Tôi tung ra đường chuyền cầu may (hail mary pass), và vũ trụ đã bắt được nó. Từ chỗ đi tìm luật sư chuyên về phá sản, tôi chuyển sang bối cảnh phải đau đầu nghĩ xem nên làm gì với 3,000,000 USD lợi nhuận tích lũy chỉ trong vòng mười hai tháng đầu tiên. Cảm giác thật như mơ. Và ngẫm lại, đến giờ đôi khi tôi vẫn thấy nó ảo diệu thế nào.
 
-Đến cuối năm, chúng tôi đạt doanh thu $1.500.000+/tháng. Mười hai tháng sau đó: $4.400.000/tháng. Từng tháng một. Hai mươi bốn tháng tiếp theo, chúng tôi vượt mốc 120.000.000 đô-la doanh số, quyên góp 2.000.000 đô-la để gây quỹ hỗ trợ bình đẳng cơ hội cho các khu vực thu nhập thấp. Chúng tôi đã gặp gỡ và kết bạn với Arnold Schwarzenegger (thần tượng cả đời của tôi) và được mời làm thành viên hội đồng quản trị cho quỹ từ thiện của ông ấy – _After School All Stars_.
+Đến cuối năm, chúng tôi đạt doanh thu 1,5M+ USD/tháng. Mười hai tháng sau đó: 4,4M USD/tháng. Từng tháng một. Hai mươi bốn tháng tiếp theo, chúng tôi vượt mốc 120,000,000 USD doanh số, quyên góp 2,000,000 USD để gây quỹ hỗ trợ bình đẳng cơ hội cho các khu vực thu nhập thấp. Chúng tôi đã gặp gỡ và kết bạn với Arnold Schwarzenegger (thần tượng cả đời của tôi) và được mời làm thành viên hội đồng quản trị cho quỹ từ thiện của ông ấy – _After School All Stars_.
 
 > ![](../assets/images/100m-offers/01-01-02.png)
 >
 > *Leila và tôi gặp gỡ Arnold Schwarzenegger tại nhà riêng của ông ấy. Hiện chúng tôi đang nằm trong ban hội đồng quốc gia của quỹ từ thiện After School All Stars do ông sáng lập. Việc tạo ra những Grand Slam Offer đã mang lại cho chúng tôi cơ hội tiếp cận những con người mà trước đây chúng tôi chỉ dám mơ ước.*
 
-Mười hai tháng sau đó nữa, chúng tôi hiện đang sở hữu một danh mục đầu tư gồm bảy công ty đạt quy mô tám con số và đa tám con số trên nhiều lĩnh vực khác nhau (nhiếp ảnh, xuất bản, thể hình, tư vấn doanh nghiệp, làm đẹp) và các mô hình kinh doanh đa dạng (chuỗi cửa hàng truyền thống, phần mềm, dịch vụ, thương mại điện tử, đào tạo & giáo dục). Các công ty trong danh mục đầu tư của chúng tôi hiện tạo ra khoảng 1.600.000 đô-la *mỗi tuần* (và vẫn đang tiếp tục tăng trưởng).
+Mười hai tháng sau đó nữa, chúng tôi hiện đang sở hữu một danh mục đầu tư gồm bảy công ty đạt quy mô tám con số và đa tám con số trên nhiều lĩnh vực khác nhau (nhiếp ảnh, xuất bản, thể hình, tư vấn doanh nghiệp, làm đẹp) và các mô hình kinh doanh đa dạng (chuỗi cửa hàng truyền thống, phần mềm, dịch vụ, thương mại điện tử, đào tạo & giáo dục). Các công ty trong danh mục đầu tư của chúng tôi hiện tạo ra khoảng 1,600,000 USD *mỗi tuần* (và vẫn đang tiếp tục tăng trưởng).
 
 Tôi kể những điều này vì thú thực chính bản thân tôi cũng khó mà tin nổi. Tất cả cơ ngơi này có được chỉ nhờ một cô gái tin tưởng tôi, một chiếc thẻ tín dụng và một **Grand Slam Offer**.
 
@@ -338,11 +338,11 @@ _– TRAVIS JONES –_
 
 Năm ấy tôi 23 tuổi và, mượn câu nói của Ruth trong phim *Ozark*, tôi chẳng biết “khỉ khô gì về mớ đời”. Nhưng ngặt nỗi tôi đang ngồi trong một phòng khách sạn penthouse ở Las Vegas cùng với mười chủ doanh nghiệp để học về marketing và bán hàng... diện trên mình chiếc áo thun “beast mode” bảnh chọe nhất (một chiếc áo tôi nhận miễn phí, và là một trong năm chiếc áo hiếm hoi tôi sở hữu lúc bấy giờ).
 
-Thú thật, tôi lo lắng, tự ti và nghĩ rằng mình đang mắc một sai lầm tồi tệ. Tôi đã phải trả 3.000 đô-la bằng số tiền không có sẵn để giành lấy một chỗ ngồi ở đó. Tôi biết mình cần phải học hỏi. Tất cả mọi người ở đó đều đã có doanh nghiệp... trừ tôi. Tôi đang lên kế hoạch khởi nghiệp với một phòng tập gym.
+Thú thật, tôi lo lắng, tự ti và nghĩ rằng mình đang mắc một sai lầm tồi tệ. Tôi đã phải trả 3,000 USD bằng số tiền không có sẵn để giành lấy một chỗ ngồi ở đó. Tôi biết mình cần phải học hỏi. Tất cả mọi người ở đó đều đã có doanh nghiệp... trừ tôi. Tôi đang lên kế hoạch khởi nghiệp với một phòng tập gym.
 
-TJ, người tổ chức sự kiện, sở hữu nhiều doanh nghiệp thành công. Trong lúc điểm qua chương trình nghị sự, tôi nhớ anh ấy có nhắc bâng quơ về việc kiếm được 1.000.000 đô-la trong năm đó.
+TJ, người tổ chức sự kiện, sở hữu nhiều doanh nghiệp thành công. Trong lúc điểm qua chương trình nghị sự, tôi nhớ anh ấy có nhắc bâng quơ về việc kiếm được 1,000,000 USD trong năm đó.
 
-Một. Triệu. Đô-la. Tôi hoàn toàn bị thôi miên. *Mình muốn được như gã này. Mình sẽ làm bất cứ điều gì.* Vấn đề là, tôi chẳng hiểu họ đang nói cái quái gì. KPI là gì? CPL là gì? Tỷ lệ chuyển đổi là gì? Đầu óc tôi quay cuồng trong khi vẫn phải cố ra vẻ như mình đang nắm bắt mọi thứ. Nhưng thực tế là không, và tôi lại rất dở trong việc giả vờ.
+Một. Triệu. USD. Tôi hoàn toàn bị thôi miên. *Mình muốn được như gã này. Mình sẽ làm bất cứ điều gì.* Vấn đề là, tôi chẳng hiểu họ đang nói cái quái gì. KPI là gì? CPL là gì? Tỷ lệ chuyển đổi là gì? Đầu óc tôi quay cuồng trong khi vẫn phải cố ra vẻ như mình đang nắm bắt mọi thứ. Nhưng thực tế là không, và tôi lại rất dở trong việc giả vờ.
 
 Giữa các “phiên thảo luận”, TJ tìm đến tôi. Anh ấy nhận ra tôi đang với quá sức. TJ là một người tử tế, tò mò và chu đáo. Sau vài câu chuyện xã giao, anh ấy hỏi tôi một câu hỏi đơn giản đã thay đổi cuộc đời tôi mãi mãi...
 
@@ -438,9 +438,9 @@ Một lợi ích kèm theo — triển khai một offer mới là một trong nh
 
 ### **Tôi Nhận Được Gì Từ Việc Này?** 
 
-Tôi cung cấp toàn bộ các tài liệu này (cuốn sách này, khóa học đi kèm, cùng tất cả các sách và khóa học khác mà bạn có thể tìm thấy tại _acquisition.com_) hoàn toàn miễn phí hoặc chỉ tính phí tượng trưng với mong muốn giúp đỡ tối đa con người kiếm nhiều tiền hơn và phục vụ khách hàng tốt hơn. Tôi làm điều này với mục tiêu mang lại giá trị lớn hơn bất kỳ khóa học 1.000 đô nào, bất kỳ chương trình coaching 30.000 đô nào, và buồn cười thay, là vượt trội hơn hẳn tấm bằng đại học trị giá 200.000 đô. Tôi làm vậy bởi vì, mặc dù tôi hoàn toàn có thể bán những tài liệu này dưới những định dạng đó, _tôi đơn giản là không thích_. Tôi kiếm tiền bằng cách _làm_ những việc này, chứ không phải bằng cách _dạy người khác làm_, trái ngược với phần lớn cộng đồng marketing ngoài kia. Vì vậy mô hình của tôi rất khác (tôi sẽ giải thích kỹ hơn ngay sau đây). 
+Tôi cung cấp toàn bộ các tài liệu này (cuốn sách này, khóa học đi kèm, cùng tất cả các sách và khóa học khác mà bạn có thể tìm thấy tại _acquisition.com_) hoàn toàn miễn phí hoặc chỉ tính phí tượng trưng với mong muốn giúp đỡ tối đa con người kiếm nhiều tiền hơn và phục vụ khách hàng tốt hơn. Tôi làm điều này với mục tiêu mang lại giá trị lớn hơn bất kỳ khóa học 1,000 USD nào, bất kỳ chương trình coaching 30,000 USD nào, và buồn cười thay, là vượt trội hơn hẳn tấm bằng đại học trị giá 200,000 USD. Tôi làm vậy bởi vì, mặc dù tôi hoàn toàn có thể bán những tài liệu này dưới những định dạng đó, _tôi đơn giản là không thích_. Tôi kiếm tiền bằng cách _làm_ những việc này, chứ không phải bằng cách _dạy người khác làm_, trái ngược với phần lớn cộng đồng marketing ngoài kia. Vì vậy mô hình của tôi rất khác (tôi sẽ giải thích kỹ hơn ngay sau đây). 
 
-Mặc dù vậy, có hai nhóm đối tượng chính (archetypes) mà tôi muốn mang lại giá trị thông qua các ấn phẩm của mình. Đối với nhóm I, các nhà sáng lập có doanh thu _dưới_ 3.000.000 USD mỗi năm, mục tiêu của tôi là giúp bạn đạt được mốc đó và _chiếm lấy lòng tin của bạn_. Hãy thử chỉ một vài chiến thuật từ cuốn sách này, chứng kiến chúng phát huy hiệu quả, sau đó thử thêm vài chiến thuật khác, lại thấy chúng hiệu quả... cứ thế tiếp tục. Bạn càng thấy kết quả rõ rệt trong doanh nghiệp của mình bao nhiêu, thì càng tuyệt vời bấy nhiêu. 
+Mặc dù vậy, có hai nhóm đối tượng chính (archetypes) mà tôi muốn mang lại giá trị thông qua các ấn phẩm của mình. Đối với nhóm I, các nhà sáng lập có doanh thu _dưới_ 3,000,000 USD mỗi năm, mục tiêu của tôi là giúp bạn đạt được mốc đó và _chiếm lấy lòng tin của bạn_. Hãy thử chỉ một vài chiến thuật từ cuốn sách này, chứng kiến chúng phát huy hiệu quả, sau đó thử thêm vài chiến thuật khác, lại thấy chúng hiệu quả... cứ thế tiếp tục. Bạn càng thấy kết quả rõ rệt trong doanh nghiệp của mình bao nhiêu, thì càng tuyệt vời bấy nhiêu. 
 
 Một khi bạn đã thành công, bạn sẽ bước sang nhóm II, những nhà sáng lập có doanh thu hằng năm _tối thiểu trong khoảng_ từ 3M USD đến 10M USD. Một khi bạn đạt được mốc đó, hoặc nếu đó chính là bạn ở hiện tại, tôi sẽ rất vinh dự được đầu tư vào doanh nghiệp của bạn và giúp bạn vượt mốc 30M, 50M, hay 100M+ USD. Tôi không bán các chương trình coaching, mastermind, khóa học hay bất cứ thứ gì tương tự. Thay vào đó, tôi sở hữu một danh mục các công ty mà tôi nắm giữ cổ phần. Tôi sử dụng hạ tầng, nguồn lực và đội ngũ của tất cả các công ty của mình để phóng đại tốc độ tăng trưởng của họ. 
 
@@ -458,7 +458,7 @@ Nhưng đừng vội tin tôi ngay... _chúng ta chỉ mới gặp nhau thôi_. 
 
 Nếu nhìn kỹ, bạn sẽ thấy quá trình này đảo ngược công thức thành công (reverse-engineers success). Tôi nghĩ nó khá hay ho. Cụ thể thế này: Tôi biết những chủ doanh nghiệp này có thể tự thực thi các bộ khung của tôi mà không cần cầm tay chỉ việc, và do đó, họ cực kỳ có khả năng thành công với bộ khung tiếp theo (đạt mốc 30M, 50M, 100M đòi hỏi cách làm khác với việc leo lên mốc 3M-10M). Họ biết rằng phong cách của tôi phù hợp với họ, vì nó đã chứng minh hiệu quả rồi. Thế là chúng ta làm việc dựa trên lòng tin sẻ chia — tôi tin họ có khả năng thực thi, và họ tin hệ thống của chúng tôi mang lại kết quả — nhắc lại lần nữa, vì nó đã làm được điều đó rồi... trong khi vẫn giúp đỡ tất cả những người khác.... hoàn-toàn-miễn-phí. Nhờ đó, tôi có thể chủ động triệt tiêu các thất bại từ trong trứng nước và nâng cao đáng kể xác suất thành công. Để tôi cho bạn thấy con số đó khủng đến mức nào nhé.... 
 
-Tính đến thời điểm viết những dòng này, mọi doanh nghiệp tôi khởi xướng kể từ tháng 3 năm 2017 đều đạt tốc độ tăng trưởng doanh thu 1.500.000 USD/tháng (run rate). Theo Cơ quan Quản lý Doanh nghiệp Nhỏ (SBA), xác suất để một doanh nghiệp đơn lẻ đạt doanh thu 10 triệu USD/năm chỉ là 0.4%, tức là 1 trên 250. Việc đạt được cột mốc đó 4 lần liên tiếp sẽ là: 0.4% x 0.4% x 0.4% x 0.4% = xác suất cực kỳ, cực kỳ thấp để gọi đó là may mắn. Do đó, tôi có thể tự tin khẳng định rằng chúng tôi biết cách tái tạo thành công bằng cách sử dụng các bộ khung mà tôi chia sẻ, lần này qua lần khác. Chúng hoạt động hiệu quả vì chúng là những nguyên 
+Tính đến thời điểm viết những dòng này, mọi doanh nghiệp tôi khởi xướng kể từ tháng 3 năm 2017 đều đạt tốc độ tăng trưởng doanh thu 1,500,000 USD/tháng (run rate). Theo Cơ quan Quản lý Doanh nghiệp Nhỏ (SBA), xác suất để một doanh nghiệp đơn lẻ đạt doanh thu 10 triệu USD/năm chỉ là 0.4%, tức là 1 trên 250. Việc đạt được cột mốc đó 4 lần liên tiếp sẽ là: 0.4% x 0.4% x 0.4% x 0.4% = xác suất cực kỳ, cực kỳ thấp để gọi đó là may mắn. Do đó, tôi có thể tự tin khẳng định rằng chúng tôi biết cách tái tạo thành công bằng cách sử dụng các bộ khung mà tôi chia sẻ, lần này qua lần khác. Chúng hoạt động hiệu quả vì chúng là những nguyên 
 
 lý kinh doanh vượt thời gian. 
 
@@ -512,9 +512,9 @@ Chỉ vậy thôi.
 
 Đương nhiên, có rất nhiều cách để có được khách hàng (Lead), và vô vàn cách để tăng giá trị đơn hàng cũng như tần suất mua hàng, nhưng nói một cách đơn giản, chỉ có bấy nhiêu đó. Đó là ba con đường duy nhất để tăng trưởng. 
 
-Ví dụ: Nếu mỗi tháng tôi chốt được 10 khách hàng, và một khách hàng mang lại giá trị trọn đời (LTV - Lifetime Value) là 1.000 USD (tính bằng giá trị giỏ hàng trung bình nhân với số lần mua trung bình), thì doanh thu tối đa của tôi sẽ chạm trần ở mức 10.000 USD/tháng (10 x 1.000 USD). 
+Ví dụ: Nếu mỗi tháng tôi chốt được 10 khách hàng, và một khách hàng mang lại giá trị trọn đời (LTV - Lifetime Value) là 1,000 USD (tính bằng giá trị giỏ hàng trung bình nhân với số lần mua trung bình), thì doanh thu tối đa của tôi sẽ chạm trần ở mức 10,000 USD/tháng (10 x 1,000 USD). 
 
-> 10 Khách hàng mới/tháng x 1.000 USD Giá trị trọn đời (LTV) = Doanh thu tối đa 10.000 USD/tháng. 
+> 10 Khách hàng mới/tháng x 1,000 USD Giá trị trọn đời (LTV) = Doanh thu tối đa 10,000 USD/tháng. 
 
 Nếu muốn phát triển, bạn buộc phải bán được cho nhiều khách hàng hơn mỗi tháng (trong khi vẫn duy trì biên lợi nhuận hợp lý) hoặc gia tăng giá trị của họ (bằng cách tăng lợi nhuận trên mỗi lần mua hoặc tăng số lần họ mua). Chỉ có vậy thôi. 
 
@@ -530,11 +530,11 @@ Nếu muốn phát triển, bạn buộc phải bán được cho nhiều khách
 
 Trước khi đi xa hơn, và để làm rõ các khái niệm tiếp theo, chúng ta nên dành một chút thời gian để định nghĩa và thấu hiểu một số thuật ngữ cốt lõi trong kinh doanh. Khi tôi đứng trong căn penthouse ở Las Vegas với chiếc áo thun “beast mode”, tôi hoàn toàn mù tịt về những thuật ngữ này. Hãy để tôi giúp bạn làm tốt hơn tôi ngày trước nhé. 
 
-**<u>Lợi nhuận gộp (Gross Profit):</u>** Doanh thu trừ đi chi phí trực tiếp để phục vụ MỘT khách hàng PHÁT SINH THÊM. Nếu tôi bán một lọ dưỡng da giá 10 USD và tốn 2 USD chi phí sản xuất, lợi nhuận gộp của tôi là 8 USD hay 80%. Nếu tôi bán dịch vụ agency với giá 1.000 USD/tháng và tốn 100 USD/tháng tiền nhân công để chạy quảng cáo cho khách hàng đó, lợi nhuận gộp của tôi là 900 USD hay 90%. Lưu ý: Đây *không phải* là lợi nhuận ròng (Net Profit). Lợi nhuận ròng là khoản tiền còn lại sau khi đã thanh toán *tất cả* mọi chi phí, chứ không chỉ riêng chi phí thực hiện dịch vụ trực tiếp. 
+**<u>Lợi nhuận gộp (Gross Profit):</u>** Doanh thu trừ đi chi phí trực tiếp để phục vụ MỘT khách hàng PHÁT SINH THÊM. Nếu tôi bán một lọ dưỡng da giá 10 USD và tốn 2 USD chi phí sản xuất, lợi nhuận gộp của tôi là 8 USD hay 80%. Nếu tôi bán dịch vụ agency với giá 1,000 USD/tháng và tốn 100 USD/tháng tiền nhân công để chạy quảng cáo cho khách hàng đó, lợi nhuận gộp của tôi là 900 USD hay 90%. Lưu ý: Đây *không phải* là lợi nhuận ròng (Net Profit). Lợi nhuận ròng là khoản tiền còn lại sau khi đã thanh toán *tất cả* mọi chi phí, chứ không chỉ riêng chi phí thực hiện dịch vụ trực tiếp. 
 
-**<u>Giá trị trọn đời (Lifetime Value - LTV):</u>** Tổng lợi nhuận gộp tích lũy trong suốt vòng đời của một khách hàng. Đây là lợi nhuận gộp nhân với số lần mua mà một khách hàng trung bình thực hiện trong suốt vòng đời của họ. Lấy ví dụ trên, nếu khách hàng trung bình ở lại trong năm tháng, trả 1.000 USD/tháng trong khi tôi tốn 100 USD mỗi tháng để cung cấp dịch vụ, thì giá trị trọn đời của họ là 4.500 USD. Dưới đây là bảng phân tích chi tiết: 
+**<u>Giá trị trọn đời (Lifetime Value - LTV):</u>** Tổng lợi nhuận gộp tích lũy trong suốt vòng đời của một khách hàng. Đây là lợi nhuận gộp nhân với số lần mua mà một khách hàng trung bình thực hiện trong suốt vòng đời của họ. Lấy ví dụ trên, nếu khách hàng trung bình ở lại trong năm tháng, trả 1,000 USD/tháng trong khi tôi tốn 100 USD mỗi tháng để cung cấp dịch vụ, thì giá trị trọn đời của họ là 4,500 USD. Dưới đây là bảng phân tích chi tiết: 
 
-Doanh thu: (1.000 USD/tháng * 90% Biên lợi nhuận gộp * 5 tháng) = 4.500 USD Giá trị trọn đời (LTV) 
+Doanh thu: (1,000 USD/tháng * 90% Biên lợi nhuận gộp * 5 tháng) = 4,500 USD Giá trị trọn đời (LTV) 
 
 Lưu ý rằng các chi phí gián tiếp như hành chính, phần mềm, tiền thuê mặt bằng, v.v., không được tính vào LTV. 
 
@@ -590,11 +590,11 @@ Kể nhanh câu chuyện hậu trường nhé... Một trong những công ty c�
 
 **<u>Cách làm cũ mang tính phổ thông (Dựa vào giá cả) — Cuộc đua xuống đáy</u>**
 
-**<u>Commoditized Offer (Lời chào hàng phổ thông):</u>** Trả trước $1,000, sau đó là phí giữ chân (retainer) $1,000/tháng cho các dịch vụ của agency.
+**<u>Commoditized Offer (Lời chào hàng phổ thông):</u>** Trả trước 1,000 USD, sau đó là phí giữ chân (retainer) 1,000 USD/tháng cho các dịch vụ của agency.
 
 | Chỉ số (Metric) | Sản phẩm thông thường (Commodity) | Gói Siêu Giá Trị (Grand Slam Offer) | Giải thích |
 | :--- | :---: | :---: | :---|
-| Chi phí quảng cáo (Advertising Spend) | $10,000 | | Tổng tiền chi cho quảng cáo |
+| Chi phí quảng cáo (Advertising Spend) | 10,000 USD | | Tổng tiền chi cho quảng cáo |
 | Lượt tiếp cận (Impressions Reached) | 300,000 | | Số lượng "con mắt" tiếp cận từ quảng cáo |
 | Tỷ lệ phản hồi (Response Rate) | 0,00013 | | Tỷ lệ phần trăm người đặt lịch hẹn (CTR x Tỷ lệ đăng ký %) |
 | Lịch hẹn được đặt (Appts Booked) | 40 | | Số lượng lịch hẹn chốt được |
@@ -602,11 +602,11 @@ Kể nhanh câu chuyện hậu trường nhé... Một trong những công ty c�
 | Khách đến hẹn (Appts Showed) | 30 | | Số lượng người thực sự tham dự buổi hẹn |
 | Tỷ lệ chốt đơn (Closing %) | 16% | | Tỷ lệ phần trăm khách quyết định mua hàng |
 | Đơn hàng chốt thành công (Appts Closed) | 5 | | Số lượng khách hàng hoàn tất thanh toán |
-| Giá trị (Price) | $1,000 | | Số tiền khách hàng thanh toán để bắt đầu sử dụng dịch vụ |
-| Tổng doanh thu (Total) | $5,000 | | Tổng tiền mặt thu về ngay từ đầu (Up-front cash) |
-| Lợi nhuận trên chi phí quảng cáo (ROAS) | 0,5 : 1 | | Tỷ suất hoàn vốn đầu tư quảng cáo (ROAS) |
+| Giá trị (Price) | 1,000 USD | | Số tiền khách hàng thanh toán để bắt đầu sử dụng dịch vụ |
+| Tổng doanh thu (Total) | 5,000 USD | | Tổng tiền mặt thu về ngay từ đầu (Up-front cash) |
+| Lợi nhuận trên chi phí quảng cáo (ROAS) | 0.5 : 1 | | Tỷ suất hoàn vốn đầu tư quảng cáo (ROAS) |
 
-**<u>Phân tích chi tiết:</u>** Với tỷ suất lợi nhuận trên chi phí quảng cáo (ROAS) từ 0.5 đến 1, bạn sẽ lỗ tiền khi kiếm khách hàng mới. Nhưng trong 30 ngày, 5 khách hàng đó sẽ trả thêm mỗi người $1,000, đưa tổng doanh thu của bạn lên $10,000 và hòa vốn. Sang tháng tiếp theo, khoản thu $5,000 đổ về sẽ chính là tháng có lợi nhuận đầu tiên của bạn, và các tháng sau đó đều có lãi (giả sử tất cả khách hàng đều ở lại).
+**<u>Phân tích chi tiết:</u>** Với tỷ suất lợi nhuận trên chi phí quảng cáo (ROAS) từ 0.5 đến 1, bạn sẽ lỗ tiền khi kiếm khách hàng mới. Nhưng trong 30 ngày, 5 khách hàng đó sẽ trả thêm mỗi người 1,000 USD, đưa tổng doanh thu của bạn lên 10,000 USD và hòa vốn. Sang tháng tiếp theo, khoản thu 5,000 USD đổ về sẽ chính là tháng có lợi nhuận đầu tiên của bạn, và các tháng sau đó đều có lãi (giả sử tất cả khách hàng đều ở lại).
 
 Đây là một ví dụ điển hình về dịch vụ mang tính phổ thông hóa — công việc agency thông thường. Có hàng triệu agency như vậy, và tất cả đều trông nhàm chán giống hệt nhau. Các doanh nghiệp và lời chào hàng bị phổ thông hóa luôn chật vật trong việc thu hút phản hồi từ quảng cáo, bởi vì hoạt động marketing của họ chẳng khác gì đối thủ.
 
@@ -645,7 +645,7 @@ Rõ ràng đây là những lời chào hàng hoàn toàn khác biệt... nhưng
 
 | Chỉ số (Metric) | Sản phẩm thông thường (Commodity) | Gói Ưu đãi Đỉnh cao (Grand Slam Offer) | Sự khác biệt (Difference) |
 | :--- | :---: | :---: | :--- |
-| Ngân sách quảng cáo (Advertising Spend) | $10,000 | $10,000 | Không đổi |
+| Ngân sách quảng cáo (Advertising Spend) | 10,000 USD | 10,000 USD | Không đổi |
 | Lượt hiển thị tiếp cận (Impressions Reached) | 300,000 | 300,000 | Không đổi |
 | Tỷ lệ phản hồi (Response Rate) | 0.00013 | 0.00033 | Phản hồi cao gấp 2.5 lần (Hấp dẫn hơn nên nhiều người tương tác hơn) |
 | Lịch hẹn đã đặt (Appts Booked) | 40 | 100 | Kết quả |
@@ -653,17 +653,17 @@ Rõ ràng đây là những lời chào hàng hoàn toàn khác biệt... nhưng
 | Lịch hẹn thực tế (Appts Showed) | 30 | 75 | Kết quả |
 | Tỷ lệ chốt đơn (Closing %) | 16% | 37% | Chốt đơn cao gấp 2.3 lần (Nhiều giá trị hơn nên nhiều người mua hơn) |
 | Khách mua thành công (Appts Closed) | 5 | 28 | Kết quả |
-| Mức giá (Price) | $1,000 | $3,997 | Giá cao gấp 4 lần (Thanh toán một lần so với định kỳ) |
-| Tổng doanh thu (Total) | $5,000 | $112,000 | Tiền mặt thu về ban đầu cao gấp 22.4 lần |
+| Mức giá (Price) | 1,000 USD | 3,997 USD | Giá cao gấp 4 lần (Thanh toán một lần so với định kỳ) |
+| Tổng doanh thu (Total) | 5,000 USD | 112,000 USD | Tiền mặt thu về ban đầu cao gấp 22.4 lần |
 | Lợi nhuận trên chi phí quảng cáo (ROAS) | 0.5 : 1 | 11.2 : 1 | Vừa có khách hàng, lại vừa có tiền đút túi. |
 
-**<u>Phân tích chi tiết:</u>** Bạn chi ra cùng một số tiền để tiếp cận cùng một lượng khách hàng tiềm năng (eyeballs). Sau đó, bạn thu hút được số lượng người phản hồi quảng cáo cao gấp 2.5 lần vì lời chào hàng quá sức hấp dẫn. Tiếp theo, bạn chốt sale thành công gấp 2.5 lần cũng vì lý do tương tự. Từ đó, bạn có thể định giá sản phẩm cao gấp 4 lần ngay từ đầu. Kết quả cuối cùng là: 2.5 x 2.5 x 4 = Tiền mặt thu về ngay lập tức cao gấp **22.4 lần**. Đúng vậy, bạn bỏ ra $10,000 tiền quảng cáo để thu về $112,000. Bạn vừa *kiếm được tiền* ngay trong lúc đi tìm khách hàng mới.
+**<u>Phân tích chi tiết:</u>** Bạn chi ra cùng một số tiền để tiếp cận cùng một lượng khách hàng tiềm năng (eyeballs). Sau đó, bạn thu hút được số lượng người phản hồi quảng cáo cao gấp 2.5 lần vì lời chào hàng quá sức hấp dẫn. Tiếp theo, bạn chốt sale thành công gấp 2.5 lần cũng vì lý do tương tự. Từ đó, bạn có thể định giá sản phẩm cao gấp 4 lần ngay từ đầu. Kết quả cuối cùng là: 2.5 x 2.5 x 4 = Tiền mặt thu về ngay lập tức cao gấp **22.4 lần**. Đúng vậy, bạn bỏ ra 10,000 USD tiền quảng cáo để thu về 112,000 USD. Bạn vừa *kiếm được tiền* ngay trong lúc đi tìm khách hàng mới.
 
 **<u>So sánh:</u>** Hãy nhớ lại cách làm cũ, cách mà bạn lỗ một nửa tiền quảng cáo ngay từ bước đầu? Với cách làm mới, bạn vừa kiếm được *nhiều tiền hơn*, vừa có *nhiều khách hàng hơn*. Điều này có nghĩa là chi phí để có được một khách hàng (CAC) cực kỳ rẻ (so với số tiền bạn kiếm được), đến mức yếu tố kìm hãm duy nhất của bạn lúc này chính là... năng lực thực hiện công việc mà bạn vốn đã yêu thích. Dòng tiền và việc tìm kiếm khách hàng không còn là điểm nghẽn nữa, bởi vì mô hình này mang lại lợi nhuận cao gấp 22.4 lần so với mô hình cũ. Chuẩn xác 100%. Bạn không đọc nhầm đâu. Đây chính là khoảnh khắc trong các bộ phim hành động, khi bạn thong thả bước đi trong khung cảnh đằng sau là một vụ nổ lớn làm nền.
 
 Đây chính xác là **Grand Slam Offer** mà chúng tôi đã áp dụng cho công ty phần mềm chuyên phục vụ các agency của mình. Các con số có thể bùng nổ... một cách chóng mặt. Tôi biết mức tăng trưởng 22.4 lần nghe có vẻ phi lý, nhưng đó mới là điểm mấu chốt. Nếu bạn chơi cùng một "luật chơi" với tất cả mọi người, bạn sẽ chỉ nhận lại kết quả tầm thường giống như họ. Bạn chỉ đạt được những cú đánh bóng đơn, bóng đôi (singles and doubles), đủ tiền trả hóa đơn tiền điện nước, nhưng chẳng bao giờ bứt phá lên được. 
 
-Hãy nhớ lại phần mở đầu của cuốn sách này: khi bạn sắp xếp tất cả các mảnh ghép lại với nhau một cách hoàn hảo, bạn có thể tung ra một cú đánh home-run vang dội để giành chiến thắng *vĩnh viễn*. Trong 18 tháng đầu tiên kinh doanh, chúng tôi đã phóng vọt doanh thu từ $500k/năm lên tới $28,000,000/năm với số tiền chi cho quảng cáo chưa đến $1M. Thế nên, khi tôi nói về mức tỷ suất lợi nhuận 20:1... 50:1... 100:1, tôi hoàn toàn nghiêm túc. Khi bạn làm đúng mọi thứ, kết quả đạt được sẽ thật sự... khó tin.
+Hãy nhớ lại phần mở đầu của cuốn sách này: khi bạn sắp xếp tất cả các mảnh ghép lại với nhau một cách hoàn hảo, bạn có thể tung ra một cú đánh home-run vang dội để giành chiến thắng *vĩnh viễn*. Trong 18 tháng đầu tiên kinh doanh, chúng tôi đã phóng vọt doanh thu từ 500k USD/năm lên tới 28M USD/năm với số tiền chi cho quảng cáo chưa đến 1M USD. Thế nên, khi tôi nói về mức tỷ suất lợi nhuận 20:1... 50:1... 100:1, tôi hoàn toàn nghiêm túc. Khi bạn làm đúng mọi thứ, kết quả đạt được sẽ thật sự... khó tin.
 
 ### **Tóm tắt cốt lõi**
 
@@ -695,7 +695,7 @@ Bạn có thể sở hữu những chiếc xúc xích dở tệ nhất, giá c�
 
 Cuối cùng thì, nếu nhu cầu về một giải pháp đang cực kỳ khổng lồ, bạn có thể chỉ là một kẻ tầm thường trong kinh doanh, có một lời chào hàng tệ hại, chẳng có chút kỹ năng thuyết phục nào, nhưng bạn *vẫn* có thể kiếm được tiền.
 
-Một ví dụ điển hình chính là tình trạng khan hiếm giấy vệ sinh vào giai đoạn đầu của đại dịch Covid-19. Khi đó chẳng có lời chào hàng nào cả. Giá cả thì cắt cổ. Và cũng chẳng có bài pitch bán hàng nào hấp dẫn. Nhưng vì đám đông quá lớn và đang khao khát đến tuyệt vọng, những cuộn giấy vệ sinh vẫn được bán với giá $100 hoặc hơn thế. Đó chính là giá trị của một đám đông đang đói khát.
+Một ví dụ điển hình chính là tình trạng khan hiếm giấy vệ sinh vào giai đoạn đầu của đại dịch Covid-19. Khi đó chẳng có lời chào hàng nào cả. Giá cả thì cắt cổ. Và cũng chẳng có bài pitch bán hàng nào hấp dẫn. Nhưng vì đám đông quá lớn và đang khao khát đến tuyệt vọng, những cuộn giấy vệ sinh vẫn được bán với giá 100 USD hoặc hơn thế. Đó chính là giá trị của một đám đông đang đói khát.
 
 **Bán Báo Giấy**
 
@@ -821,10 +821,10 @@ Nhưng sự đơn giản và dễ dàng có lẽ vẫn chưa đủ sức thuyế
 
 | Sản phẩm | Giá |
 | :--- | :---: |
-| Quản lý Thời gian (Time Management) | $19 |
-| Quản lý Thời gian dành cho Chuyên gia Bán hàng (Time Management For Sales Professionals) | $99 |
-| Quản lý Thời gian dành cho Sales B2B Outbound (Time Management For Outbound B2B Sales) | $499 |
-| Quản lý Thời gian dành cho Sales Rep Ngành Dụng cụ Cầm tay & Làm vườn B2B Outbound (Time Management For Outbound B2B Power Tools & Gardening Sales Reps) | $1.997 |
+| Quản lý Thời gian (Time Management) | 19 USD |
+| Quản lý Thời gian dành cho Chuyên gia Bán hàng (Time Management For Sales Professionals) | 99 USD |
+| Quản lý Thời gian dành cho Sales B2B Outbound (Time Management For Outbound B2B Sales) | 499 USD |
+| Quản lý Thời gian dành cho Sales Rep Ngành Dụng cụ Cầm tay & Làm vườn B2B Outbound (Time Management For Outbound B2B Power Tools & Gardening Sales Reps) | 1,997 USD |
 
 Dan Kennedy đã dạy tôi điều này (và nó đã thay đổi cuộc đời tôi mãi mãi). Giả sử bạn bán một khóa học chung chung về Quản lý thời gian. Trừ khi bạn là một "guru" đình đám nào đó về quản lý thời gian với một câu chuyện ly kỳ hoặc độc nhất vô nhị, thì khóa học đó khó lòng tạo ra cú hích đáng kể nào. Bạn nghĩ một khóa học quản lý thời gian “lại-là-một-khóa-nữa” có giá trị bao nhiêu? 19 USD, 29 USD ư? Chắc vậy rồi. Chẳng có gì đáng để khoe khoang cả. Cứ cho là 19 USD đi cho dễ hình dung nhé.
 
@@ -836,11 +836,11 @@ Thực hiện thêm một tầng thu hẹp ngách nữa, và gọi sản phẩm 
 
 Hãy thu hẹp ngách thêm một tầng cuối cùng…. “Quản lý thời gian dành cho Nhân viên Sales B2B Outbound mảng Dụng cụ Điện cầm tay & Làm vườn.” Bùm!
 
-Hãy suy nghĩ về điều này trong giây lát, nếu bạn là một nhân viên sales outbound ngành dụng cụ điện, bạn sẽ thầm nghĩ: “Sản phẩm này sinh ra để dành cho mình đây rồi” và sẽ _vui vẻ_óc hầu bao khoảng 1.000 đến 2.000 USD cho một chương trình quản lý thời gian có thể giúp bạn đạt được mục tiêu của mình.
+Hãy suy nghĩ về điều này trong giây lát, nếu bạn là một nhân viên sales outbound ngành dụng cụ điện, bạn sẽ thầm nghĩ: “Sản phẩm này sinh ra để dành cho mình đây rồi” và sẽ _vui vẻ_óc hầu bao khoảng 1,000 đến 2,000 USD cho một chương trình quản lý thời gian có thể giúp bạn đạt được mục tiêu của mình.
 
 Các thành phần thực tế của chương trình có thể vẫn giống y hệt khóa học 19 USD chung chung kia, nhưng vì chúng đã được ứng dụng thực chiến, và thông điệp marketing có thể chạm đúng vào tử huyệt của chân dung khách hàng này, họ sẽ thấy nó hấp dẫn hơn _đồng thời_ thu về nhiều giá trị thực tế hơn từ đó. Khái niệm này áp dụng cho bất cứ thứ gì bạn quyết định làm. Bạn muốn trở thành ‘the guy’ (chuyên gia số một) phục vụ ‘loại người này’ hoặc giải quyết ‘loại vấn đề này’. Thậm chí ngách hơn nữa là: ‘Tôi giải quyết vấn đề này cho một kiểu người cụ thể theo cách độc đáo đi ngược trực giác nhằm đảo ngược nỗi sợ sâu kín nhất của họ.’
 
-Đó là lý do tại sao một chương trình thể hình giảm cân chung chung có giá chỉ 19 USD, trong khi một chương trình thể hình được thiết kế và tiếp thị riêng cho các điều dưỡng viên làm việc theo ca lại có giá tới 1.997 USD…. (mặc dù cốt lõi của chương trình có lẽ cũng tương tự nhau – ăn ít lại, vận động nhiều hơn).
+Đó là lý do tại sao một chương trình thể hình giảm cân chung chung có giá chỉ 19 USD, trong khi một chương trình thể hình được thiết kế và tiếp thị riêng cho các điều dưỡng viên làm việc theo ca lại có giá tới 1,997 USD…. (mặc dù cốt lõi của chương trình có lẽ cũng tương tự nhau – ăn ít lại, vận động nhiều hơn).
 
 Kết quả cuối cùng: Thị trường rất quan trọng. Ngách của bạn rất quan trọng. Và nếu bạn có thể bán cùng một sản phẩm với giá cao hơn 100 lần, bạn có nên làm vậy không?
 
@@ -880,9 +880,9 @@ Tôi đã bỏ lỡ một cuộc gọi FaceTime của bố vào ngày hôm trư�
 
 “Bố thấy bức ảnh con đăng chụp chung với tất cả khách hàng của mình…” ông nói, nhưng với giọng điệu lo lắng bất thường. “Bố tưởng sự kiện đó chỉ dành cho những khách hàng trả phí cao nhất chứ? Con bé không biết đó là một sự kiện lớn đấy. Trông như con có cả nghìn người ở đó vậy!”
 
-Đứng một mình ngoài hành lang và vật lộn để xua tan cơn mệt mỏi vẫn còn đeo bám, tôi cố phán đoán xem mối lo của ông xuất phát từ đâu và ông đang nhắm đến điều gì. Tôi đã giải thích toàn bộ chuyện này cho ông rồi cơ mà. “Đó chỉ là dành cho các khách hàng cấp cao nhất của con thôi, không phải tất cả khách hàng đâu,” tôi đáp. “Chỉ những ai trả 42.000 USD/năm thôi… hội Gym Lords của con, như con đã kể với bố rồi đấy.”
+Đứng một mình ngoài hành lang và vật lộn để xua tan cơn mệt mỏi vẫn còn đeo bám, tôi cố phán đoán xem mối lo của ông xuất phát từ đâu và ông đang nhắm đến điều gì. Tôi đã giải thích toàn bộ chuyện này cho ông rồi cơ mà. “Đó chỉ là dành cho các khách hàng cấp cao nhất của con thôi, không phải tất cả khách hàng đâu,” tôi đáp. “Chỉ những ai trả 42,000 USD/năm thôi… hội Gym Lords của con, như con đã kể với bố rồi đấy.”
 
-“Từng người một trong bức ảnh đó đều trả cho con 42.000 USD á?” Giọng ông nghe có vẻ hoảng hốt trước ý nghĩ đó.
+“Từng người một trong bức ảnh đó đều trả cho con 42,000 USD á?” Giọng ông nghe có vẻ hoảng hốt trước ý nghĩ đó.
 
 “Vâng, điên rồ phải không bố?” Giọng tôi khản đặc sau nhiều ngày thuyết trình và hàng nghìn cuộc trò chuyện kéo dài hai mươi giây.
 
@@ -894,19 +894,19 @@ Tôi đã bỏ lỡ một cuộc gọi FaceTime của bố vào ngày hôm trư�
 
 - Tôi đắn đo không biết có nên tốn sức giải thích hay lờ đi cho xong. Nhưng biết thừa đây sẽ lại là “một câu chuyện dài dòng” đây,
 
-- tôi hít một hơi thật sâu và bắt đầu giải thích. “Nếu con giúp bố kiếm thêm 239.000 USD trong năm nay, bố có sẵn sàng trả cho con 42.000 USD không?” tôi hỏi, lấy con số
+- tôi hít một hơi thật sâu và bắt đầu giải thích. “Nếu con giúp bố kiếm thêm 239,000 USD trong năm nay, bố có sẵn sàng trả cho con 42,000 USD không?” tôi hỏi, lấy con số
 
-- “239.000 USD” vì đó là mức doanh thu thuần gia tăng trung bình của một phòng gym khi áp dụng hệ thống của chúng tôi trong 11 tháng.
+- “239,000 USD” vì đó là mức doanh thu thuần gia tăng trung bình của một phòng gym khi áp dụng hệ thống của chúng tôi trong 11 tháng.
 
   - “Chắc chắn rồi,” ông nói, “ý bố là nếu bố biết chắc mình sẽ kiếm lại được khoản đó. Nhưng bố sẽ phải làm những gì?”
 
   - “Khoảng 15 tiếng làm việc mỗi tuần ạ.”
 
-  - “Và bố sẽ mất bao lâu để kiếm được 239.000 USD đó?”
+  - “Và bố sẽ mất bao lâu để kiếm được 239,000 USD đó?”
 
   - “Mười một tháng ạ.”
 
-- “Và con bắt bố phải trả trước bao nhiêu trong số 42.000 USD đó?”
+- “Và con bắt bố phải trả trước bao nhiêu trong số 42,000 USD đó?”
 
 - “Không đồng nào cả. Chỉ cần trả cho con khi bố bắt đầu kiếm được tiền nhờ áp dụng hệ thống thôi.”
 
@@ -916,9 +916,9 @@ Tôi thấy bóng đèn trong đầu ông sáng lên. Bố tôi đã hiểu vấ
 
 Kiếm được đống tiền khủng khiếp khiến người ta phát rồ. Nó thực sự bẻ cong tâm trí họ vượt xa những gì họ tin là khả thi, khiến họ mặc định rằng bạn đang làm điều gì đó mờ ám hoặc phi pháp. Họ thực sự “cạn lời” luôn.
 
-Tại sao ư? Bởi vì họ tự nhủ… _họ không thể thông minh hơn mình nhiều đến thế hay làm việc chăm chỉ hơn mình nhiều đến thế, vậy làm quái nào mà họ lại có thể kiếm được gấp 1.000 lần mình? Số tiền đủ để tôi phải mất tận mười kiếp mới làm ra được bằng số họ kiếm trong một năm._
+Tại sao ư? Bởi vì họ tự nhủ… _họ không thể thông minh hơn mình nhiều đến thế hay làm việc chăm chỉ hơn mình nhiều đến thế, vậy làm quái nào mà họ lại có thể kiếm được gấp 1,000 lần mình? Số tiền đủ để tôi phải mất tận mười kiếp mới làm ra được bằng số họ kiếm trong một năm._
 
-Trong ba năm dẫn đến thời điểm viết cuốn sách này, tôi đã đút túi hơn 1.200.000 USD/tháng tiền lợi nhuận ròng. Đều đặn. Mỗi. Một. Tháng. Con số đó còn lớn hơn tổng thu nhập của các CEO hãng Ford, McDonald’s, Motorola và Yahoo… cộng lại… trong một năm… khi đó tôi chỉ là một thằng nhóc ở độ tuổi hai mươi.
+Trong ba năm dẫn đến thời điểm viết cuốn sách này, tôi đã đút túi hơn 1,200,000 USD/tháng tiền lợi nhuận ròng. Đều đặn. Mỗi. Một. Tháng. Con số đó còn lớn hơn tổng thu nhập của các CEO hãng Ford, McDonald’s, Motorola và Yahoo… cộng lại… trong một năm… khi đó tôi chỉ là một thằng nhóc ở độ tuổi hai mươi.
 
 Nó khiến những kẻ tin rằng cuộc đời này bất công phải sôi máu. Nó khiến những kẻ không thể nhận thức nổi phải hoang mang và tin rằng chắc chắn phải có sự nhầm lẫn gì ở đây. Và nó thắp lên ngọn lửa truyền cảm hứng cho một nhóm nhỏ được chọn, những kẻ sinh ra để vĩ đại.
 
@@ -944,11 +944,11 @@ Rốt cuộc, đúng như lời Warren Buffett từng nói: “Giá cả là th�
 
 Cách đơn giản nhất để nới rộng khoảng cách giữa giá cả và giá trị là hạ giá xuống. Nhưng trong phần lớn trường hợp, đó lại là một quyết định sai lầm đối với doanh nghiệp. 
 
-Mục tiêu của một doanh nghiệp KHÔNG PHẢI là làm sao để chốt được khách hàng. Mục tiêu tối thượng là kiếm tiền. Và việc hạ giá bán chính là con đường một chiều dẫn đến diệt vong đối với hầu hết mọi người — bạn chỉ có thể giảm xuống $0, nhưng lại có thể tăng lên vô tận theo chiều ngược lại. Thế nên, trừ khi bạn nắm trong tay một cách mạng nào đó giúp cắt giảm chi phí xuống còn 1/10 so với đối thủ, bằng mọi giá đừng cạnh tranh bằng giá. 
+Mục tiêu của một doanh nghiệp KHÔNG PHẢI là làm sao để chốt được khách hàng. Mục tiêu tối thượng là kiếm tiền. Và việc hạ giá bán chính là con đường một chiều dẫn đến diệt vong đối với hầu hết mọi người — bạn chỉ có thể giảm xuống 0 USD, nhưng lại có thể tăng lên vô tận theo chiều ngược lại. Thế nên, trừ khi bạn nắm trong tay một cách mạng nào đó giúp cắt giảm chi phí xuống còn 1/10 so với đối thủ, bằng mọi giá đừng cạnh tranh bằng giá. 
 
 Như Dan Kennedy từng nói: “Chẳng có chút lợi thế chiến lược nào khi đứng thứ nhì về giá rẻ trên thị trường cả, nhưng lại có rất nhiều lợi thế nếu bạn là kẻ đắt đỏ nhất.” 
 
-Vì vậy, mục tiêu của **Grand Slam Offer** là khiến nhiều người gật đầu đồng ý hơn _ở một mức giá cao hơn_ thông qua việc nới rộng khoảng cách giữa giá trị và giá cả. Nói cách khác, chúng ta chỉ tăng giá _sau khi_ đã gia tăng đầy đủ giá trị. Bằng cách này, khách hàng vẫn cảm thấy mình mua được một món hời lớn (hãy hình dung cảm giác mua được khối giá trị trị giá $100.000 chỉ với $10.000). Đó chính là “mua tiền với giá chiết khấu”. 
+Vì vậy, mục tiêu của **Grand Slam Offer** là khiến nhiều người gật đầu đồng ý hơn _ở một mức giá cao hơn_ thông qua việc nới rộng khoảng cách giữa giá trị và giá cả. Nói cách khác, chúng ta chỉ tăng giá _sau khi_ đã gia tăng đầy đủ giá trị. Bằng cách này, khách hàng vẫn cảm thấy mình mua được một món hời lớn (hãy hình dung cảm giác mua được khối giá trị trị giá 100,000 USD chỉ với 10,000 USD). Đó chính là “mua tiền với giá chiết khấu”. 
 
 > **QUÀ TẶNG MIỄN PHÍ #3: BÀI HƯỚNG DẪN KÈM TÀI LIỆU TẢI VỀ MIỄN PHÍ: Định Giá Xứng Tầm (Charge What It’s Worth)** 
 > 
@@ -1030,30 +1030,30 @@ Nhưng tôi biết điều này không hề dễ dàng, và thực tế nó khô
 
 Trong doanh nghiệp tư vấn ngách đầu tiên của tôi — Gym Launch — tôi dạy các chủ phòng gym một mô hình kinh doanh tốt hơn. Trước khi thương mại hóa các dịch vụ tư vấn, tôi đã bay đến 33 phòng gym trong vòng 18 tháng để thực hiện các cuộc lột xác toàn diện.
 
-Chúng tôi sẽ bay tới nơi, sửa chữa mọi thứ trong phòng gym và tái ra mắt nó chỉ trong 21 ngày. Chúng tôi đạt mức tăng trưởng trung bình 42.000 USD doanh số bổ sung trong vòng 21 ngày đó. Thật là điên rồ. Phí dịch vụ của tôi là 100% doanh thu gia tăng mà tôi mang lại.
+Chúng tôi sẽ bay tới nơi, sửa chữa mọi thứ trong phòng gym và tái ra mắt nó chỉ trong 21 ngày. Chúng tôi đạt mức tăng trưởng trung bình 42,000 USD doanh số bổ sung trong vòng 21 ngày đó. Thật là điên rồ. Phí dịch vụ của tôi là 100% doanh thu gia tăng mà tôi mang lại.
 
 Vào thời kỳ đỉnh cao, chúng tôi lột xác tới 8 phòng gym mỗi tháng. Việc này nhanh chóng trở thành một cơn ác mộng về hậu cần. Sau sự mòn mỏi và kiệt quệ của việc sống trong các nhà nghỉ hết tháng này sang tháng khác, tôi tự nhủ: *phải có một cách nào đó hay ho hơn chứ.*
 
 Có một tháng, có một phòng gym mà chúng tôi đã lên lịch bay đến. Nhưng, tôi hoàn toàn không muốn làm điều đó nữa. Thế là tôi bảo họ rằng chúng tôi sẽ hủy lịch hẹn. Chủ phòng gym suýt chút thế đã đe dọa tôi phải giúp anh ta bằng được. Vì vậy, tôi nói tôi sẽ giúp, nhưng anh ta sẽ phải tự làm tất cả mọi việc, còn tôi sẽ chỉ cho anh ta cách làm.
 
-Trong vòng 30 ngày, phòng gym này đã kiếm được gần 44.000 USD tiền mặt doanh số thu về ngay từ đầu (gấp 4 lần tháng trước đó). Ngay khi thấy quy trình của mình có thể được nhân bản từ xa mà tôi không cần phải cử người bay đến tận nơi... công việc kinh doanh của chúng tôi đã bùng nổ. Tôi đã tìm ra mảnh ghép còn thiếu vì lịch trình di chuyển của tôi không còn là điểm nghẽn nữa. Chúng tôi tiếp tục bán dịch vụ cho hơn 4.000+ phòng gym trong vài năm tiếp theo (và vẫn đang tăng) bằng cách sử dụng mô hình *đồng hành cùng khách hàng (done-with-you)* thay vì *làm trọn gói thay khách hàng (done-for-you)*. Nhưng... quay lại chuyện định giá cao cấp.
+Trong vòng 30 ngày, phòng gym này đã kiếm được gần 44,000 USD tiền mặt doanh số thu về ngay từ đầu (gấp 4 lần tháng trước đó). Ngay khi thấy quy trình của mình có thể được nhân bản từ xa mà tôi không cần phải cử người bay đến tận nơi... công việc kinh doanh của chúng tôi đã bùng nổ. Tôi đã tìm ra mảnh ghép còn thiếu vì lịch trình di chuyển của tôi không còn là điểm nghẽn nữa. Chúng tôi tiếp tục bán dịch vụ cho hơn 4,000+ phòng gym trong vài năm tiếp theo (và vẫn đang tăng) bằng cách sử dụng mô hình *đồng hành cùng khách hàng (done-with-you)* thay vì *làm trọn gói thay khách hàng (done-for-you)*. Nhưng... quay lại chuyện định giá cao cấp.
 
-Khi tôi mới bước chân vào lĩnh vực này, các đối thủ giá rẻ cung cấp dịch vụ marketing trọn gói với giá 500 USD/tháng, trong khi chỉ có một đối thủ cao cấp duy nhất tính phí 5.000 USD cho sản phẩm của anh ta.
+Khi tôi mới bước chân vào lĩnh vực này, các đối thủ giá rẻ cung cấp dịch vụ marketing trọn gói với giá 500 USD/tháng, trong khi chỉ có một đối thủ cao cấp duy nhất tính phí 5,000 USD cho sản phẩm của anh ta.
 
-Tôi muốn trở thành người dẫn đầu về mức giá cao cấp. Tôi muốn đắt đỏ đến mức tạo ra sự cuốn hút cho những gì chúng tôi đang làm. Vì vậy, chúng tôi đưa ra mức giá gấp ba lần đối thủ đắt nhất và gấp 32 lần đối thủ rẻ nhất: 16.000 USD cho một chương trình huấn luyện chuyên sâu kéo dài 16 tuần theo mô hình đồng hành cùng khách hàng. Sau đó, chúng tôi upsell 35% số khách hàng đó vào một hợp đồng kéo dài ba năm, trị giá 42.000 USD/năm để chúng tôi tiếp tục giúp họ phát triển phòng gym.
+Tôi muốn trở thành người dẫn đầu về mức giá cao cấp. Tôi muốn đắt đỏ đến mức tạo ra sự cuốn hút cho những gì chúng tôi đang làm. Vì vậy, chúng tôi đưa ra mức giá gấp ba lần đối thủ đắt nhất và gấp 32 lần đối thủ rẻ nhất: 16,000 USD cho một chương trình huấn luyện chuyên sâu kéo dài 16 tuần theo mô hình đồng hành cùng khách hàng. Sau đó, chúng tôi upsell 35% số khách hàng đó vào một hợp đồng kéo dài ba năm, trị giá 42,000 USD/năm để chúng tôi tiếp tục giúp họ phát triển phòng gym.
 
-Để bạn dễ hình dung: Một chủ phòng gym trung bình kiếm được 35.280 USD/năm lợi nhuận ròng. Nếu đó là mức trung bình, có nghĩa là *một nửa* số chủ phòng gym kiếm được *thậm chí còn ít hơn* con số đó. Vậy nên đối với nhiều người trong số họ, họ đang cam kết chi ra *một nửa* (hoặc hơn) thu nhập cả năm của mình để mua chương trình của chúng tôi. Và tôi lúc đó mới chỉ là một thằng nhóc độ tuổi đôi mươi, đi bán hàng cho những người đàn ông trưởng thành và tuyên bố rằng tôi sẽ giúp họ kiếm được nhiều tiền hơn. Điều này khả thi là nhờ niềm tin của tôi mạnh mẽ hơn sự hoài nghi của họ. *Bằng cách nào?*
+Để bạn dễ hình dung: Một chủ phòng gym trung bình kiếm được 35,280 USD/năm lợi nhuận ròng. Nếu đó là mức trung bình, có nghĩa là *một nửa* số chủ phòng gym kiếm được *thậm chí còn ít hơn* con số đó. Vậy nên đối với nhiều người trong số họ, họ đang cam kết chi ra *một nửa* (hoặc hơn) thu nhập cả năm của mình để mua chương trình của chúng tôi. Và tôi lúc đó mới chỉ là một thằng nhóc độ tuổi đôi mươi, đi bán hàng cho những người đàn ông trưởng thành và tuyên bố rằng tôi sẽ giúp họ kiếm được nhiều tiền hơn. Điều này khả thi là nhờ niềm tin của tôi mạnh mẽ hơn sự hoài nghi của họ. *Bằng cách nào?*
 
 Dựa trên một khảo sát tự nguyện được thực hiện tại sự kiện toàn công ty gần đây nhất của chúng tôi với 158 phòng gym phản hồi, chúng tôi nhận thấy một phòng gym thuộc hệ thống Gym Launch đã tham gia chương trình của chúng tôi trong 11 tháng sẽ đạt được các mức cải thiện trung bình sau:
 
-_Tăng trưởng doanh thu tổng (Top Line Revenue):_ +$19.932/tháng (+$239.000/năm)
+_Tăng trưởng doanh thu tổng (Top Line Revenue):_ +19,932 USD/tháng (+239,000 USD/năm)
 
-- _Tăng trưởng doanh thu định kỳ (Recurring Revenue):_ +$13.339/tháng (+$160.068/năm)
-- _Tăng trưởng lợi nhuận ròng (Bottom Line):_ Tăng từ $2.943/tháng lên $8.940/tháng (gấp 3,1 lần!)
+- _Tăng trưởng doanh thu định kỳ (Recurring Revenue):_ +13,339 USD/tháng (+160,068 USD/năm)
+- _Tăng trưởng lợi nhuận ròng (Bottom Line):_ Tăng từ 2,943 USD/tháng lên 8,940 USD/tháng (gấp 3,1 lần!)
 - _Tăng trưởng khách hàng:_ +67 khách hàng
 - _Tỷ lệ rời bỏ (Churn - % khách hàng rời đi mỗi tháng):_ Giảm từ 10,7% xuống 6,8%
-- _Doanh số bán lẻ:_ +$4.400/tháng từ doanh thu sản phẩm bán lẻ
-- _Giá dịch vụ:_ Tăng từ $129/tháng lên $167/tháng
+- _Doanh số bán lẻ:_ +4,400 USD/tháng từ doanh thu sản phẩm bán lẻ
+- _Giá dịch vụ:_ Tăng từ 129 USD/tháng lên 167 USD/tháng
 
 Cuộc khảo sát chỉ một lần nữa chứng minh điều mà tôi đã biết rõ từ trước. Tôi có niềm tin tuyệt đối vào sản phẩm của mình. Tôi biết nó thực sự hiệu quả. Tôi đã *vượt qua sự tự hoài nghi của chính mình bằng khối lượng công việc thực tế.*
 
@@ -1085,7 +1085,7 @@ Từ thời điểm này trở đi, bạn phải vứt bỏ mọi quan niệm v�
 
 Nhiều doanh nhân tin rằng việc tính phí “quá cao” là điều xấu. Thực tế là, đúng vậy, bạn không bao giờ nên định giá sản phẩm cao hơn giá trị thực tế của nó. Nhưng bạn nên định giá sản phẩm và dịch vụ của mình *cao hơn rất nhiều* so với chi phí để thực hiện nó. Hãy nghĩ đến mức cao gấp hàng trăm lần, chứ không chỉ gấp hai hay ba lần. Và nếu bạn cung cấp đủ *giá trị*, nó vẫn sẽ luôn là một *món hời* đối với khách hàng tiềm năng. Đó chính là sức mạnh của giá trị. Nó giải phóng tiềm năng định giá và lợi nhuận vô hạn để mở rộng quy mô doanh nghiệp của bạn.
 
-Ví dụ, một trong những khách hàng tư vấn riêng của tôi (người mà tôi có cổ phần trong công ty) hoạt động trong lĩnh vực nhiếp ảnh. Trong vòng hai năm, nhờ áp dụng các chiến thuật được vạch ra trong cuốn sách này, chủ doanh nghiệp đã có thể nâng giá trị trung bình mỗi đơn hàng (average ticket) từ 300 USD lên 1.500 USD. Đó là mức tăng gấp 5 lần (ngạc nhiên chưa). Tuyệt vời hơn nữa, giờ đây họ tốn ít thời gian hơn cho mỗi khách hàng nhưng mức độ hài lòng của khách hàng lại *cao hơn*. Mức tăng 5 lần ở giá trị đơn hàng trung bình đã nhân 38 lần lợi nhuận của doanh nghiệp. Nó đã tăng từ mức lợi nhuận 1.000 USD/tuần lên 38.000 USD/tuần, và vẫn đang tiếp tục tăng trưởng. Nhờ đó, công ty cuối cùng đã có thể mở rộng quy mô ra nhiều chi nhánh và mang lại những công việc ý nghĩa cho các nhân viên tuyệt vời. Và một lợi ích thú vị nữa, chúng tôi có thể quyên góp nhiều tiền hơn nữa cho các quỹ từ thiện trẻ em – điều mà tôi và chủ doanh nghiệp có chung điểm chí hướng (gần 500.000 USD tính đến thời điểm viết cuốn sách này). Nhưng không điều nào trong số đó có thể thành hiện thực nếu không tìm ra điều mà mọi người trân trọng nhất, dồn toàn lực gấp ba lần cho nó, và tàn nhẫn loại bỏ mọi thứ khác. Mức tăng giá 5 lần nghe có vẻ điên rồ với bạn, nhưng khách hàng đã dùng chính tiền túi của họ để bầu chọn rằng những gì công ty cung cấp hiện tại *tốt hơn rất nhiều* so với trước đây. Giải mã được bài toán giá trị sẽ mở ra thế giới của lợi nhuận vô hạn, tầm ảnh hưởng và mọi khả năng.
+Ví dụ, một trong những khách hàng tư vấn riêng của tôi (người mà tôi có cổ phần trong công ty) hoạt động trong lĩnh vực nhiếp ảnh. Trong vòng hai năm, nhờ áp dụng các chiến thuật được vạch ra trong cuốn sách này, chủ doanh nghiệp đã có thể nâng giá trị trung bình mỗi đơn hàng (average ticket) từ 300 USD lên 1,500 USD. Đó là mức tăng gấp 5 lần (ngạc nhiên chưa). Tuyệt vời hơn nữa, giờ đây họ tốn ít thời gian hơn cho mỗi khách hàng nhưng mức độ hài lòng của khách hàng lại *cao hơn*. Mức tăng 5 lần ở giá trị đơn hàng trung bình đã nhân 38 lần lợi nhuận của doanh nghiệp. Nó đã tăng từ mức lợi nhuận 1,000 USD/tuần lên 38,000 USD/tuần, và vẫn đang tiếp tục tăng trưởng. Nhờ đó, công ty cuối cùng đã có thể mở rộng quy mô ra nhiều chi nhánh và mang lại những công việc ý nghĩa cho các nhân viên tuyệt vời. Và một lợi ích thú vị nữa, chúng tôi có thể quyên góp nhiều tiền hơn nữa cho các quỹ từ thiện trẻ em – điều mà tôi và chủ doanh nghiệp có chung điểm chí hướng (gần 500,000 USD tính đến thời điểm viết cuốn sách này). Nhưng không điều nào trong số đó có thể thành hiện thực nếu không tìm ra điều mà mọi người trân trọng nhất, dồn toàn lực gấp ba lần cho nó, và tàn nhẫn loại bỏ mọi thứ khác. Mức tăng giá 5 lần nghe có vẻ điên rồ với bạn, nhưng khách hàng đã dùng chính tiền túi của họ để bầu chọn rằng những gì công ty cung cấp hiện tại *tốt hơn rất nhiều* so với trước đây. Giải mã được bài toán giá trị sẽ mở ra thế giới của lợi nhuận vô hạn, tầm ảnh hưởng và mọi khả năng.
 
 Những ai thấu hiểu về *giá trị* sẽ là những người có thể thu phí cao nhất cho dịch vụ của họ. Tin vui là tôi đã đúc kết được một công thức có thể lặp lại (tôi chưa từng thấy nó xuất hiện ở bất kỳ đâu khác) nhằm giúp định lượng các biến số tạo ra giá trị cho bất kỳ ưu đãi nào. Tôi gọi nó là *Phương trình Giá trị (The Value Equation)*. Một khi bạn đã nhìn thấy nó, bạn sẽ không bao giờ có thể "unsee" (quên đi) được nữa. Nó sẽ hoạt động trong tiềm thức của bạn, chạy ngầm liên tục và vẫy gọi bạn. Đó là một lăng kính hoàn toàn mới để nhìn nhận thế giới.
 
@@ -1135,7 +1135,7 @@ Tôi không biết liệu chúng ta, những nhà kinh doanh, có bao giờ đ�
 
 Nhận thức chính là thực tại. Vấn đề không nằm ở việc bạn gia tăng xác suất thành công cho khách hàng tiềm năng đến mức nào, rút ngắn thời gian đạt được kết quả ra sao, hay giảm thiểu công sức và sự đánh đổi của họ lớn thế nào. Bản thân những điều đó _không hề_ tạo ra giá trị. Rất nhiều lần, họ chẳng hề hay biết gì về những nỗ lực đó. Một Grand Slam Offer (Gói ưu đãi đỉnh cao) chỉ thực sự có giá trị một khi khách hàng _cảm nhận được_ xác suất thành công tăng lên, _cảm nhận được_ thời gian chờ đợi được rút ngắn, và _cảm nhận được_ công sức cũng như sự đánh đổi đã giảm xuống. 
 
-Một ví dụ điển hình cho điều này diễn ra ngay trong hệ thống tàu điện ngầm ở London. Mức độ hài lòng của hành khách tăng lên cao nhất ( _hay còn gọi là giá trị_ ) chưa bao giờ đến từ việc chạy tàu nhanh hơn để giảm thời gian chờ đợi. Thay vào đó, nó đến từ một tấm bản đồ đơn giản có đính các dấu chấm, cho họ biết khi nào chuyến tàu tiếp theo sẽ đến và họ còn phải đợi bao lâu nữa. Tấm bản đồ chấm bi ấy, với chi phí chỉ vài triệu đô-la, đã làm giảm _nhận thức_ của hành khách về thời gian chờ đợi và sự bất tiện (cảm giác chán nản khi phải ngóng chờ) tốt hơn nhiều so với việc thực sự làm cho các đoàn tàu chạy nhanh hơn (vốn ngốn tới hàng tỷ đô-la chi phí). Thú vị phải không? Đó chính là cách chúng ta cần phải tư duy về các sản phẩm của mình. 
+Một ví dụ điển hình cho điều này diễn ra ngay trong hệ thống tàu điện ngầm ở London. Mức độ hài lòng của hành khách tăng lên cao nhất ( _hay còn gọi là giá trị_ ) chưa bao giờ đến từ việc chạy tàu nhanh hơn để giảm thời gian chờ đợi. Thay vào đó, nó đến từ một tấm bản đồ đơn giản có đính các dấu chấm, cho họ biết khi nào chuyến tàu tiếp theo sẽ đến và họ còn phải đợi bao lâu nữa. Tấm bản đồ chấm bi ấy, với chi phí chỉ vài triệu USD, đã làm giảm _nhận thức_ của hành khách về thời gian chờ đợi và sự bất tiện (cảm giác chán nản khi phải ngóng chờ) tốt hơn nhiều so với việc thực sự làm cho các đoàn tàu chạy nhanh hơn (vốn ngốn tới hàng tỷ USD chi phí). Thú vị phải không? Đó chính là cách chúng ta cần phải tư duy về các sản phẩm của mình. 
 
 > **Mẹo thực chiến: Giải pháp logic so với Giải pháp tâm lý** 
 > 
@@ -1213,7 +1213,7 @@ Tôi đã từng nghe Russell Brunson kể một câu chuyện về khái niệm
 
 Điều đó có nghĩa là, khi so sánh hai sản phẩm hoặc dịch vụ đáp ứng _cùng một_ khao khát, giá trị đến từ kết quả mong đợi sẽ triệt tiêu lẫn nhau (vì chúng giống hệt nhau). Chính ba biến số còn lại mới tạo nên sự khác biệt về giá trị cảm nhận, và cuối cùng là quyết định mức giá. Ví dụ, nếu chúng ta có hai sản phẩm hoặc dịch vụ đều giúp làm đẹp cho một người, thì xác suất đạt được kết quả, thời gian chờ đợi, và công sức bỏ ra mới là những yếu tố phân định giá trị cảm nhận của từng offer. 
 
-Nói một cách đơn giản: nếu hai thứ đều giúp một người trở nên xinh đẹp, điều gì khiến một thứ có giá 50.000 USD còn thứ kia chỉ có 5 USD? Câu trả lời: Mức độ của ba biến số giá trị còn lại. 
+Nói một cách đơn giản: nếu hai thứ đều giúp một người trở nên xinh đẹp, điều gì khiến một thứ có giá 50,000 USD còn thứ kia chỉ có 5 USD? Câu trả lời: Mức độ của ba biến số giá trị còn lại. 
 
 ### **#2 Khả năng đạt được kết cục trong tâm trí khách hàng - Perceived Likelihood of Achievement (Mục tiêu = Tăng)** 
 
@@ -1221,13 +1221,13 @@ Nói một cách đơn giản: nếu hai thứ đều giúp một người trở
 
 Rồi tôi nhận ra mọi người sẵn sàng trả tiền cho sự chắc chắn. Họ đánh giá cao sự chắc chắn. Tôi gọi đây là “khả năng đạt được kết cục trong tâm trí khách hàng.” Nói cách khác, “Tôi tin tưởng đến mức nào rằng mình sẽ đạt được kết quả mong muốn nếu tôi thực hiện giao dịch mua hàng này?” 
 
-Ví dụ, bạn sẵn sàng trả bao nhiêu tiền để trở thành bệnh nhân thứ 10.000 của một bác sĩ phẫu thuật thẩm mỹ so với bệnh nhân đầu tiên của họ? 
+Ví dụ, bạn sẵn sàng trả bao nhiêu tiền để trở thành bệnh nhân thứ 10,000 của một bác sĩ phẫu thuật thẩm mỹ so với bệnh nhân đầu tiên của họ? 
 
 Nếu bạn là một người bình thường, tỉnh táo, bạn sẽ trả nhiều hơn rất nhiều. Thậm chí, bạn có lẽ còn đòi ngược lại tiền công từ họ nếu bạn là ca phẫu thuật đầu tiên trong đời của bác sĩ đó. 
 
 Vì vậy, bạn có thể thấy ngay cả từ ví dụ đơn giản này, dù dịch vụ bạn nhận được về mặt kỹ thuật là hoàn toàn giống nhau, thì thứ duy nhất thay đổi chính là khả năng đạt được điều bạn muốn trong tâm trí bạn. 
 
-Cả hai vị bác sĩ đều mất từng đó thời gian để thực hiện ca phẫu thuật (thậm chí, vị bác sĩ mổ 10.000 ca có khi còn làm nhanh hơn và _vẫn_ thu phí _cao hơn_). Vị bác sĩ giàu kinh nghiệm hơn có bề dày thành tích thực tế trong việc tạo ra kết quả, điều này kích thích tính đáng thèm muốn đối với dịch vụ của họ. 
+Cả hai vị bác sĩ đều mất từng đó thời gian để thực hiện ca phẫu thuật (thậm chí, vị bác sĩ mổ 10,000 ca có khi còn làm nhanh hơn và _vẫn_ thu phí _cao hơn_). Vị bác sĩ giàu kinh nghiệm hơn có bề dày thành tích thực tế trong việc tạo ra kết quả, điều này kích thích tính đáng thèm muốn đối với dịch vụ của họ. 
 
 Mọi người rất coi trọng khả năng đạt được kết cục này. Việc củng cố niềm tin của khách hàng tiềm năng rằng offer của bạn sẽ “thực sự” phát huy hiệu quả với họ sẽ làm cho offer của bạn trở nên vô cùng giá trị, dẫu cho khối lượng công việc ở phía bạn vẫn giữ nguyên không đổi. Do đó, để gia tăng giá trị cho mọi offer, chúng ta phải truyền đạt khả năng đạt được kết cục thông qua thông điệp, bằng chứng, những gì chúng ta chọn đưa vào hoặc loại bỏ khỏi offer, và các chính sách bảo hành (guarantees) của chúng ta (sẽ bàn kỹ hơn ở phần sau). 
 
@@ -1239,7 +1239,7 @@ Có hai yếu tố cấu thành nên yếu tố thúc đẩy giá trị này: K�
 
 Thật tốt khi hiểu rõ cả hai điều này. Thứ mà mọi người _mua_ chính là giá trị dài hạn, hay còn gọi là “kết quả mong đợi” của họ. Nhưng thứ giữ chân họ _ở lại đủ lâu_ để đạt được điều đó lại là trải nghiệm ngắn hạn. Đây là những cột mốc nhỏ mà khách hàng nhìn thấy trên chặng đường đi, cho họ thấy rằng họ đang đi đúng hướng. Chúng tôi cố gắng lồng ghép càng nhiều những cột mốc này càng tốt vào bất kỳ dịch vụ nào mình cung cấp. Chúng ta muốn khách hàng có được một chiến thắng cảm xúc lớn ngay từ sớm (càng gần thời điểm mua hàng càng tốt). Điều này tạo cho họ sự cam kết về mặt cảm xúc và động lực để “kiên trì đến cùng” cho đến mục tiêu tối thượng. 
 
-Ví dụ, sẽ mất một khoảng thời gian để tạo thêm 239.000 USD doanh thu mỗi năm cho một phòng gym. Nhưng đó lại là thứ họ đang mua. Vì vậy, ngay khi họ đã mua hàng, chúng ta cần phải tạo ra những cột mốc chiến thắng cảm xúc một cách nhanh chóng. Một cách để chúng tôi làm điều này là đưa các chiến dịch quảng cáo của họ lên sóng trực tuyến và giúp họ chốt giao dịch trị giá 2.000 USD đầu tiên ngay trong vòng bảy ngày đầu tiên. Bằng cách làm này, quyết định hợp tác với chúng tôi của họ được củng cố mạnh mẽ, và họ lập tức đặt trọn niềm tin vào chúng tôi hơn. Điều này khiến họ có xu hướng tuân thủ phần còn lại trong các hệ thống của chúng tôi và tiến đến đích đến cuối cùng một cách thuận lợi hơn.
+Ví dụ, sẽ mất một khoảng thời gian để tạo thêm 239,000 USD doanh thu mỗi năm cho một phòng gym. Nhưng đó lại là thứ họ đang mua. Vì vậy, ngay khi họ đã mua hàng, chúng ta cần phải tạo ra những cột mốc chiến thắng cảm xúc một cách nhanh chóng. Một cách để chúng tôi làm điều này là đưa các chiến dịch quảng cáo của họ lên sóng trực tuyến và giúp họ chốt giao dịch trị giá 2,000 USD đầu tiên ngay trong vòng bảy ngày đầu tiên. Bằng cách làm này, quyết định hợp tác với chúng tôi của họ được củng cố mạnh mẽ, và họ lập tức đặt trọn niềm tin vào chúng tôi hơn. Điều này khiến họ có xu hướng tuân thủ phần còn lại trong các hệ thống của chúng tôi và tiến đến đích đến cuối cùng một cách thuận lợi hơn.
 
 > **Mẹo chuyên gia: Chiến thắng chớp nhoáng (Fast Wins)**
 > 
@@ -1249,7 +1249,7 @@ Tôi lấy cho bạn một ví dụ khác. Nếu tôi bán cho ai đó một gó
 
 Ban đầu họ không mua những thứ đó, nhưng chúng lại trở thành những lợi ích ngắn hạn giữ chân họ ở lại cuộc chơi đủ lâu để đạt được cái đích cuối cùng. Họ mua giấc mơ, nhưng họ ở lại vì những lợi ích họ khám phá ra dọc đường. Bạn chứng minh những lợi ích đó càng nhanh và rõ ràng bao nhiêu, dịch vụ của bạn càng trở nên có giá trị bấy nhiêu. Đối với một khách hàng giảm cân, chúng tôi sẽ kết nối họ với những người khác để họ ngay lập tức nhận được giá trị gắn kết xã hội từ chương trình, *đồng thời* chúng tôi thường áp dụng một chế độ ăn kiêng mạnh mẽ hơn vào giai đoạn đầu. Tại sao? Bởi vì chúng tôi muốn họ có được một chiến thắng cảm xúc lớn và nhanh chóng, từ đó giúp họ cam kết gắn bó lâu dài. Điều này cũng được khoa học chứng minh. Những người gặt hái được thành công từ sớm có xu hướng tiếp tục hành trình cao hơn hẳn những người không có được điều đó.
 
-Dẫu vậy, việc phải chờ đợi từ 12 đến 24 tháng để có được thứ mình muốn là một khoảng *thời gian dài* trong khi bạn có thể đi hút mỡ và hoàn tất mọi thứ chỉ trong một buổi chiều. Điều này lý giải vì sao mọi người sẵn sàng chi 25.000 USD để hút mỡ kết hợp tạo hình thành bụng, trong khi họ lại thấy tiếc nuối khi phải trả vỏn vẹn 100 USD/tháng để tham gia một lớp tập thể hình (bootcamp).
+Dẫu vậy, việc phải chờ đợi từ 12 đến 24 tháng để có được thứ mình muốn là một khoảng *thời gian dài* trong khi bạn có thể đi hút mỡ và hoàn tất mọi thứ chỉ trong một buổi chiều. Điều này lý giải vì sao mọi người sẵn sàng chi 25,000 USD để hút mỡ kết hợp tạo hình thành bụng, trong khi họ lại thấy tiếc nuối khi phải trả vỏn vẹn 100 USD/tháng để tham gia một lớp tập thể hình (bootcamp).
 
 Nhưng đó chưa phải là lý do duy nhất, đúng không?
 
@@ -1634,7 +1634,7 @@ Tôi chia chương này làm hai phần vì đây là phần "nhiều thịt" v�
 
 Nói đi cũng phải nói lại, nếu đây là Grand Slam Offer đầu tiên của bạn, việc over-deliver (vượt trên mong đợi) điên cuồng là cực kỳ quan trọng. Có khi bay đến tận nơi lúc mới bắt đầu lại là một ý hay đấy chứ. Cứ chốt vài đơn đi đã, rồi tính tiếp chuyện làm sao để tối ưu hóa trải nghiệm cho khách hàng sau. Bạn muốn họ phải thốt lên rằng: "Mình nhận được từng này thứ, mà chỉ với từng đó tiền á?". Về bản chất, bạn muốn họ cảm nhận được _giá trị khổng lồ_ (tremendous value). 
 
-Ai mà chẳng thích mua được món hời. Chỉ là có người thích mua món đồ trị giá 100.000 USD nhưng chỉ với giá 10.000 USD thôi. Đó mới là nơi chúng ta muốn hướng tới: giá cao ngất ngưởng, nhưng lại là một _món hời thế kỷ_ nếu so với giá trị nhận được (hy vọng cuốn sách này đến giờ cũng mang lại cảm giác đó cho bạn). 
+Ai mà chẳng thích mua được món hời. Chỉ là có người thích mua món đồ trị giá 100,000 USD nhưng chỉ với giá 10,000 USD thôi. Đó mới là nơi chúng ta muốn hướng tới: giá cao ngất ngưởng, nhưng lại là một _món hời thế kỷ_ nếu so với giá trị nhận được (hy vọng cuốn sách này đến giờ cũng mang lại cảm giác đó cho bạn). 
 
 ### **Đường liên tục Bán hàng đến Fulfillment (Sales to Fulfillment Continuum)** 
 
@@ -1652,7 +1652,7 @@ Dưới đây là một ví dụ hoàn hảo để khắc sâu điều này. Khi
 
 Họ chỉ phải đặt cọc 500 USD để "giữ chỗ" ngày khởi chạy, và tôi sẽ hoàn lại số tiền này vào ngày cuối cùng của chiến dịch. Thành ra họ chịu 0 rủi ro tài chính, 0 rủi ro thời gian, 0 công sức, còn giao kèo là: tôi giữ lại toàn bộ số tiền mặt thu được ngay từ đầu khi bán các gói dịch vụ của họ, và họ có khách hàng mới hoàn toàn miễn phí. Bạn có thể tưởng tượng đây là một offer hấp dẫn đến mức nào rồi đấy. 
 
-Chỉ với một mình tôi, tôi đã có thể tự tay chốt khoảng 100.000 USD/tháng tiền mặt trả trước. Vậy nên những thương vụ này cực kỳ béo bở đối với tôi. Theo thời gian, tôi scale mô hình này lên thành một đội ngũ gồm 8 anh em ngày đêm chốt sales. Nhưng điều này bắt đầu vắt kiệt sức lực của tôi và cả team. Chính vào khoảnh khắc đó, tôi nhận ra rằng nếu tôi chỉ đơn giản là dạy lại họ cách làm như tôi, tôi có thể chỉ thu về khoảng một phần ba số tiền trước đây, nhưng tôi lại có thể giúp hàng trăm phòng gym mỗi tháng thay vì chỉ có tám. Thêm nữa, tôi được ngủ trên chiếc giường êm ái của mình mỗi tối. 
+Chỉ với một mình tôi, tôi đã có thể tự tay chốt khoảng 100,000 USD/tháng tiền mặt trả trước. Vậy nên những thương vụ này cực kỳ béo bở đối với tôi. Theo thời gian, tôi scale mô hình này lên thành một đội ngũ gồm 8 anh em ngày đêm chốt sales. Nhưng điều này bắt đầu vắt kiệt sức lực của tôi và cả team. Chính vào khoảnh khắc đó, tôi nhận ra rằng nếu tôi chỉ đơn giản là dạy lại họ cách làm như tôi, tôi có thể chỉ thu về khoảng một phần ba số tiền trước đây, nhưng tôi lại có thể giúp hàng trăm phòng gym mỗi tháng thay vì chỉ có tám. Thêm nữa, tôi được ngủ trên chiếc giường êm ái của mình mỗi tối. 
 
 - Lời hứa của tôi về cơ bản không thay đổi: Tôi sẽ lấp đầy phòng gym cho bạn trong 30 ngày. Chỉ có _cách làm (how)_ và _những gì tôi làm (what)_ là thay đổi mà thôi. 
 
@@ -1738,7 +1738,7 @@ Sao nào? Bạn đang thấy bí ý tưởng à? Tôi sẽ bật mí cho bạn n
 
 5. <u>Chúng ta muốn phản hồi nhanh đến mức nào? Vào những ngày nào? Trong khung giờ nào? 24/7, giờ hành chính 9-5, trong vòng 5 phút, trong vòng 1 tiếng, hay trong vòng 24 giờ?</u>
 
-6. <u>Thử nghiệm nhân 10 hoặc chia 10 (10x to 1/10th test).</u> Nếu khách hàng trả cho tôi gấp 10 lần mức giá hiện tại (hoặc 100.000 USD), tôi sẽ cung cấp cho họ những gì? Ngược lại, nếu họ chỉ trả 1/10 mức giá đó, trong khi tôi vẫn phải làm cho sản phẩm giá trị hơn hiện tại, thì tôi sẽ làm thế nào? Làm sao để họ vẫn đạt được thành công với chỉ 1/10 cái giá đó? Hãy vắt óc suy nghĩ theo cả hai hướng, bạn sẽ tìm ra vô số giải pháp khác nhau hoàn toàn.
+6. <u>Thử nghiệm nhân 10 hoặc chia 10 (10x to 1/10th test).</u> Nếu khách hàng trả cho tôi gấp 10 lần mức giá hiện tại (hoặc 100,000 USD), tôi sẽ cung cấp cho họ những gì? Ngược lại, nếu họ chỉ trả 1/10 mức giá đó, trong khi tôi vẫn phải làm cho sản phẩm giá trị hơn hiện tại, thì tôi sẽ làm thế nào? Làm sao để họ vẫn đạt được thành công với chỉ 1/10 cái giá đó? Hãy vắt óc suy nghĩ theo cả hai hướng, bạn sẽ tìm ra vô số giải pháp khác nhau hoàn toàn.
 
 Nói cách khác, làm thế nào để tôi có thể _giao sản phẩm_ thực tế cho những giải pháp mà tôi đang lớn tiếng cam kết sẽ cung cấp? Hãy làm điều này cho từng vấn đề một, bởi vì giải pháp cho vấn đề này sẽ khơi gợi cho bạn những ý tưởng tuyệt vời đối với các vấn đề khác mà bình thường bạn chẳng bao giờ mảy may nghĩ tới.
 
@@ -1790,7 +1790,7 @@ Hồi còn vận hành phòng gym của mình, tôi đã áp dụng bài tập n
 
 Phần lớn các giải pháp "1 kèm nhiều" đòi hỏi lượng công việc dồn vào giai đoạn đầu nhiều hơn. Tuy nhiên, một khi đã được tạo ra, chúng sẽ trở thành những tài sản có giá trị vĩnh cửu. Rất đáng để bỏ thời gian xây dựng chúng vì chúng sẽ mang lại biên lợi nhuận cao ngất ngưởng trong nhiều năm tới.
 
-Thật lòng mà nói: những thực đơn tôi làm cho phòng gym của mình giờ đây đã được sử dụng bởi hơn 4.000 phòng gym và hàng trăm ngàn con người. Chúng rất đơn giản và dễ làm theo. Thế nên chúng đã mang lại khoản lợi nhuận hoàn vốn vượt mong đợi cho chỉ vỏn vẹn một hoặc hai tuần cắm mặt làm việc của tôi.
+Thật lòng mà nói: những thực đơn tôi làm cho phòng gym của mình giờ đây đã được sử dụng bởi hơn 4,000 phòng gym và hàng trăm ngàn con người. Chúng rất đơn giản và dễ làm theo. Thế nên chúng đã mang lại khoản lợi nhuận hoàn vốn vượt mong đợi cho chỉ vỏn vẹn một hoặc hai tuần cắm mặt làm việc của tôi.
 
 Và nếu bạn có khát khao xây dựng một mô hình kinh doanh có thể lặp lại, một thứ có khả năng mở rộng quy mô (scale), thì những tài sản bạn tạo ra này chính là nền móng vững chắc nhất. Cuốn sách này chẳng hạn, là một tài sản giá trị cao nhưng có tổng chi phí thấp. Đúng là tôi tốn kém rất nhiều ở giai đoạn đầu, nhưng mỗi cuốn sách bán ra tiếp theo sau cuốn đầu tiên tiêu tốn của tôi rất ít chi phí mà lại mang lại giá trị to lớn.
 
@@ -1817,7 +1817,7 @@ Giờ hãy quay lại ví dụ trên. Chúng ta thấy khách hàng tiềm năng
 > 
 > &emsp;Sau đó, ở bên dưới, bạn sẽ thấy phương tiện giao sản phẩm thực tế (thứ mà chúng ta thực sự sẽ làm cho họ/cung cấp cho họ):
 
-_Mua đồ ăn (Buying food)_ &rarr; Cách bất cứ ai cũng có thể mua đồ ăn nhanh chóng, dễ dàng, giá rẻ &rarr; Hệ Thống Mua Sắm Siêu Thị Tiết Kiệm, Không Lối Thoát (Foolproof Bargain Grocery System) . . . giúp bạn tiết kiệm hàng trăm đô la mỗi tháng tiền ăn và tốn ít thời gian hơn thói quen mua sắm hiện tại của bạn (trị giá 1.000 USD tính trên số tiền tiết kiệm được trong suốt quãng đời còn lại của bạn)
+_Mua đồ ăn (Buying food)_ &rarr; Cách bất cứ ai cũng có thể mua đồ ăn nhanh chóng, dễ dàng, giá rẻ &rarr; Hệ Thống Mua Sắm Siêu Thị Tiết Kiệm, Không Lối Thoát (Foolproof Bargain Grocery System) . . . giúp bạn tiết kiệm hàng trăm đô la mỗi tháng tiền ăn và tốn ít thời gian hơn thói quen mua sắm hiện tại của bạn (trị giá 1,000 USD tính trên số tiền tiết kiệm được trong suốt quãng đời còn lại của bạn)
 
 1. Buổi định hướng dinh dưỡng 1 kèm 1, nơi tôi giải thích cách sử dụng...
 2. Video ghi hình chuyến đi siêu thị thực tế
@@ -1853,15 +1853,15 @@ _Tập luyện (Exercise)_ &rarr; Các bài tập đốt mỡ đã được ch�
 
 _Khi đi du lịch (Traveling)_ &rarr; Cẩm nang ăn uống và tập luyện săn chắc cơ thể tối thượng khi đi du lịch (The Ultimate Tone Up While You Travel Eating & Workout Blueprint) . . . giúp bạn tập luyện cực sung mà không cần dụng cụ, nhờ đó bạn có thể thoải mái tận hưởng chuyến đi mà không thấy cắn rứt lương tâm (trị giá 199 USD)
 
-_Cách để kiên trì đến cùng (How to actually stick with it)_ &rarr; Hệ thống trách nhiệm "Không bao giờ bỏ cuộc" (The “Never Fall Off” Accountability System) . . . hệ thống bất bại hoạt động tự động không cần bạn phải xin phép (nó thậm chí còn khiến những kẻ ghét đến phòng gym cũng phải mong ngóng được xách giày tới tập) (trị giá 1.000 USD)
+_Cách để kiên trì đến cùng (How to actually stick with it)_ &rarr; Hệ thống trách nhiệm "Không bao giờ bỏ cuộc" (The “Never Fall Off” Accountability System) . . . hệ thống bất bại hoạt động tự động không cần bạn phải xin phép (nó thậm chí còn khiến những kẻ ghét đến phòng gym cũng phải mong ngóng được xách giày tới tập) (trị giá 1,000 USD)
 
 _Cách để giao lưu xã hội (How To Be Social) →_ Hệ thống ăn tiệm "Sống hết mình mà vẫn thon gọn" (The ‘Live It Up While Slimming Down” Eating Out System) mang lại cho bạn sự tự do đi ăn nhà hàng và tận hưởng cuộc sống mà không có cảm giác bị "lạc loài" (trị giá 349 USD)
 
-Tổng giá trị: **4.351 USD (!)** Tất cả trọn gói chỉ với **599 USD**.
+Tổng giá trị: **4,351 USD (!)** Tất cả trọn gói chỉ với **599 USD**.
 
 > **Lưu ý từ tác giả** 
 > 
-> Hầu hết các cơ sở của chúng tôi giờ đây bán gói sản phẩm này trong các khung thời gian dài hơn với giá từ 2.400 USD đến 5.200 USD. _Thật là điên rồ_ . Khi chúng tôi ngày càng giỏi hơn trong việc tạo ra và kiếm tiền từ giá trị, giá cả và lợi nhuận tại các cơ sở của chúng tôi đã tăng vọt. Một khi bạn đã bắt đầu hành trình kiến tạo giá trị này, mỗi thành phần giá trị bổ sung mà bạn tạo ra sẽ chồng chất lên nhau theo thời gian. Đó là lý do tại sao việc bắt đầu là vô cùng quan trọng. 
+> Hầu hết các cơ sở của chúng tôi giờ đây bán gói sản phẩm này trong các khung thời gian dài hơn với giá từ 2,400 USD đến 5,200 USD. _Thật là điên rồ_ . Khi chúng tôi ngày càng giỏi hơn trong việc tạo ra và kiếm tiền từ giá trị, giá cả và lợi nhuận tại các cơ sở của chúng tôi đã tăng vọt. Một khi bạn đã bắt đầu hành trình kiến tạo giá trị này, mỗi thành phần giá trị bổ sung mà bạn tạo ra sẽ chồng chất lên nhau theo thời gian. Đó là lý do tại sao việc bắt đầu là vô cùng quan trọng. 
 
 _Bạn có thấy gói sản phẩm này mang lại giá trị vượt trội thế nào so với một thẻ tập gym thông thường không?_ Gói sản phẩm này giải quyết ba vấn đề cốt lõi: 
 
@@ -1907,31 +1907,31 @@ Người bảo vệ nói vào bộ đàm với chốt gác tiếp theo ở phía
 
 Tiến vào cổng chính của khu biệt thự chẳng khác nào bước vào một bộ phim James Bond. Những chiếc Lamborghini, Bugatti, Ferrari và cả những dòng xe đắt đỏ đến mức khó mà gọi tên. Những quý ông lớn tuổi đi cùng các cô nàng trẻ trung, ăn mặc kiệm vải. Những diễn viên hạng A. Những người nổi tiếng có hàng triệu người theo dõi đang tự quay phim khi bước đến, vừa trò chuyện qua iPhone với khán giả của họ. Và... cả chúng tôi nữa. 
 
-Vé tham dự buổi gây quỹ có giá 25.000 USD một người, với danh sách khách mời giới hạn chỉ 100 người. Có cả thảm đỏ hẳn hoi. Hàng năm, điểm nhấn của sự kiện là phiên đấu giá lớn các vật phẩm lưu niệm và những món đồ do chính các chủ doanh nghiệp tham dự đóng góp cho quỹ từ thiện. 
+Vé tham dự buổi gây quỹ có giá 25,000 USD một người, với danh sách khách mời giới hạn chỉ 100 người. Có cả thảm đỏ hẳn hoi. Hàng năm, điểm nhấn của sự kiện là phiên đấu giá lớn các vật phẩm lưu niệm và những món đồ do chính các chủ doanh nghiệp tham dự đóng góp cho quỹ từ thiện. 
 
-Chúng tôi rảo bước ngắm nhìn các khu vực giải trí được chủ ý thiết kế để đưa các nhà tài trợ vào “tâm trạng muốn chi tiền”. Chúng tôi thấy những chai scotch giá 10.000 USD... những điếu xì gà 500 USD... những sản phẩm chưa từng phát hành của các thương hiệu lớn, vốn phải vài tháng nữa mới ra mắt công chúng. Và tất nhiên, là những món ẩm thực đắt đỏ nhất mà bạn có thể tưởng tượng được. Leila và tôi cứ thế tận hưởng không khí ấy. Quả là một đêm tuyệt vời. Chúng tôi thực sự cảm thấy mình trông thật ngầu. 
+Chúng tôi rảo bước ngắm nhìn các khu vực giải trí được chủ ý thiết kế để đưa các nhà tài trợ vào “tâm trạng muốn chi tiền”. Chúng tôi thấy những chai scotch giá 10,000 USD... những điếu xì gà 500 USD... những sản phẩm chưa từng phát hành của các thương hiệu lớn, vốn phải vài tháng nữa mới ra mắt công chúng. Và tất nhiên, là những món ẩm thực đắt đỏ nhất mà bạn có thể tưởng tượng được. Leila và tôi cứ thế tận hưởng không khí ấy. Quả là một đêm tuyệt vời. Chúng tôi thực sự cảm thấy mình trông thật ngầu. 
 
-Ben, Giám đốc điều hành của quỹ từ thiện, nhìn thấy chúng tôi có vẻ đang bơ vơ liền bước tới. Anh ấy nắm lấy cánh tay tôi để giới thiệu tôi với một vài nhà tài trợ khác. Toàn bộ đều là những người đàn ông lớn tuổi hơn tôi và sẵn sàng vung ra từ 100.000 USD trở lên mà không cần phải chớp mắt. 
+Ben, Giám đốc điều hành của quỹ từ thiện, nhìn thấy chúng tôi có vẻ đang bơ vơ liền bước tới. Anh ấy nắm lấy cánh tay tôi để giới thiệu tôi với một vài nhà tài trợ khác. Toàn bộ đều là những người đàn ông lớn tuổi hơn tôi và sẵn sàng vung ra từ 100,000 USD trở lên mà không cần phải chớp mắt. 
 
-Người mà anh ấy giới thiệu với tôi là một trong những nhà tài trợ lớn nhất của quỹ. Ông ấy điều hành một đế chế kinh doanh trang sức và đồng hồ siêu cao cấp. Ý tôi là những biểu tượng địa vị quý hiếm có giá 100.000 USD, 500.000 USD, thậm chí hơn 2.000.000 USD mà mọi người mua chỉ để nhóm 0,001% tinh hoa khác biết rằng họ thuộc về đẳng cấp đó. Ông ấy đã đóng góp số hàng hóa trị giá lên tới hơn 700.000 USD làm vật phẩm đấu giá cho buổi gây quỹ tối hôm đó. 
+Người mà anh ấy giới thiệu với tôi là một trong những nhà tài trợ lớn nhất của quỹ. Ông ấy điều hành một đế chế kinh doanh trang sức và đồng hồ siêu cao cấp. Ý tôi là những biểu tượng địa vị quý hiếm có giá 100,000 USD, 500,000 USD, thậm chí hơn 2,000,000 USD mà mọi người mua chỉ để nhóm 0,001% tinh hoa khác biết rằng họ thuộc về đẳng cấp đó. Ông ấy đã đóng góp số hàng hóa trị giá lên tới hơn 700,000 USD làm vật phẩm đấu giá cho buổi gây quỹ tối hôm đó. 
 
-“Alex và Leila, hãy gặp George nhé,” Ben nói. “Ông ấy đã rất hào phóng cống hiến thời gian và tiền bạc cho sự nghiệp này. George, đây là Alex và Leila Hormozi. Họ sẽ đóng góp 1.000.000 USD cho ASAS tối nay. Tôi nghĩ hai bên đều là những người tuyệt vời nên muốn kết nối mọi người lại với nhau.” 
+“Alex và Leila, hãy gặp George nhé,” Ben nói. “Ông ấy đã rất hào phóng cống hiến thời gian và tiền bạc cho sự nghiệp này. George, đây là Alex và Leila Hormozi. Họ sẽ đóng góp 1,000,000 USD cho ASAS tối nay. Tôi nghĩ hai bên đều là những người tuyệt vời nên muốn kết nối mọi người lại với nhau.” 
 
 “Rất vui được gặp hai bạn,” George nói với ánh mắt bình thản và từng trải. Ông ở độ tuổi cuối lục tuần, cao lớn và vạm vỡ. Bạn có thể nghe thấy âm hưởng Đông Âu trong giọng nói của ông. Nghe như thể chất giọng của một người đã phải chiến đấu sứt đầu mẻ trán để đứng vững ở vị trí này, nhưng đã thuần tính lại trong những buổi tụ họp thế này. Dù vậy, con mãnh hổ với nanh vuốt sắc nhọn vẫn ẩn giấu bên dưới lớp vỏ bọc, sẵn sàng tung hoành bất cứ lúc nào. Tôi có cảm giác mình thấu hiểu con người này. 
 
-Ben phá vỡ sự im lặng. “Ừ thì... George chính là người đã khuyên tôi nâng giá vé từ 15.000 USD lên 25.000 USD đấy. Năm nay nhu cầu tham dự của mọi người cao hơn bao giờ hết. Và tôi đã nghe theo lời khuyên của ông ấy: cắt giảm số lượng vé bán ra _đồng thời_ đẩy giá lên cao.” 
+Ben phá vỡ sự im lặng. “Ừ thì... George chính là người đã khuyên tôi nâng giá vé từ 15,000 USD lên 25,000 USD đấy. Năm nay nhu cầu tham dự của mọi người cao hơn bao giờ hết. Và tôi đã nghe theo lời khuyên của ông ấy: cắt giảm số lượng vé bán ra _đồng thời_ đẩy giá lên cao.” 
 
 “Đúng vậy,” George nói, tỏ vẻ hài lòng vì lời khuyên kinh doanh khôn ngoan của mình đã được áp dụng. “Khi nhu cầu tăng lên, hãy cắt giảm nguồn cung.” Ông phấn khởi hẳn lên khi chúng tôi bàn về chuyện tiền nong. 
 
 Người đàn ông này đã gầy dựng sự nghiệp từ bàn tay trắng và tìm ra cách bán sản phẩm với biên lợi nhuận khổng lồ nhờ thấu hiểu tâm lý con người. Từ lâu tôi đã nắm vững lý thuyết cung cầu, nhưng gã này đang ứng dụng chính nền tảng tâm lý học của nó để thổi bùng một chiến dịch gây quỹ. Có thể đưa con hổ ra khỏi rừng rậm, nhưng không thể xóa bỏ bản chất rừng rậm khỏi con người con hổ. 
 
-_Con người luôn khao khát những thứ họ không thể có. Con người thèm thuồng những thứ người khác đang nhòm ngó. Con người muốn sở hữu những thứ mà chỉ một nhóm nhỏ được quyền tiếp cận._ Ông ấy hoàn toàn chính xác. Họ đã huy động thêm được _một triệu đô la_ ngay trong đêm đó trước cả khi sự kiện chính thức bắt đầu, chỉ bằng cách cắt giảm nguồn cung vé _và_ đẩy giá lên cao. Chưa hết, tệp khách mời tham dự năm nay lại càng chất lượng hơn bao giờ hết để trở thành những đại gia tài trợ lớn. Sự kiện khép lại với tư cách là đêm thành công nhất trong lịch sử quỹ từ thiện, thu về gần 5.400.000 USD chỉ từ 100 người (tính ra là 54.000 USD mỗi đầu người!). Mỗi vật phẩm đều được đấu giá như một món đồ độc nhất vô nhị. Và nếu bạn bỏ lỡ, bạn sẽ không bao giờ có cơ hội thứ hai để mua lại nó. Arnold thậm chí còn tung thêm các **bonuses** khi có hai vị khách đẩy giá đấu lên quá cao, nhờ đó quỹ từ thiện có thể hốt trọn tiền tài trợ từ cả hai người. 
+_Con người luôn khao khát những thứ họ không thể có. Con người thèm thuồng những thứ người khác đang nhòm ngó. Con người muốn sở hữu những thứ mà chỉ một nhóm nhỏ được quyền tiếp cận._ Ông ấy hoàn toàn chính xác. Họ đã huy động thêm được _một triệu đô la_ ngay trong đêm đó trước cả khi sự kiện chính thức bắt đầu, chỉ bằng cách cắt giảm nguồn cung vé _và_ đẩy giá lên cao. Chưa hết, tệp khách mời tham dự năm nay lại càng chất lượng hơn bao giờ hết để trở thành những đại gia tài trợ lớn. Sự kiện khép lại với tư cách là đêm thành công nhất trong lịch sử quỹ từ thiện, thu về gần 5,400,000 USD chỉ từ 100 người (tính ra là 54,000 USD mỗi đầu người!). Mỗi vật phẩm đều được đấu giá như một món đồ độc nhất vô nhị. Và nếu bạn bỏ lỡ, bạn sẽ không bao giờ có cơ hội thứ hai để mua lại nó. Arnold thậm chí còn tung thêm các **bonuses** khi có hai vị khách đẩy giá đấu lên quá cao, nhờ đó quỹ từ thiện có thể hốt trọn tiền tài trợ từ cả hai người. 
 
-Đó là một màn trình diễn đỉnh cao của tâm lý học hành vi trong một bối cảnh mà người ta biết thừa mình đang mua hớ sản phẩm. _Sản phẩm hoàn toàn giữ nguyên_ , thế nhưng đặt trong không gian này, một món đồ nếu bán ở một nơi khác với giá 10.000 USD nay lại được chốt giá 100.000 USD. Sức mạnh của **scarcity** (sự khan hiếm), **urgency** (tính khẩn trương) và **bonuses** (quà tặng) thực sự khủng khiếp đến vậy đấy. Và việc mổ xẻ cách sử dụng chúng để tiếp tục đẩy nhu cầu đối với **Grand Slam Offer** của bạn lên cao hơn nữa—mà không cần phải thay đổi sản phẩm—chính là mục đích của phần này. 
+Đó là một màn trình diễn đỉnh cao của tâm lý học hành vi trong một bối cảnh mà người ta biết thừa mình đang mua hớ sản phẩm. _Sản phẩm hoàn toàn giữ nguyên_ , thế nhưng đặt trong không gian này, một món đồ nếu bán ở một nơi khác với giá 10,000 USD nay lại được chốt giá 100,000 USD. Sức mạnh của **scarcity** (sự khan hiếm), **urgency** (tính khẩn trương) và **bonuses** (quà tặng) thực sự khủng khiếp đến vậy đấy. Và việc mổ xẻ cách sử dụng chúng để tiếp tục đẩy nhu cầu đối với **Grand Slam Offer** của bạn lên cao hơn nữa—mà không cần phải thay đổi sản phẩm—chính là mục đích của phần này. 
 
 > **Lưu ý từ tác giả - Các đòn bẩy tâm lý thuyết phục khác đang hoạt động** 
 > 
-> **Scarcity** (sự khan hiếm), **urgency** (tính khẩn trương), **bonuses** (quà tặng) và **guarantees** (chính sách bảo đảm) không phải là những công cụ thuyết phục _duy nhất_ được sử dụng để tạo ra mức giá phi lý tại buổi gây quỹ. Họ còn tận dụng cả tính cam kết và nhất quán, địa vị, áp lực đồng trang lứa, thiện chí, sự chứng thực của người nổi tiếng, tính cạnh tranh, v.v. Tuy nhiên, **scarcity**, **urgency** và **bonuses** là ba yếu tố duy nhất tôi sẽ phân tích kỹ trong cuốn sách này. Bởi vì tôi tin rằng chúng gắn liền với phần **"Grand Slam Offer"** nhiều hơn là với hoạt động **"Bán hàng"** thuần túy—vấn đề mà tôi sẽ bàn luận sâu hơn trong cuốn Acquisition: Volume IV $100M Sales.
+> **Scarcity** (sự khan hiếm), **urgency** (tính khẩn trương), **bonuses** (quà tặng) và **guarantees** (chính sách bảo đảm) không phải là những công cụ thuyết phục _duy nhất_ được sử dụng để tạo ra mức giá phi lý tại buổi gây quỹ. Họ còn tận dụng cả tính cam kết và nhất quán, địa vị, áp lực đồng trang lứa, thiện chí, sự chứng thực của người nổi tiếng, tính cạnh tranh, v.v. Tuy nhiên, **scarcity**, **urgency** và **bonuses** là ba yếu tố duy nhất tôi sẽ phân tích kỹ trong cuốn sách này. Bởi vì tôi tin rằng chúng gắn liền với phần **"Grand Slam Offer"** nhiều hơn là với hoạt động **"Bán hàng"** thuần túy—vấn đề mà tôi sẽ bàn luận sâu hơn trong cuốn Acquisition: Volume IV $100M USD Sales.
 
 ### **Vũ điệu tinh tế của khao khát**
 
@@ -2157,7 +2157,7 @@ Bản thân chương trình ưu đãi có thể vẫn giữ nguyên, nhưng vi�
 
 Đây là một cách khác để tạo tính cấp bách bằng cách dùng chính offer (ưu đãi), chương trình khuyến mãi hoặc cấu trúc giá của bạn làm thứ mà họ có thể bỏ lỡ (nghe khá là thiên tài đấy chứ!). Nó cho phép các doanh nghiệp bán hàng quanh năm vẫn có thể áp dụng tính cấp bách. Ví dụ, _“Vâng, hãy bắt đầu ngay hôm nay để anh/chici tận dụng mức chiết khấu mà anh/chị vừa tìm đến. Tôi không chắc chúng tôi sẽ chạy mức giá này trong bao lâu vì cứ khoảng 4 tuần là chúng tôi lại thay đổi, và đây là một trong những ưu đãi hời nhất mà chúng tôi từng tung ra trong thời gian qua.”_ 
 
-Cách này tạo ra một chút sợ hãi bị bỏ lỡ FOMO đối với chương trình khuyến mãi (hoặc chiết khấu, quà tặng), thay vì tạo áp lực lên chính dịch vụ cốt lõi của bạn. Sẽ là nói dối nếu bạn kinh doanh dịch vụ lợp mái nhà mà lại bảo rằng không phục vụ khách nếu họ mua sau ngày đó. Tuy nhiên, nếu bạn nói cụ thể về chương trình khuyến mãi, bạn thường có thể kích thích được tính cấp bách mua hàng tương tự ở khách hàng tiềm năng trong khi vẫn giữ được uy tín của mình — đôi bên cùng có lợi. Bạn có thể hoán đổi linh hoạt một chương trình khuyến mãi về giá, chiết khấu, hoặc các **bonuses** đi kèm như miễn phí lắp đặt, miễn phí onboarding, hay một buổi workshop bổ sung (trị giá 1.000 USD) nếu họ mua ngay. Đây đều là những quân bài bạn có thể biến hóa xoay quanh **Grand Slam Offer** (ưu đãi đỉnh cao) để tạo ra tính cấp bách. 
+Cách này tạo ra một chút sợ hãi bị bỏ lỡ FOMO đối với chương trình khuyến mãi (hoặc chiết khấu, quà tặng), thay vì tạo áp lực lên chính dịch vụ cốt lõi của bạn. Sẽ là nói dối nếu bạn kinh doanh dịch vụ lợp mái nhà mà lại bảo rằng không phục vụ khách nếu họ mua sau ngày đó. Tuy nhiên, nếu bạn nói cụ thể về chương trình khuyến mãi, bạn thường có thể kích thích được tính cấp bách mua hàng tương tự ở khách hàng tiềm năng trong khi vẫn giữ được uy tín của mình — đôi bên cùng có lợi. Bạn có thể hoán đổi linh hoạt một chương trình khuyến mãi về giá, chiết khấu, hoặc các **bonuses** đi kèm như miễn phí lắp đặt, miễn phí onboarding, hay một buổi workshop bổ sung (trị giá 1,000 USD) nếu họ mua ngay. Đây đều là những quân bài bạn có thể biến hóa xoay quanh **Grand Slam Offer** (ưu đãi đỉnh cao) để tạo ra tính cấp bách. 
 
 > **Mẹo chuyên gia - Làm sạch pipeline (danh sách khách hàng tiềm năng) với mỗi đợt thay đổi giá (Pro Tip - Clean Your Pipeline With Every Price Change)** : Nếu bạn thực sự có ý định tăng giá (hy vọng là sớm nếu bạn đang đọc cuốn sách này!) thì bạn luôn có thể lọc sạch pipeline của mình bằng cách thông báo cho mọi người biết: “Giá sắp tăng rồi! Đăng ký ngay đi thôi!” Đừng bao giờ tăng giá mà không thông báo trước cho khách hàng. Hành động này thể hiện vị thế mạnh mẽ _đồng thời_ mang lại cho bạn một nguồn tiền mặt kha khá từ những khách hàng tiềm năng đang chần chừ trong pipeline. 
 
@@ -2232,11 +2232,11 @@ a) Quà Tặng Kèm Gắn Liền Với Tính Khan Hiếm (Scarcity)
 
 <u>Phiên bản 1:</u> Chỉ những ai đăng ký chương trình XYZ mới có quyền truy cập vào Bonus #1, #2, #3 – những thứ chưa từng được bán hoặc xuất hiện ở bất cứ đâu ngoài chương trình này.
 
-<u>Phiên bản 2:</u> Tôi chỉ còn 3 vé tham dự sự kiện ảo trị giá 5.000 USD của mình; nếu bạn mua chương trình này ngay bây giờ, bạn sẽ nhận được một trong 3 chiếc vé cuối cùng đó như một phần quà tặng kèm.
+<u>Phiên bản 2:</u> Tôi chỉ còn 3 vé tham dự sự kiện ảo trị giá 5,000 USD của mình; nếu bạn mua chương trình này ngay bây giờ, bạn sẽ nhận được một trong 3 chiếc vé cuối cùng đó như một phần quà tặng kèm.
 
 b) Quà Tặng Kèm Gắn Liền Với Tính Khẩn Cấp (Urgency)
 
-<u>Phiên bản 1:</u> Nếu bạn mua ngày hôm nay, tôi sẽ tặng kèm miễn phí món quà XYZ vốn có giá thông thường là 1.000 USD. Tôi làm điều này vì tôi muốn thưởng cho những người ra quyết định hành động ngay.
+<u>Phiên bản 1:</u> Nếu bạn mua ngày hôm nay, tôi sẽ tặng kèm miễn phí món quà XYZ vốn có giá thông thường là 1,000 USD. Tôi làm điều này vì tôi muốn thưởng cho những người ra quyết định hành động ngay.
 
 c) Hy vọng bạn có thể nhận ra những điểm khác biệt tinh tế ở đây. Hai ví dụ đầu tiên không bị giới hạn bởi thời gian. Chúng khẳng định rằng nếu bạn mua chương trình, bạn sẽ nhận được những thứ mà bình thường bạn không thể có được. Trong khi đó, quà tặng kèm có tính khẩn cấp lại gắn liền với hành vi mua hàng *ngay trong ngày hôm nay*, và nếu họ không mua hôm nay, họ sẽ mất đi những món quà đó. Sự khác biệt nhỏ nhưng rất đáng lưu tâm.
 
@@ -2364,7 +2364,7 @@ Bảo đảm ngầm định là bất kỳ lời chào hàng nào mang tính ch�
 
 Một người làm sales có kinh nghiệm hiểu rằng, giống như các khoản quà tặng kèm (**Bonuses**), bạn hoàn toàn có thể *chồng các chính sách bảo đảm lại với nhau*. Ví dụ, bạn có thể đưa ra chính sách bảo đảm không điều kiện trong 30 ngày không cần hỏi lý do, rồi bồi thêm một lớp bảo đảm có điều kiện hoàn tiền gấp ba trong 90 ngày. Đó sẽ là một ví dụ về việc kết hợp giữa bảo đảm không điều kiện và bảo đảm có điều kiện.
 
-Bạn cũng có thể chồng hai chính sách bảo đảm có điều kiện xung quanh các kết quả khác nhau (hoặc tuần tự). Ví dụ: bạn sẽ kiếm được 10.000 USD trong vòng 60 ngày, 30.000 USD trong vòng 90 ngày miễn là bạn thực hiện đầy đủ hành động 1, 2 và 3. Điều này giúp định hướng tương lai cho khách hàng tiềm năng về một kết quả mà giờ đây họ tin là có khả năng xảy ra cao hơn rất nhiều (vì bạn đã vạch ra rõ ràng trong một chính sách bảo đảm có điều kiện kèm theo mốc thời gian cụ thể). Làm như vậy sẽ cho khách hàng thấy rằng bạn cực kỳ nghiêm túc trong việc mang lại kết quả cho họ và hoàn toàn tin tưởng rằng họ sẽ đạt được điều mình muốn. Điều này giúp chuyển gánh nặng rủi ro từ vai họ quay trở lại vai chúng ta... một chiến lược vô cùng mạnh mẽ.
+Bạn cũng có thể chồng hai chính sách bảo đảm có điều kiện xung quanh các kết quả khác nhau (hoặc tuần tự). Ví dụ: bạn sẽ kiếm được 10,000 USD trong vòng 60 ngày, 30,000 USD trong vòng 90 ngày miễn là bạn thực hiện đầy đủ hành động 1, 2 và 3. Điều này giúp định hướng tương lai cho khách hàng tiềm năng về một kết quả mà giờ đây họ tin là có khả năng xảy ra cao hơn rất nhiều (vì bạn đã vạch ra rõ ràng trong một chính sách bảo đảm có điều kiện kèm theo mốc thời gian cụ thể). Làm như vậy sẽ cho khách hàng thấy rằng bạn cực kỳ nghiêm túc trong việc mang lại kết quả cho họ và hoàn toàn tin tưởng rằng họ sẽ đạt được điều mình muốn. Điều này giúp chuyển gánh nặng rủi ro từ vai họ quay trở lại vai chúng ta... một chiến lược vô cùng mạnh mẽ.
 
 Hãy cùng điểm qua một số ví dụ về các chính sách bảo đảm khác nhau:
 
@@ -2372,7 +2372,7 @@ Hãy cùng điểm qua một số ví dụ về các chính sách bảo đảm k
 > 
 > **[Không điều kiện] Chính sách hoàn tiền “Không cần hỏi lý do” (No Questions Asked)**
 
-**<u>Khách hàng nhận được gì:</u>** A) hoàn tiền 100%, B) hoàn tiền 50%, C) hoàn lại chi phí quảng cáo và mọi chi phí phát sinh liên quan, D) bạn tài trợ tiền để họ tham gia chương trình của đối thủ cạnh tranh, E) bạn trả lại tiền kèm thêm 1.000 USD (hoặc một khoản tiền phù hợp khác).
+**<u>Khách hàng nhận được gì:</u>** A) hoàn tiền 100%, B) hoàn tiền 50%, C) hoàn lại chi phí quảng cáo và mọi chi phí phát sinh liên quan, D) bạn tài trợ tiền để họ tham gia chương trình của đối thủ cạnh tranh, E) bạn trả lại tiền kèm thêm 1,000 USD (hoặc một khoản tiền phù hợp khác).
 
 **<u>Góc nhìn của tôi:</u>** Đây là hình thức đơn giản nhất có thể. Nó cũng vô cùng rủi ro. Bạn tự đẩy mình vào tình huống mà nếu khách hàng không đạt được kết quả, dù là do lỗi của bạn hay không, bạn vẫn phải chịu trách nhiệm. Rõ ràng đây là một chính sách bảo đảm mạnh mẽ nhưng không có gì mới mẻ. Bạn có thể thêm các điều kiện, nhưng càng thêm nhiều điều kiện, chính sách bảo đảm này càng nhanh chóng mất đi sức nặng.
 
@@ -2392,7 +2392,7 @@ Hãy cùng điểm qua một số ví dụ về các chính sách bảo đảm k
 
 **<u>Góc nhìn của tôi:</u>** Tin hay không tùy bạn, đây chính là chính sách bảo đảm của tôi khi tôi còn bán các chương trình giảm cân. Ngoài việc là một lời chào hàng không thể chối từ, tôi cam kết đảm bảo sự hài lòng. Tôi đã dùng sức nặng của chính sách bảo đảm này để chốt vô số hợp đồng. “Bạn có nghĩ rằng tôi vẫn có thể trụ vững trong ngành kinh doanh này nếu tôi đưa ra một chính sách bảo đảm điên rồ như vậy trong khi bản thân tôi lại không giỏi những việc mình làm không? Giờ thì tôi *không* cam kết rằng bạn sẽ đạt được mục tiêu này trong sáu tuần đâu, suy cho cùng, tôi đâu thể ăn hộ bạn được. Nhưng tôi cam kết rằng bạn sẽ nhận được giá trị và dịch vụ trị giá 500 USD từ chúng tôi để hỗ trợ bạn. Nếu bạn cảm thấy chúng tôi chưa mang lại cho bạn mức độ dịch vụ đó, tôi sẽ viết séc hoàn tiền ngay vào ngày bạn nói rằng chúng tôi làm việc quá tệ.”
 
-Phương pháp này kết hợp hoàn hảo với phương pháp chốt đơn theo kịch bản "tình huống tốt nhất / tình huống xấu nhất". “Tình huống tốt nhất là bạn có được vóc dáng mơ ước và chúng tôi sẽ cộng toàn bộ số tiền của bạn vào việc tiếp tục đồng hành để đạt được mục tiêu dài hạn. Tình huống tồi tệ nhất là bạn bảo tôi làm ăn như hạch, tôi viết cho bạn một tấm séc hoàn tiền, và bạn nhận được sáu tuần tập luyện miễn phí. Cả hai lựa chọn đều không có rủi ro. Nhưng điều duy nhất được bảo đảm *<u>không</u>* thể giúp ích cho bạn chính là việc bước chân ra khỏi đây ngày hôm nay.” Nếu bạn giỏi trong lĩnh vực của mình, bạn có thể sử dụng một chính sách bảo đảm thế này để đẩy hàng loạt khách hàng ra quyết định mua ngay lập tức. Câu nói đó đã kiếm cho tôi rất nhiều tiền. Tôi chỉ có đúng hai người khách đòi hoàn tiền trong tổng số 4.000 đơn hàng được chốt trong vòng ba năm rưỡi.
+Phương pháp này kết hợp hoàn hảo với phương pháp chốt đơn theo kịch bản "tình huống tốt nhất / tình huống xấu nhất". “Tình huống tốt nhất là bạn có được vóc dáng mơ ước và chúng tôi sẽ cộng toàn bộ số tiền của bạn vào việc tiếp tục đồng hành để đạt được mục tiêu dài hạn. Tình huống tồi tệ nhất là bạn bảo tôi làm ăn như hạch, tôi viết cho bạn một tấm séc hoàn tiền, và bạn nhận được sáu tuần tập luyện miễn phí. Cả hai lựa chọn đều không có rủi ro. Nhưng điều duy nhất được bảo đảm *<u>không</u>* thể giúp ích cho bạn chính là việc bước chân ra khỏi đây ngày hôm nay.” Nếu bạn giỏi trong lĩnh vực của mình, bạn có thể sử dụng một chính sách bảo đảm thế này để đẩy hàng loạt khách hàng ra quyết định mua ngay lập tức. Câu nói đó đã kiếm cho tôi rất nhiều tiền. Tôi chỉ có đúng hai người khách đòi hoàn tiền trong tổng số 4,000 đơn hàng được chốt trong vòng ba năm rưỡi.
 
 Bảo đảm hài lòng / không cần hỏi lý do là hình thức bảo đảm cao cấp nhất. Nó có nghĩa là ngay cả khi chúng ta đã làm mọi thứ hoàn hảo, khách hàng vẫn có thể yêu cầu hoàn tiền. Miễn là bạn nắm rõ bài toán tài chính, bạn thường sẽ bù đắp lại được số tiền hoàn lại nhờ vào tỷ lệ chốt đơn hàng nhanh hơn và nhiều hơn ở phía trước. *Nhưng bạn phải giỏi trong khâu thực hiện và cam kết của mình.* Nếu không, hãy tránh xa hình thức này ra. Tôi tin rằng lời đề nghị này hoạt động hiệu quả hơn rất nhiều đối với các phân khúc giá rẻ (lower-ticket). Nó sẽ trở nên cực kỳ rủi ro khi bạn tiến vào các dịch vụ giá cao (high-ticket) với chi phí thực hiện tốn kém hơn.
 
@@ -2402,9 +2402,9 @@ Bảo đảm hài lòng / không cần hỏi lý do là hình thức bảo đả
 
 > **[Có điều kiện] Bảo hiểm hoàn tiền vượt mức (Outsized Refund Guarantee)**
 
-**<u>Khách hàng nhận được gì:</u>** Nhận lại gấp đôi hoặc gấp ba số tiền đã trả, hoặc một khoản tiền mặt cố định trị giá $X,XXX (hoặc một con số lớn hơn nhiều so với số tiền họ bỏ ra) mà không kèm bất kỳ ràng buộc nào.
+**<u>Khách hàng nhận được gì:</u>** Nhận lại gấp đôi hoặc gấp ba số tiền đã trả, hoặc một khoản tiền mặt cố định trị giá X,XXX USD (hoặc một con số lớn hơn nhiều so với số tiền họ bỏ ra) mà không kèm bất kỳ ràng buộc nào.
 
-**<u>Góc nhìn của tôi:</u>** Hình thức này dành cho các sản phẩm có biên lợi nhuận cao. Đây là loại bảo hiểm nên được bổ sung *kèm theo* điều kiện về mức độ tiêu thụ/thực hiện (consumption condition). Nghĩa là khách hàng phải hoàn thành một loạt hành động cụ thể thì mới đủ điều kiện nhận bảo hiểm. Jason Fladlien – một affiliate marketer đẳng cấp thế giới (từng kiếm được 27 triệu USD chỉ trong một ngày) – gần đây đã áp dụng một chính sách bảo hiểm cực kỳ ấn tượng cho khóa học do anh ấy bán. Anh ấy nói rằng: *"Nếu bạn mua khóa học này, chi X đô-la để chạy quảng cáo cho cửa hàng thương mại điện tử bằng các phương pháp trong đây mà không kiếm được đồng nào, tôi sẽ mua lại cửa hàng đó từ bạn với giá 25.000 USD mà không hỏi thêm câu nào."* Anh ấy tiết lộ rằng chính sách bảo hiểm điên rồ này đã đem lại thêm 3 triệu USD doanh thu cho một khóa học giá 2.997 USD. Hơn thế nữa, anh ấy chỉ phải chi trả vỏn vẹn 10 khoản hoàn tiền 25.000 USD đó. Tính ra, chính sách hoàn tiền này đã mang về 2,75 triệu USD doanh thu ròng. Đó chính là sức mạnh của một chính sách bảo hiểm đột phá.
+**<u>Góc nhìn của tôi:</u>** Hình thức này dành cho các sản phẩm có biên lợi nhuận cao. Đây là loại bảo hiểm nên được bổ sung *kèm theo* điều kiện về mức độ tiêu thụ/thực hiện (consumption condition). Nghĩa là khách hàng phải hoàn thành một loạt hành động cụ thể thì mới đủ điều kiện nhận bảo hiểm. Jason Fladlien – một affiliate marketer đẳng cấp thế giới (từng kiếm được 27 triệu USD chỉ trong một ngày) – gần đây đã áp dụng một chính sách bảo hiểm cực kỳ ấn tượng cho khóa học do anh ấy bán. Anh ấy nói rằng: *"Nếu bạn mua khóa học này, chi X USD để chạy quảng cáo cho cửa hàng thương mại điện tử bằng các phương pháp trong đây mà không kiếm được đồng nào, tôi sẽ mua lại cửa hàng đó từ bạn với giá 25,000 USD mà không hỏi thêm câu nào."* Anh ấy tiết lộ rằng chính sách bảo hiểm điên rồ này đã đem lại thêm 3 triệu USD doanh thu cho một khóa học giá 2,997 USD. Hơn thế nữa, anh ấy chỉ phải chi trả vỏn vẹn 10 khoản hoàn tiền 25,000 USD đó. Tính ra, chính sách hoàn tiền này đã mang về 2,75 triệu USD doanh thu ròng. Đó chính là sức mạnh của một chính sách bảo hiểm đột phá.
 
 Nhìn chung, một chính sách bảo hiểm siêu mạnh như thế này chắc chắn sẽ thúc đẩy doanh số tăng vọt. Nó cực kỳ hữu ích khi bạn muốn khách hàng tiềm năng phải hoàn thành *rất nhiều* công việc, và với giả định là họ đã làm đủ các bước đó, khả năng không đạt được kết quả là cực kỳ thấp. Đôi khi, một chính sách bảo hiểm kiểu này còn giúp khách hàng đạt kết quả xuất sắc hơn nữa. Về mặt chuyển đổi ròng (doanh số trừ đi tiền hoàn lại), hình thức này thường sẽ vượt trội hơn hẳn so với bảo hiểm hoàn tiền 30 ngày truyền thống.
 
@@ -2440,19 +2440,19 @@ Thêm nữa, cuộc gọi chốt sale có bảo hiểm đó đã diễn ra từ 
 
 **<u>Góc nhìn của tôi:</u>** Đây chắc chắn là một trong những chính sách bảo hiểm mạnh mẽ nhất hành tinh. Nó giống như bảo hiểm dịch vụ nhưng được "bơm doping" vậy. Tuy nhiên, bạn *chắc chắn* phải kèm theo các điều kiện: họ phải phản hồi lại trong vòng 24 giờ, họ phải sử dụng đúng các sản phẩm bạn chỉ định, họ phải thực hiện các bước XYZ. Chỉ khi họ làm đúng những điều đó, bạn mới tiếp tục đồng hành 1 kèm 1 với họ.
 
-Hình thức này cực kỳ uy lực khi bạn mở rộng quy mô (scale) và tạo dựng được uy tín vững chắc hơn với tư cách là một chủ doanh nghiệp. Bạn có thể tưởng tượng cảnh một nhân viên sales của tôi nói rằng: *"Alex sẽ trực tiếp làm việc với bạn cho đến khi offer của bạn chuyển đổi ra đơn" chứ?* Đúng vậy. Nó sẽ rất hiệu quả. Nhưng đồng thời nó cũng sẽ là một cơn ác mộng. Thế nên tôi sẽ phải đặt ra các điều kiện ràng buộc như: *"Với điều kiện bạn đã chi ít nhất 10.000 USD vào offer hiện tại bằng cách sử dụng cấu trúc của chúng tôi, offer bạn chạy là để thu hút lead (lead generation), và đó là một offer miễn phí."* Đây là những yếu tố khiến cho khả năng họ thất bại gần như bằng không. Nếu vì lý do nào đó mà họ *vẫn thất bại* dù đã đáp ứng đủ các điều kiện trên, tôi có lẽ chỉ mất mười phút nhìn qua là có thể giải quyết dứt điểm vấn đề cho họ.
+Hình thức này cực kỳ uy lực khi bạn mở rộng quy mô (scale) và tạo dựng được uy tín vững chắc hơn với tư cách là một chủ doanh nghiệp. Bạn có thể tưởng tượng cảnh một nhân viên sales của tôi nói rằng: *"Alex sẽ trực tiếp làm việc với bạn cho đến khi offer của bạn chuyển đổi ra đơn" chứ?* Đúng vậy. Nó sẽ rất hiệu quả. Nhưng đồng thời nó cũng sẽ là một cơn ác mộng. Thế nên tôi sẽ phải đặt ra các điều kiện ràng buộc như: *"Với điều kiện bạn đã chi ít nhất 10,000 USD vào offer hiện tại bằng cách sử dụng cấu trúc của chúng tôi, offer bạn chạy là để thu hút lead (lead generation), và đó là một offer miễn phí."* Đây là những yếu tố khiến cho khả năng họ thất bại gần như bằng không. Nếu vì lý do nào đó mà họ *vẫn thất bại* dù đã đáp ứng đủ các điều kiện trên, tôi có lẽ chỉ mất mười phút nhìn qua là có thể giải quyết dứt điểm vấn đề cho họ.
 
 > **[Có điều kiện] Bảo hiểm tặng kèm chi phí Khách sạn + Vé máy bay (Hotel + Airfare Perks Guarantee)**
 
 **<u>Khách hàng nhận được gì:</u>** Nếu bạn không nhận được giá trị tương xứng, chúng tôi sẽ hoàn tiền sản phẩm *cùng với* chi phí khách sạn và vé máy bay của bạn.
 
-**<u>Góc nhìn của tôi:</u>** Về mặt kỹ thuật, đây chính là hình thức "hoàn trả chi phí phát sinh" (ancillary costs) từ ví dụ đầu tiên của chúng ta. Tôi cực kỳ thích cách này khi áp dụng cho các buổi workshop và sự kiện trực tiếp (in-person experiences). Thông thường, chi phí tổ chức sự kiện sẽ cao hơn tiền khách sạn và vé máy bay, thế nên việc này giống như cộng thêm 1.000 USD vào gói bảo hiểm nhưng lại mang tính thực tế và hiện hữu rõ ràng hơn nhiều. Nó đủ mới mẻ để lấy được thiện cảm từ khách hàng.
+**<u>Góc nhìn của tôi:</u>** Về mặt kỹ thuật, đây chính là hình thức "hoàn trả chi phí phát sinh" (ancillary costs) từ ví dụ đầu tiên của chúng ta. Tôi cực kỳ thích cách này khi áp dụng cho các buổi workshop và sự kiện trực tiếp (in-person experiences). Thông thường, chi phí tổ chức sự kiện sẽ cao hơn tiền khách sạn và vé máy bay, thế nên việc này giống như cộng thêm 1,000 USD vào gói bảo hiểm nhưng lại mang tính thực tế và hiện hữu rõ ràng hơn nhiều. Nó đủ mới mẻ để lấy được thiện cảm từ khách hàng.
 
 > **[Có điều kiện] Bảo hiểm chi trả tiền lương (Wage-Payment Guarantee)**
 
 **<u>Khách hàng nhận được gì:</u>** Bạn đề xuất trả theo mức lương theo giờ của họ (bất kể mức đó là bao nhiêu) nếu họ cảm thấy cuộc gọi/buổi làm việc với bạn không mang lại giá trị.
 
-**<u>Góc nhìn của tôi:</u>** Đây cũng là một dạng bảo hiểm chi phí phát sinh, chỉ là theo một cách vô cùng độc đáo. Nếu có ai thực sự đòi bạn trả tiền lương theo giờ kiểu này, hãy yêu cầu họ đưa ra tờ khai thuế thu nhập rồi chia cho 1.960 (tổng số giờ làm việc trong một năm, tính 40 giờ/tuần). Sẽ chẳng có vị khách nào đi đòi hoàn tiền lại chịu làm trò đó đâu, thế nên bạn sẽ chẳng bao giờ phải thực sự móc tiền ra trả cả. Gần như là không bao giờ luôn.
+**<u>Góc nhìn của tôi:</u>** Đây cũng là một dạng bảo hiểm chi phí phát sinh, chỉ là theo một cách vô cùng độc đáo. Nếu có ai thực sự đòi bạn trả tiền lương theo giờ kiểu này, hãy yêu cầu họ đưa ra tờ khai thuế thu nhập rồi chia cho 1,960 (tổng số giờ làm việc trong một năm, tính 40 giờ/tuần). Sẽ chẳng có vị khách nào đi đòi hoàn tiền lại chịu làm trò đó đâu, thế nên bạn sẽ chẳng bao giờ phải thực sự móc tiền ra trả cả. Gần như là không bao giờ luôn.
 
 > **[Có điều kiện] Bảo hiểm hủy hợp đồng không mất phí (Release of Service Guarantee)**
 
@@ -2484,7 +2484,7 @@ Chống cam kết (anti-guarantee) cũng hoạt động cực kỳ hiệu quả 
 
 > **Cam kết Ngầm định: Mô hình Hiệu suất (Performance Models), Chia sẻ Doanh thu (Revshares), và Chia sẻ Lợi nhuận (Profit-Sharing)** 
 > 
-> **Hiệu suất (Performance):** A) ...Chỉ trả tôi $XXX cho mỗi đơn hàng/ $XXX cho mỗi lịch hẹn chốt thành công B) $XX cho mỗi cân nặng giảm được. 
+> **Hiệu suất (Performance):** A) ...Chỉ trả tôi XXX USD cho mỗi đơn hàng/ XXX USD cho mỗi lịch hẹn chốt thành công B) XX USD cho mỗi cân nặng giảm được. 
 > 
 > **Chia sẻ Doanh thu (Revshare):** A) 10% tổng doanh thu top-line B) 20% chia sẻ lợi nhuận C) 25% tăng trưởng doanh thu so với mốc cơ sở (baseline). 
 > 
@@ -2496,11 +2496,11 @@ Chống cam kết (anti-guarantee) cũng hoạt động cực kỳ hiệu quả 
 
 **<u>Khách hàng nhận được gì:</u>** Nếu bạn không tạo ra kết quả, họ không phải trả tiền. Nếu bạn làm được, thù lao của bạn đã được ấn định dựa trên thỏa thuận được chốt *trước* khi bạn bắt đầu làm việc. 
 
-**<u>Góc nhìn của tôi:</u>** Mô hình Hiệu suất, Chia sẻ doanh thu và Chia sẻ lợi nhuận không hẳn là các "cam kết" theo nghĩa đen, nhưng xét về mọi mặt thì chúng chính là cam kết. Luôn có một cam kết ngầm khi bạn bước vào một mối quan hệ đối tác chia sẻ doanh thu hoặc hiệu suất: nếu bạn không kiếm được tiền, bạn không phải trả tiền cho tôi. Theo quan điểm của tôi, đây là một trong những mô hình đáng khao khát nhất, nếu không muốn nói là DUY NHẤT. Đầu tiên, vì nó buộc bạn phải chịu trách nhiệm hoàn toàn với kết quả của khách hàng. Thứ hai, nó lọc sạch những kẻ làm ăn kém cỏi. Sự gắn kết hoàn hảo giữa khách hàng và nhà cung cấp dịch vụ sẽ nuôi dưỡng tinh thần hợp tác và mối quan hệ dài lâu. Tôi cực kỳ thích điều này. Điểm trừ duy nhất là khâu theo dõi và thu hồi công nợ. Thế nên, nếu bạn tìm được cách giải quyết vấn đề đó... bạn đã trúng mỏ vàng. Đây là một phần trong gói ưu đãi mà chúng tôi dạy cho các agency đang sử dụng phần mềm của mình. Chúng tôi giúp họ chuyển từ mô hình giữ chỗ (retainer model) sang mô hình hiệu suất và gói gọn nó vào Grand Slam Offer mà tôi đã trình bày trước đó. Tôi đã chứng kiến vô số agency phất lên từ $20k/tháng thành $200k+/tháng chỉ trong vài tháng ngắn ngủi. 
+**<u>Góc nhìn của tôi:</u>** Mô hình Hiệu suất, Chia sẻ doanh thu và Chia sẻ lợi nhuận không hẳn là các "cam kết" theo nghĩa đen, nhưng xét về mọi mặt thì chúng chính là cam kết. Luôn có một cam kết ngầm khi bạn bước vào một mối quan hệ đối tác chia sẻ doanh thu hoặc hiệu suất: nếu bạn không kiếm được tiền, bạn không phải trả tiền cho tôi. Theo quan điểm của tôi, đây là một trong những mô hình đáng khao khát nhất, nếu không muốn nói là DUY NHẤT. Đầu tiên, vì nó buộc bạn phải chịu trách nhiệm hoàn toàn với kết quả của khách hàng. Thứ hai, nó lọc sạch những kẻ làm ăn kém cỏi. Sự gắn kết hoàn hảo giữa khách hàng và nhà cung cấp dịch vụ sẽ nuôi dưỡng tinh thần hợp tác và mối quan hệ dài lâu. Tôi cực kỳ thích điều này. Điểm trừ duy nhất là khâu theo dõi và thu hồi công nợ. Thế nên, nếu bạn tìm được cách giải quyết vấn đề đó... bạn đã trúng mỏ vàng. Đây là một phần trong gói ưu đãi mà chúng tôi dạy cho các agency đang sử dụng phần mềm của mình. Chúng tôi giúp họ chuyển từ mô hình giữ chỗ (retainer model) sang mô hình hiệu suất và gói gọn nó vào Grand Slam Offer mà tôi đã trình bày trước đó. Tôi đã chứng kiến vô số agency phất lên từ 20k USD/tháng thành 200k+ USD/tháng chỉ trong vài tháng ngắn ngủi. 
 
-Bạn cũng có thể kết hợp mô hình chia sẻ doanh thu hoặc hiệu suất với một mức sàn tối thiểu. Sẽ giống như việc nói rằng: "chúng tôi nhận mức cao hơn giữa $1000 hoặc 10% tổng doanh thu tạo ra." Nhờ đó, nếu vì bất kỳ lý do gì mà khách hàng không tạo ra tiền, thì khoản này ít nhất cũng bù đắp được chi phí dịch vụ của bạn, v.v. 
+Bạn cũng có thể kết hợp mô hình chia sẻ doanh thu hoặc hiệu suất với một mức sàn tối thiểu. Sẽ giống như việc nói rằng: "chúng tôi nhận mức cao hơn giữa 1000 USD hoặc 10% tổng doanh thu tạo ra." Nhờ đó, nếu vì bất kỳ lý do gì mà khách hàng không tạo ra tiền, thì khoản này ít nhất cũng bù đắp được chi phí dịch vụ của bạn, v.v. 
 
-Hoặc nói rằng chúng tôi nhận $1000/tháng cho 3 tháng đầu tiên, sau đó sẽ chuyển sang 100% tính theo hiệu suất. Đây là lựa chọn lý tưởng cho các mô hình mất nhiều thời gian để khởi động. 
+Hoặc nói rằng chúng tôi nhận 1000 USD/tháng cho 3 tháng đầu tiên, sau đó sẽ chuyển sang 100% tính theo hiệu suất. Đây là lựa chọn lý tưởng cho các mô hình mất nhiều thời gian để khởi động. 
 
 Những loại ưu đãi này hoạt động cực kỳ hiệu quả khi bạn có các kết quả có thể đo lường được bằng con số. Tất nhiên, phương án mạnh mẽ nhất vẫn là: không có hiệu suất thì miễn thanh toán. 
 
@@ -2536,7 +2536,7 @@ Giống như cái cây đổ trong rừng mà không ai nghe thấy, việc sở
 
 Dưới đây là một ví dụ. Giả sử bạn nhìn thấy dòng chữ "Thử thách 6 Tuần Giải Tỏa Căng Thẳng Miễn Phí" và "Buổi Trải Nghiệm Buồng Phao Tắm (Float Tank Center Session)". Dù chúng có thể là một, chỉ khác tên gọi, nhưng chắc chắn bạn sẽ có xu hướng tương tác với cái đầu tiên nhiều hơn. 
 
-Và đây là khúc mắc: theo thời gian, các offer sẽ bị nhàm chán (fatigue). Ở các thị trường địa phương (local markets), sự nhàm chán này còn diễn ra nhanh hơn nữa. Tại sao? Trong một thị trường nội địa, chi phí để tiếp cận toàn bộ dân số là tương đối thấp. Trên hầu hết các nền tảng, bạn chỉ mất khoảng $20 để tiếp cận 1.000 người. Vậy nên, nếu khu vực mục tiêu của bạn có 200.000 dân, bạn chỉ tốn vỏn vẹn $10.000 để tiếp cận toàn bộ họ một lần. 
+Và đây là khúc mắc: theo thời gian, các offer sẽ bị nhàm chán (fatigue). Ở các thị trường địa phương (local markets), sự nhàm chán này còn diễn ra nhanh hơn nữa. Tại sao? Trong một thị trường nội địa, chi phí để tiếp cận toàn bộ dân số là tương đối thấp. Trên hầu hết các nền tảng, bạn chỉ mất khoảng 20 USD để tiếp cận 1,000 người. Vậy nên, nếu khu vực mục tiêu của bạn có 200,000 dân, bạn chỉ tốn vỏn vẹn 10,000 USD để tiếp cận toàn bộ họ một lần. 
 
 <u>Tuyên bố miễn trừ quan trọng: tiếp cận khán giả một lần không đồng nghĩa với việc offer đã bị nhàm chán.</u> Hầu hết mọi người thậm chí còn chẳng chú ý đến một offer ngay từ lần đầu tiên nhìn thấy. Đó là lý do bạn cần tạo ra các tài nguyên sáng tạo mới (video, hình ảnh), những cái móc câu (hooks) mới, câu chuyện mới và copy mới xoay quanh cùng một offer đó. Bạn vẫn có thể sử dụng các offer trong một thời gian dài. Nhưng khi chúng ta nói đến việc sử dụng tính bằng *năm*, chứ không phải bằng tháng, các offer cuối cùng cũng sẽ đến lúc bị bão hòa. 
 
@@ -2584,7 +2584,7 @@ Thành phần này gọi tên trực tiếp avatar lý tưởng của bạn: ai 
 
 Bạn chỉ đơn giản là cho mọi người biết khoảng thời gian họ có thể kỳ vọng. Điều này đưa ra một ví dụ về việc kết quả của họ sẽ mất bao lâu để đạt được.
 
-*Lưu ý:* Nếu bạn đưa ra bất kỳ tuyên bố định lượng nào (như mức tăng thu nhập hoặc giảm cân), hầu hết các nền tảng sẽ *không* phê duyệt kiểu thông điệp này *nếu kèm theo* một khoảng thời gian cụ thể để đạt được kết quả, bởi vì nó ngụ ý một sự đảm bảo. Nó ngụ ý rằng họ chắc chắn sẽ đạt được kết quả này trong một khoảng thời gian nhất định, điều này đi ngược lại các quy tắc của nhiều nền tảng. Vì vậy, đừng đưa ra kết quả định lượng đi kèm khoảng thời gian trừ khi nền tảng của bạn cho phép điều đó. Dù vậy, thời gian là một thành tố cực kỳ mạnh mẽ trong một Grand Slam Offer (Lời chào hàng đỉnh cao) và bạn chắc chắn nên sử dụng nó ở bất cứ đâu không bị vướng về vấn đề kiểm duyệt (compliance). Hoặc nếu mục tiêu bạn giúp họ đạt được không hẳn là một "tuyên bố" mang tính cam kết, thì hãy cứ thoải mái sử dụng khoảng thời gian. "$10.000 trong 10 ngày" so với "Chốt Đơn Hàng Đầu Tiên Trong 10 Ngày".
+*Lưu ý:* Nếu bạn đưa ra bất kỳ tuyên bố định lượng nào (như mức tăng thu nhập hoặc giảm cân), hầu hết các nền tảng sẽ *không* phê duyệt kiểu thông điệp này *nếu kèm theo* một khoảng thời gian cụ thể để đạt được kết quả, bởi vì nó ngụ ý một sự đảm bảo. Nó ngụ ý rằng họ chắc chắn sẽ đạt được kết quả này trong một khoảng thời gian nhất định, điều này đi ngược lại các quy tắc của nhiều nền tảng. Vì vậy, đừng đưa ra kết quả định lượng đi kèm khoảng thời gian trừ khi nền tảng của bạn cho phép điều đó. Dù vậy, thời gian là một thành tố cực kỳ mạnh mẽ trong một Grand Slam Offer (Lời chào hàng đỉnh cao) và bạn chắc chắn nên sử dụng nó ở bất cứ đâu không bị vướng về vấn đề kiểm duyệt (compliance). Hoặc nếu mục tiêu bạn giúp họ đạt được không hẳn là một "tuyên bố" mang tính cam kết, thì hãy cứ thoải mái sử dụng khoảng thời gian. "10,000 USD trong 10 ngày" so với "Chốt Đơn Hàng Đầu Tiên Trong 10 Ngày".
 
 **<u>Ví dụ:</u>** AA Phút, BB Giờ, CC Ngày, DD Tuần, Z Tháng. "4 Giờ", "21 Ngày", "6 Tuần", "3 Tháng".
 
@@ -2625,9 +2625,9 @@ Dưới đây, bạn sẽ tìm thấy một vài ví dụ về các offer đư�
 
 **<u>Y tế & Nha khoa (Doctors)</u>**
 
-- Giảm 2.000 USD cho gói biến hóa nụ cười ngôi sao
-- Các mẹ bỉm Lakeway - Giảm 1.500 USD niềng răng cho bé
-- Các mẹ bỉm Lakeway - 12 tháng để có nụ cười hoàn hảo (Giảm 1.000 USD cho 15 gia đình)
+- Giảm 2,000 USD cho gói biến hóa nụ cười ngôi sao
+- Các mẹ bỉm Lakeway - Giảm 1,500 USD niềng răng cho bé
+- Các mẹ bỉm Lakeway - 12 tháng để có nụ cười hoàn hảo (Giảm 1,000 USD cho 15 gia đình)
 - Quà tặng niềng răng miễn phí mùa tựu trường
 - Khai trương: Miễn phí X-quang & Điều trị - Giảm đau tức thì
 - Hết đau lưng! Chuyên sâu phục hồi nhanh 90 ngày (Giảm 81%!)
@@ -2709,9 +2709,9 @@ Nhưng chúng ta đã đi qua rất nhiều thứ, nên tôi muốn cho bạn ng
 
 ![](../assets/images/100m-offers/05-00.png)
 
-## 100.000 USD ĐẦU TIÊN CỦA BẠN
+## 100,000 USD ĐẦU TIÊN CỦA BẠN
 
-> *"100.000 USD đầu tiên thực sự là một cơn ác mộng quái quỷ, nhưng bạn bắt buộc phải vượt qua nó. Tôi không quan tâm bạn phải làm gì—nếu điều đó có nghĩa là đi bộ khắp mọi nơi và không ăn bất cứ thứ gì không được mua bằng phiếu giảm giá, hãy tìm cách bỏ túi cho bằng được 100.000 USD. Sau đó, bạn có thể giảm bớt áp lực chân ga một chút."*
+> *"100,000 USD đầu tiên thực sự là một cơn ác mộng quái quỷ, nhưng bạn bắt buộc phải vượt qua nó. Tôi không quan tâm bạn phải làm gì—nếu điều đó có nghĩa là đi bộ khắp mọi nơi và không ăn bất cứ thứ gì không được mua bằng phiếu giảm giá, hãy tìm cách bỏ túi cho bằng được 100,000 USD. Sau đó, bạn có thể giảm bớt áp lực chân ga một chút."*
 > 
 > CHARLIE MUNGER, PHÓ CHỦ TỊCH BERKSHIRE HATHAWAY
 
@@ -2743,13 +2743,13 @@ Tôi có cảm giác chương sách “đầy gian truân” trong cuộc đời
 
 “Nhìn này,” tôi nói. “Thật đấy, không đùa đâu.”
 
-Tôi rướn đầu ra khỏi vòng tay Leila. Tôi không dám nhìn thẳng vào mắt cô ấy vì biết điều đó sẽ khiến tôi vỡ oà. Tôi rút điện thoại ra và đặt lên giữa hai chúng tôi. Cả hai cùng dán mắt vào màn hình hiển thị số dư tài khoản ngân hàng không thay đổi. _$101,018_
+Tôi rướn đầu ra khỏi vòng tay Leila. Tôi không dám nhìn thẳng vào mắt cô ấy vì biết điều đó sẽ khiến tôi vỡ oà. Tôi rút điện thoại ra và đặt lên giữa hai chúng tôi. Cả hai cùng dán mắt vào màn hình hiển thị số dư tài khoản ngân hàng không thay đổi. _101,018 USD_
 
 Ánh mắt chúng tôi không rời, xác nhận một thực tại mới mà cả hai cùng chia sẻ. Đó không phải là ảo ảnh. Đó không phải là doanh thu. Đó cũng chẳng phải là “lợi nhuận” vẫn nằm trong tài khoản công ty, chực chờ bị khoắng sạch bởi một khoản chi phí phát sinh nào đó. Đó không phải là khoản tiền “đã bị đánh dấu” để chuẩn bị trả nợ. Đó là của *chúng tôi*. Hoàn toàn là sự thật.
 
 “Em yêu,” tôi nói. “Dù tụi mình có làm ăn bết bát đến mức không kiếm nổi một xu nào trong ba năm liền, thì chúng ta vẫn sống ổn.”
 
-Vào thời điểm đó, 33.000 USD mỗi năm là quá đủ để chúng tôi chi trả cho mức sống hiện tại trong suốt ba năm, *thậm chí còn dư dả chán*.
+Vào thời điểm đó, 33,000 USD mỗi năm là quá đủ để chúng tôi chi trả cho mức sống hiện tại trong suốt ba năm, *thậm chí còn dư dả chán*.
 
 Nhiều năm thăng trầm. Nhiều năm đổ tiền vào (các) doanh nghiệp chỉ để nhìn nó bốc hơi vào chi phí vận hành, lương bổng và những sai lầm ngớ ngẩn. Nhiều năm tham gia hội thảo, khóa học, workshop, chương trình coaching, mastermind… C-U-Ố-I CÙNG cũng đã chuyển hóa thành tài sản thực thụ. Cảm giác lúc đó như thể tôi vừa bước sang một đẳng cấp hoàn toàn mới. Sự gia tăng vượt bậc về tài sản này lớn hơn bất cứ cảm xúc nào tôi từng trải qua.
 
@@ -2785,7 +2785,7 @@ Chúng ta đã đi qua rất nhiều nội dung. Và tôi tin rằng để kiế
 
 11. Cách đặt tên sao cho chạm đến đúng khách hàng mục tiêu (avatar) của bạn.
 
-Giờ đây, bạn đang nắm trong tay một Grand Slam Offer có giá trị cao, biên lợi nhuận lớn và không bị đại trà hóa. Đây là viên gạch nền móng đầu tiên để xây dựng một doanh nghiệp tuyệt vời — một sản phẩm hoặc dịch vụ mà mọi người khao khát sở hữu và thực sự giải quyết được vấn đề của họ. Đối với nhiều người, chừng này là quá đủ để tạo ra doanh số khủng hơn, giá bán cao hơn và nhiều lợi nhuận hơn. Grand Slam Offer thực thụ đầu tiên sẽ là bệ phóng đưa bạn chạm mốc 100.000 USD đầu tiên. Với những ai vẫn muốn tiến xa hơn — điều đó hoàn toàn là quyền lợi chính đáng của một nhà tư bản như bạn.
+Giờ đây, bạn đang nắm trong tay một Grand Slam Offer có giá trị cao, biên lợi nhuận lớn và không bị đại trà hóa. Đây là viên gạch nền móng đầu tiên để xây dựng một doanh nghiệp tuyệt vời — một sản phẩm hoặc dịch vụ mà mọi người khao khát sở hữu và thực sự giải quyết được vấn đề của họ. Đối với nhiều người, chừng này là quá đủ để tạo ra doanh số khủng hơn, giá bán cao hơn và nhiều lợi nhuận hơn. Grand Slam Offer thực thụ đầu tiên sẽ là bệ phóng đưa bạn chạm mốc 100,000 USD đầu tiên. Với những ai vẫn muốn tiến xa hơn — điều đó hoàn toàn là quyền lợi chính đáng của một nhà tư bản như bạn.
 
 Xây dựng một cỗ máy thu hút khách hàng *sinh lời* còn đòi hỏi nhiều hơn thế. Tôi không thể nhồi nhét tất cả vào một cuốn sách duy nhất. Để tôn trọng thời gian của bạn, tôi muốn cuốn sách này vừa sâu sắc vừa dễ tiêu hóa. Dù vậy, cuốn sách tiếp theo sẽ dành riêng cho mục tiêu đó — *kiếm được nhiều hơn nữa* — thông qua việc tạo ra khách hàng tiềm năng (Lead Generation). Trong cuốn sách đó, tôi sẽ mổ xẻ *từng bước một* cách để có được khách hàng *có lãi*. Nghĩa là, nếu bạn thiết kế các chương trình khuyến mãi chuẩn xác, bạn sẽ chẳng bao giờ phải bỏ tiền túi ra để mua khách hàng mới nữa. Đó chính là chủ đề của **<u>Acquisition.com Tập II - 100M: Lead Generation</u>**.
 
@@ -2815,7 +2815,7 @@ P.S - (hãy xem chiếc vé vàng bên dưới)
 
 > **VÉ VÀNG: DÀNH CHO MỘT NGƯỜI**
 > 
-> **Nếu doanh nghiệp của bạn đang đạt mức doanh thu từ 3 triệu đến 50 triệu USD mỗi năm và bạn muốn nhận sự trợ giúp 1-1 từ tôi để scale (mở rộng) doanh nghiệp, hãy truy cập vào Acquisition.com. Cụ thể, chúng tôi chuyên giúp các công ty cung cấp dịch vụ, giáo dục, đào tạo, tư vấn, doanh nghiệp truyền thống (brick and mortar), hoặc cấp phép ngách scale** **_đến mức siêu lợi nhuận để họ chỉ cần làm giàu một lần duy nhất trong đời_ .** Tôi không phải kiểu người dạy bạn “kiếm đồng đô-la đầu tiên”, tôi là kiểu người giúp bạn “kiếm đồng đô-la cuối cùng mà bạn cần phải kiếm trong đời”. Nếu điều đó đúng với bạn, bạn đủ nhạy bén để tìm cách liên hệ với tôi qua website và đặt lịch gọi. Rất mong được gặp bạn, lắng nghe câu chuyện kinh doanh của bạn và xem liệu chúng tôi có thể giúp gì được cho bạn.
+> **Nếu doanh nghiệp của bạn đang đạt mức doanh thu từ 3 triệu đến 50 triệu USD mỗi năm và bạn muốn nhận sự trợ giúp 1-1 từ tôi để scale (mở rộng) doanh nghiệp, hãy truy cập vào Acquisition.com. Cụ thể, chúng tôi chuyên giúp các công ty cung cấp dịch vụ, giáo dục, đào tạo, tư vấn, doanh nghiệp truyền thống (brick and mortar), hoặc cấp phép ngách scale** **_đến mức siêu lợi nhuận để họ chỉ cần làm giàu một lần duy nhất trong đời_ .** Tôi không phải kiểu người dạy bạn “kiếm đồng USD đầu tiên”, tôi là kiểu người giúp bạn “kiếm đồng USD cuối cùng mà bạn cần phải kiếm trong đời”. Nếu điều đó đúng với bạn, bạn đủ nhạy bén để tìm cách liên hệ với tôi qua website và đặt lịch gọi. Rất mong được gặp bạn, lắng nghe câu chuyện kinh doanh của bạn và xem liệu chúng tôi có thể giúp gì được cho bạn.
 
 > **Bạn có từ chối việc tăng trưởng nhanh hơn không? Nếu không...**
 > 
