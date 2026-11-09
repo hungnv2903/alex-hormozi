@@ -1,6 +1,7 @@
 # /// script
 # dependencies = [
 #   "google-genai",
+#   "python-dotenv",
 # ]
 # ///
 import os
@@ -8,8 +9,17 @@ import re
 import sys
 import time
 from pathlib import Path
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+
+# Cấu hình UTF-8 cho console trên Windows
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+# Tải biến môi trường từ file .env
+load_dotenv()
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
@@ -95,11 +105,16 @@ def translate_chunk_with_retry(chunk_text: str, max_retries: int = 5) -> str:
             print(f" [Lỗi ({type(e).__name__}), thử lại lần {attempt}/{max_retries} sau {wait_time}s...] ", end="", flush=True)
             time.sleep(wait_time)
 
-def process_translation(input_file: str, output_file: str, target_chunk: int = None):
+def process_translation(input_file: Path | str, output_file: Path | str, target_chunk: int = None):
     input_path = Path(input_file)
+    output_path = Path(output_file)
+
     if not input_path.exists():
-        print(f"Lỗi: Không tìm thấy file '{input_file}'")
+        print(f"Lỗi: Không tìm thấy file '{input_path}'")
         return
+
+    # Tự động tạo thư mục đầu ra nếu chưa tồn tại
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Tự động tạo thư mục cache riêng biệt theo tên file đầu vào
     cache_dir = Path(f"cache_{input_path.stem}")
@@ -108,7 +123,7 @@ def process_translation(input_file: str, output_file: str, target_chunk: int = N
     content = input_path.read_text(encoding="utf-8")
     chunks = split_content_safely(content)
     total = len(chunks)
-    print(f"Tài liệu: {input_file} | Tổng số phần cần dịch: {total}")
+    print(f"Tài liệu đầu vào: {input_path} | Tổng số phần cần dịch: {total}")
     print(f"Thư mục lưu cache: {cache_dir.name}/\n")
 
     # Trường hợp dịch lại 1 chunk cụ thể
@@ -147,26 +162,49 @@ def process_translation(input_file: str, output_file: str, target_chunk: int = N
 
     # Tổng hợp toàn bộ các chunk đã dịch thành file hoàn chỉnh
     print("\nĐang tổng hợp thành tài liệu hoàn chỉnh...")
-    with open(output_file, "w", encoding="utf-8") as outfile:
+    with open(output_path, "w", encoding="utf-8") as outfile:
         for idx in range(1, total + 1):
             chunk_file = cache_dir / f"chunk_{idx:03d}.md"
             if chunk_file.exists():
                 outfile.write(chunk_file.read_text(encoding="utf-8") + "\n\n")
 
-    print(f"Hoàn thành xuất sắc 100%! Bản dịch lưu tại: {output_file}")
+    print(f"Hoàn thành xuất sắc 100%! Bản dịch lưu tại: {output_path}")
 
 if __name__ == "__main__":
-    # Nhận tên file từ tham số dòng lệnh hoặc dùng mặc định
-    in_file = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].isdigit() else "100M-LEADS-Alex-Hormozi_en.md"
-    out_file = in_file.replace("_en.md", "_vi.md")
-    if out_file == in_file:
-        out_file = f"{Path(in_file).stem}_vi.md"
+    if len(sys.argv) < 2:
+        print("Lỗi: Vui lòng cung cấp đường dẫn file markdown cần dịch.")
+        print("Cách dùng:")
+        print("  Dịch toàn bộ file:      uv run translate_agent_v3.py <path_to_md>")
+        print("  Dịch lại 1 chunk:       uv run translate_agent_v3.py <path_to_md> <chunk_id>")
+        sys.exit(1)
 
-    # Kiểm tra xem có truyền cờ dịch lại 1 chunk không
+    raw_path = Path(sys.argv[1])
+    input_dir = Path("en")
+    output_dir = Path("vi")
+
+    # Xác định đường dẫn file đầu vào: kiểm tra trực tiếp hoặc tìm trong thư mục en/
+    if raw_path.is_file():
+        in_path = raw_path
+    elif (input_dir / raw_path.name).is_file():
+        in_path = input_dir / raw_path.name
+    else:
+        in_path = raw_path  # để hàm process_translation báo lỗi không tìm thấy file
+
+    # Xác định chunk_id (nếu có)
     re_chunk = None
-    if len(sys.argv) > 1 and sys.argv[1].isdigit():
-        re_chunk = int(sys.argv[1])
-    elif len(sys.argv) > 2 and sys.argv[2].isdigit():
-        re_chunk = int(sys.argv[2])
+    if len(sys.argv) >= 3:
+        try:
+            re_chunk = int(sys.argv[2])
+        except ValueError:
+            print(f"Lỗi: chunk_id phải là số nguyên (nhận được: '{sys.argv[2]}')")
+            sys.exit(1)
 
-    process_translation(in_file, out_file, re_chunk)
+    # Xác định tên file đầu ra trong thư mục vi/
+    out_name = in_path.stem
+    if out_name.endswith("_en"):
+        out_name = out_name[:-3] + "_vi"
+    else:
+        out_name = f"{out_name}_vi"
+    out_path = output_dir / f"{out_name}.md"
+
+    process_translation(in_path, out_path, re_chunk)
