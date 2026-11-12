@@ -762,10 +762,6 @@ Tiếp theo, họ chốt được một số gói 21 USD—tuyệt vời. Trong 
 
 Sau đó, họ cho khách bắt đầu tập… đợi đúng 21 ngày… và xem ai là người ở lại.
 
-5
-
-6 Alex Hormozi
-
 Rồi họ đếm số thành viên đăng ký gói định kỳ (thường gọi là EFTs—Electronic Funds Transfers, tức hình thức chuyển khoản tự động) mới coóng của mình. Tỷ lệ chuyển đổi trung bình trong ngành từ khách tập thử sang hội viên chính thức là 35%, nhưng cứ cho là họ giỏi hơn mức trung bình đi, nên giữ lại được tận 50%.
 
 Điều này có nghĩa là họ thực ra chỉ thu về 15 EFTs mới—nói cách khác, chỉ có 15 hội viên đăng ký thanh toán tự động từ 30 khách tập thử đó. (Tất nhiên, có lẽ 3 khách trong số đó đã bỏ ngang và thậm chí chưa từng bén mảng đến tập buổi nào—nhưng tạm thời chúng ta cứ lờ đi đã).
@@ -784,18 +780,12 @@ Tóm lại, họ lại quay về vạch xuất phát… ngoại trừ việc h�
 
 Dưới đây là hình ảnh tóm tắt lại toàn bộ mớ bòng bong này.
 
-Gym Launch Secrets 7
-
 ###### vấn đề 2: vấn đề bán linh hồn
-
-
 
 <!-- Start of picture text -->
 199 tiền vào vs tiền ra<br>1000<br>100<br>10 lead<br>30<br>30<br>21<br>630<br>21 X 30 630<br>1199<br>ưu đãi rào cản thấp<br>21 ngày với 21<br>phần mềm<br>facebook ads<br>leads<br>chi phí trên mỗi lead<br>tỷ lệ chốt đơn<br>số lượng sale lbo 21 ngày<br>giá<br>doanh thu<br>hoa hồng ???<br>lợi nhuận ròng<br><!-- End of picture text -->
 
 ###### tiến trình chiến dịch
-
-
 
 <!-- Start of picture text -->
 chạy ads chuyển đổi<br>21 ngày thực hiện<br>chốt sale qua điện thoại eft<br>30 người<br>tuần 0 tuần 1 tuần 2 tuần 3 tuần 4 tuần 5 tuần 6 tuần 7<br><!-- End of picture text -->
@@ -803,8 +793,6 @@ chạy ads chuyển đổi<br>21 ngày thực hiện<br>chốt sale qua điện 
 - nhưng chờ đã... trong suốt 6 tuần đó, bạn cũng mất đi mức trung bình ngành là 10% mỗi tháng, đồng nghĩa với việc nếu bạn có 100 EFTs lúc đầu... bạn đã mất 15 người trong 1.5 tháng, đưa mức tăng trưởng ròng của bạn về mo và khiến bạn mất toi 1199 USD chỉ để dậm chân tại chỗ.
 
 Nghe nản không cơ chứ?
-
-8 Alex Hormozi
 
 ###### **Một Bộ Quy Tắc Hoàn Toàn Khác**
 
@@ -834,14 +822,9 @@ Chỉ có đúng ba con đường để phát triển doanh nghiệp của bạn
 
 ###### 3 con đường duy nhất để phát triển doanh nghiệp của bạn
 
-
-
 <!-- Start of picture text -->
-thu hút (acquire)<br>nâng cấp (ascend)<br>bán lại (resell)<br><!-- End of picture text -->
-
-9
-
-10 Alex Hormozi
+thu hút (acquire)<br>nâng cấp (ascend)<br>bán lại (resell)<br>
+<!-- End of picture text -->
 
 **Đường hướng tăng trưởng kinh doanh #1:** Kiếm thêm nhiều khách hàng mới.
 
@@ -871,8 +854,6 @@ Chúng ta sẽ đi qua từng bước một trong những chương tiếp theo.
 
 Lý do khiến bạn không thể thu hút khách hàng có lãi là vì bạn đang cạnh tranh ở một mức giá quá bèo bọt. Bạn đang bán một thứ hàng hóa đại trà, một thứ mà người tiêu dùng có thể nhìn vào phòng tập của bạn rồi so sánh với chỗ khác và bảo rằng: *"Ừ, hai chỗ này giống nhau đến mức tao cứ chọn chỗ nào rẻ hơn mà vào."*
 
-Gym Launch Secrets 11
-
 Dưới đây là bản dịch tiếng Việt, chuẩn phong cách kinh doanh thực chiến, giàu năng lượng của Alex Hormozi:
 
 ***
@@ -901,11 +882,7 @@ Giờ thì, chỉ có **irresistible offer** thôi là chưa đủ—bạn còn 
 
 7. Bribe (Mồi nhử) 
 
-8. Downsell Your Upsell for Continuity (Bán xuống từ gói nâng cấp để duy trì doanh thu định kỳ) 
-
-12 Alex Hormozi 
-
-Tuyệt vời. Giờ hãy đi sâu vào từng bước và xem cách chúng giúp **offer** của bạn trở nên đỉnh hơn nữa nhé. 
+8. Downsell Your Upsell for Continuity (Bán xuống từ gói nâng cấp để duy trì doanh thu định kỳ) Tuyệt vời. Giờ hãy đi sâu vào từng bước và xem cách chúng giúp **offer** của bạn trở nên đỉnh hơn nữa nhé. 
 
 Đầu tiên, tôi muốn nói rằng chúng tôi tính phí từ 500 đến 600 đô-la cho chương trình MIỄN PHÍ sáu tuần này. 
 
@@ -923,8 +900,6 @@ Việc **pre-frame** diễn ra ngay trên điện thoại. Bạn đặt câu h�
 
 - Anh/chị đã nghe về chủ phòng gym của chúng tôi qua các bài báo viết về anh ấy chưa? 
 
-Gym Launch Secrets 13 
-
 - Anh ấy không có nhiều lịch trống trong ba tuần tới, nhưng tôi có thể cố gắng nhét anh/chị vào tối mai vì có một ca hủy lịch phút chót. 
 
 **Mẹo chuyên gia:** Việc chốt đơn đã bắt đầu từ trước khi họ nhấc điện thoại gọi cho bạn. Hãy luôn ghi nhớ điều này. 
@@ -933,11 +908,7 @@ Bạn cũng cần **pre-frame** lý do thực sự khiến họ gọi cho bạn 
 
 Hãy luôn yêu cầu khách hàng tiềm năng điền vào bảng câu hỏi thông tin ban đầu (intake questionnaire) trước khi bạn bắt đầu pitch (giới thiệu) chương trình của mình. Điều này giúp bạn hiểu về khách hàng và mục tiêu của họ, nhưng quan trọng không kém, nó giúp bạn nắm bắt **pain points** của họ—lý do thực sự khiến họ liên hệ và muốn thay đổi. Và nó giữ cho nỗi đau đó luôn hiện hữu rõ mồn một trong tâm trí họ. Nó cũng giúp bạn **pre-sell** (bán trước) chương trình bằng cách khiến họ khao khát được làm việc với bạn… và chỉ bạn mà thôi. 
 
-Bạn có thể yêu cầu họ điền vào biểu mẫu ngay khi đăng ký trực tuyến bằng hệ thống trả lời tự động, gửi email cho họ 
-
-14 Alex Hormozi 
-
-ngay sau khi họ liên hệ, hoặc đưa tận tay khi họ bước vào cơ sở của bạn. Nếu đưa trực tiếp, hãy để họ hoàn thành trước, và dành vài phút xem qua trước khi bạn bắt đầu nói chuyện về các dịch vụ. Thao tác này giúp bạn định hình bản thân là một người thực sự quan tâm đến những thử thách của họ (điều mà dĩ nhiên là bạn có thật). 
+Bạn có thể yêu cầu họ điền vào biểu mẫu ngay khi đăng ký trực tuyến bằng hệ thống trả lời tự động, gửi email cho họ ngay sau khi họ liên hệ, hoặc đưa tận tay khi họ bước vào cơ sở của bạn. Nếu đưa trực tiếp, hãy để họ hoàn thành trước, và dành vài phút xem qua trước khi bạn bắt đầu nói chuyện về các dịch vụ. Thao tác này giúp bạn định hình bản thân là một người thực sự quan tâm đến những thử thách của họ (điều mà dĩ nhiên là bạn có thật). 
 
 Dưới đây là một số gợi ý về câu hỏi và các câu trả lời mẫu từ khách hàng. Tôi đúc kết điều này chủ yếu từ Dustin Napier và Dallas Wicker, nhưng rất nhiều chủ phòng gym xuất sắc khác cũng đóng góp câu hỏi và góc nhìn giúp hoàn thiện danh sách này. Đây là những người chốt được 85% **COLD TRAFFIC** (lượng khách hàng lạnh - những người bước chân vào cửa muốn dùng thử đồ miễn phí, nhưng rồi ra về với túi tiền nhẹ đi 600 đô-la và niềm tin mãnh liệt rằng cuộc đời họ chuẩn bị sang trang). 
 
@@ -956,8 +927,6 @@ Sau đó, bạn có thể tiếp tục với bảng câu hỏi. Một số câu 
 - Bạn đến đây để làm gì? 
 
    - ❍ Tôi muốn giảm cân/lấy lại vóc dáng/vận động thể thao tốt hơn. 
-
-Gym Launch Secrets 15 
 
 - Tình trạng thể lực hiện tại của bạn thế nào? 
 
@@ -997,8 +966,6 @@ Gym Launch Secrets 15
 
    - ❍ Quá tuyệt vời luôn. 
 
-16 Alex Hormozi 
-
 - Hiện trạng của bạn là gì? Trạng thái mong muốn của bạn là gì? ❍ Hiện tại tôi đang thừa 20kg. Tôi muốn về lại vóc dáng hồi đại học. 
 
 - Bạn đã từng chật vật giảm cân trong quá khứ chưa? ❍ Rồi. 
@@ -1021,11 +988,7 @@ Việc trả lời những câu hỏi định hình trước (pre-framing) này 
 
 ###### Mốc neo giá (Price Anchor)
 
-**Mốc neo giá** (Price anchor) là một mức giá cao hơn mà bạn muốn khách hàng phải suy nghĩ về nó trước khi bạn đưa ra mức giá thực tế. Do đó, trong kịch bản bán hàng (sales script), ở một thời điểm nào đó, bạn nên nhắc đến mức giá cao hơn này. Đó có thể là mức giá thông thường của bạn, hoặc có thể là số tiền mà các phòng tập khác đang thu cho một dịch vụ tương tự,
-
-Gym Launch Secrets 17
-
-hoặc thậm chí là chi phí họ sẽ phải tốn nếu tự mình làm tất cả mọi thứ. Nó chỉ cần là một con số cao hơn nhiều so với số tiền họ phải trả nếu đăng ký ngay hôm nay. Bạn thậm chí có thể tặng thêm một vài món quà (bonuses) khi họ đăng ký nóng tay, nhằm khiến mức giá trở nên hấp dẫn đến mức khó chối từ.
+**Mốc neo giá** (Price anchor) là một mức giá cao hơn mà bạn muốn khách hàng phải suy nghĩ về nó trước khi bạn đưa ra mức giá thực tế. Do đó, trong kịch bản bán hàng (sales script), ở một thời điểm nào đó, bạn nên nhắc đến mức giá cao hơn này. Đó có thể là mức giá thông thường của bạn, hoặc có thể là số tiền mà các phòng tập khác đang thu cho một dịch vụ tương tự, hoặc thậm chí là chi phí họ sẽ phải tốn nếu tự mình làm tất cả mọi thứ. Nó chỉ cần là một con số cao hơn nhiều so với số tiền họ phải trả nếu đăng ký ngay hôm nay. Bạn thậm chí có thể tặng thêm một vài món quà (bonuses) khi họ đăng ký nóng tay, nhằm khiến mức giá trở nên hấp dẫn đến mức khó chối từ.
 
 Tôi sẽ không đi sâu vào nghệ thuật giáp lá cà trong chốt sale tại đây. Bạn có thể tìm đọc thêm về điều đó ở phần còn lại của cuốn sách này. Hãy cứ áp dụng mốc neo giá và quan sát xem sự kháng cự khi mua hàng của khách hàng tiềm năng giảm đi nhiều đến thế nào khi bạn trò chuyện với họ.
 
@@ -1052,8 +1015,6 @@ Phương án nào nghe hấp dẫn hơn: một gói tập bootcamp hay một th�
 - Ba buổi tập mỗi tuần với PT (Trainer)
 
 - Nhóm kiểm tra tiến độ trực tuyến (Online accountability group)
-
-18 Alex Hormozi
 
 - Nền tảng trực tuyến cung cấp kiến thức giảm cân vĩnh viễn
 
@@ -1243,8 +1204,6 @@ Video<sup>:</sup> - thẻ ghi nhớ (flash cards) - nền - phong cảnh - quay 
 
 Hãy lấy Headline 1 kết hợp với Image 8 và Video 16 rồi đem đi **test**. Trộn lại lần nữa với Headline 3, Body Copy 2 và Image 12. Càng có nhiều mảnh ghép, bạn càng có nhiều trò vui để xáo trộn chúng với nhau.
 
-Gym Launch Secrets 29
-
 (Làm ơn đừng thấy quá tải ở đây nhé. Bạn có thể bắt đầu với số lượng ít và chỉ vài đoạn **copy** khác nhau. Theo thời gian, bạn sẽ thu thập ngày càng nhiều mảnh ghép hiệu quả.)
 
 Sau đó, tôi chuyển tất cả những thứ này cho đội ngũ **marketing** của mình để làm ra các **ads** mới. Kỹ thuật này mang lại cho bạn gần như vô số biến thể. Thế nên, ngay cả trong bán kính địa lý nhỏ bé bảy dặm của bạn, bạn vẫn luôn có thể tạo ra những chiếc **ads** mới toanh có khả năng **convert** (chuyển đổi) cao. (Đó là bán kính mà chúng tôi nhận thấy là "điểm ngọt" tối ưu cho một phòng gym địa phương. Không có chi nhé.)
@@ -1272,8 +1231,6 @@ Vì **copywriting** có thể là một trong những phần khó nhằn nhất 
 **9. Uy tín ngầm ẩn (Implied authority).** Điều này quay trở lại điểm số 1. Nếu bạn là đai đen hai đẳng tuyệt mật duy nhất trong khu vực, hãy nói ra điều đó. Nếu bạn đã chuyển hóa hơn 1.000 người trong 10 năm, hãy nói ra. Nếu bạn có khách hàng là vận động viên chuyên nghiệp, hãy nói ra. Điều đó sẽ tạo ra uy tín ngầm ẩn. Và mọi người luôn lắng nghe cũng như tin tưởng các nhân vật có thẩm quyền hơn.
 
 **10. P.S. = Câu quyền lực (power sentence).** **Headline** và phần P.S. là những phần được đọc nhiều nhất trong bất kỳ quảng cáo nào. Luôn phải có chúng. Và luôn đảm bảo rằng chúng phải thật mạnh mẽ.
-
-Gym Launch Secrets 31
 
 **11. Các bước tiếp theo rõ ràng.** Hãy làm cho nó. Đơn giản. Một. cách. ngu. ngốc. "Nếu bạn muốn X, hãy bấm vào nút này. Ở trang tiếp theo, hãy điền thông tin của bạn. Sau đó chọn một khung giờ thuận tiện để bạn đến mà chắc chắn bạn sẽ không bỏ lỡ." Bước 1. Bước 2. Bước 3. Họ sẽ không phải đoán mò. Khi viết ra, nghe có vẻ hơi ngớ ngẩn đấy. Nhưng nó SẼ giúp bạn kiếm được nhiều tiền hơn.
 
@@ -1366,8 +1323,6 @@ Nhiều chủ phòng gym hay ngại ngùng, sợ làm phiền người khác ho�
 
 Hãy ngẫm mà xem: nếu đến con cái mà đôi khi bố mẹ còn bỏ quên ở nhà trẻ, thì việc họ quên béng mất lịch hẹn với bạn là chuyện quá đỗi bình thường. Đừng có mà tự ái hay chảnh chọe mà không dám gửi nhiều tin nhắn nhắc nhở.
 
-38 Alex Hormozi 
-
 Tôi khuyến nghị thực hiện 15 lần tiếp cận (**outreach**) trong 3 ngày đầu tiên (kết hợp nhắn tin, gọi điện và email) để liên lạc với khách hàng. Ngay khi họ đặt lịch hẹn, hãy gửi ít nhất một lời nhắc mỗi ngày cho đến tận ngày hẹn. 
 
 Điều này sẽ tạo ấn tượng mạnh với họ: *"Phòng tập của Joe chắc phải huấn luyện đỉnh lắm—nhìn cách họ chăm sóc khách hàng kìa."* 
@@ -1377,8 +1332,6 @@ Tôi khuyến nghị thực hiện 15 lần tiếp cận (**outreach**) trong 3 
 **Tin Nhắn Dạng Video (Video Texts):** Tôi học chiến lược này từ Grant Cardone. Một nhân viên sales của ông ấy từng gửi cho tôi một đoạn video ngắn trong đó CẬY ẤY GỌI ĐÚNG TÊN TÔI. Tôi thấy chiêu này quá đỉnh nên đã áp dụng ngay lập tức và chứng kiến tỷ lệ khách đến phòng (show rate) tăng vọt. Một video đơn giản dài 15–20 giây gửi cho khách tiềm năng vào sáng ngày hẹn sẽ tạo ra những kỳ tích. 
 
 *Chào Tracy. Anh là Alex, một trong những HLV tại 123 Fitness. Chúng tôi là người thật việc thật và đây là phòng tập của bọn anh (_quay cửa ra vào & biển hiệu_) ngay đối diện [địa điểm mốc]. Em đã có tên trong danh sách đội ngũ tham gia [tên chương trình có thời hạn cụ thể] rồi đấy. Anh thấy lịch hẹn của em là tối nay lúc [giờ hẹn], nên anh chỉ muốn gửi video này để tự giới thiệu bản thân và cho em biết rằng bọn anh rất hào hứng được gặp cũng như giới thiệu em với mọi người. Nhắn lại cho anh biết áo size gì nhé, anh giữ riêng cho một chiếc. Hẹn gặp em sớm nha (_cười tươi và vẫy tay_).* 
-
-Gym Launch Secrets 39 
 
 Nếu bạn thấy việc này quá nhiều việc phải làm… bạn nói chuẩn rồi đấy. Nhưng cháy túi thì cũng tệ hại chẳng kém, nên bạn hoàn toàn có thể chọn: một là làm việc chăm chỉ, hai là phá sản. 
 
@@ -1418,8 +1371,6 @@ Kể nhanh cho bạn nghe một câu chuyện…
 
 Bạn tôi, Josh Price, là một trong những khách hàng đầu tiên của tôi. (Tôi hay trêu cậu ấy vì cậu ấy là một trong những người tốt tính và khiêm tốn nhất quả đất, và cậu ấy không bao giờ để bụng khi tôi bông đùa vài câu). Vài năm trước, tôi có sang hỗ trợ Josh làm sales cho phòng tập của cậu ấy. Hôm đó, tôi đang tư vấn cho một khách tiềm năng—người đã phản hồi lại các chiến dịch **Paid Ads** mà chúng tôi đang chạy—và tôi đã đi được nửa chặng đường của buổi tư vấn. Tôi đang hừng hực khí thế—ở vào thời điểm không thể bỏ dở hay nhường cho người khác—thì đột nhiên có một vị khách bước cửa bước vào. 
 
-Gym Launch Secrets 43 
-
 Nghe điên rồ đúng không? Một khách vãng lai (**walk-in**). Hiếm như động vật quý hiếm. 
 
 Josh lập tức dừng việc đang làm lại và chào đón "kỳ lân" này. 
@@ -1444,8 +1395,6 @@ Tôi chẳng thể kể tên nổi một ai cực kỳ xuất sắc trong lĩnh 
 
 Tất cả những gì bạn cần làm là mài giũa kỹ năng "cận chiến" trong bán hàng của mình và sẵn sàng ăn hành vài cú đấm trong những hiệp đầu tiên. Không sao cả. Bạn cứng cỏi mà. Bạn chịu được hết. 
 
-44 Alex Hormozi 
-
 Giống như bao kỹ năng khác, việc bạn thấy khó chỉ là do thiếu luyện tập chứ không phải do không có năng khiếu. Một khi đã nắm vững kỹ năng này, rất có thể bạn sẽ bắt đầu thấy thích thú và làm ngày càng tốt hơn. 
 
 Và một bộ khung sales vững chắc sẽ giúp bạn tiến bộ thần tốc.
@@ -1468,8 +1417,6 @@ Của bạn đây nhé…
 
 *(Sách này vốn không định viết về bán hàng đâu, nhưng mà tôi ngứa tay quá nên đành chịu.)*
 
-Gym Launch Secrets 45
-
 ###### **Lời chào bán hàng, Khu vực chờ và Phòng làm việc**
 
 Phần đầu tiên để tạo nên một cuộc trò chuyện đồng nhất chính là một môi trường đồng nhất. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng thương vụ hoàn toàn nằm trong tay bạn.
@@ -1477,8 +1424,6 @@ Phần đầu tiên để tạo nên một cuộc trò chuyện đồng nhất c
 Tôi sẽ cố gắng diễn đạt thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
 
 *(Sơ đồ bố trí văn phòng bán hàng: trang phải kín chữ | tiêu đề phải giả định khách đã chốt đơn | đặt bên dưới chồng hợp đồng đã ký là xấp phiếu điểm danh dày đặc | kê thật nhiều ghế | tuyệt đối không ngồi đối diện qua bàn | hãy ngồi lệch góc bên cạnh | chào đón bằng tên trong vòng 10 giây | phòng chờ với vô số social proof (bằng chứng xã hội) cực khủng | chuyên gia bước ra từ phòng làm việc để dẫn khách vào trong... | khách hàng tiềm năng bước vào | đội ngũ của bạn | phiếu điểm danh: tôi cần giúp đỡ, tôi sẽ thử, tôi rất nghiêm túc | đăng ký Thử thách Thể hình)*
-
-46 Alex Hormozi
 
 Hãy bắt đầu từ khoảnh khắc một khách hàng tiềm năng bước chân qua cửa. Dưới đây là mô hình bố trí lý tưởng cho lời chào hàng và văn phòng của bạn nhằm tối đa hóa tỷ lệ chốt đơn (**close rate**).
 
@@ -1490,13 +1435,9 @@ Hãy cùng phân tích sơ đồ này từng bước một nhé.
 
 3. Biến khu vực chờ thành một bức tường hoặc căn phòng tràn ngập những câu chuyện thành công (**testimonial**) khiến ai nhìn vào cũng phải kinh ngạc. Đó là những bức ảnh "trước và sau" của những người đã tập luyện cùng bạn. Dưới đây là ví dụ từ hai **Gym Lord** (Chúa tể phòng gym) của chúng tôi:
 
-Gym Launch Secrets 47
-
 1. Yêu cầu họ điền vào phiếu khảo sát trước khi bán hàng (**pre-sell intake questionnaire**). Việc này sẽ giúp cải thiện tỷ lệ chốt đơn của bạn và cả đội ngũ.
 
 2. Sau khi để họ có vài phút tự do ngắm nhìn các đánh giá, hãy dẫn họ vào khu vực tư vấn. Trước đó, bạn phải sắp xếp bàn làm việc sao cho **KHÔNG BAO GIỜ** ngồi đối diện trực diện với khách hàng tiềm năng. Bạn phải ngồi sát vai bên cạnh, cùng một phía với họ. Hãy kê thật nhiều ghế trong phòng để tạo cảm giác lúc nào cũng có đông người muốn tranh thủ sự chú ý của bạn, kèm theo một xấp hợp đồng đã ký dày bịch. (Cứ lấy mấy hợp đồng EFT ra nếu cần). Những món đồ này sẽ phát đi thông điệp ngầm rằng…
-
-48 Alex Hormozi
 
 - Bạn rất có sức hút và luôn được săn đón (**in demand**).
 
@@ -1538,10 +1479,6 @@ Hãy học nó. Hãy dùng nó. Kiếm tiền từ nó. Sau đó truyền lại 
 
 6. **R**EINFORCE (Củng cố) quyết định của họ… khiến họ phải há hốc mồm kinh ngạc.
 
-49
-
-50 Alex Hormozi
-
 Bây giờ bạn đã có một từ viết tắt cực kỳ dễ nhớ rồi, hãy cùng mổ xẻ chi tiết từng chữ cái nhé.
 
 ### làm rõ lý do họ hành động / xuất hiện 
@@ -1561,8 +1498,6 @@ Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì 
 Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mình. 
 
 <mark>g</mark> ắn nhãn họ với vấn đề mà bạn định giải quyết 
-
-Gym Launch Secrets 51 
 
 Đây là lúc bạn làm nổi bật hoặc tóm tắt trạng thái hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
 
@@ -1584,11 +1519,7 @@ Tôi biết—nghe hơi nhạt nhẽo phải không? Nhưng tôi vẫn dùng đ�
 
 Khách hàng của bạn rất có thể đang cảm thấy bản thân đã thất bại ở một mức độ nào đó, và đó là lý do họ không đạt được mục tiêu thể hình trong các lần thử sức trước. 
 
-Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một 
-
-52 Alex Hormozi 
-
-bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra khoảng cách nằm ở đâu, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
+Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra khoảng cách nằm ở đâu, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
 
 Sau đó, bạn sẽ so sánh và đối chiếu những việc họ đã làm trong quá khứ, đứng về phía những phương pháp đúng đắn và tách biệt dịch vụ của bạn khỏi những thứ họ từng ghét hoặc những thứ không mang lại kết quả. 
 
@@ -1608,11 +1539,7 @@ phân loại: đứng về phía tích cực, loại bỏ tiêu cực & các kho
 |chỉ dùng thuốc, sữa lắc, thực phẩm bổ sung||||
 |tập luyện tại nhà||||
 
-
-
 ###### Bạn còn từng làm gì nữa không? 
-
-Gym Launch Secrets 53 
 
 Sơ đồ nhỏ này sẽ kiếm cho bạn nhiều tiền hơn bạn tưởng tượng. Nó sẽ đập tan những niềm tin sai lầm của khách hàng về lý do tại sao họ từng thất bại. Tôi sẽ chia sẻ kịch bản để giải thích điều này ở phần tiếp theo. 
 
@@ -1628,11 +1555,7 @@ Khi chuyển sang bước chốt sale, bạn sẽ muốn gắn kết các **Lợ
 
 Đây là lúc chúng ta sử dụng toàn bộ dữ liệu đã thu thập được từ khách hàng và giải thích lý do vì sao từng phương pháp trước đây lại thất bại trong một bức tranh tổng thể lớn hơn. Có thể họ đã làm đúng một vài điểm ở mỗi hoàn cảnh, nhưng chưa đủ tất cả. Dưới đây là một kịch bản mẫu. 
 
-Ừm, tôi nghĩ mình đã hiểu vì sao những chương trình khác không mang lại cho bạn kết quả, hay những kết quả bền vững 
-
-54 Alex Hormozi 
-
-mà bạn đang tìm kiếm. Và sau khi nghe bạn chia sẻ, việc bạn có mặt ở đây hôm nay là hoàn toàn dễ hiểu. 
+Ừm, tôi nghĩ mình đã hiểu vì sao những chương trình khác không mang lại cho bạn kết quả, hay những kết quả bền vững mà bạn đang tìm kiếm. Và sau khi nghe bạn chia sẻ, việc bạn có mặt ở đây hôm nay là hoàn toàn dễ hiểu. 
 
 Tin vui đây—tôi nghĩ bạn sẽ thích chương trình của chúng tôi đấy. Và xét theo quá khứ của bạn, bạn hoàn toàn giống với 95% khách hàng của chúng tôi—những người đã lột xác ngoạn mục nhờ các chương trình này. Tôi có thể chia sẻ với bạn về những trường hợp đó không? (_Hãy khéo léo lấy sự đồng thuận của khách hàng bằng câu hỏi này để họ cảm thấy tâm phục khẩu phục khi bạn tư vấn chốt sale_). 
 
@@ -1643,8 +1566,6 @@ Hãy sử dụng một trong các kịch bản sau tùy thuộc vào yếu tố 
 **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn nhận được các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và cuộc gọi nhắc nhở trách nhiệm duy nhất mà bạn nhận được có phải là khi thẻ ngân hàng của bạn bị từ lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
 
 **Weight Watchers / Jenny Craig** (dinh dưỡng và tính trách nhiệm): “Khi tham gia các chương trình đó, họ đưa cho bạn một chế độ ăn và thỉnh thoảng hỏi thăm bạn. Nhờ vậy bạn đã giảm được cân. Quá tuyệt vời. Vấn đề duy nhất là 
-
-Gym Launch Secrets 55 
 
 bạn không giữ được cân nặng đó lâu dài, đúng không? Được rồi. Vấn đề nằm ở hai điểm sau: 1) Chế độ ăn đó không bền vững (nếu không thì giờ này bạn vẫn theo đuổi nó rồi) và 2) khi bạn giảm cân, quá trình trao đổi chất của bạn thực sự bị suy giảm vì bạn chẳng hề tập tạ hay kháng lực chút nào cả. 
 
@@ -1657,8 +1578,6 @@ Quá trình bạn vừa áp dụng với từng trường hợp trên chính là
 1. Nói ra điều họ tin.
 
 2. Chỉ ra tại sao điều đó sai.
-
-56 Alex Hormozi
 
 3. Nói ra điều gì là đúng.
 
@@ -1698,8 +1617,6 @@ Hy vọng là đến đây bạn đã nắm được mấu chốt. Bạn cần l
 
 Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàng về lý do tại sao họ thất bại trong quá khứ, đã đến lúc xây dựng lại sự tự tin cho họ. Họ đã biết vì giờ là lúc chúng ta chuẩn bị cho họ thành công.
 
-Gym Launch Secrets 57
-
 “Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để nhường lại một trong những suất tham gia cuối cùng, tôi cần biết liệu chị có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
 
 TẬP LUYỆN: “Chị có thể đến đây tập cùng huấn luyện viên 3 ngày một tuần trong [ _khoảng thời gian_ ] tới chứ? Tuyệt vời. Quá dễ phải không nào.”
@@ -1726,8 +1643,6 @@ DINH DƯỠNG: “Chị có thể tuân thủ theo một thực đơn nếu chú
 
 **Mẹo chuyên gia:** Đừng lược bỏ những thứ này nếu bạn đang có sẵn chúng. Khách hàng tiềm năng sẽ muốn xem xét chúng một cách chi tiết (dù thực ra họ chẳng biết mình đang nhìn cái gì đâu). Nó sẽ làm kéo dài thời gian chốt sale và thường dẫn đến những câu hỏi lạc đề, chẳng đi đến đâu. Nó chỉ tạo thêm cớ để họ phản bác (bất chấp thực tế là phần lớn bọn họ chẳng có chút kiến thức nào ngoài một bài báo trên Buzzfeed đọc được từ đời thuở nào). 
 
-58 Alex Hormozi
-
 Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của tôi, cách này vừa tiết kiệm thời gian lại vừa hiệu quả hơn rất nhiều. Nếu họ đòi xem tận mắt những thứ này, đó là một dấu hiệu cảnh báo đỏ (**red flag**). Tôi thường chỉ lướt qua nhanh và nói rằng đây chưa phải là bản thực đơn chính thức của họ, mà chỉ là bản mẫu mà thôi. TUYỆT ĐỐI không đưa thẳng tài liệu cho họ. Chỉ trưng ra rồi cất đi ngay (tạo cảm giác đây chỉ là một bản phác thảo sơ sài của thành phẩm, khiến nó trở nên không quá quan trọng).
 
 ĐỒNG HÀNH CAM KẾT (**ACCOUNTABILITY**): “Được rồi, phần cuối cùng là sự cam kết đồng hành. Bạn có thể lên kế hoạch tập luyện và dinh dưỡng đỉnh nhất thế giới, nhưng nếu không làm theo thì cũng bằng hòa, đúng không? Vì vậy, chúng tôi cực kỳ tự hào về việc kèm cặp và giữ cam kết với khách hàng. Chúng tôi làm điều đó theo ba cách:
@@ -1739,8 +1654,6 @@ Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của t
 - Chúng tôi cũng có các buổi kiểm tra tiến độ hàng tuần để đảm bảo chúng tôi làm tốt việc của mình và chị cũng đang làm tốt việc của chị. Nếu cần điều chỉnh thực đơn, chúng tôi sẽ làm ngay. Không còn kiểu ‘lên thực đơn xong rồi để đấy’ nữa. Cơ thể con người luôn thích nghi và chúng ta phải điều chỉnh cho phù hợp. Đó là một trong những lợi ích lớn nhất của việc có huấn luyện viên. Rất nhiều người vấp phải điểm dừng (**plateau**) và bị mắc kẹt. Chúng tôi đã thấy cảnh này hàng trăm lần, và chúng tôi biết rằng chỉ cần một tinh chỉnh nhỏ là có thể tiếp tục giảm cân mà không bị mất đà. Có hợp lý không ạ?”
 
 Nghe tuyệt vời quá phải không? Chị có muốn giữ một trong những suất cuối cùng không?
-
-Gym Launch Secrets 59
 
 À, chị đúng là gặp may đấy, vì tôi cũng không chắc mình sẽ chạy chương trình này được bao lâu nữa—đã có quá nhiều người đăng ký rồi.”
 
@@ -1767,8 +1680,6 @@ Trong bất kỳ tình huống bán hàng nào, bạn chỉ phải đối mặt 
    - ❍ “Tôi phải hỏi ý kiến chồng tôi đã.” 
 
    - ❍ “Tôi không bao giờ tự mình quyết định.” 
-
-60 Alex Hormozi 
 
 - Giá cả (Price) 
 
@@ -1812,11 +1723,7 @@ Ba bước chúng tôi thực hiện để củng cố quyết định gia nhậ
 
 Ngày nay, phần lớn những việc này có thể tự động hóa bằng hệ thống và công nghệ. Nhưng bạn vẫn nên xây dựng một trải nghiệm được chuẩn bị kỹ lưỡng cho khách hàng mới, giúp họ cảm thấy mình đặc biệt và tự tin rằng họ đã đưa ra quyết định đúng đắn. 
 
-Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những món quà trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò 
-
-62 Alex Hormozi 
-
-vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
+Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những món quà trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
 
 ###### **Cùng Ôn Lại Nào** 
 
@@ -1850,8 +1757,6 @@ Trước khi chọn một trong hai đường đó, hãy cùng điểm lại nh�
 
          - ➢ Công thức C-L-O-S-E-R 
 
-Gym Launch Secrets 63 
-
 Nào, sẵn sàng giải quyết vấn đề lớn thứ hai trong ngành thể hình chưa? 
 
 Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang hỏng hóc và cách để sửa chữa nó. 
@@ -1880,10 +1785,6 @@ Ba đòn bẩy vĩ mô đó là:
 
    - ❍ Đây là đòn bẩy "cơ bắp" và nặng đô nhất. Nó sẽ mổ xẻ toàn bộ các cách khác nhau để gia tăng sức chứa của cơ sở vật chất. Điều này cực kỳ tối quan trọng, vì nó cho phép bạn kiếm được nhiều tiền hơn rất nhiều ngay trên cơ sở hạ tầng hiện có. 
 
-67 
-
-68 Alex Hormozi 
-
 - Đòn bẩy vĩ mô số 3: Đòn bẩy Chi phí vận hành (Overhead Levers) 
 
    - ❍ Đây là đòn bẩy kém hào nhoáng nhất trong ba cái, nhưng lại vô cùng cốt lõi. Quan trọng không phải bạn kiếm được bao nhiêu, mà là bạn đút túi được bao nhiêu. Thế nên chúng ta sẽ mổ xẻ chính sách đãi ngộ nhân sự, chiến lược vận hành dịch vụ và các yếu tố khác để tinh gọn hóa phòng tập. 
@@ -1910,10 +1811,6 @@ Nếu bạn giống tôi hồi mới bắt đầu, hẳn bạn cũng từng tự
 
 Rồi thực tế vả thẳng vào mặt: tiền thuê nhà, lương nhân viên, chi phí hành chính, tiền mua phần mềm, tiền thuê dọn dẹp, việc hành chính, thiết bị hỏng hóc, chi phí sản xuất tài liệu marketing và vật phẩm (áo thun, sự kiện, biển hiệu, áp phích), chi phí quảng cáo, và... tôi đã nhắc đến việc hành chính chưa nhỉ? Thú thực, tôi chưa bao giờ nghĩ xa hơn được khoản tiền thuê mặt bằng. Tôi hoàn toàn mù tịt về việc vận hành một doanh nghiệp lại ngốn nhiều tiền đến thế. 
 
-69 
-
-70 Alex Hormozi 
-
 Và hàng loạt rắc rối khác bắt đầu xuất hiện:
 
 - Tôi phải chật vật đấu tranh để khách hàng chịu trả 120 USD/tháng. 
@@ -1934,10 +1831,6 @@ Nếu bạn thấy mình trong những vấn đề này, rất có thể bạn c
 
 Đây là bức ảnh chụp phiên bản trẻ trung và ít nếp nhăn hơn của tôi ngày trước. Nhìn lại nó, tôi gần như có thể cảm nhận lại niềm hy vọng tràn trề thuở ấy—chỉ là nó đi kèm với sự thiếu hiểu biết toàn tập về cách vận hành một doanh nghiệp. 
 
-Gym Launch Secrets 71 
-
-
-
 Và vâng, bức ảnh ở trang tiếp theo chính là nơi tôi đã ngủ suốt sáu tháng đầu tiên khởi nghiệp. Tôi không có đủ tiền vừa thuê căn hộ vừa thuê mặt bằng phòng tập. Tôi sống tạt ngang tạt ngửa trên xe hơi và tắm nhờ ở phòng tập LA Fitness cuối phố. 
 
 Tôi kể bạn nghe điều này để khẳng định rằng tôi đã lội bùn lội ruộng qua hết rồi. Đây không phải là lý thuyết suông phát ra từ mấy tòa tháp ngà. Đây là thực chiến. Và những chiêu thức này thực sự hiệu quả. 
@@ -1946,26 +1839,16 @@ Tôi kể bạn nghe điều này để khẳng định rằng tôi đã lội b
 
 Tôi hiểu chứ. Tôi đã trải qua hết rồi. Nhưng như tôi đã nói, luôn có một con đường tốt hơn thế. 
 
-72 Alex Hormozi 
-
-
-
 ###### Tiến lên nào. 
 
 Hình minh họa ở trang tiếp theo chỉ ra vấn đề cốt lõi của ngành công nghiệp microgym (phòng tập quy mô nhỏ). Nói một cách đơn giản, số lượng hội viên tính theo mức giá trung bình của thị trường để giúp một phòng tập có lãi thường vượt quá sức chứa hợp lý của không gian đó. 
 
-Gym Launch Secrets 73 
-
 Các lớp học trở nên đông đúc và chật kín, nhưng với mức giá trung bình của thị trường, phòng tập vẫn không thể có lãi. 
-
-
 
 <!-- Start of picture text -->
 Mức trung bình ngành :    118 USD/tháng<br>tập không giới hạn<br>Sức chứa tối đa<br>Điểm hòa vốn<br>lợi nhuận là bất khả thi<br>d<br>o<br>a<br>n<br>h<br>t<br>h<br>u<br>Hội viên<br><!-- End of picture text -->
 
 Ví dụ: một cơ sở huấn luyện nhóm lớn (large-group training) có sức chứa tối đa 16 người/buổi, trung bình doanh thu mỗi khách (eft) 120 USD/tháng, số hội viên hiện tại: 100 người, số buổi tập hàng ngày: 7, sức chứa tối đa: 114, giả sử 100 người đến tập mỗi ngày, sức chứa tối đa: 134, giả sử tỷ lệ tham gia theo mức trung bình ngành là 85%, doanh thu tối đa: 16.000 USD/tháng (134 X 120 USD). Tiền thuê mặt bằng: 4.250 USD, lương nhân sự: 4.000 USD (163 buổi X 25 USD), chi phí vận hành/marketing: 2.750 USD, điện nước/phần mềm/dọn dẹp: 1.750 USD, chi phí khác: 750 USD, chủ phòng tập nhận về: 1.500 USD, lợi nhuận: 0 USD.
-
-74 Alex Hormozi 
 
 Hãy cùng phân tích ví dụ trong hình minh họa. 
 
@@ -1997,8 +1880,6 @@ Các tiểu đòn bẩy tác động trực tiếp đến đòn bẩy giá vĩ m
 
 Phòng tập trung bình mà chúng ta thường thấy có bức tranh về công suất hoạt động như sau: 
 
-Gym Launch Secrets 75 
-
 Họ đang duy trì lịch dạy 7 buổi một ngày từ thứ Hai đến thứ Sáu và thường là 3 buổi vào dịp cuối tuần, chia đều cho thứ Bảy và Chủ Nhật. Gói hội viên mà hầu hết các phòng tập bán ra là gói không giới hạn, nghĩa là khách hàng thích đến tập lúc nào cũng được. Trung bình, họ có thể phục vụ 16 người mỗi buổi, tùy thuộc vào bài tập được lựa chọn. Mỗi buổi kéo dài một tiếng và tỷ lệ tham gia mỗi ngày thường đạt 85%. 
 
 Các tiểu đòn bẩy tác động đến đòn bẩy sức chứa vĩ mô gồm có: 
@@ -2027,8 +1908,6 @@ Chi phí phòng tập bao gồm tiền thuê mặt bằng, điện nước, mark
 
 - Chi phí cho những giờ làm việc đó 
 
-76 Alex Hormozi 
-
 **Lưu ý:** Số lượng buổi tập cũng sẽ chịu ảnh hưởng bởi những thay đổi mà chúng ta thực hiện trên đòn bẩy vĩ mô sức chứa. 
 
 Giờ thì quay lại với hình minh họa. 
@@ -2054,8 +1933,6 @@ Nhưng ngay cả với 131 hội viên — tại một cơ sở hoạt động t
 - 800 USD tiền điện nước, internet (điện thoại, Wi-Fi) và dụng cụ vệ sinh
 
 - 2.000 USD cho hệ thống quản lý quan hệ khách hàng (**CRM**), phần mềm và phí xử lý giao dịch
-
-Gym Launch Secrets 77
 
 - 1.000 USD cho marketing
 
@@ -2085,10 +1962,6 @@ Thế nên, dẫu biết đó không phải là một quyết định kinh doanh
 
 Nhưng sau vụ đó, chúng tôi thống nhất rằng anh ấy đang tự đẩy mình vào thế bờ vực. Khách hàng trả quá ít khiến mô hình kinh doanh của anh ấy không thể duy trì nổi, và chỉ cần một chi phí bất ngờ phát sinh là anh ấy lại rơi vào cảnh túng quẫn ngay.
 
-79
-
-80 Alex Hormozi
-
 Thế là chúng tôi tung ra một loạt thông báo gồm thư tay, tin nhắn phát tán (**text blast**), video và email gửi toàn bộ cơ sở khách hàng để giải thích lý do tại sao anh ấy buộc phải tăng giá. Cuối cùng, chúng tôi chốt mức 150 USD/tháng — một cú nhảy vọt KHỔNG LỒ. Anh ấy đã ĐẠT GẤP BA lần giá cũ ngay tại một thị trường có nền kinh tế èo uột bậc nhất cả nước. Kirk buộc phải hành động vì anh chẳng còn đường lùi. Hy vọng là bạn cũng sẽ hành động trước khi rơi vào bước đường cùng đó.
 
 Chúng tôi cũng giật đồng thời mọi đòn bẩy vĩ mô và vi mô có thể (**macro and micro lever**). (Tôi cực kỳ khuyến khích bạn nên làm theo cách này. Đã cắt giảm là cắt một lần cho sâu, cắt tận gốc).
@@ -2109,8 +1982,6 @@ Cũng giống như Kirk, Josh Ponton đang định giá dịch vụ quá thấp.
 
 Vì Josh đã lâm vào đường cùng và chẳng còn gì để mất, anh quyết định chơi canh bạc cuối cùng (**Hail Mary**) và đăng ký đồng hành cùng chúng tôi bằng 1.000 USD cuối cùng còn sót lại trong thẻ tín dụng.
 
-Gym Launch Secrets 81
-
 Chúng tôi bảo Josh nâng giá gói sản phẩm phễu (**front-end offer**) của anh ấy từ 21 USD lên 600 USD. Và đột nhiên, tất cả những con người này bắt đầu xuất hiện đúng giờ, tuân thủ nghiêm ngặt thực đơn dinh dưỡng và đạt được những kết quả tuyệt vời không tưởng. Ban đầu, Josh tỏ ra lưỡng lự vì anh cảm thấy áy náy khi thu phí cao đến vậy. Rồi anh nhận ra một chân lý mà rất nhiều chủ phòng gym của chúng tôi đã ngộ ra: nếu bạn thực sự muốn giúp đỡ mọi người, bạn phải khiến họ coi đó là ưu tiên hàng đầu. Và không gì làm được việc đó tốt hơn tiền bạc.
 
 Thế nên, nếu bạn thực sự muốn giúp đỡ người khác chứ không phải chỉ nói mồm cho sang miệng, hãy thu phí cao lên. Nhưng cụ thể là bao nhiêu?
@@ -2130,8 +2001,6 @@ Vậy tại sao lại đi copy bọn họ làm gì?
 Ở một mức độ nào đó, có thể bạn cũng nhận ra điều này, bằng chứng là bạn đang đọc cuốn sách này. Bạn có muốn biết thêm một bí mật nữa không? Cách dễ nhất để kiếm nhiều tiền hơn chính là thu phí cao hơn cho cùng một mức độ phục vụ. Đơn giản vãi chưởng. Ai cũng thấy nó đơn giản, nhưng đố ai dám làm.
 
 Nhiều người gặp khó khăn với khái niệm này, bởi nó bắt nguồn sâu xa từ giá trị bản thân và niềm tin cá nhân của họ về tiền bạc. Đó là lý do tại sao những nhân viên sale rỗng túi thường chốt sale kém—khách hàng có thể *cảm nhận* được sự tuyệt vọng. Nhưng khi bạn đã có tiền, tiền sẽ tự khắc chảy về nhiều hơn bởi vì bạn chẳng còn phải thèm khát nó nữa. Sẽ không còn sự tuyệt vọng nào cả. Nghe thì phũ phàng nhưng đó là sự thật.
-
-82 Alex Hormozi
 
 Đó là lý do tại sao người giàu ngày càng giàu hơn và khoảng cách kinh tế ngày càng nới rộng. Và cách duy nhất để bạn vượt qua rào cản đó là hiểu rằng: Định giá cao (premium pricing) chính là người bạn tốt nhất của bạn. Nó cho phép bạn vượt mức kỳ vọng, chăm sóc và phục vụ khách hàng theo cách chưa từng có tiền lệ.
 
@@ -2162,8 +2031,6 @@ lợi nhuận giá trị bản thân được cảm nhận NHẬN THỨC về T�
 ###### giá
 
 tăng tăng tăng tăng tăng
-
-Gym Launch Secrets 83
 
 Dưới đây là cách **vòng lặp giá tiêu cực** vận hành (điều mà HẦU HẾT các phòng gym đang làm).
 
@@ -2199,8 +2066,6 @@ Khi bạn TĂNG giá…
 
 - Giá trị cảm nhận về dịch vụ của bạn TĂNG.
 
-84 Alex Hormozi
-
 - Kết quả TĂNG theo hệ quả của việc tăng đầu tư và giá trị cảm nhận.
 
 - Khách hàng GIẢM mức độ đòi hỏi. (Đã bao giờ bạn để ý thấy những người trả bạn nhiều tiền nhất lại là những người dễ chịu nhất chưa?)
@@ -2224,8 +2089,6 @@ Nếu bạn chỉ làm một điều duy nhất sau khi đọc cuốn sách này
 ###### **Mô hình Định giá Tích cực**
 
 Nếu bạn cần một số con số ví dụ để có thêm động lực, đây chính là những gì tôi đang đề cập với mô hình thành viên mà chúng tôi khuyên dùng.
-
-Gym Launch Secrets 85
 
 **Nhóm Lớn (Large Group)**: 16+ học viên: 167$ – 225$/tháng*
 
@@ -2263,11 +2126,7 @@ Tùy bạn chọn.
 
 Nhưng ngay lúc này…
 
-Hãy nâng toàn bộ giá EFT (Electronic Funds Transfer - Trợ giá chuyển khoản tự động/Hợp đồng trả góp định kỳ) mới của bạn lên mức tôi vừa liệt kê. Không có ngoại lệ. Giữ nguyên mức giá cũ (grandfather in) cho các hội viên đời đầu cho đến khi phòng tập chạm ngưỡng công suất, sau đó...
-
-Gym Launch Secrets 87
-
-hãy đồng thời tăng giá đối với họ. Đó là quy luật kinh tế cơ bản: cung và cầu. Ai cũng hiểu rằng giá sẽ tăng khi nguồn cung giảm. 
+Hãy nâng toàn bộ giá EFT (Electronic Funds Transfer - Trợ giá chuyển khoản tự động/Hợp đồng trả góp định kỳ) mới của bạn lên mức tôi vừa liệt kê. Không có ngoại lệ. Giữ nguyên mức giá cũ (grandfather in) cho các hội viên đời đầu cho đến khi phòng tập chạm ngưỡng công suất, sau đó... hãy đồng thời tăng giá đối với họ. Đó là quy luật kinh tế cơ bản: cung và cầu. Ai cũng hiểu rằng giá sẽ tăng khi nguồn cung giảm. 
 
 ###### **Đòn Bẩy Giá Vi Mô #2: Cấp Độ Thành Viên (Membership Levels)** → **Tối Ưu Lợi Nhuận Trên Mỗi Thành Viên** 
 
@@ -2285,8 +2144,6 @@ Cô ấy sẵn sàng trả nhiều tiền hơn.
 
 Nhưng tôi lại không dám thu cao hơn. Dù vậy, tôi đã sửa sai điều đó… cực kỳ nhanh chóng. 
 
-88 Alex Hormozi 
-
 ###### **Đường Cong Mua Hàng (The Buying Curve)** 
 
 Mỗi phòng tập đều có cách riêng để phân chia cấp độ thành viên và cấu trúc dịch vụ. Và như tôi đã đề cập trước đó, rất nhiều trong số đó thực sự ngớ ngẩn, vô lý và cho thấy sự mơ hồ về các nguyên tắc định giá cơ bản. Họ định giá dựa trên mức trung bình của thị trường. Hoặc họ lao vào cuộc chiến hạ giá (race to the bottom) để chơi khăm các đối thủ cạnh tranh ở địa phương. 
@@ -2297,12 +2154,8 @@ Nhưng điều quan trọng nhất cần ghi nhớ là: bạn phải thu đúng 
 
 ###### <u>ĐƯỜNG CONG MUA HÀNG THEO GIÁ THÀNH VIÊN (MEMBERSHIP PRICE BUYING CURVE)</u> 
 
-
-
 <!-- Start of picture text -->
 25 100 167<br>20<br>nhóm lớn (large group)<br>1 kèm 4 (1 on 4)<br>bán riêng tư (semi private)<br>10<br>5<br>225 500 700<br>nhu cầu (demand)<br><!-- End of picture text -->
-
-Gym Launch Secrets 89 
 
 Được rồi, tôi gọi đây là đường cong quả dưa hấu (watermelon curve). (Màu sắc không thể hiện được trong sách, nhưng hãy tin tôi—nếu có màu, các phần xanh và đỏ trông giống như những lát dưa hấu có hạt bên trong). Đường cong mua hàng này mang lại những insight cực kỳ đắt giá cho doanh nghiệp của bạn. 
 
@@ -2320,8 +2173,6 @@ Bây giờ, khi chúng ta đã vạch ra các cấp độ thực thi dịch vụ
 
 Bất kỳ mục nào có ký hiệu dấu đô la ($) chính là phân khúc giá lý tưởng bạn nên hướng tới cho cấp độ dịch vụ đó. Bất kỳ mục nào có dấu X là vùng bạn tuyệt đối nên tránh. 
 
-90 Alex Hormozi 
-
 Lý do nằm ở bài toán kinh tế về công suất và khả năng sinh lời. Tôi cũng muốn bạn chú ý đến Phần C, nơi ngập tràn các dấu X. Đó là vùng thực thi cho quy mô từ 5 đến 15 người. Đây là thứ tôi gọi là Vùng Đất Câm Lặng (No Man’s Land), bởi vì MẶC DÙ bạn CÓ THỂ phục vụ ở mức giá đó, nhưng bạn sẽ không tối đa hóa được tiềm năng kinh doanh của mình. 
 
 Trong trường hợp này, bạn đang bị kẹt giữa hai tệp khách hàng khác nhau. Một bên là những người thực sự chỉ đủ khả năng chi trả khoảng 200 USD/tháng nhưng lại phải oằn mình trả mức 300 đến 500 USD. Và một bên là những người đang bị thu phí quá rẻ, giống như trong câu chuyện của tôi—những người có thể và thực ra rất muốn nhận dịch vụ cao cấp hơn nhưng lại không nhận được sự quan tâm sát sao tương xứng. 
@@ -2335,8 +2186,6 @@ Bạn KHÔNG HỀ muốn dấn thân vào phân khúc này chút nào. Sự cạ
 ###### **Nhóm Lớn (Large Group)** 
 
 Bạn nên đặt mức giá ở 199 USD/tháng tại đây. Trên thực tế, khoảng từ 167 đến 225 USD là biên độ chúng tôi khuyên dùng, bởi vì chúng tôi đã kiểm chứng nó mang lại hiệu quả. Bất kỳ mức nào thấp hơn bạn sẽ gặp vấn đề về công suất và bài toán lợi nhuận. Hãy tránh xa vùng giá từ 99 đến 167 USD. Đây là mức giá mà hầu hết các phòng tập đang áp dụng, nhưng nó không đủ nguồn lực tài chính để cung cấp chất lượng dịch vụ cần thiết. Và **hầu hết mọi người sẵn sàng trả nhiều hơn nếu họ nhận được giá trị tương xứng** tiến tới phân khúc cao cấp này… hãy tin tôi đi. Khoảng từ 167 đến 225 USD/tháng chính là "thiên đường" bạn cần sống trong thế giới tập nhóm lớn. 
-
-Gym Launch Secrets 91 
 
 ###### **Nhóm Trung Bình (Medium Group)** 
 
@@ -2352,8 +2201,6 @@ Tóm lại, bạn có thể coi tất cả mọi người ở Vùng X (X Zone) l
 
 Pain points (Điểm đau) là la bàn cực kỳ hữu ích khi bạn quyết định thiết lập các gói hội viên (membership levels). Sơ đồ bốn góc (quadrant) dưới đây thể hiện mối quan hệ giữa pain points, nhu cầu và mức giá. Một pain point thấp đồng nghĩa khách hàng chưa gặp quá nhiều phiền toái, trong khi pain point cao khiến họ thực sự "đau khổ". Những người có pain point cao cực kỳ khao khát thay đổi và chắc chắn sẽ sẵn sàng chi nhiều tiền hơn để giải quyết vấn đề của mình. 
 
-92 Alex Hormozi 
-
 Chúng ta sẽ dùng hai mức giá làm ví dụ cho trường hợp này: $199/tháng và $499+/tháng. 
 
 Vậy nhóm khách hàng nào sẽ chi trả cho các mức giá này? 
@@ -2368,8 +2215,6 @@ Vậy nhóm khách hàng nào sẽ chi trả cho các mức giá này?
 Dĩ nhiên, định nghĩa thế nào là “người giàu” và “thu nhập thấp” sẽ thay đổi tùy thuộc vào vị trí địa lý và thị trường ngách của bạn. 
 
 Dựa vào thông tin này, bạn có thể xây dựng các cấp độ hội viên của mình. (Lại nhấn mạnh, chúng ta không tính cước theo tháng — đây chỉ là các ví dụ minh họa.) 
-
-Gym Launch Secrets 93 
 
 **Cấp độ hội viên thấp hơn:** $167–$225/tháng 
 
@@ -2399,8 +2244,6 @@ Như câu chuyện ở phần đầu đã minh họa, nếu bạn tính mức gi
 
 Nhưng tại sao lại không có mức giá ở giữa hay cấp độ số lượng người ở giữa cho mỗi buổi tập? 
 
-94 Alex Hormozi 
-
 Như tôi đã đề cập, tôi gọi đây là Vùng Đất Câm Lặng (No Man’s Land), và tôi khuyên bạn nên tránh nó bằng mọi giá. 
 
 Mô hình này trông như thế này: 
@@ -2417,8 +2260,6 @@ Khi các phòng gym tôi cố vấn áp dụng mô hình hai cấp độ này, l
 Đường cong mua hàng (buying curves) cũng giống như việc thích ứng với đường cong sức mạnh trong thể hình. Bạn muốn tối ưu hóa lực cản sao cho phù hợp với khả năng sinh công của cơ bắp. Bạn mạnh nhất ở điểm cao nhất của bài gánh tạ (squat), nên bạn có thể thêm dây kháng lực hoặc xích để tăng độ khó; và bạn yếu nhất ở điểm thấp nhất, nơi tạ nhẹ hơn. Lý thuyết thể hình là bạn ép cơ bắp hoạt động ở cường độ trung bình cao hơn để từ đó trở nên mạnh mẽ hơn. 
 
 Hãy suy nghĩ về cách định giá của bạn theo cách tương tự. Chỉ có điều, "sức mạnh" ở đây chính là khả năng chi tiền của khách hàng tiềm năng (prospects). Bạn muốn chiến lược định giá và quá trình thực thi dịch vụ (fulfillment) khớp hoàn hảo với khả năng chi trả của họ. 
-
-Gym Launch Secrets 95 
 
 ###### **Hãy Giữ Mọi Thứ Thật Đơn Giản** 
 
@@ -2437,8 +2278,6 @@ $119/tháng cho 3 buổi/tuần VÀ $139/tháng tập không giới hạn
 HOẶC 
 
 $129/tháng tập không giới hạn VÀ $149/tháng tập không giới hạn kèm dinh dưỡng 
-
-96 Alex Hormozi 
 
 Có hàng triệu biến thể cho những gói này tùy thuộc vào việc khách muốn đến tập bao nhiêu buổi một tuần. Cuối cùng, ai nấy đều vướng vào một kế hoạch tùy chỉnh kỳ quặc mà chỉ có nhân viên tư vấn mới nhớ nổi. Và phần lớn khách hàng đang trả mức phí THẤP HƠN so với những gì họ đáng lẽ phải chi trả. 
 
@@ -2459,8 +2298,6 @@ Có hàng triệu biến thể cho những gói này tùy thuộc vào việc kh
 Trong số tất cả các đòn bẩy được đề cập trong cuốn sách, đây là đòn bẩy dễ áp dụng nhất. Tôi có thể khẳng định gần như 100% các phòng gym trong mạng lưới của chúng tôi đã áp dụng nó chỉ trong vòng hai tháng đầu hợp tác. Nó thực sự mạnh mẽ đến vậy. Tôi thường thích mở đầu mỗi phần bằng một câu chuyện thực tế để chứng minh tính hiệu quả của sự thay đổi. Nhưng trên thực tế, đòn bẩy này quá dễ kéo, đến mức mọi phòng gym trong hệ thống của chúng tôi đều đã chuyển sang áp dụng và gặt hái ngay những trái ngọt. 
 
 Đây cũng là một trong những đòn bẩy yêu thích nhất của tôi, bởi vì hầu hết các chủ phòng gym đều không nhận ra họ đang để sót lại quá nhiều tiền trên bàn. 
-
-Gym Launch Secrets 97 
 
 Đầu tiên, hãy cùng nhìn vào các vấn đề của chu kỳ thanh toán theo tháng truyền thống.
 
@@ -2484,8 +2321,6 @@ Nếu không thu tiền theo tháng, thì còn những lựa chọn nào? Bạn 
 |Số kỳ thu tiền mỗi năm|52|26|13|12|
 ||↑|||↑|
 
-98 Alex Hormozi
-
 **Lựa chọn chu kỳ thanh toán mới của bạn: Cứ mỗi 7 ngày, 14 ngày, hoặc 28 ngày**
 
 ###### **Yếu tố #1: Khả năng bán hàng (Sellability)**
@@ -2495,8 +2330,6 @@ Người chiến thắng: Chu kỳ 7 ngày
 Kẻ thua cuộc: Chu kỳ 28 ngày
 
 Tôi biết từ *sellability* không phải là một từ chuẩn mực trong từ điển, nhưng đó là cách dễ hiểu nhất để diễn giải một thực tế: chu kỳ 7 ngày dễ chốt sales hơn chu kỳ 28 ngày. Thời gian càng ngắn, con số nghe càng rẻ. Chắc hẳn bạn đã từng thấy quảng cáo bảo hiểm kiểu như: *"Chỉ tốn chưa tới $3,31 mỗi ngày để bảo vệ gia đình bạn."* Họ nói vậy vì $3,31 nghe rất rẻ. Nếu tính theo ngày thì còn rẻ nữa, nhưng làm vậy thì cực kỳ rắc rối khâu thiết lập thanh toán và tốn thêm phí giao dịch. Dù sao thì chắc bạn cũng hiểu ý tôi.
-
-Gym Launch Secrets 99
 
 Đã đến lúc xắn tay áo vào thực chiến với một vài ví dụ cụ thể.
 
@@ -2524,8 +2357,6 @@ Người chiến thắng: Chu kỳ 28 ngày
 
 Kẻ thua cuộc: Chu kỳ 7 ngày
 
-100 Alex Hormozi
-
 Mặt trái của việc tăng chu kỳ thanh toán là giao dịch càng nhiều, công việc xử lý thanh toán càng nặng. Do đó, việc thu tiền hàng tuần sẽ tạo ra khối lượng giao dịch gấp bốn lần. Tuy nhiên, phần lớn bất lợi này hoàn toàn có thể được giải quyết bằng một chính sách hội viên rõ ràng giống như của chúng tôi.
 
 Chúng tôi không chấp nhận bảo lưu (freeze) thẻ trong bất kỳ khoảng thời gian nào dài hơn hoặc ngắn hơn một tháng. Cụ thể, việc bị ốm vài ngày, đi nghỉ mát một tuần hay một kỳ nghỉ cuối tuần kéo dài, hay đi công tác xa đều không đủ điều kiện để được bảo lưu hoặc hoàn tiền dưới mọi hình thức. Nếu 123 Fitness muốn, họ có thể—với điều kiện khách hàng có lịch sử thanh toán đúng hạn và tư cách tốt—cộng dồn số buổi tương ứng để phân bổ trong thời gian do 123 Fitness quyết định. Việc này nhằm giảm bớt công việc hành chính không cần thiết và bắt buộc mọi người phải có trách nhiệm đến lớp tập luyện.
@@ -2537,8 +2368,6 @@ Giờ hãy nói về những con số tiền thật việc thật.
 Một phòng gym trung bình tạo ra $12.000 doanh thu mỗi tháng, tức là $144.000 mỗi năm. Họ đang bỏ túi mức trung bình của ngành là 12%, tương đương khoảng $17.280 mỗi năm. (Lưu ý nhé, nếu vài con số ở đây có chênh lệch một chút so với ví dụ trước, đừng có xoắn. Đây chỉ là ví dụ minh họa thôi).
 
 Nếu bạn áp dụng thay đổi này và chuyển từ chu kỳ thanh toán hàng tháng sang chu kỳ 28 ngày, số tiền bỏ túi của bạn sẽ tăng từ $17.280 lên $29.280.
-
-Gym Launch Secrets 101
 
 Và bạn PHẢI THAY ĐỔI MỌI THỨ ngoại trừ chu kỳ thanh toán. Nếu bạn kết hợp chiến thuật này với một đợt tăng giá nữa, kết quả sẽ cực kỳ bùng nổ.
 
@@ -2565,8 +2394,6 @@ Bạn làm được mà.
 Giá cả không phải là đòn bẩy duy nhất bạn có thể dùng để cứu vãn một mô hình doanh thu đang ì ạch.
 
 Phần tiếp theo, chúng ta sẽ khám phá sự kỳ diệu mà bạn có thể tạo ra với các đòn bẩy tối ưu công suất (capacity profit levers).
-
-102 Alex Hormozi
 
 ###### **Hành động ngay (Actions to Take)**
 
@@ -2608,8 +2435,6 @@ Có thể phòng gym của bạn không vướng phải vấn đề về sợi d
 
 Vấn đề tại phòng gym của Josh là họ đã để một bài tập duy nhất giới thiệu năng lực và làm nghẽn cổ chai toàn bộ doanh nghiệp. Kết quả là họ kiếm được ít tiền hơn mức có thể tính trên mỗi mét vuông mặt bằng. Để phòng gym đạt mức lợi nhuận tối đa, bạn phải sử dụng không gian của mình một cách hiệu quả và tối ưu. 
 
-Gym Launch Secrets 105 
-
 Dưới đây là 5 vi đòn bẩy giúp tối đa hóa công suất: 
 
 1. Cấp độ Thành viên (Membership Levels): số buổi mà một hội viên có thể tham gia. 
@@ -2642,8 +2467,6 @@ Hãy nghĩ về một vài ví dụ về dịch vụ “sử dụng không giớ
 
 - Globo Gyms 29/month 
 
-106 Alex Hormozi 
-
 _*Mức giá tính đến năm 2018._ 
 
 Bạn đã bao giờ nghe đến dịch vụ huấn luyện cá nhân (personal training) không giới hạn chưa? Không, làm gì có chuyện đó, bởi vì personal training là thứ có giá trị. 
@@ -2658,11 +2481,7 @@ Tôi tin rằng dịch vụ chúng ta cung cấp cũng có giá trị tương t�
 
 Nếu có ai thắc mắc tại sao phòng gym của bạn không có các gói tập không giới hạn, bạn có thể giải thích kiểu như… 
 
-“Chúng tôi yêu cầu mọi người cam kết những ngày cụ thể, bởi vì nếu anh/chị cứ thích lúc nào đến cũng được thì rốt cuộc sẽ chẳng bao giờ đến cả. Thế nên 
-
-Gym Launch Secrets 107 
-
-chúng tôi yêu cầu hội viên lên lịch cho buổi tập của họ y như đi hẹn gặp nha khoa vậy, nhờ thế họ sẽ có xu hướng hoàn thành buổi tập cao hơn.” 
+“Chúng tôi yêu cầu mọi người cam kết những ngày cụ thể, bởi vì nếu anh/chị cứ thích lúc nào đến cũng được thì rốt cuộc sẽ chẳng bao giờ đến cả. Thế nên chúng tôi yêu cầu hội viên lên lịch cho buổi tập của họ y như đi hẹn gặp nha khoa vậy, nhờ thế họ sẽ có xu hướng hoàn thành buổi tập cao hơn.” 
 
 ###### HOẶC 
 
@@ -2679,8 +2498,6 @@ Vi đòn bẩy này bao gồm hai thành tố:
 - A. Tỷ lệ phần trăm những người phải đi tập mỗi ngày và thực tế có đến tập. 
 
 - B. Mức độ phân bổ đều đặn của họ giữa các khung giờ trống.
-
-108 Alex Hormozi 
 
 Hiển nhiên là với đòn bẩy này, mục đích KHÔNG PHẢI là khiến khách hàng đến phòng tập ít đi. Làm thế thì tỷ lệ khách rời bỏ (attrition) sẽ tăng vọt, và tình hình của bạn sẽ còn tồi tệ hơn xuất phát điểm. Ngoài việc phi đạo đức ra, thì đây đơn giản là một cách làm kinh doanh tồi.
 
@@ -2700,11 +2517,7 @@ Kế thừa đòn bẩy trước đó, việc quy định ba buổi tập mỗi 
 
 Hãy thông báo cho họ những khung giờ nhận được nhiều sự quan tâm nhất — nói cách khác, là những ca tập còn nhiều chỗ trống — nhờ đó bạn có thể phân bổ hội viên đều khắp các buổi sáng và chiều.
 
-Khi chốt khách hàng mới, hoặc khi trao đổi với khách hàng hiện tại để giới thiệu cấu trúc gói tập mới, hãy đưa ra các khung giờ tập 
-
-Gym Launch Secrets 109 
-
-theo thứ tự từ ít người chọn nhất đến phổ biến. Mọi người sẽ tìm cách sắp xếp nếu được yêu cầu giải quyết một bài toán. Vì vậy, hãy bắt đầu với ca ít người nhất, chẳng hạn như Thứ Ba/Thứ Năm/Thứ Bảy lúc 8:00 sáng. Nếu họ đồng ý, bạn vừa có thêm một hội viên mà không làm quá tải các ca tập đông đúc, giúp bạn tiếp tục phát triển trước khi chạm ngưỡng công suất tối đa.
+Khi chốt khách hàng mới, hoặc khi trao đổi với khách hàng hiện tại để giới thiệu cấu trúc gói tập mới, hãy đưa ra các khung giờ tập theo thứ tự từ ít người chọn nhất đến phổ biến. Mọi người sẽ tìm cách sắp xếp nếu được yêu cầu giải quyết một bài toán. Vì vậy, hãy bắt đầu với ca ít người nhất, chẳng hạn như Thứ Ba/Thứ Năm/Thứ Bảy lúc 8:00 sáng. Nếu họ đồng ý, bạn vừa có thêm một hội viên mà không làm quá tải các ca tập đông đúc, giúp bạn tiếp tục phát triển trước khi chạm ngưỡng công suất tối đa.
 
 Mẹo nhỏ này cực kỳ hiệu quả. Hãy áp dụng ngay.
 
@@ -2723,8 +2536,6 @@ Chỉ riêng với hai mẹo nhỏ này, bạn đã có thể "phết bơ đều
 ###### **Đòn bẩy vi mô về công suất #3: Thời lượng buổi tập** 
 
 Tôi tin rằng đại đa số mọi người có thể đạt kết quả tuyệt vời chỉ với việc tập luyện 3 ngày một tuần, mỗi lần 45 phút liên tục, hoặc thậm chí là 30 phút tập cường độ cao ngắt quãng (HIIT).
-
-110 Alex Hormozi 
 
 Họ không giống chúng ta.
 
@@ -2754,8 +2565,6 @@ Giải pháp cho vấn đề này rất đơn giản. Tôi khuyến nghị hầu
 
 6:30 chiều 
 
-Gym Launch Secrets 111 
-
 ###### **Giải pháp** 
 
 5:00 sáng 
@@ -2782,8 +2591,6 @@ Câu hỏi hay. Câu trả lời ngắn gọn và súc tích: Không sao cả. B
 
 Khi khách hàng hỏi: *"Tại sao anh/chị lại làm thế này?"*, bạn hãy trả lời đại loại như… 
 
-112 Alex Hormozi 
-
 - *"Chúng tôi muốn bổ sung thêm khung giờ để thuận tiện nhất cho tất cả mọi người. Chúng tôi nhận thấy một số ca tập đông hơn hẳn các ca khác. Bằng cách mở thêm nhiều khung giờ, chúng tôi có thể phục vụ nhiều người hơn."* 
 
 - *"Việc cung cấp thêm một vài lựa chọn, đặc biệt vào những giờ cao điểm, giúp chúng tôi giải quyết tình trạng bãi giữ xe quá tải."* 
@@ -2797,8 +2604,6 @@ Lưu ý đặc biệt dành cho các cơ sở quy mô nhỏ: Nếu cơ sở củ
 Và với mức giá chúng ta đang thu, chúng ta cần phải tìm mọi cách để kéo được từ 20+ người trở lên cho mỗi ca tập.
 
 Hoặc không, bạn nên duy trì 2 khung giờ tập nhóm 4 người (one-on-four) cùng lúc và chỉ tập trung vào các dịch vụ giá trị cao (**high-ticket** services - từ $500/tháng trở lên). Nhưng tôi khuyên bạn nên bán gói thời gian ngắn hơn. Gói này cũng dễ chốt sale hơn. Hãy nhớ rằng: nỗ lực chính là CHI PHÍ, chứ không phải lợi ích. Nếu khách hàng đạt được kết quả trong thời gian ngắn hơn, họ sẽ càng hạnh phúc hơn, thế nên đừng để điều này làm vướng bận tâm trí bạn. Bạn cũng có thể đẩy các buổi tập đó lên mức "khô máu" hết cỡ, để mọi người ra về trong trạng thái ngập tràn endorphin mà không bị kiệt sức hoàn toàn.
-
-Gym Launch Secrets 113
 
 ###### **Vi mô tối ưu công suất #4: Không gian vật lý**
 
@@ -2821,8 +2626,6 @@ Một trong những điều dễ nhất bạn có thể làm để nhân đôi c
 Khi tôi mang ý tưởng ghép cặp này ra chào mời các hội viên, họ mê mẩn nó ngay lập tức.
 
 Ghép cặp giúp tăng tính an toàn, gắn kết cộng đồng, gia tăng sự khích lệ, và đảm bảo thời gian nghỉ ngơi hợp lý trong quá trình tập luyện sức mạnh.
-
-114 Alex Hormozi
 
 Và quan trọng nhất đối với việc kinh doanh, ghép cặp giúp NHÂN ĐÔI số lượng người bạn có thể chứa trong không gian của mình.
 
@@ -2850,8 +2653,6 @@ Dĩ nhiên, bạn hoàn toàn có thể ghé qua để kiểm tra mọi thứ, n
 
 - → **Nâng cao trải nghiệm**
 
-Gym Launch Secrets 115
-
 Được rồi, đòn bẩy vi mô cuối cùng này thực sự là một "ông lớn". Đây là một trong những vấn đề khiến vô số chủ phòng gym phải chật vật và cũng là một trong những rào cản lớn nhất mà đội ngũ của tôi gặp phải trong các cuộc gọi sales.
 
 "Làm sao tôi có thể đảm bảo những người mới có thể thích nghi với cách chúng ta làm việc đây?"
@@ -2868,11 +2669,7 @@ Khách hàng mới bước chân vào phòng gym đáng lẽ phải là một đ
 
 Vấn đề này xuất hiện thường xuyên hơn ở các cơ sở tập trung nhiều vào tạ đòn (**barbell**) và rèn luyện sức mạnh so với các phòng tập theo phong cách bootcamp. Nhưng nó có thể len lỏi vào bất kỳ loại hình phòng gym nào. Vấn đề lớn nhất là người mới gặp khó khăn trong việc hòa nhập vào cộng đồng. Họ bị tách biệt một cách nghĩa đen với các bài tập vỡ lòng vào những khung giờ oái oăm – nếu họ thực sự có mặt – trước khi bỏ cuộc hẳn. Và ngày nay, có những đối tượng gọi là "tiền-người-mới" (*pre-beginners*) – những người thậm chí còn khó khăn để thực hiện nổi một động tác squat bằng trọng lượng cơ thể.
 
-Thật khó để giữ chân mọi người quay lại khi họ không cảm thấy được chào đón tại cơ sở và khi phải đối mặt với một đường cong học tập quá dốc
-
-116 Alex Hormozi
-
-để bắt kịp nhịp độ chung. (Đây là mấu chốt của vấn đề tỷ lệ rời bỏ - **attrition**, mà tôi sẽ bàn sâu hơn ở các chương sau).
+Thật khó để giữ chân mọi người quay lại khi họ không cảm thấy được chào đón tại cơ sở và khi phải đối mặt với một đường cong học tập quá dốc để bắt kịp nhịp độ chung. (Đây là mấu chốt của vấn đề tỷ lệ rời bỏ - **attrition**, mà tôi sẽ bàn sâu hơn ở các chương sau).
 
 Đôi khi bạn cảm thấy mình không tài nào thắng nổi.
 
@@ -2892,11 +2689,7 @@ Tin vui là chúng tôi đã tìm ra lối thoát cho những vấn đề này t
 
 **Giải pháp** → **Thiết lập Chương trình Phân cấp Thụt lùi (Regressive Two-Tier Programming)**
 
-Với mỗi bài tập, hãy thiết kế thêm một phiên bản thứ hai dễ hơn được thực hiện song song với bài tập gốc. Điều này cho phép những người mới tinh chưa có kinh nghiệm thể hình vẫn có buổi tập chất lượng, đồng thời vẫn cung cấp các bài tập đủ đô cho các **OGs** lâu năm của bạn. Các bài tập phải
-
-Gym Launch Secrets 117
-
-song song 100% – cùng nhóm cơ và cùng kiểu chuyển động, chỉ là được điều chỉnh giảm độ khó (regressive). Cách này cũng mang lại cho người mới thêm một chỉ số đo lường tiến độ nữa bên cạnh thành phần cơ thể (**body composition**).
+Với mỗi bài tập, hãy thiết kế thêm một phiên bản thứ hai dễ hơn được thực hiện song song với bài tập gốc. Điều này cho phép những người mới tinh chưa có kinh nghiệm thể hình vẫn có buổi tập chất lượng, đồng thời vẫn cung cấp các bài tập đủ đô cho các **OGs** lâu năm của bạn. Các bài tập phải song song 100% – cùng nhóm cơ và cùng kiểu chuyển động, chỉ là được điều chỉnh giảm độ khó (regressive). Cách này cũng mang lại cho người mới thêm một chỉ số đo lường tiến độ nữa bên cạnh thành phần cơ thể (**body composition**).
 
 Sara, khi bạn bắt đầu ở đây sáu tuần trước, bạn còn chật vật mới hoàn thành nổi các bài tập Cấp độ 2 (Tier 2). Giờ đây, 2/3 bài tập của bạn đã chuyển sang Cấp độ 1 (Tier 1). Và tất cả chỉ diễn ra trong vòng sáu tuần. Hãy thử tưởng tượng xem bạn có thể tiến xa đến đâu trong sáu tháng tới.
 
@@ -2912,8 +2705,6 @@ Dưới đây là một vài gợi ý nhỏ để giúp chiến lược này ph�
 
 **Đừng thông báo rằng bạn sắp thay đổi, cứ làm luôn đi**. Rất hiếm khi có ai đó “nhớ” rằng bạn đã bỏ một bài tập nào đó từ lâu. Cứ âm thầm ngừng tập các động tác đó, và nếu có ai thắc mắc, hãy nói sự thật: “Chúng tôi nhận thấy các bài tập đó tiềm ẩn rủi ro chấn thương cao, và tỷ lệ rủi ro - phần thưởng (risk-reward tradeoff) đối với những người tập để khỏe mạnh bình thường là không đáng.”
 
-118 Alex Hormozi
-
 **Áp dụng chế độ tập theo cặp (partner)**. Vâng, tôi lại nhắc lại ý này. Nhưng tôi thực sự tin tưởng vào việc để mọi người tập chung với bạn đồng hành, nhất là với các bài tập lớn. Hệ thống bạn tập (buddy system) tạo động lực rất lớn, lại tiết kiệm diện tích một cách khủng khiếp, vì trong lúc người này tập thì người kia nghỉ. Bạn có thể bán ý tưởng này dưới cái tên “hỗ trợ an toàn để tập hiệu quả hơn” (spotting for safety). Mô hình tập theo cặp cũng mở ra cơ hội tuyệt vời cho các bài siêu tập (supersets) và bài tăng sức mạnh (strength sets).
 
 **Để người cũ giúp đỡ người mới.** Hãy để các hội viên gạo cội (OGs) đóng vai trò hỗ trợ và là bạn tập cho thành viên mới. Điều này tạo động lực cho cả hai phía. Để thuyết phục các hội viên gạo cội, bạn có thể nói thế này:
@@ -2922,11 +2713,7 @@ Dưới đây là một vài gợi ý nhỏ để giúp chiến lược này ph�
 
 Hệ thống này cũng vực dậy tinh thần tập thể cực tốt, bởi những hội viên cũ vốn hay cằn nhằn giờ đây lại trở thành những người hướng dẫn đầy tự hào. Họ chính thức trở thành đại sứ thương hiệu cho phòng tập của bạn. Các tân binh cũng dễ dàng kết bạn với những người hướng dẫn mới của mình. Sẽ không còn bầu không khí đối đầu kiểu mọi người tranh giành sự chú ý ít ỏi từ huấn luyện viên nữa.
 
-Này Sarah — gặp Tiffany đi, một trong những học viên ngôi sao của chúng ta nhé. Không chỉ giảm được 10kg, cô ấy còn có thể...
-
-Gym Launch Secrets 119
-
-hít đất liên tục 30 cái đấy! Tiffany này, hôm nay là buổi đầu tiên của Sarah. Bạn hướng dẫn giúp bạn ấy quen với nhịp độ ở đây nhé?
+Này Sarah — gặp Tiffany đi, một trong những học viên ngôi sao của chúng ta nhé. Không chỉ giảm được 10kg, cô ấy còn có thể... hít đất liên tục 30 cái đấy! Tiffany này, hôm nay là buổi đầu tiên của Sarah. Bạn hướng dẫn giúp bạn ấy quen với nhịp độ ở đây nhé?
 
 Một số lợi ích khi áp dụng mô hình phân khúc hai tầng (two-tier programming) bao gồm:
 
@@ -2938,11 +2725,7 @@ Nó sẽ làm sập hầu hết các mô hình thông thường. Lý do mô hìn
 
 ###### **Hành động cần làm Ngay**
 
-Xây dựng hai cấp độ chương trình tập cho mỗi buổi. Một cho người mới và một cho các hội viên lâu năm, giàu kinh nghiệm hơn. Điều này cho phép họ tùy chỉnh trải nghiệm phù hợp với sự tự tin của bản thân, đồng thời giảm chi phí thu hút và phục vụ khách hàng (acquisition/fulfillment cost), 
-
-120 Alex Hormozi
-
-đồng thời giúp họ hòa nhập một cách mượt mà với cộng đồng khách hàng hiện tại. Nó cũng cho phép bạn đón nhận bao nhiêu khách hàng mới tùy thích. Chấm hết.
+Xây dựng hai cấp độ chương trình tập cho mỗi buổi. Một cho người mới và một cho các hội viên lâu năm, giàu kinh nghiệm hơn. Điều này cho phép họ tùy chỉnh trải nghiệm phù hợp với sự tự tin của bản thân, đồng thời giảm chi phí thu hút và phục vụ khách hàng (acquisition/fulfillment cost), đồng thời giúp họ hòa nhập một cách mượt mà với cộng đồng khách hàng hiện tại. Nó cũng cho phép bạn đón nhận bao nhiêu khách hàng mới tùy thích. Chấm hết.
 
 Tôi biết chừng đó thông tin là khá nhiều để tiêu hóa. Nhưng tôi muốn mọi thứ phải mang tính thực chiến cao nhất có thể dành cho bạn.
 
@@ -2986,10 +2769,6 @@ Khỏi phải nói, với mô hình này thì anh ta chẳng trụ lại đượ
 
 Cuối cùng, chúng tôi đã cắt giảm số lớp học của anh ta từ 189 buổi xuống còn 100 buổi mỗi tháng, đồng thời tăng giá gói tập lên.
 
-121
-
-122 Alex Hormozi
-
 Và bạn đoán xem chuyện gì đã xảy ra? Lợi nhuận tăng vọt lên tận mây xanh, và huyết áp của anh ta thì giảm xuống mức bình thường.
 
 Một điều đáng buồn nhưng có thật (và đó là lý do tôi xin phép không nêu tên), chủ phòng gym này từng phải nhập viện cách đó chỉ 9 tháng vì cơn đau tim ở tuổi 46. Chuyện kinh doanh này đôi khi thực sự đánh đổi bằng cả sinh mạng đấy. Đừng xem nhẹ nó. Kể từ đó đến nay, anh ấy đã trải qua hơn một năm liên tục có lãi, doanh nghiệp tăng trưởng đều đặn và cuối cùng thì anh ấy cũng có thời gian dành cho gia đình. 
@@ -3006,11 +2785,7 @@ Chẳng có bí quyết thần thánh nào giúp bạn kiếm tiền từ phòng
 
 **Vấn đề về những buổi tập thưa thớt:** Khoảng 90% các phòng gym mà chúng tôi làm việc cùng đang bị quá tải về số lượng buổi tập (overfulfilling)—ý tôi không phải là các buổi tập đó “quá tuyệt vời”, mà là họ đang mở ra quá nhiều buổi một cách không cần thiết. Thường thì chuyện này xảy ra khi một khách hàng nói: *"Em không kịp ca 6 giờ – anh/chị có ca 7 giờ không?"* Và các chủ phòng gym nghĩ ngay: *"Tuyệt vời. Thêm được $120/tháng. Chắc chắn là có rồi. Bạn là khách hàng VIP."* Tôi nói điều này hơi châm biếm một chút, nhưng với rất nhiều người, mọi chuyện diễn ra đúng như vậy đấy, cho đến khi lịch trình của họ kín mít nhưng các buổi tập thì trống hoác. 
 
-Đây là một vấn đề lớn, không chỉ vì chi phí nhân sự (payroll) đội lên, mà còn vì bạn đang lãng phí thứ 
-
-Gym Launch Secrets 123 
-
-lẽ ra phải là thời gian cực kỳ năng suất. Bạn còn hàng triệu việc khác phải làm thay vì đi bán thời gian của mình cho hai vị khách chỉ trả cho bạn có $6 mỗi người — vui thật đấy (đó là câu nói mỉa mai nhé). 
+Đây là một vấn đề lớn, không chỉ vì chi phí nhân sự (payroll) đội lên, mà còn vì bạn đang lãng phí thứ lẽ ra phải là thời gian cực kỳ năng suất. Bạn còn hàng triệu việc khác phải làm thay vì đi bán thời gian của mình cho hai vị khách chỉ trả cho bạn có $6 mỗi người — vui thật đấy (đó là câu nói mỉa mai nhé). 
 
 Làm sao để biết bạn có đang mắc kẹt trong tình trạng này không? 
 
@@ -3033,8 +2808,6 @@ Số lượng hội viên đóng phí tự động (EFT - recurring members) = 1
 
 Bây giờ, chúng ta lấy số lượng hội viên EFT nhân với mức đóng trung bình hàng tháng để ra tổng doanh thu hàng tháng. 100 x $118 = $11.800/tháng (giả sử không có thẻ nào bị từ lỗi thanh toán).
 
-124 Alex Hormozi
-
 Tiếp theo, ta chia tổng doanh thu hàng tháng cho tổng số buổi tập. Con số này cho ra doanh thu trên mỗi buổi tập (revenue per session). Nói cách khác, đó là số tiền thực tế mà doanh nghiệp thu về cho mỗi giờ huấn luyện.
 
 $11.800 tổng doanh thu / 163 buổi = **$72 doanh thu/buổi**
@@ -3052,8 +2825,6 @@ Sau đó, chúng ta lấy số buổi tập nhân với chi phí mỗi buổi đ
 ###### **#4 Tính Biên Lợi Nhuận (Margin Calculation)**
 
 Giờ là lúc thực hiện phép tính lớn. Ta lấy số tiền kiếm được từ mỗi buổi tập (#2) trừ đi chi phí vận hành buổi tập đó (#3), rồi tiếp tục chia kết quả cho #2. Con số này cho ra tỷ lệ phần trăm doanh thu thực sự là biên lợi nhuận (margin) – dùng để chi trả các chi phí khác và cuối cùng phần dư ra sẽ thuộc về một thứ điên rồ mà chúng ta gọi là LỢI NHUẬN (PROFIT).
-
-Gym Launch Secrets 125
 
 Doanh thu - Chi phí vận hành = Lợi nhuận gộp (Gross Margin) 
 Ví dụ: $72 doanh thu mỗi buổi - $24,40 trả HLV = $47,60 Lợi nhuận gộp
@@ -3077,8 +2848,6 @@ Chúng ta chỉ có ba đòn bẩy vi mô (micro levers) ở đây: 1) số lư�
 Xin nhắc lại, tôi không thích điều chỉnh thù lao trừ khi điều đó là tối quan trọng. Và ngay cả khi đó, tôi vẫn không thích làm thế.
 
 Vì vậy, tôi sẽ chỉ cho bạn cách tôi tính toán để xác định xem phòng tập NÊN có bao nhiêu buổi tập.
-
-126 Alex Hormozi
 
 **Giải pháp** → **Cắt Giảm Buổi Tập Để Tối Ưu Hóa Hiệu Suất**
 
@@ -3108,8 +2877,6 @@ Vậy nên, nếu quỹ lương huấn luyện trước đó của phòng tập 
 
 Chúng ta vừa tăng thu nhập cho chủ phòng tập thêm $1.561/tháng và $18.732/năm.
 
-Gym Launch Secrets 127
-
 Bạn có thể nghĩ từng đó không nhiều. nhưng tích tiểu thành đại. Và bí quyết là: bạn cần phải trở nên TỐT HƠN trước khi trở nên LỚN HƠN.
 
 Hai đòn bẩy vi mô cuối cùng—số giờ làm việc của nhân sự và thù lao theo giờ—có mối liên hệ mật tthiết với nhau, nên tôi sẽ gộp lại thảo luận chung.
@@ -3129,8 +2896,6 @@ Nếu chúng ta áp dụng mức này vào bài toán vừa rồi, nó sẽ ti�
 Xét việc hầu hết các chủ phòng tập hiện nay chỉ đút túi mức lợi nhuận ròng xấp xỉ con số đó, riêng giải pháp đơn giản này có thể nhân đôi thu nhập thực lĩnh của họ.
 
 Như tôi đã nói, tôi KHÔNG THÍCH làm điều này, nhưng nếu lựa chọn là giữ cửa hàng mở hay đóng cửa, bạn bắt buộc phải nuôi sống doanh nghiệp trước tiên. Đó là nghĩa vụ của một người chủ. Nếu không làm được thế, bạn đáng bị sa thải. Và nếu bạn không tự làm, thị trường SẼ sa thải bạn bằng cách đánh sập doanh nghiệp của bạn.
-
-128 Alex Hormozi
 
 ###### **Tính Toán Lợi Nhuận Dịch Vụ Gộp Mới**
 
@@ -3155,8 +2920,6 @@ Hãy xem lại biên lợi nhuận gộp và thực hiện lại các bước t�
   - ($119 - $18,30) / $119 = Biên lợi nhuận 84,6% mỗi buổi. 
   *(Lưu ý: Nếu bạn không muốn giảm lương HLV, biên lợi nhuận sẽ là:)*
   - *($119 - $24,40) / $119 = Biên lợi nhuận 79,5% mỗi buổi.*
-
-Gym Launch Secrets 129
 
 Bùm.
 
@@ -3190,13 +2953,7 @@ Sau chương này, chúng ta sẽ khép lại phần toán học nặng đô c�
 
 Toàn bộ khung chiến lược mà tôi vừa bắt bạn "kinh qua" ở chương trước là đúc kết từ tất cả những gì tôi học được từ việc quản lý 6 phòng gym của chính mình, từ vô số sai lầm, những lần đứt ruột đau đớn, và từ hơn 1.500 phòng gym mà tôi đang trực tiếp cố vấn. 
 
-Tôi đã từng ngồi hàng giờ qua điện thoại với các chủ phòng gym, chia sẻ màn hình hiển thị toàn bộ các con số và bóc tách từng dòng một. Chẳng có quy trình hành chính rườm rà nào ở đây cả. Nó giống như việc tôi đi hỏi về tất cả những điểm vận hành kém hiệu quả mà tôi thường thấy ở họ, rồi từ đó gỡ rối dần dần. Và 
-
-131 
-
-132 Alex Hormozi 
-
-chúng tôi luôn kết thúc bằng việc cải thiện một cách ngoạn mục dòng tiền đáy (bottom line) của phòng gym. 
+Tôi đã từng ngồi hàng giờ qua điện thoại với các chủ phòng gym, chia sẻ màn hình hiển thị toàn bộ các con số và bóc tách từng dòng một. Chẳng có quy trình hành chính rườm rà nào ở đây cả. Nó giống như việc tôi đi hỏi về tất cả những điểm vận hành kém hiệu quả mà tôi thường thấy ở họ, rồi từ đó gỡ rối dần dần. Và chúng tôi luôn kết thúc bằng việc cải thiện một cách ngoạn mục dòng tiền đáy (bottom line) của phòng gym. 
 
 Theo thời gian, tôi đã rà soát lại tất cả các cuộc gọi đó, tổng hợp lại các hành động cần làm và liệt kê chúng thành danh mục. Sau đó, tôi phân loại chúng theo cách mà bạn đang thấy hiện tại – như những đòn bẩy vĩ mô (macro levers). 
 
@@ -3214,8 +2971,6 @@ Chúng tôi có nhiều phòng gym đạt doanh thu bảy con số trong cộng 
 
 Dù vậy, để giành chiến thắng ở Super Bowl, bạn cần phải nắm vững các "bài" bóng đá cơ bản. Bạn phải ghi được nhiều bàn thắng hơn đối thủ. Trong bối cảnh phòng gym, chiến thắng có nghĩa là kiếm được nhiều tiền hơn chi phí bạn bỏ ra để tạo ra nó. Và việc kéo tất cả các đòn bẩy này là cách tốt nhất mà tôi biết để biến các phòng gym thành những cỗ máy in tiền, gần như ngay lập tức. 
 
-Gym Launch Secrets 133 
-
 Trong ba chương vừa qua, chúng ta đã đi sâu vào từng đòn bẩy lợi nhuận vĩ mô: giá (price), công suất (capacity), và chi phí vận hành (overhead). 
 
 Và tôi hy vọng bạn cảm thấy tôi đã làm tốt việc phân tách chúng ra. Bởi vì thành thật mà nói, tôi coi tất cả chúng là một hệ thống lợi nhuận khổng lồ duy nhất. Chúng phối hợp nhịp nhàng với nhau như một đội bóng, có cầu thủ phòng ngự, chuyền bóng và ghi bàn. 
@@ -3231,8 +2986,6 @@ Có lẽ bạn sẽ nghĩ: “Nhưng tôi còn chẳng biết bắt đầu từ 
 Ngoài ra, nếu các bước này có vẻ quen thuộc, thì đơn giản là tôi đã lấy trực tiếp từ phần cuối của mỗi chương. Bằng cách đó, bạn sẽ nắm rõ chính xác chuyện gì đang diễn ra. 
 
 Tôi sẽ sử dụng các con số thống kê của một phòng gym trung bình giả định đang gặp khó khăn. Dưới đây là các thông số của họ: 
-
-134 Alex Hormozi 
 
 ###### **Thống Kê Phòng Gym Hiện Tại** 
 
@@ -3263,8 +3016,6 @@ EFTs (Số lượng thành viên thanh toán tự động) = 100
 
 - ✓ Sức chứa tối đa mỗi buổi = 16 học viên 
 
-Gym Launch Secrets 135 
-
 - ✓ Chi phí HLV mỗi giờ = $25 (đã bao gồm thuế bảng lương) 
 
 - ✓ Số buổi trong gói hội viên = Không giới hạn 
@@ -3289,8 +3040,6 @@ Bước đầu tiên là tăng giá và đổi chu kỳ thanh toán. Tôi biết
 
 Bạn chỉ đang cộng thêm $10–$15/tuần thôi, thế nên hãy cứ thoải mái đi. 
 
-136 Alex Hormozi 
-
 Vậy hai thay đổi đầu tiên chúng ta làm là giá cả và chu kỳ thanh toán. 
 
 - ✓ Giá = $118/tháng → $39/tuần 
@@ -3309,11 +3058,7 @@ $555 - $167 = $388/tháng
 
 Đó là số tiền BỔ SUNG bạn kiếm được nhờ có một Core Offer (sản phẩm cốt lõi) giá trị cao hơn. 
 
-Chỉ một động thái này thôi sẽ làm doanh thu gộp của bạn tăng thêm $5.432 mỗi tháng CỘNG DỒN VÀO 
-
-Gym Launch Secrets 137 
-
-khoản bạn nhận được nếu những người đó chỉ ở lại lớp nhóm lớn. Bạn có thấy bị ngợp không? 
+Chỉ một động thái này thôi sẽ làm doanh thu gộp của bạn tăng thêm $5.432 mỗi tháng CỘNG DỒN VÀO khoản bạn nhận được nếu những người đó chỉ ở lại lớp nhóm lớn. Bạn có thấy bị ngợp không? 
 
 - 90 khách hàng (còn lại sau khi tăng giá) → 16,6% (15 người) chịu nâng cấp lên dịch vụ cao cấp hơn 
 
@@ -3346,8 +3091,6 @@ Nhưng nếu hiện tại bạn vẫn muốn đi những bước cơ bản, hoà
    - a. Hợp tác chung vốn/không gian (Partner up). 
 
    - b. Đập tường văn phòng đi và biến góc làm việc thành khu bán hàng (cubicle). 
-
-138 Alex Hormozi 
 
 ###### **5. Lựa chọn bài tập (Exercise Selection)** 
 
@@ -3387,11 +3130,7 @@ Cuối cùng nhưng không kém phần quan trọng…
 
 - ✓ Chi phí trả huấn luyện viên (HLV) mỗi giờ = $25 → $18.30 (đều đã tính thuế nhân công) 
 
-Điều này có nghĩa là bạn sẽ có 60 phút (15 phút chuẩn bị + 45 phút tập) vào sáng sớm và 60 phút vào 
-
-140 Alex Hormozi 
-
-buổi sáng muộn cho ca 9:00 sáng. Sau đó là 2 tiếng vào buổi tối (90 phút huấn luyện và 30 phút dọn dẹp, tổng kết). Tính ra bạn sẽ có 20 tiếng đứng lớp trong tuần và 2 tiếng 45 phút vào cuối tuần (trên thực tế là 2 tiếng 15 phút tập + 30 phút dọn dẹp). 
+Điều này có nghĩa là bạn sẽ có 60 phút (15 phút chuẩn bị + 45 phút tập) vào sáng sớm và 60 phút vào buổi sáng muộn cho ca 9:00 sáng. Sau đó là 2 tiếng vào buổi tối (90 phút huấn luyện và 30 phút dọn dẹp, tổng kết). Tính ra bạn sẽ có 20 tiếng đứng lớp trong tuần và 2 tiếng 45 phút vào cuối tuần (trên thực tế là 2 tiếng 15 phút tập + 30 phút dọn dẹp). 
 
 Tổng cộng sẽ tiêu tốn của bạn tới 22 tiếng 45 phút tiền lương nhân công. Nhưng cứ làm tròn thành 23 tiếng đi cho dễ tính. 
 
@@ -3408,8 +3147,6 @@ Tôi từng tìm được những HLV xuất sắc với mức giá $15 một gi
 ###### **Chi phí vận hành lớp Nhóm Lớn (Large-Group Training Overhead)** 
 
 $25/giờ x 1.25 giờ/buổi x 163 buổi/tháng = $5,100/tháng 
-
-Gym Launch Secrets 141 
 
 → $18.30/giờ x 0.75 giờ/buổi x 99 buổi/tháng = $1,358/tháng 
 
@@ -3441,8 +3178,6 @@ Nhưng chẳng có đồng doanh thu gia tăng nào mà lại không tốn chi p
 
 Bạn sẽ thêm 12 buổi mỗi tuần vào các ngày Thứ Hai, Tư, Sáu (2 buổi sáng, 2 buổi chiều). 
 
-142 Alex Hormozi 
-
 Nếu bạn chọn cách này và trả lương theo giờ, tổng chi phí sẽ là: 12 buổi/tuần x 4.3 tuần/tháng x $18.30/giờ = $944/tháng chi phí vận hành cho lớp bán riêng tư. 
 
 HOẶC nếu bạn quyết định chia sẻ doanh thu (revenue share — giải pháp được khuyến khích để tạo động lực cho nhân sự chuyển đổi), áp dụng mức chia 25% doanh thu cho HLV thì con số sẽ là $2,080. 
@@ -3464,8 +3199,6 @@ Hãy xem 3 kịch bản dưới đây. (Tôi đưa ra các phương án khác nh
 ###### **Kịch bản số 2: Cú xoay chuyển hoàn hảo (Không thêm lớp bán riêng tư, không mất khách, giảm lương HLV)** 
 
 + $5,000 doanh thu (100 khách hàng tăng EFT thêm $50/tháng) + $3,741 tiết kiệm chi phí (giảm số buổi và thay đổi lương HLV) = $8,741 tổng cộng mỗi tháng, giúp bạn đút túi thêm khoảng **$105,000/năm** 
-
-Gym Launch Secrets 143 
 
 ###### **Kịch bản số 3: Cú xoay chuyển chưa hoàn hảo (Không lớp bán riêng tư, mất 10% khách hàng, giữ nguyên lương HLV)** 
 
@@ -3497,11 +3230,7 @@ Nếu BẠN VẪN CẦN THÊM BẰNG CHỨNG, hãy truy cập vào trang IDontHa
 
 6. Điều chỉnh lương HLV để tối ưu hóa lợi nhuận và thúc đẩy các lớp bán riêng tư. 
 
-Có thể bạn đang thắc mắc: “Alex, nghe trên giấy thì hợp lý đấy, nhưng làm sao tôi dám mở lời thông báo chuyện này với cộng đồng hội viên 
-
-144 Alex Hormozi 
-
-hay đội ngũ nhân sự của mình cơ chứ? Tôi từng hứa với họ là sẽ giữ nguyên mức giá trọn đời và chẳng bao giờ thay đổi gì cơ mà.” 
+Có thể bạn đang thắc mắc: “Alex, nghe trên giấy thì hợp lý đấy, nhưng làm sao tôi dám mở lời thông báo chuyện này với cộng đồng hội viên hay đội ngũ nhân sự của mình cơ chứ? Tôi từng hứa với họ là sẽ giữ nguyên mức giá trọn đời và chẳng bao giờ thay đổi gì cơ mà.” 
 
 Ừ thì, bạn gặp may đấy. Ở chương tiếp theo, tôi sẽ đưa cho bạn đúng cái lịch trình mà chúng tôi áp dụng với các chủ phòng gym để họ thông báo thay đổi tới các thành viên trong đội ngũ. 
 
@@ -3649,8 +3378,6 @@ Tôi rất mong nhận được sự ủng hộ của các bạn để chúng t�
 
 Trân trọng, _(Ký tên)_ TÊN CỦA BẠN Chủ phòng tập, TÊN PHÒNG TẬP P.S. Tôi yêu tất cả các bạn, nói thật đấy.
 
-156 Alex Hormozi
-
 ###### **Đối Phó Với Những Khách Hàng Làm Âm Hĩ**
 
 Hãy tùy chỉnh kịch bản và nội dung thư cho phù hợp với doanh nghiệp của bạn. Nhớ đính kèm lịch tập mới và bảng giá (price matrix) nếu bạn cung cấp nhiều gói tập khác nhau. Thế là đủ dùng rồi.
@@ -3670,8 +3397,6 @@ Nhưng họ sẽ không đi đâu cả.
 Chi phí để rời khỏi một cộng đồng, tìm một mái nhà mới, những người bạn mới và một thói quen mới là rất cao—cao hơn nhiều con số 10–15 USD/tuần. Nếu thực sự có người dọa bỏ đi, hãy nhắc họ rằng việc từ bỏ lịch tập thể fitness sẽ khiến họ mất đi đà tiến mà họ đã gầy dựng được khi tập luyện tại cơ sở của bạn.
 
 3. Hãy nhắc nhở những ai lo lắng về chi phí tăng thêm rằng họ hoàn toàn có thể điều chỉnh ngân sách và thói quen chi tiêu để kham nổi mức giá mới, và đây là một sự đầu tư cho sức khỏe của chính họ. Hãy kể cho họ nghe những câu chuyện về những người ở hoàn cảnh khó khăn hơn nhưng vẫn xoay sở được tiền bởi vì sức khỏe là ưu tiên hàng đầu.
-
-Gym Launch Secrets 157
 
 4. Và hãy nhớ rằng, trên hết, nếu bạn không thực hiện thay đổi này, doanh nghiệp của bạn sẽ không bao giờ đạt được mức độ lợi nhuận mà bạn mong muốn—điều này bất lợi cho cả bạn, nhân viên và chính khách hàng của bạn. Sớm hay muộn gì bạn cũng phải làm, chi bằng làm sớm để tận hưởng thành quả ngay từ bây giờ.
 
@@ -3709,10 +3434,6 @@ Bạn đang kinh doanh **cộng đồng** (community).
 
 Bạn đang kinh doanh sự **huấn luyện** (coaching).
 
-161
-
-162 Alex Hormozi
-
 Nếu mảng này trong doanh nghiệp của bạn chưa được thiết lập bài bản, hệ thống hóa và triển khai một cách có chủ đích, bạn sẽ THẤT BẠI.
 
 Nếu bạn hỏi đội ngũ của mình rằng các bạn đang kinh doanh cái gì, và họ trả lời là “fitness”, bạn sẽ THẤT BẠI.
@@ -3739,8 +3460,6 @@ Bờm xờm ít thôi, nói thẳng ra cho vuông. Đầu tiên, các buổi t�
 
 Hơn nữa, việc cứ mở miệng ra là nói “cộng đồng của chúng tôi như một gia đình” KHÔNG HỀ làm bạn trở nên đặc biệt. Chủ phòng tập nào trên thế giới này cũng nghĩ mình đang sở hữu một cộng đồng tuyệt vời. Nhưng nếu nó thực sự tuyệt vời, thì tỷ lệ rời bỏ (churn) sẽ không đều đặn ở mức 10% mỗi tháng như thế. Cộng đồng đó hình thành một cách ngẫu nhiên, bởi vì khi con người ta cứ ngồi chung một phòng hết lần này đến lần khác, họ tự khắc kết nối với nhau mà chẳng cần bạn phải nhúng tay vào làm gì.
 
-Gym Launch Secrets 163
-
 Thế nên tôi THỰC SỰ muốn bạn khắc cốt ghi tâm khái niệm này: bạn đang kinh doanh sự chịu trách nhiệm, sự giao tiếp, sự huấn luyện, cộng đồng và các mối quan hệ. ĐÓ mới là thứ giữ chân khách hàng và khiến họ MÓC VÍ. Đó mới là giá trị cốt lõi. Còn việc bạn sở hữu một phòng tập chỉ là tình cờ thôi, chứ không phải ngược lại.
 
 Nếu bạn thay đổi niềm tin về lĩnh vực mình đang kinh doanh, bạn sẽ thắng; còn nếu cứ bám chấp vào việc các bài tập của mình đỉnh thế nào, bạn sẽ thua. Chấm hết. Tôi đã chứng kiến đủ nhiều phòng tập dẹp tiệm để đúc kết ra điểm chung của chúng. Việc không hiểu rõ mình đang kinh doanh cái gì chính là nguyên nhân cốt lõi. Họ bỏ bê khách hàng. Họ để mọi thứ diễn ra theo số phận thay vì tự tay thiết kế lấy nó.
@@ -3757,11 +3476,7 @@ Mặc dù đây là phần "chữa lỗi" cuối cùng của cuốn sách, nhưn
 
 Nhưng tại sao việc giữ chân khách hàng lại dễ dàng đến vậy ở giai đoạn đầu?
 
-Đó là vì bạn đã chủ động vun đắp cho từng mối quan hệ cá nhân đó. Nhưng bạn lại không duy trì được nhịp độ ấy, vì mọi thứ diễn ra ngẫu nhiên chứ không được hệ thống hóa. Ai cũng có thể làm được điều đó với 40 khách hàng đầu tiên của mình (đó là lý do tại sao họ yêu mến bạn và vẫn đang tập luyện tại phòng gym của bạn). Nhưng để làm điều đó ở quy mô lớn (at scale) một cách có chủ đích,
-
-164 Alex Hormozi
-
-lại là một câu chuyện hoàn toàn khác. Đó chính là ranh giới phân định giữa những kẻ chiến thắng và phần còn lại.
+Đó là vì bạn đã chủ động vun đắp cho từng mối quan hệ cá nhân đó. Nhưng bạn lại không duy trì được nhịp độ ấy, vì mọi thứ diễn ra ngẫu nhiên chứ không được hệ thống hóa. Ai cũng có thể làm được điều đó với 40 khách hàng đầu tiên của mình (đó là lý do tại sao họ yêu mến bạn và vẫn đang tập luyện tại phòng gym của bạn). Nhưng để làm điều đó ở quy mô lớn (at scale) một cách có chủ đích, lại là một câu chuyện hoàn toàn khác. Đó chính là ranh giới phân định giữa những kẻ chiến thắng và phần còn lại.
 
 ###### **Toán học dòng tiền giữ chân khách hàng (Retention Money Math)** 
 
@@ -3779,8 +3494,6 @@ Dưới đây là một ví dụ cụ thể.
 
 Thời gian EFT trung bình: 10 tháng | Giá: 167 USD | Đầu tư giữ chân: 0 USD | Tổng LTV: 1.670 USD 
 
-Gym Launch Secrets 165 
-
 **Cách Làm Mới (Hiểu rõ bản chất kinh doanh, triển khai hệ thống chủ đích để giữ chân khách hàng)** 
 
 Thời gian EFT trung bình: 33 tháng | Giá: 167 USD | Đầu tư giữ chân: 330 USD (10 USD/tháng trong 33 tháng) | Tổng LTV: 5.511 USD 
@@ -3795,11 +3508,7 @@ Mức hoàn vốn (ROI) tối thiểu 11:1 cho mỗi khách hàng bạn có nghe
 
 Ghi chú về đạo đức kinh doanh: Nếu bạn giúp mọi người tập thể dục và vận động lâu hơn 3.3x lần, bạn có nghĩ rằng mình THỰC SỰ đang giúp họ trở nên khỏe mạnh hơn không? Chẳng phải đó mới là mục đích cốt lõi sao? Bạn kiếm được tiền khi bạn tạo ra _giá trị_ (_value_). Đây không phải là những mẹo vặt hay chiêu trò lắt léo (*hacks*). Đây là cách bạn cung cấp dịch vụ tuyệt vời để giúp mọi người tiến bộ và chuyển hóa lối sống của họ một cách thực chất. Đó mới là điều bạn muốn từ đầu, phải không? Đừng xem đây là một gánh nặng, hãy coi nó là cách bạn thực hiện lời hứa với những con người đã trao tiền và đặt trọn niềm tin vào sức khỏe của họ cho bạn. 
 
-Tôi đã nói điều này trước đây, và tôi sẽ nói lại lần nữa. Khách hàng đến phòng gym của bạn chỉ vì một lý do duy nhất: đạt được mục tiêu thể hình của họ. Nhưng họ _ở lại_ vì họ cảm thấy được chào đón, được hỗ trợ và trở thành một phần của cộng đồng. Họ ở lại vì những điều 
-
-166 Alex Hormozi
-
-họ nhận được từ phòng gym mà bản thân thậm chí còn không biết mình cần đến chúng. Một lời chào thân thiện khi họ bước chân vào cửa. Một chút khích lệ từ những hội viên khác. Lời mời tham gia sự kiện tiếp theo của phòng gym. Một cuộc cạnh tranh lành mạnh nội bộ. Việc nhớ tên nhân viên và ngược lại. Những tin nhắn hỏi thăm bất chợt. Một tấm thiệp chúc mừng ngày lễ được viết tay. Cuộc gọi hỏi thăm khi họ bỏ lỡ buổi tập, nói cho họ biết rằng mọi người đang nhớ họ và hỏi khi nào họ sẽ quay lại tập. Một buổi trò chuyện riêng sau giờ tập khi họ đang gặp áp lực công việc. Bó hoa được gửi đến khi mẹ của họ qua đời. 
+Tôi đã nói điều này trước đây, và tôi sẽ nói lại lần nữa. Khách hàng đến phòng gym của bạn chỉ vì một lý do duy nhất: đạt được mục tiêu thể hình của họ. Nhưng họ _ở lại_ vì họ cảm thấy được chào đón, được hỗ trợ và trở thành một phần của cộng đồng. Họ ở lại vì những điều họ nhận được từ phòng gym mà bản thân thậm chí còn không biết mình cần đến chúng. Một lời chào thân thiện khi họ bước chân vào cửa. Một chút khích lệ từ những hội viên khác. Lời mời tham gia sự kiện tiếp theo của phòng gym. Một cuộc cạnh tranh lành mạnh nội bộ. Việc nhớ tên nhân viên và ngược lại. Những tin nhắn hỏi thăm bất chợt. Một tấm thiệp chúc mừng ngày lễ được viết tay. Cuộc gọi hỏi thăm khi họ bỏ lỡ buổi tập, nói cho họ biết rằng mọi người đang nhớ họ và hỏi khi nào họ sẽ quay lại tập. Một buổi trò chuyện riêng sau giờ tập khi họ đang gặp áp lực công việc. Bó hoa được gửi đến khi mẹ của họ qua đời. 
 
 Trong phần này, tôi sẽ chỉ cho bạn cách chủ động xây dựng một cộng đồng tại phòng gym—nơi khiến cả khách hàng lẫn nhân viên đều muốn gắn bó lâu dài. Nơi đội ngũ của bạn gắn kết chặt chẽ, mọi người hỗ trợ lẫn nhau, và ai cũng cảm thấy được truyền cảm hứng và khích lệ để làm tốt nhất có thể. Đồng thời, tôi cũng sẽ cung cấp cho bạn hệ thống để duy trì và phát triển cộng đồng đó ở quy mô lớn. 
 
@@ -3833,26 +3542,16 @@ Các chủ phòng gym thường hỏi tôi những câu hỏi sau:
 
 - Tại sao cứ mỗi lần tôi chạy các chiến dịch marketing, tôi lại có cảm giác những khách hàng mới này không gắn bó lâu dài được như những hội viên kỳ cựu (OGs)? 
 
-167 
-
-168 Alex Hormozi 
-
 - Tại sao việc đạt được mức tăng trưởng ròng chỉ 5 hội viên EFT mới lại giống như việc leo núi ngược chiều gió thế này, ngay cả khi tôi đã có trong tay 80–120 hội viên EFT? 
 
 - Tại sao phòng gym của tôi mãi chẳng thể lớn thêm được nữa? 
 
 Hãy nhớ rằng, OGs ở đây chính là những “tay chơi cội cán”—những hội viên sáng lập, là trái tim và linh hồn của phòng gym, những người cực kỳ yêu mến bạn—những người mà bạn đã ưu ái giữ nguyên mức giá cũ 99 USD/tháng, và cũng chính họ là những người kéo mức doanh thu EFT trung bình của bạn xuống còn 118 USD/tháng khi tính toán lại, mặc dù bạn luôn quảng cáo mức giá của mình là 139–159 USD/tháng. Bạn thừa biết tôi đang nhắc đến ai mà. 
 
-
-
 <!-- Start of picture text -->
 EFT<br>EFT<br>Ngọn núi<br>mục tiêu<br>sự thất thoát hội viên<br><!-- End of picture text -->
 
-Hãy làm quen với Sisyphus. Trong thần thoại Hy Lạp, anh chàng này bị các vị thần trừng phạt bằng cách phải lăn một khối đá khổng lồ lên đỉnh đồi, để rồi chứng kiến nó lăn ngược trở lại xuống dưới, cứ thế... lặp đi lặp lại mãi mãi. Tôi nghĩ hình ảnh 
-
-Gym Launch Secrets 169 
-
-này mô tả chính xác nhất cảm giác chật vật phát triển số lượng EFT khi bạn không áp dụng đúng quy trình. 
+Hãy làm quen với Sisyphus. Trong thần thoại Hy Lạp, anh chàng này bị các vị thần trừng phạt bằng cách phải lăn một khối đá khổng lồ lên đỉnh đồi, để rồi chứng kiến nó lăn ngược trở lại xuống dưới, cứ thế... lặp đi lặp lại mãi mãi. Tôi nghĩ hình ảnh này mô tả chính xác nhất cảm giác chật vật phát triển số lượng EFT khi bạn không áp dụng đúng quy trình. 
 
 Và đó không phải lỗi của bạn. Bạn chỉ đơn giản là chưa biết, và điều đó hoàn toàn bình thường. 
 
@@ -3874,8 +3573,6 @@ Họ cũng kể cho bạn bè nghe về “cái phòng tập mới mở với m�
 
 Lý do chính là chất lượng dịch vụ của bạn bắt đầu giảm xuống khi lượng khách đổ về ngày một đông. Thông thường, mức độ phục vụ này bắt đầu chững lại đối với phần lớn chủ phòng tập khi đạt mốc 70–80 hội viên. Đó là lúc bạn không còn đủ thời gian hay năng lượng để duy trì tiêu chuẩn đỉnh cao như hồi chỉ có 40 hội viên.
 
-170 Alex Hormozi
-
 Khoảng 20–30 hội viên hoạt động tích cực còn lại trong phòng tập của bạn (nếu có) cũng chỉ gắn bó được vài tháng, rồi nhanh chóng bị thay thế bởi những gương mặt mới đến trải nghiệm phòng tập.
 
 Những người này chỉ là khách vãng lai, bởi họ chưa bao giờ thực sự “thẩm thấu” được văn hóa ở đây. Họ không hòa nhập vào cộng đồng, họ thấy một nhóm chơi thân tự lập thành bè phái và hầu như phớt lờ người mới, mặc cho bạn đã cố gắng kết nối họ. Thỉnh thoảng lắm mới có một người phá vỡ được bức tường đó để gia nhập hàng ngũ hội viên cốt cán (OGs) và trở thành hội viên cốt cán “ danh dự”, nhưng chuyện này hiếm như sao buổi sớm.
@@ -3892,18 +3589,12 @@ Hiểu được cách vận hành của cơ chế này là một trong những c
 
 Vấn đề được tóm gọn lại như thế này:
 
-Khi lượng hội viên phòng tập tăng lên, chất lượng dịch vụ cung cấp lại giảm đi, rào cản để hội viên mới hòa nhập và kết bạn trở nên khó khăn hơn (vì các nhóm cạ cứng đã hình thành sẵn), và giờ đây, khi bạn cố gắng thu hút những người mới, họ không còn nhận được mức dịch vụ tương xứng 
-
-Gym Launch Secrets 171
+Khi lượng hội viên phòng tập tăng lên, chất lượng dịch vụ cung cấp lại giảm đi, rào cản để hội viên mới hòa nhập và kết bạn trở nên khó khăn hơn (vì các nhóm cạ cứng đã hình thành sẵn), và giờ đây, khi bạn cố gắng thu hút những người mới, họ không còn nhận được mức dịch vụ tương xứng mà đáng lẽ họ phải nhận được khi phòng tập mới có 40 hội viên, hay bầu không khí cộng đồng đầy chào đón mà nhóm hội viên cốt cán (OGs) từng có. Chính vì thế, dù bạn có tối ưu hóa khâu đầu phễu (front end) thế nào đi nữa, họ cũng không ở lại hay tích lũy dày lên như trước được nữa.
 
 <!-- Start of picture text -->
 phương trình chiếc bánh<br>doanh thu phòng tập<br>giả định tối đa<br>ví dụ:<br>3 khách giới thiệu (referral)<br>15 hợp đồng EFT<br>EFT<br>từ traffic lạnh 18 180 EFT tối đa<br>1<br>10 lượng rời bỏ (churn)<br><!-- End of picture text -->
 
-mà đáng lẽ họ phải nhận được khi phòng tập mới có 40 hội viên, hay bầu không khí cộng đồng đầy chào đón mà nhóm hội viên cốt cán (OGs) từng có. Chính vì thế, dù bạn có tối ưu hóa khâu đầu phễu (front end) thế nào đi nữa, họ cũng không ở lại hay tích lũy dày lên như trước được nữa.
-
 Vậy làm thế nào để phá vỡ vòng luẩn quẩn tưởng chừng như vô tận này, để thực sự phát triển phòng tập và tạo ra lợi nhuận?
-
-172 Alex Hormozi
 
 Tôi hứa là luôn có giải pháp. Cảm ơn bạn đã kiên nhẫn đồng hành cùng tôi. Bây giờ, hãy đi thẳng vào những phần hay ho nhất nhé.
 
@@ -3923,11 +3614,7 @@ Bởi vì hãy đối mặt với thực tế đi, khi là các doanh nhân, lú
 
 Mọi người có thể *cảm nhận* được khi bạn đang vận hành từ tâm thế đó.
 
-Lý do tôi đề cập đến tầm quan trọng của lòng trắc ẩn là bởi vì, với tư cách là một chuyên gia thể hình và một chủ phòng tập, bản chất bạn là người quan tâm đến người khác và có năng lực, nhưng có thể bạn chưa nhận ra rằng 
-
-Gym Launch Secrets 173
-
-sự quan tâm sâu sắc của bạn đến hạnh phúc của người khác lại có thể trở thành một lợi thế cạnh tranh khổng lồ, giống như cách nó đã từng làm cho Gym Launch.
+Lý do tôi đề cập đến tầm quan trọng của lòng trắc ẩn là bởi vì, với tư cách là một chuyên gia thể hình và một chủ phòng tập, bản chất bạn là người quan tâm đến người khác và có năng lực, nhưng có thể bạn chưa nhận ra rằng sự quan tâm sâu sắc của bạn đến hạnh phúc của người khác lại có thể trở thành một lợi thế cạnh tranh khổng lồ, giống như cách nó đã từng làm cho Gym Launch.
 
 Chúng tôi nói điều này với tất cả mọi người, nhưng phần lớn các chủ phòng tập (hoặc các chủ doanh nghiệp nhỏ khác tham gia hội thảo của chúng tôi) đều phớt lờ nó.
 
@@ -3955,8 +3642,6 @@ Hiện tượng này được gọi là sự trao đổi dư dả (abundant exch
 
 Dưới đây là một ví dụ: Gym Launch cung cấp dịch vụ hỗ trợ kỹ thuật (tech support) cho các thành viên trong chương trình của chúng tôi. Hãy thử tưởng tượng xem đội ngũ kỹ thuật của chúng tôi sẽ DỄ DÀNG rơi vào cái bẫy tư duy coi tất cả các chủ phòng tập như những kẻ mù công nghệ đến mức nào.
 
-174 Alex Hormozi
-
 Hãy tưởng tượng sau khi hỗ trợ vị chủ phòng tập thứ bốn trăm kêu ca rằng mã pixel của họ không hoạt động và họ đã làm theo “đúng y hệt những gì trên video hướng dẫn”, đội ngũ hỗ trợ bắt đầu chớm có suy nghĩ: “Mấy ông chủ phòng tập này ngốc thật, mình thông minh hơn nhiều”.
 
 Phòng tập của bạn có huấn luyện viên nào đang vận hành theo kiểu này không?
@@ -3974,8 +3659,6 @@ Bởi vì khi bạn nhận 100% trách nhiệm về mình, quyền kiểm soát 
 Hãy cứ cho đi ngay cả khi bạn cảm thấy mình chẳng còn gì trong tay. Khoảnh khắc cho đi lần đầu tiên ấy sẽ mở khóa phần sức mạnh nội tâm lớn nhất và giúp chúng ta trưởng thành hơn bất cứ điều gì. Khi bạn hoạt động với tư duy này, bạn sẽ chẳng bao giờ nghĩ rằng: "Mình cho họ quá đủ rồi." Vì đó chỉ là cái tôi của bạn đang lên tiếng. Và chừng nào khách hàng của bạn vẫn là con người, chừng nào bạn vẫn muốn giúp đỡ họ, thì việc bạn cho đi nhiều hơn số tiền họ trả có quan trọng gì chứ? (Miễn là bạn vẫn đảm bảo biên lợi nhuận – profit margin).
 
 Sẽ chẳng có ai ghi nhận công sức của bạn nhiều như bạn nghĩ đâu. Không bao giờ có chuyện đó đâu. Thế nên hãy chấp nhận sự thật đi. Hãy thừa nhận rằng cuộc đời này không công bằng, và chọn sống trong một thế giới nơi bạn tự đặt ra luật chơi, bởi vì BẠN là người kiểm soát mức độ cho đi của chính mình.
-
-Gym Launch Secrets 175
 
 ###### **Lòng trắc ẩn trong thực chiến**
 
@@ -3998,8 +3681,6 @@ Khi sự tận tâm đó không còn, mọi người sẽ rời đi, bởi vì h
 Và nếu bạn cảm thấy mình đã cho họ "đủ" rồi, thì họ hoàn toàn có lý. Họ đã nhận được mọi thứ bạn có thể cung cấp. Và họ sẽ ra đi.
 
 Tôi tin rằng lý do cho sự thành công của chúng tôi là vì chúng tôi thực sự quan tâm đến khách hàng. Và chúng tôi thực sự muốn mọi người cùng phát triển, kiếm được nhiều tiền hơn một cách dễ dàng hơn.
-
-176 Alex Hormozi
 
 Vậy chìa khóa cho doanh nghiệp của chúng ta lúc này là: làm thế nào để chúng ta tiếp tục ép bản thân phải phát triển, và rộng ra là tiếp tục đổi mới, học hỏi rồi truyền tải những kiến thức đó cho khách hàng?
 
@@ -4039,10 +3720,6 @@ Tại sao mọi người không hòa mình vào cộng đồng như những thà
 
 Vậy thì hãy sửa chữa nó nào.
 
-177
-
-178 Alex Hormozi
-
 Nếu bạn đã phát chán cảnh sống qua ngày bằng mấy mẩu vụn bánh mì, hãy quay trở lại với phần cốt lõi và thực chất nhất.
 
 Như tôi đã giải thích ở chương trước, khi bạn mới mở phòng gym, nó phát triển ở giai đoạn đầu nhưng rồi chững lại vì số lượng người rời đi bằng đúng số lượng người bước vào. Tại sao? Bởi vì doanh nghiệp của bạn đang dần trưởng thành. Dù bạn có cảm giác mình đang làm mọi thứ y hệt như trước, thời gian luôn có cách thay đổi mọi thứ.
@@ -4056,8 +3733,6 @@ Như tôi đã giải thích ở chương trước, khi bạn mới mở phòng 
 - Cộng đồng của bạn từ một tập thể toàn người mới, cùng nhau học hỏi nay phân hóa thành nhóm thành viên đời đầu (OGs) và phần còn lại. Các hội nhóm khép kín (cliques) hình thành, khiến những người mới rất khó để chen chân vào.
 
 - Dòng khách hàng của bạn từ những người bạn thân thiết và các lượt giới thiệu (referrals) kiểu "Hãy đến thử phòng gym mới mở này xem" biến thành traffic tự nhiên (cold traffic) và những người hoàn toàn xa lạ kiểu "Ồ, lại có đứa đang chạy quảng cáo khuyến mãi nữa kìa."
-
-Gym Launch Secrets 179
 
 ###### Chất lượng phục vụ suy giảm
 
@@ -4088,8 +3763,6 @@ Khi tôi đến một phòng gym để hỗ trợ vực dậy cơ sở đó, ch�
 
 - Thu hút thêm nhiều khách hàng bước qua cánh cửa phòng gym thông qua marketing và quảng cáo 
 
-Gym Launch Secrets 181 
-
 Nếu bạn biết chính xác có bao nhiêu người đăng ký mới mỗi tháng và tỷ lệ khách rời bỏ (churn) là bao nhiêu phần trăm, bạn có thể dựa vào những con số đó để **dự báo quy mô tối đa mà phòng gym có thể đạt được** nếu mọi thứ giữ nguyên. Và nếu bạn biết cách tác động vào những con số đó, bạn cũng có thể dự báo được mức tăng trưởng tiềm năng khi thực hiện một số cải tiến. 
 
 Giả sử bạn đang vận hành một lớp bootcamp với 10 lượt đăng ký mới mỗi tháng và tỷ lệ rời bỏ là 10%. Hãy cùng phân tích một vài cách chúng ta có thể xoay chuyển hai con số này. 
@@ -4111,8 +3784,6 @@ Chuyện gì xảy ra khi số lượng đăng ký TĂNG từ 10 lên 20 ngườ
 20 lượt đăng ký (2 giới thiệu + 18 marketing) / 10% tỷ lệ rời bỏ = **200 EFT TỐI ĐA** 
 
 Chúng ta vừa NHÂN ĐÔI mức tối đa của mình. Quá ngọt ngào. 
-
-182 Alex Hormozi 
 
 Chúng ta còn có thể làm gì nữa? Giảm tỷ lệ rời bỏ (churn) thì sao nhỉ? 
 
@@ -4140,8 +3811,6 @@ Bùm. Chúng ta vừa nhân BỐN số lượng EFT của phòng gym đó lên.
 
 Nhưng, như bố tôi vẫn hay nói: “Ai cũng có thể trở nên giàu có trên Excel.” 
 
-Gym Launch Secrets 183 
-
 Tôi đưa ra những con số này cho bạn thấy vì đây chính là cuộc chơi mà chúng ta đang tham gia. Chúng ta đang kinh doanh mô hình dịch vụ doanh thu định kỳ (recurring revenue service model). Và tỷ lệ rời bỏ (churn) trở thành vấn đề lớn nhất mà một phòng gym phải đối mặt, đặc biệt khi nó phát triển lớn mạnh. 
 
 Những gì giúp bạn đạt mốc 100 thành viên sẽ không còn đủ để đưa bạn vượt qua mốc 200 hay 400 thành viên. Đó là một bộ kỹ năng hoàn toàn khác. Đừng lo, bạn sẽ sớm học được cách làm chủ chúng thôi. 
@@ -4159,8 +3828,6 @@ Mượn lời của Marcus Lemonis từ chương trình truyền hình _The Prof
 Đầu tiên, tôi sẽ nói về **quy trình** (processes), hay những việc bạn cần làm để mang lại cho khách hàng những trải nghiệm tuyệt vời nhằm giữ chân họ. 
 
 Thứ hai, tôi sẽ bàn về **con người** (people) – những người thực hiện các quy trình đó, và cách cơ cấu tổ chức doanh nghiệp từ góc độ vận hành. 
-
-184 Alex Hormozi 
 
 Thứ ba, tôi sẽ đi sâu vào **sản phẩm** (product) – cấu trúc buổi tập thực tế và đội ngũ HLV. Tôi sẽ không bàn về bất kỳ thứ gì liên quan đến chuyên môn tập luyện. Tôi sẽ tập trung hoàn toàn vào cấu trúc tối ưu của các buổi tập dựa trên những gì chúng tôi đã đúc kết và chứng minh là hiệu quả. 
 
@@ -4202,13 +3869,7 @@ Dưới đây là tổng quan nhanh về cách vá cái “lỗ thủng trên x�
 
 Nếu hiện tại bạn chưa có một trải nghiệm khách hàng lý tưởng nào, điều đó có nghĩa là khách hàng mới không cảm thấy gắn kết với cộng đồng như những thành viên ban đầu. Khối lượng công việc đè nặng lên thời gian của bạn lớn đến mức bạn đơn giản là không thể dành nhiều thời gian vun đắp mối quan hệ với từng người mới như trước đây. Những khách hàng này rời đi không một tiếng kìm nén mà lặng lẽ chìm dần vào danh sách hủy dịch vụ vì những lý do ngẫu nhiên. 
 
-Thành viên phòng gym có thể đăng ký dịch vụ của bạn vì họ mơ ước được mặc vừa chiếc váy đen quyến rũ đó, nhưng họ ở lại vì các mối quan hệ. Vì vậy, điều lớn nhất bạn có thể làm để giữ chân mọi người 
-
-185 
-
-186 Alex Hormozi 
-
-gắn kết chính là xây dựng một cộng đồng cởi mở, chào đón và thiết lập các hệ thống để họ luôn hòa nhập. Nhưng cụ thể thì nó trông như thế nào? 
+Thành viên phòng gym có thể đăng ký dịch vụ của bạn vì họ mơ ước được mặc vừa chiếc váy đen quyến rũ đó, nhưng họ ở lại vì các mối quan hệ. Vì vậy, điều lớn nhất bạn có thể làm để giữ chân mọi người gắn kết chính là xây dựng một cộng đồng cởi mở, chào đón và thiết lập các hệ thống để họ luôn hòa nhập. Nhưng cụ thể thì nó trông như thế nào? 
 
 Tại Gym Launch, chúng tôi đã xác định được bốn cột mốc khách hàng trên hành trình lý tưởng. Chúng tôi truyền đạt chính xác bốn cột mốc này cho tất cả các phòng gym của mình. Đây chính là các mục tiêu – những gì bạn muốn khách hàng thực hiện: 
 
@@ -4313,10 +3974,6 @@ Dưới đây là năm kỵ sĩ giữ chân khách hàng:
 
 5. Phỏng vấn khi rời đi (**Exit Interviews**)
 
-191
-
-192 Alex Hormozi
-
 Nghe này, có hàng tỉ thứ khác nhau bạn có thể làm để thúc đẩy tỷ lệ giữ chân khách hàng (**Retention**). Hoặc ít ra, có hàng tỉ thứ mà mọi người *tự nhận* là giúp giữ chân khách hàng. Vấn đề là… chúng có thực sự hiệu quả không? Theo kinh nghiệm của tôi, những hệ thống đơn giản mới là tốt nhất. Có rất nhiều viên đạn chì, nhưng chỉ có vài viên đạn bạc. Năm hành động này chính là những viên đạn bạc của bạn, là những đòn bẩy cốt lõi thúc đẩy hành vi. Chúng giống như những chiếc bản lề nhỏ mở toang cánh cửa kho báu chứa đựng giá trị trọn đời của khách hàng (**LTV**). Tôi tổng hợp danh sách này dựa trên điểm chung của những phòng gym xuất sắc nhất—không phải mọi thứ họ làm, mà là một vài điều MỌI HỌ đều làm.
 
 Nếu bạn chỉ làm đúng năm điều này, đặc biệt là hai điều đầu tiên, bạn sẽ tiến rất gần đến mục tiêu giảm thiểu tỷ lệ rời bỏ (**Churn rate**).
@@ -4332,8 +3989,6 @@ Bây giờ, hãy cùng mổ xẻ kỹ hơn từng "kỵ sĩ" này.
 Tôi có thể cố làm cho nó nghe có vẻ cao siêu, nhưng tất cả những gì bạn cần làm là CÁ NHÂN HÓA việc nhắn tin qua SMS hoặc Messenger cho từng khách hàng cứ sau mỗi 14 ngày. Ai đó trong đội ngũ của bạn phải liên hệ với từng cá nhân trong phòng gym hai lần một tháng giống như một lần đo nhịp tim vậy.
 
 Mục tiêu là để tán dương, khen ngợi tiến bộ của khách hàng, sau đó giải quyết bất kỳ rắc rối nhỏ nào họ đang gặp phải. Kênh giao tiếp này chính là nền móng của mối quan hệ. Chúng ta phải giữ cho nó luôn thông suốt để duy trì mối quan hệ đó.
-
-Gym Launch Secrets 193
 
 Bạn nên ghi chú lại mọi sự kiện quan trọng trong đời hoặc những "chiến thắng" nhỏ của khách hàng được nhắc đến trong các buổi họp nhóm chớp nhoáng hàng ngày (team huddles). (Tôi sẽ giải thích kỹ hơn về các buổi họp nhóm này sau). Bằng cách này, mọi người có thể chia sẻ ghi chú cho nhau, và khi đến lịch bạn phải liên hệ, bạn có thể lồng ghép yếu tố cá nhân hóa vào đó. Đừng bao giờ đánh giá thấp sức mạnh của sự quan tâm cá nhân. Con người luôn khao khát được chú ý. Hãy cho họ điều đó.
 
@@ -4363,11 +4018,7 @@ Dưới đây là một số cách đã phát huy hiệu quả với chúng tôi
 
 2. Viết cho họ một chiếc thiệp tay (sẽ nói chi tiết hơn ở phần dưới) mời họ tham gia sự kiện ngay ngày họ ký hợp đồng, dù sự kiện đó có diễn ra ba tuần sau đi nữa. Hãy viết nó ngay sau khi họ đăng ký để mọi chi tiết vẫn còn tươi mới trong tâm trí bạn.
 
-3. Tặng họ quà lưu niệm (**swag**) như áo thun hoặc nhãn dán xe để họ cảm thấy mình là một phần của cộng đồng, cảm thấy thuộc về nơi này. Điều này cực kỳ hiệu quả nếu bạn trao tặng họ một cách công khai (ví dụ: sau buổi tập). Họ sẽ mặc nó hoặc trưng bày nó. Ai cũng muốn cảm thấy mình thuộc về “cội nguồn” hoặc nhóm “được chọn”. Quà tặng lưu niệm phát huy tác dụng tối đa nếu họ mặc nó đi tập đủ 5 buổi. (Đó là con số ma thuật về số buổi tập trong tháng đầu tiên để 
-
-Gym Launch Secrets 195
-
-khách hàng “gắn bó” theo số liệu thống kê của Orangetheory từ Hội nghị MBO năm 2017).
+3. Tặng họ quà lưu niệm (**swag**) như áo thun hoặc nhãn dán xe để họ cảm thấy mình là một phần của cộng đồng, cảm thấy thuộc về nơi này. Điều này cực kỳ hiệu quả nếu bạn trao tặng họ một cách công khai (ví dụ: sau buổi tập). Họ sẽ mặc nó hoặc trưng bày nó. Ai cũng muốn cảm thấy mình thuộc về “cội nguồn” hoặc nhóm “được chọn”. Quà tặng lưu niệm phát huy tác dụng tối đa nếu họ mặc nó đi tập đủ 5 buổi. (Đó là con số ma thuật về số buổi tập trong tháng đầu tiên để khách hàng “gắn bó” theo số liệu thống kê của Orangetheory từ Hội nghị MBO năm 2017).
 
 4. Giới thiệu họ với một người bạn đồng hành/cố vấn kỳ cựu (OG buddy/mentor) càng sớm càng tốt. Và sắp xếp cho họ tập cùng những người kỳ cựu này trong phần khởi động ở vài tuần đầu tiên. Khuyến khích họ trao đổi số điện thoại và làm quen với tên của nhau.
 
@@ -4384,8 +4035,6 @@ Lại một lần nữa, việc này rất đơn giản nhưng hầu hết các 
 Chỉ báo dẫn dắt hàng đầu (#1 leading indicator) cho thấy một khách hàng đang trên đà hủy gói tập là khi họ đến phòng gym từ hai buổi trở xuống trong một tuần.
 
 Những đối tượng này cần được ưu tiên hàng đầu và bạn cần chủ động tiếp cận quyết liệt hơn để tái thiết lập kết nối. Ngay khi liên lạc được, hãy cho họ biết bạn nhận ra họ đã lâu không đến phòng tập, đồng thời kéo họ quay lại ngay lập tức vì bạn rất nhớ họ và muốn họ đạt được mục tiêu của mình.
-
-196 Alex Hormozi
 
 Nếu họ đang gặp vấn đề với bạn, với phòng tập, hoặc với bất kỳ chuyện gì trong cuộc sống khiến họ khó đến tập, hãy cố gắng giúp họ tháo gỡ khó khăn và giảm bớt sức ỳ. Ngay cả khi chuyện đó chẳng liên quan gì đến bạn (ví dụ như áp lực cá nhân), bạn vẫn có thể nhắc họ rằng tập luyện chính là cách giải tỏa căng thẳng tuyệt vời và là khoảng lặng cần thiết để tạm quên đi rắc rối.
 
@@ -4415,8 +4064,6 @@ Tuần 5: HỦY GÓI (CANCEL)
 
 Bạn sẽ muốn gửi thiệp viết tay ở nhiều thời điểm trong vòng đời khách hàng (customer lifecycle).
 
-Gym Launch Secrets 197
-
 Lần đầu tiên là ngay sau khi họ đăng ký. Hãy gửi một tấm thiệp viết tay chào mừng họ gia nhập cộng đồng, kèm theo một ít quà lưu niệm (swag) và lời mời tham gia sự kiện khách hàng tiếp theo (Công cụ giữ chân #4).
 
 Tôi khuyên bạn nên giữ mọi thứ thật đơn giản. Theo kinh nghiệm của tôi, những hệ thống phức tạp thường không mang lại hiệu quả.
@@ -4437,8 +4084,6 @@ Bước 6: Chính HLV đó sẽ chủ động hỏi lại khách hàng khi họ 
 
 Bước 7: Ngay lúc đó, hãy nói: *"Đừng lo, tôi không buồn đâu. Nhưng nếu có thể, bạn *sẽ* gửi nó cho ai? Được thôi, tuyệt vời—lấy điện thoại ra ngay nào."*
 
-198 Alex Hormozi
-
 Bước 8: HLV cầm điện thoại của khách, quay một video ngắn 20 giây cùng với họ. Nói đại loại như: *"Này, Sandy vừa nhắc đến bạn đấy. Nếu bạn cũng tuyệt vời như cô ấy, tôi rất muốn làm quen. Hãy ghé qua và chơi nhé."*
 
 Bước 9: Gửi đoạn video đó qua tin nhắn nhóm cho khách hàng tiềm năng (prospect) kèm theo số điện thoại cá nhân của HLV.
@@ -4453,11 +4098,7 @@ Về tỷ lệ, tôi khuyên cứ một tấm thiệp thăm hỏi bình thườn
 
 ###### **Công cụ giữ chân #4: Sự kiện thành viên (Member Events)**
 
-Trụ cột tiếp theo là tổ chức các buổi giao lưu định kỳ cho khách hàng, chẳng hạn như một buổi tối chơi golf mini (putt-putt golf) hoặc tiệc hồ bơi (pool party). Những hoạt động này giúp mọi người gắn kết và hòa nhập sâu hơn vào cộng đồng của bạn. Suy cho cùng, trong lúc tập luyện hay lúc đến và rời 
-
-Gym Launch Secrets 199
-
-phòng tập, khách hàng không có nhiều thời gian để trò chuyện—vốn là yếu tố cốt lõi giúp con người xích lại gần nhau. Các sự kiện sẽ giúp các thành viên tề tựu trong một không gian thư giãn hơn, ít áp lực về mục tiêu hơn và chỉ để xả hơi.
+Trụ cột tiếp theo là tổ chức các buổi giao lưu định kỳ cho khách hàng, chẳng hạn như một buổi tối chơi golf mini (putt-putt golf) hoặc tiệc hồ bơi (pool party). Những hoạt động này giúp mọi người gắn kết và hòa nhập sâu hơn vào cộng đồng của bạn. Suy cho cùng, trong lúc tập luyện hay lúc đến và rời phòng tập, khách hàng không có nhiều thời gian để trò chuyện—vốn là yếu tố cốt lõi giúp con người xích lại gần nhau. Các sự kiện sẽ giúp các thành viên tề tựu trong một không gian thư giãn hơn, ít áp lực về mục tiêu hơn và chỉ để xả hơi.
 
 Hãy tổ chức sự kiện theo lịch cố định. Đừng thông báo trước khoảng thời gian giữa các sự kiện, cứ đến lịch là tổ chức. Tần suất 21 ngày một lần là một gợi ý tuyệt vời.
 
@@ -4474,8 +4115,6 @@ Dưới đây là "bí quyết gia truyền" của tôi để các sự kiện k
 Tại sao phương pháp này lại hiệu quả đến vậy? Vì nó tạo cho mọi người một cái cớ để giao du. Phần lớn mọi người chẳng có kế hoạch gì sất. Phần lớn mọi người đều tẻ nhạt. Và giờ đây, phòng tập của bạn đang "vượt kỳ vọng" (overdeliver) bằng cách mang lại giá trị vượt ra ngoài khuôn khổ tập luyện fitness.
 
 Sự kiện mang lại tiền cho bạn theo nhiều cách. Bạn giảm được tỷ lệ rời bỏ dịch vụ nhờ việc bồi đắp mối quan hệ sâu sắc hơn với khách hàng. Cả những thành viên "cạo cội" (OGs) lẫn lính mới đều đang mở rộng quan hệ. Bạn có cơ hội tiếp cận và bán hàng cho bạn bè của họ thông qua chính sách đi kèm bạn bè. Lấy ví dụ, khi tổ chức đi chơi golf mini, bạn đã lo trọn tiền thuê người trông trẻ, nên họ đã rất vui vẻ rồi. Nhưng nếu họ chọn dẫn thêm một người bạn, bạn cũng sẽ đài thọ luôn vé chơi golf cho cả hai. Điều này đẩy nguyên lý **có qua có lại** (reciprocity) về phía bạn. Nếu bạn gặp gỡ bạn bè của khách hàng tại một sự kiện do phòng tập tài trợ, xác suất rất cao là họ sẽ ghé qua tham quan cơ sở của bạn vào một thời điểm nào đó.
-
-200 Alex Hormozi
 
 **Mẹo chuyên gia:** Nếu bạn quyết định tổ chức sự kiện tại một địa điểm kinh doanh bên ngoài (thậm chí là một chuỗi cửa hàng), bạn thường có thể thương lượng mức giá ưu đãi hoặc thậm chí được miễn phí hoàn toàn địa điểm cho buổi tối hôm đó, đơn giản vì bạn đang mang lại nguồn khách hàng mới cho họ. Đây chính là cách bạn tạo dựng tầm ảnh hưởng như một "thị trưởng" trong khu phố của mình. Ai mà chẳng yêu quý một kẻ mang lại khách hàng cho họ, đúng không? Làm điều này đủ nhiều lần, họ sẽ tự khắc giới thiệu khách về lại cho bạn, kẹp thẻ giảm giá/miễn phí dịch vụ của bạn vào tờ rơi của họ, hoặc trả ơn bạn bằng một hình thức nào đó.
 
@@ -4494,8 +4133,6 @@ Bạn thấy đấy, mọi thứ đang dần khớp với nhau phải không?
 - Buổi tập Bootcamp từ thiện kết hợp BBQ 
 
 - Rửa xe gây quỹ từ thiện 
-
-Gym Launch Secrets 201 
 
 - Đêm "xõa" ẩm thực (Cheat Meal Night) 
 
@@ -4539,17 +4176,11 @@ Chúng tôi không phải kiểu cơ sở chỉ biết quẹt thẻ thu tiền c
 
 Hầu hết các phòng tập đều không muốn nói chuyện với những khách hàng chọn rời đi, nhưng với chúng tôi, họ lại là những người tuyệt vời nhất vì họ giúp chúng tôi tạo ra trải nghiệm tối ưu và phục vụ mọi người ở tiêu chuẩn cao hơn. 
 
-Và rất nhiều lần, qua những cuộc trò chuyện này, chúng tôi phát hiện ra vấn đề hoàn toàn chẳng liên quan gì đến phòng tập cả. Đôi khi đó là áp lực công việc, chuyện gia đình hay con cái. May mắn thay, một khi đã biết rõ nguyên nhân, chúng tôi thường có thể giúp họ tháo gỡ. Cuối cùng, đây lại thêm một cách nữa để chúng tôi đồng hành cùng mọi người giải 
-
-202 Alex Hormozi 
-
-quyết vấn đề và kiên trì bám sát mục tiêu của họ. Bởi vì việc bạn giữ được vóc dáng trong tám tuần chẳng có ý nghĩa gì lớn lao cả. Chúng tôi muốn bạn khỏe đẹp suốt đời — và đôi khi điều đó đòi hỏi sự linh hoạt và sáng tạo để tìm ra giải pháp. 
+Và rất nhiều lần, qua những cuộc trò chuyện này, chúng tôi phát hiện ra vấn đề hoàn toàn chẳng liên quan gì đến phòng tập cả. Đôi khi đó là áp lực công việc, chuyện gia đình hay con cái. May mắn thay, một khi đã biết rõ nguyên nhân, chúng tôi thường có thể giúp họ tháo gỡ. Cuối cùng, đây lại thêm một cách nữa để chúng tôi đồng hành cùng mọi người giải quyết vấn đề và kiên trì bám sát mục tiêu của họ. Bởi vì việc bạn giữ được vóc dáng trong tám tuần chẳng có ý nghĩa gì lớn lao cả. Chúng tôi muốn bạn khỏe đẹp suốt đời — và đôi khi điều đó đòi hỏi sự linh hoạt và sáng tạo để tìm ra giải pháp. 
 
 Một kịch bản giao tiếp như vậy ngay từ đầu sẽ mang lại hiệu quả kỳ diệu. Và đó là sự thật: nếu bạn giúp ai đó giải quyết được vấn đề, bạn sẽ giúp họ kiên trì đến cùng. Phỏng vấn khi rời đi cho khách hàng thấy rằng bạn thực sự quan tâm và THỰC SỰ MUỐN họ bám sát mục tiêu mà họ từng đặt ra ban đầu (điều mà bạn nên làm). 
 
 Bản chất của kịch bản này là một đợt "bán lại" (re-sell). Hãy áp dụng khung tư duy **C-L-O-S-E-R**: 
-
-Gym Launch Secrets 203 
 
 - **C (Customer's Original Goal - Mục tiêu ban đầu):** “Điều gì đã đưa bạn đến với chúng tôi khi bạn quyết định đăng ký ban đầu?” 
 
@@ -4572,8 +4203,6 @@ Lúc này, thay vì nhắc lại những trải nghiệm TRONG QUÁ KHỨ, họ 
 Dù sao đi nữa, đây là quy trình giữ chân khách hàng thứ năm và cũng là quy trình cuối cùng mà bạn cần phải triển khai ngay lập tức. 
 
 Ngay cả khi hợp đồng của khách hàng không có điều khoản về phỏng vấn khi hủy dịch vụ, hãy cứ yêu cầu họ đến trực tiếp phòng tập để làm thủ tục hủy. Tối thiểu nhất, hãy gọi cho họ một cuộc điện thoại. Bạn sẽ ngạc nhiên khi thấy một đôi tai biết lắng nghe và một tư duy huấn luyện có thể xoay chuyển cục diện cuộc trò chuyện như thế nào. 
-
-204 Alex Hormozi 
 
 Làm thế nào để quản lý tất cả những việc này một cách ngăn nắp? Một câu hỏi tuyệt vời. Những bài hướng dẫn qua bảng tính hay demo phần mềm rất khó để chuyển hóa trọn vẹn vào sách vở. Nhưng tóm lại một câu, bạn chỉ đơn giản là phải dành thời gian cho nó. Hãy trích ra vài tiếng đồng hồ để hoàn tất những việc này. Hãy coi những sự điều chỉnh này chính là một phần công việc của bạn, quan trọng không kém gì những việc khác bạn làm để vận hành doanh nghiệp. 
 
@@ -4607,10 +4236,6 @@ Hãy đối xử với đội ngũ của bạn như rác, và họ sẽ đối x
 
 Giờ thì hãy cùng nhau giải quyết vấn đề số #1 nhé. Tôi nghĩ dùng hình ảnh minh họa sẽ trực quan hơn, vì vậy tôi đã làm sẵn cho bạn một biểu đồ. Các vị trí bạn cần tuyển dụng được sắp xếp theo thứ tự từ trái sang phải. Và khi phòng tập của bạn lớn mạnh dần, đội ngũ của bạn cũng sẽ phình to ra theo (cột đầu tiên hiển thị số lượng khách hàng, hay còn gọi là số lượng hội viên định kỳ hoặc **EFTs**). 
 
-205 
-
-206 Alex Hormozi
-
 ||Admin|NA|$0|NA|$0|NA|$0|NA|$0|2 x 20 hrs|$10/hr||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||Sales Manager (Quản lý Kinh doanh)|NA|$0|NA|$0|NA|$0|NA|$0|2 x 20 hrs|$1K+|Hoa hồng|
@@ -4620,8 +4245,6 @@ Giờ thì hãy cùng nhau giải quyết vấn đề số #1 nhé. Tôi nghĩ d
 |Trainers (HLV) / Khác|Theo giờ ($)|1–2|$15–$20|2–4|$15–$20|4–6|$15–$20|6–8|$15–$20|6–8|$15–$20||
 ||Chủ doanh nghiệp (Owner)|1||1||1||1||1|||
 |Số lượng Khách hàng|**0–100**||**100–175**||**175–250**||**250–325**||**400+**|||
-
-Gym Launch Secrets 207
 
 Tôi muốn gửi lời tán dương đến Joey Huber, một trong những "Gym Lord" thuộc hệ thống của chúng tôi. Phòng tập của cậu ấy đã vượt xa thành công của tôi nhờ áp dụng triệt để các hệ thống mà chúng tôi đã xây dựng.
 
@@ -4639,8 +4262,6 @@ Mỗi cấp độ sẽ cho bạn thấy lượng công việc cần thiết tư�
 
 Khi chúng tôi mới bắt đầu Gym Launch, chúng tôi chỉ có duy nhất một nhân viên hỗ trợ (support rep). Cô ấy phải lo tất cả mọi thứ cho tất cả mọi người. Giờ đây, chúng tôi có hơn 37 nhân viên hỗ trợ. 
 
-208 Alex Hormozi
-
 Ban đầu, mỗi nhân viên đều được đào tạo chéo để họ nắm rõ toàn bộ bức tranh tổng thể và cách mọi thứ vận hành ăn khớp với nhau. Sau giai đoạn đào tạo nền tảng đó, họ sẽ được phân công vào các vai trò hẹp hơn và chuyên môn hóa hơn như chạy quảng cáo (Paid Ads), thiết lập tự động hóa (automation) và xây dựng phễu bán hàng (Funnel).
 
 Song song với đó, chúng tôi lồng ghép hệ thống hỗ trợ chiến lược từ các huấn luyện viên là chuyên gia đầu ngành (SME - Subject Matter Expert), hay những "Gym Lord" đã chứng minh được năng lực siêu việt hoặc sự thông thạo tuyệt đối trong một ngách cụ thể. Ví dụ, chúng tôi có các SME chuyên trách về vận hành, SME bán hàng qua điện thoại (phone sales), SME bán hàng giá trị cao (high-ticket sales), SME giữ chân khách hàng (retention) và SME tự động hóa.
@@ -4656,8 +4277,6 @@ Tôi tạm loại chủ doanh nghiệp ra khỏi bảng này, nhưng người đ
 Bạn cũng sẽ thấy rằng các quản lý kinh doanh (sales manager) xuất hiện ở tận bước cuối cùng. Tại sao vậy? Bởi vì đây là một trong những vị trí đắt đỏ nhất để tuyển dụng, không phải xét về mặt TIỀN LƯƠNG, mà xét về mặt chi phí cơ hội bị bỏ lỡ. Hiếm có ai bán hàng giỏi bằng chính chủ doanh nghiệp/nhà sáng lập. Thế nên, doanh nghiệp sẽ phải gánh lỗ từ những cơ hội bị bỏ lỡ đó.
 
 Điều này làm tăng chi phí có được khách hàng (CAC) và làm sụt giảm doanh thu. Tuy nhiên, đến một thời điểm nhất định, chủ doanh nghiệp đơn giản là sẽ không còn đủ sức và thời gian để tiếp tục bán hàng nữa. Đây là một trong những vị trí cuối cùng tôi khuyên bạn nên thay thế, chủ yếu là vì quá trình đào tạo một người mới đòi hỏi rất nhiều thời gian và công sức — và đôi khi bạn phải trả giá bằng vài "sai lầm" — trước khi tìm được đúng chàng trai hay cô gái phù hợp cho công việc.
-
-Gym Launch Secrets 209
 
 Trong suốt khoảng thời gian đó, bạn liên tục bị thất thoát doanh thu và cơ hội. Đó là lý do vì sao chúng tôi khuyên bạn nên để việc này đến cuối cùng, chỉ khi bạn đã có biên lợi nhuận lành mạnh và một khoản tiền kha khá trong ngân hàng.
 
@@ -4678,8 +4297,6 @@ Sẽ có thời điểm thích hợp để mở cơ sở thứ hai, nhưng thờ
 Đó là tiêu chuẩn vàng mà tôi đặt ra cho các phòng tập trước khi họ dám NGHĨ đến chuyện mở cơ sở thứ hai. Hầu hết các trường hợp đều kết thúc bằng việc họ nhận ra mình cần tích lũy nhiều tiền hơn dự tính ban đầu, và phải lật đật quay lại cơ sở cũ vài bận để chấn chỉnh mọi thứ, tuyển dụng lại và đào tạo lại nhân sự.
 
 Tôi thường khuyên các chủ phòng tập nên bán bớt các cơ sở phụ để lấy lại sự tập trung và tâm trí, nhờ đó chúng tôi mới có thể cứu vãn cơ sở chính 
-
-210 Alex Hormozi
 
 và biến nó thành một cỗ máy siêu lợi nhuận bằng các hệ thống tôi đã phác thảo trong cuốn sách này. Chỉ khi nào họ đạt được các mốc tiêu chuẩn mới, chúng ta mới bàn tiếp về chuyện mở rộng chi nhánh.
 
@@ -4820,8 +4437,6 @@ Bạn luôn cần phải có nguồn hồ sơ đổ về (inflow) cho từng v�
 
 Chìa khóa ở đây là sở hữu một quy trình tạo **Leads** (khách hàng tiềm năng/hồ sơ tiềm năng) đáng tin cậy. Đây là lúc các mẫu **ad copy** (nội dung quảng cáo) phát huy tác dụng. Dưới đây là ba mẫu quảng cáo hiệu quả nhất của chúng tôi mà bạn có thể dùng để tuyển dụng cho những vị trí chắc chắn sẽ cần đến. 
 
-Gym Launch Secrets 219 
-
 ###### **Tuyển Giám đốc Vận hành (Operations Manager)** 
 
 ###### **CẦN TUYỂN GẤP: GIÁM ĐỐC VẬN HÀNH** 
@@ -4855,8 +4470,6 @@ Chúng tôi đang tìm kiếm một "chiến thần GSD" (get-sh*t-done – chuy
 - Cân được “tất tần tật mọi thể loại vai trò” 
 
 Nếu nghe thấy giống bạn đấy chứ, HÃY ĐỌC TIẾP PHẦN CÒN LẠI của bản mô tả và nộp đơn ngay bên dưới nhé! 
-
-220 Alex Hormozi 
 
 ###### **Tuyển Nhân viên Kinh doanh (Salesperson)** 
 
@@ -4892,8 +4505,6 @@ Hướng dẫn cực kỳ đơn giản, anh em ạ. Thành thật mà nói, nh�
 
 Thế nên nếu bạn đang chờ một điềm báo tâm linh nào đó để nộp đơn, tôi khuyên bạn NÃY LÀM LUÔN ĐI trước khi chúng tôi đủ chỉ tiêu. NỘP ĐƠN BẰNG ĐƯỜNG DẪN NÀY 
 
-Gym Launch Secrets 221 
-
 ###### **Tuyển Huấn luyện viên (Trainer)** 
 
 ###### **CẦN GẤP NGÔI SAO THỂ HÌNH TẠI [ _KHU VỰC CỦA BẠN_ ]** Lương $30K–$60K/năm tùy thuộc vào năng suất lao động 
@@ -4928,8 +4539,6 @@ Chúng tôi đang lớn mạnh từng ngày, và có vô vàn cơ hội thăng t
 
 Bấm vào link và làm theo hướng dẫn nếu bạn thấy phong cách này hợp với gu của mình. 
 
-222 Alex Hormozi 
-
 Ba mẫu ad trên là sự khởi đầu hoàn hảo cho bạn. 
 
 ###### **Applicant Nurture (Chăm sóc ứng viên)** 
@@ -4953,8 +4562,6 @@ Khi phỏng vấn nhân viên sales, bạn cần săm soi 5 yếu tố sau:
    - ❍ Họ đặt ra cho bạn bao nhiêu câu hỏi? 
 
    - ❍ Họ có độc thoại xuyên suốt buổi phỏng vấn không? 
-
-Gym Launch Secrets 223 
 
 - Khả năng tiếp thu hướng dẫn (Coachability) 
 
@@ -4991,8 +4598,6 @@ Bạn cần thực hiện các bước sau với mọi nhân sự mới:
 ###### **Management/Ascension (Quản lý & Thăng tiến)** 
 
 Chu kỳ giao tiếp chính là công cụ cốt lõi để bạn quản lý và đo lường mục tiêu. Hãy nhớ khắc cốt ghi tâm điều này: Bạn phải KHEN NGỢI nhân viên để giúp họ thành công. Hãy khắc sâu điều đó vào não. Đó là con đường duy nhất. 
-
-224 Alex Hormozi
 
 Khái niệm "Ascension" (thăng tiến) áp dụng cho nhân sự chính là việc thăng chức cho họ. Đó là lý do bạn cần tìm những con người thấu hiểu và hoàn toàn tin tưởng vào tầm nhìn của doanh nghiệp. Những "ngôi sao sáng" (rock star) sẽ nhanh chóng lộ diện. Khi điều đó xảy ra, bạn phải vẽ ra cho họ một lộ trình phát triển rõ ràng – cả về cá nhân lẫn sự nghiệp. Với các huấn luyện viên (PT), hãy cho họ thấy cách phát triển tập khách hàng semi-private (bán cá nhân hóa) của riêng họ. Với đội ngũ hành chính và vận hành, hãy mở ra cơ hội chia sẻ doanh thu khi dòng tiền EFT (thu phí tự động hàng tháng) tăng trưởng. Với đội ngũ sale (bán hàng), hãy giúp họ hình dung ra số lượng hợp đồng họ có thể chốt và điều đó mang lại gì cho sự phát triển kỹ năng cũng như thu nhập của họ.
 
@@ -5078,8 +4683,6 @@ Nhưng hãy đi nốt bước cuối cùng: bán các thử thách nội bộ ch
 
 Giả sử họ chốt được 25% trong số 65 học viên đó tham gia vào một chương trình nội bộ (internal play) giá 150 USD, và họ kiếm thêm từ 25–50 USD cho mỗi giao dịch tùy thuộc vào chương trình đó. Họ có cơ hội kiếm thêm 600 USD mỗi tháng.
 
-Gym Launch Secrets 229
-
 Điều này có nghĩa là bỏ túi thêm 7.200 USD. Giờ đây, thu nhập hàng năm của họ đã chạm mốc 42.510 USD. Đó là một mức sống hoàn toàn ổn chỉ để mặc quần đùi áo thun đến phòng gym mỗi ngày và giao lưu với những người bạn thích.
 
 Hy vọng điều này minh họa rõ ràng tiềm năng thu nhập và cách mà kết quả của bạn và của họ không hề mâu thuẫn với nhau. Trên thực tế, chúng gắn kết chặt chẽ.
@@ -5144,8 +4747,6 @@ Tóm lại, hãy tạo động lực ngoại tại (extrinsic) cho huấn luyệ
 
 - Bán các thử thách nội bộ (internal challenges) cho hội viên hiện tại.
 
-232 Alex Hormozi
-
 - Phục vụ và giữ chân khách hàng tập semi-private (hưởng 25% doanh thu gộp).
 
 Tạo động lực nội tại cho họ bằng cách…
@@ -5183,10 +4784,6 @@ Và đôi khi tôi chỉ muốn vả cho mấy phát lệch quai hàm.
 Brian cuồng nhạc gangster rap. Cậu ấy mở nhạc ở phòng gym to đến mức tôi bị thành phố phạt vì tiếng ồn. Cậu ấy luôn xin lỗi và nói rằng khách hàng muốn nghe nhạc to hơn. (Tôi đang cười và lắc đầu khi gõ những dòng này, vì tôi đã để cậu ấy lờ đi rất nhiều quy tắc).
 
 Cậu ấy thuộc tuýp người tiếp thu cái mới rất chậm, nhưng một khi đã hiểu, cậu ấy sẽ giữ nguyên phong độ đó trong mọọọọtl thời gian dài. Điều đó khiến cậu ấy cực kỳ ổn định. Quá ổn định luôn.
-
-233
-
-234 Alex Hormozi
 
 Trước khi tôi có các hệ thống để thu thập phản hồi từ khách hàng, một người phụ nữ đã đến gặp tôi sau lớp học một ngày và hỏi: "Anh có một phút chứ?" Tôi gật đầu và cô ấy ngồi xuống bàn làm việc của tôi.
 
@@ -5288,8 +4885,6 @@ Vì vậy, hãy đối xử với nhân viên của bạn tốt như cách bạn
 
 ✔ Vấn đề 1: Hệ thống thu hút khách hàng gãy đổ → Mô hình Thu hút khách hàng được tài trợ bởi chính khách hàng (Client-Financed Acquisition)
 
-Gym Launch Secrets 239
-
 ✔ Vấn đề 2: Mô hình doanh thu gãy đổ → Các đòn bẩy lợi nhuận (Profit Levers)
 
 ✔ Vấn đề 3: Lỗ thủng trong chiếc xô → Hệ thống giữ chân khách hàng (Quy trình / Nhân sự / Sản phẩm)
@@ -5324,10 +4919,6 @@ Khái niệm này rất đơn giản—giống như một chiếc bánh cưới 
 
 Trước đó, tôi đã đưa ra phép so sánh trong thể hình về "đường cong sức mạnh thích ứng" (accommodating strength curve)—nơi mà lợi thế cơ học trong một động tác càng lớn, thì mức tạ lẽ ra càng phải nặng hơn. Một ví dụ đơn giản là gắn thêm dây kháng lực (bands) vào máy đạp đùi (leg press). Bạn khỏe hơn ở nửa trên của động tác và yếu hơn ở nửa dưới. Nếu bạn tập mà không có dây kháng lực, thực chất bạn chỉ đang tập nửa dưới của động tác mà thôi, bởi vì nửa trên không đủ nặng để tạo ra tác động thích ứng cho cơ bắp.
 
-243
-
-244 Alex Hormozi
-
 Về mặt lý thuyết, việc sử dụng sức cản thích ứng cho phép bạn tập luyện tối đa cho cơ bắp xuyên suốt toàn bộ biên độ chuyển động (range of motion). Điều này hoàn toàn trái ngược với việc chỉ nặng ở một điểm và nhẹ nhàng ở phần còn lại của động tác. Về lý thuyết, một đường cong sức mạnh thích ứng sẽ giúp bạn to ra và khỏe lên nhanh hơn.
 
 Tôi nhận thấy hành vi chi tiêu của khách hàng cũng diễn ra theo cách tương tự. Chúng ta cần tạo ra một **đường cong mua sắm thích ứng (accommodating buying curve)**. Điều này khuyến khích những khách hàng có khả năng và sẵn sàng chi nhiều tiền hơn được thỏa mãn nhu cầu đó, đồng thời vẫn tạo điều kiện cho những khách hàng "yếu thế" hơn chi tiêu trong giới hạn của họ.
@@ -5348,8 +4939,6 @@ Giá trị trung bình hàng tháng trên mỗi khách hàng = $100
 2 khách hàng "mạnh" x $600 = $1.200
 $800 + $1.200 = $2.000
 Trung bình mỗi khách hàng hàng tháng = $200 ($2.000 / 10)
-
-Gym Launch Secrets 245
 
 Vậy là chỉ bằng cách bổ sung tầng thứ hai này, bạn đã nhân đôi doanh thu VÀ phục vụ khách hàng đúng với cách họ mong muốn được phục vụ nhất.
 
@@ -5587,11 +5176,7 @@ Dưới đây là bản dịch tiếng Việt theo đúng chuẩn văn phong th�
 
 Trên thực tế, đây là bức ảnh mà Robyn Thrasher đã gửi cho tôi. Cô ấy đã trả được 28.000 đô tiền nhà nợ đọng chỉ trong vòng ba tuần nhờ áp dụng những phương pháp này.
 
-Gym Launch Secrets 259 
-
 Tóm lại là như vậy. Rất đơn giản. Phần kem phủ chính là chương trình mà bạn đem đi quảng cáo. Tại thời điểm viết cuốn sách này, **Core Offer** (Gói ưu đãi cốt lõi) có tỷ lệ chuyển đổi cao nhất của chúng tôi là Thử thách 6 tuần (6-Week Challenge). Tại sao ư? Ai mà biết được!
-
-260 Alex Hormozi 
 
 Lý thuyết của tôi là Thử thách 6 tuần (42 ngày) vừa đủ dài để mọi người tin rằng một kết quả hoặc sự thay đổi đáng kể có thể xảy ra, nhưng lại vừa đủ ngắn để họ nghĩ rằng mình thực sự làm được. Chúng tôi đã đốt thẳng tay cả triệu đô tiền mặt để chạy thử nghiệm các gói ưu đãi, và không bàn cãi gì nữa, đây chính là "vua". Thế nên chúng tôi cứ thế mà làm thôi. Khi nào nó hết "hot", chắc chắn sẽ có một gói ưu đãi khác và một nền tảng khác để quảng cáo. Đừng có mà lo lắng. Và một khi bạn đã sở hữu một hệ thống **Acquisition** (Thu hút khách hàng) siêu lợi nhuận, thì việc mua **Traffic** (Lưu lượng truy cập) chỉ là chuyện nhỏ, nhờ vào mô hình **Client-Financed Acquisition** (Thu hút khách hàng tài trợ bởi chính doanh thu từ khách).
 
@@ -5609,8 +5194,6 @@ Hả… gì cơ? Chuẩn đấy, ba lần.
 
 Cách này nhắm thẳng vào nhóm khách hàng phản ứng cực kỳ nhanh nhạy. Một số người vừa bước chân vào phòng gym là mê mẩn ngay lập tức và nói chuyện cứ như thể họ sẽ cắm rễ ở đây cho đến cuối đời. Bạn có thể chốt họ ngay từ cơ hội đầu tiên này.
 
-Gym Launch Secrets 261 
-
 Chúng ta dùng một món quà dụ. Cụ thể là chúng ta đặt giá niêm yết cho gói ưu đãi ở mức khá cao, khoảng 599 đô, rồi nói rằng: *"Đây là gói tập. Rất nhiều người đã tham gia và cực kỳ mê nó. Nhưng nếu bạn muốn, chúng tôi sẽ tặng bạn toàn bộ chương trình này MIỄN PHÍ nếu bạn đăng ký làm hội viên ngay hôm nay."* Lúc đó, chúng ta sẽ bắt họ trả trước tiền cho 6 tuần đầu tiên hoặc bất kỳ khoảng thời gian nào mà chúng ta bán, nhưng đồng thời cài đặt luôn chế độ thanh toán định kỳ cho các kỳ tiếp theo.
 
 Thế nên, nếu ai đó nói: *"Ừ được chứ, tôi lấy gói đó,"* thì bạn sẽ bắt họ trả 49 đô/tuần trong 6 tuần (tổng cộng 294 đô) ngay lập tức và thiết lập khoản thanh toán tiếp theo vào 6 tuần sau đó. Khi đó, họ đã có bước chuyển dịch tâm lý từ một khách hàng mua sản phẩm phễu (**Front-end**) trở thành một hội viên chính thức. Về mặt tâm lý, điều này cực kỳ quan trọng.
@@ -5622,8 +5205,6 @@ Dù sao đi nữa, gói ưu đãi này thực sự là "hàng khủng". Nó dễ
 Bùm.
 
 Bây giờ, nếu bạn đang cần thêm tiền mặt ngay lập tức vì đang gặp khó khăn hoặc chỉ đơn giản là muốn tài khoản ngân hàng của mình có thêm một khoản đệm, hãy bỏ qua...
-
-262 Alex Hormozi 
 
 ...và nhảy thẳng đến lần chốt sales EFT thứ 2. Đây là cách mà PHẦN LỚN các phòng gym mới bắt đầu của chúng tôi áp dụng, bởi vì họ cần dòng tiền bơm vào cho vô số lý do mà tôi đã nêu ra ở phần trước.
 
@@ -5653,8 +5234,6 @@ Cấu trúc cơ bản của buổi chốt sales này như sau:
 
 Đây là kỹ thuật chốt đơn ngầm (assumed close). Nếu làm đúng cách này, bạn có thể chốt được 95% khách hàng ngay tại thời điểm giữa chặng đường này. Phần lớn nhân viên kinh doanh chỉ đạt tỷ lệ khoảng 50% trong lần đầu tiên, và dao động trong khoảng 70%–80% sau khi đã quen thuộc với mô hình chuyển đổi này. Nhưng những “sát thủ doanh số” thì có thể chốt được hầu như tất cả mọi người. Chìa khóa nằm ở việc nắm quyền kiểm soát và định hướng khách hàng phải làm gì với tư cách là một chuyên gia thể hình (fitness consultant), chứ không phải là một nhân viên bán hàng.
 
-264 Alex Hormozi 
-
 Dưới đây là một ví dụ:
 
 ###### **Bài toán doanh số "Hết đường chối từ" (Abandon Hope Sales Math)**
@@ -5673,11 +5252,7 @@ Dưới đây là kịch bản bạn có thể áp dụng:
 
 Nếu anh/chị đăng ký ngay hôm nay, tôi sẽ trực tiếp quy đổi khoản phí $600 vừa rồi vào chương trình chuyển đổi vóc dáng kéo dài một năm của chúng ta. Chương trình này bao gồm toàn bộ những gì anh/chị đang nhận được hiện tại, nhưng với mức phí rẻ hơn. Nghe hợp lý chứ ạ? Thay vì phải trả mức giá thông thường là $249/tháng, chúng ta sẽ giảm trực tiếp $50/tháng, đưa mức phí xuống còn khoảng $200 một tháng. Và vì bên em áp dụng chu kỳ thanh toán theo tuần, nên thực tế anh/chị sẽ chỉ phải trả $49/tuần thôi. Như một món quà thứ hai dành tặng anh/chị, em sẽ giữ nguyên mức giá ưu đãi này trong suốt thời gian anh/chị đồng hành cùng chúng ta. Nhưng đây sẽ là cơ hội duy nhất anh/chị nhận được ưu đãi này. Mình dùng luôn chiếc thẻ đang lưu sẵn trên hệ thống nhé? Tuyệt vời. Anh/chị ký tên ở góc dưới này giúp em, viết tắt vào đây cạnh phần giá tiền và điều khoản, còn số thẻ em sẽ điền giúp anh/chị sau nhé.
 
-Mọi chuyện đơn giản thế đấy. Bạn chỉ cần đạt được con số mong muốn bằng cách tính toán sẵn từ trước. Ai cũng cảm thấy mình nhận được 
-
-Gym Launch Secrets 265 
-
-6 tuần tập miễn phí và kèm theo ưu đãi giảm giá, nhưng nếu bóc tách dòng tiền, tất cả những gì thực sự diễn ra là: họ đã đóng $600 và ba tuần sau đó, họ tiếp tục đăng ký một gói EFT định kỳ hàng tuần (bắt đầu ngay khi giai đoạn khuyến mãi kết thúc) với mức giá đầy đủ. Tất cả nằm ở cách bạn định vị vấn đề mà thôi.
+Mọi chuyện đơn giản thế đấy. Bạn chỉ cần đạt được con số mong muốn bằng cách tính toán sẵn từ trước. Ai cũng cảm thấy mình nhận được 6 tuần tập miễn phí và kèm theo ưu đãi giảm giá, nhưng nếu bóc tách dòng tiền, tất cả những gì thực sự diễn ra là: họ đã đóng $600 và ba tuần sau đó, họ tiếp tục đăng ký một gói EFT định kỳ hàng tuần (bắt đầu ngay khi giai đoạn khuyến mãi kết thúc) với mức giá đầy đủ. Tất cả nằm ở cách bạn định vị vấn đề mà thôi.
 
 Cần phải hiểu rằng chúng ta đang "thao túng những con số", chứ không phải thao túng con người. Việc khách hàng đăng ký và gắn bó lâu dài hoàn toàn mang lại lợi ích tốt nhất cho họ, bởi vì bạn sẽ chăm sóc họ và giúp họ đạt được mục tiêu của mình, đúng chứ? Do đó, bạn phải bán gói dịch vụ này theo cách khiến họ thấy hợp lý và giúp họ tự tin vào quyết định của mình. Đó là tất cả những gì bạn làm khi nhào nặn các con số để ra được kết quả như ý muốn. Đôi khi, khách hàng cần được nghe trình bày theo những cách khác nhau trước khi đặt bút ký.
 
@@ -5717,8 +5292,6 @@ Vì chẳng còn gì để mà suy nghĩ nữa. Họ đã trải nghiệm dịch
 
 Chắc chắn chẳng có chuyện họ cần phải bàn bạc với vợ/chồng đâu, bởi vì họ đã từng đăng ký một lần rồi, và người kia rõ ràng hoàn toàn ổn với việc họ tập luyện cũng như những kết quả mà họ đang đạt được. Có hàng triệu cách để kiếm ra $49/tuần, và họ vốn đã có khả năng chi trả $100/tuần trong suốt 6 tuần qua, thế nên chẳng có lý do gì họ lại không thể tiếp tục ở lại với mức giá bằng một nửa như vậy.
 
-268 Alex Hormozi 
-
 Cho nên, đừng chấp nhận bất kỳ lời viện cớ nào. Hãy bắt khách hàng đối mặt với quyết định của họ. Và nếu họ muốn bỏ đi, hãy để họ đi. Nhưng tuyệt đối đừng để bất kỳ ai bước ra ngoài mà vẫn còn lửng lơ chưa quyết định, bởi vì đây đích thị là một buổi chốt sale—đừng nghĩ khác đi. Bây giờ, hãy xem thêm một ví dụ tính toán EFT nữa nhé.
 
 Chi phí Thử thách: $600 
@@ -5739,8 +5312,6 @@ Trong ví dụ này, chúng ta sẽ chia đều khoản tiền đó trong 6 thá
 **196 USD/tháng!**
 
 Mọi thứ quay lại vạch xuất phát với mức **EFT** (doanh thu định kỳ hàng tháng - Estimated Future Transit/Estimated Monthly Revenue) lý tưởng ban đầu.
-
-*Gym Launch Secrets 269*
 
 Tất cả những gì chúng ta làm ở đây là rút ngắn thời gian từ 12 tháng xuống còn 6 tháng để bài toán tài chính khớp với nhau. Sau mốc 6 tháng đó, bạn có thể chọn tăng phí lên, nhưng cá nhân tôi thích để nguyên mức giá đó như một chút thiện chí (goodwill) trong quá trình bán hàng.
 
@@ -5769,8 +5340,6 @@ Tôi hy vọng qua ví dụ nhỏ này, bạn thấy mọi thứ linh hoạt đ�
 ### Lời kết về Phần Bổ trợ (Back-End Cakiness)
 
 Giờ thì khép lại lớp này nhé. Nếu bạn chốt được 30 khách hàng mỗi tháng nhờ các chương trình khuyến mãi mặt tiền (ICING) này và giữ chân được 65% số họ,
-
-*Gym Launch Secrets 271*
 
 Điều đó có nghĩa là lượng EFT của bạn đang tăng trưởng khoảng 20 khách mỗi tháng (CAKE). Nếu tỷ lệ rời bỏ (attrition) của bạn ở mức trung bình ngành là 8%, bạn vẫn có thể đẩy lượng EFT lên tới 250 người (20 / 0.08 = 250). Đồng nghĩa với việc EFT của bạn có thể đạt khoảng 40.700 USD/tháng, cộng thêm 15.000 USD (30 x 500 USD) từ doanh thu mặt tiền.
 
@@ -5816,11 +5385,7 @@ Thế nào là "đầy" đối với dịch vụ nhóm lớn ở phân khúc cơ
 
 Nếu bạn chỉ triển khai chương trình bán-riêng-tư (semi-private) sau khi các lớp nhóm lớn đã kín chỗ và bạn đang quản lý từ 200+ hội viên thanh toán định kỳ (**EFTs** - Electronic Fund Transfers), bạn sẽ dễ dàng thuyết phục được 10% (tương đương 20 người) nâng cấp gói tập chỉ thông qua một chiến dịch nội bộ nhỏ.
 
-Dù con số 20 nghe có vẻ không lớn, nhưng với mức giá $600/tháng, đó là một cú hích tuyệt vời mang lại dòng tiền mới đều đặn thêm $8.000/tháng. Khoản doanh thu gia tăng này là 
-
-Gym Launch Secrets 275
-
-$8.000 thay vì $12.000, bởi vì bạn phải trừ đi số tiền mà những khách hàng này vốn đã trả cho bạn từ trước. Giả sử trước khi ra mắt chương trình semi-private, họ đang đóng $200/tháng, thì ngay khi đăng ký gói mới, mức chi tiêu của họ sẽ nhảy vọt từ $200 lên $600/tháng. Như vậy, mức tăng ròng là $400/tháng cho mỗi khách hàng (20 khách nâng cấp x $400/tháng = doanh thu tăng thêm $8.000).
+Dù con số 20 nghe có vẻ không lớn, nhưng với mức giá $600/tháng, đó là một cú hích tuyệt vời mang lại dòng tiền mới đều đặn thêm $8.000/tháng. Khoản doanh thu gia tăng này là $8.000 thay vì $12.000, bởi vì bạn phải trừ đi số tiền mà những khách hàng này vốn đã trả cho bạn từ trước. Giả sử trước khi ra mắt chương trình semi-private, họ đang đóng $200/tháng, thì ngay khi đăng ký gói mới, mức chi tiêu của họ sẽ nhảy vọt từ $200 lên $600/tháng. Như vậy, mức tăng ròng là $400/tháng cho mỗi khách hàng (20 khách nâng cấp x $400/tháng = doanh thu tăng thêm $8.000).
 
 Về mặt chi phí, bạn chỉ vận hành 15 buổi một tuần (mỗi thứ Hai - Tư - Sáu có 5 buổi). Với mỗi buổi như vậy, bạn bỏ túi $186 ($139 chi phí hàng tuần / 3 buổi x 4 học viên mỗi buổi). Chi phí thực thi (fulfillment) vẫn giữ nguyên ($20 trả cho HLV, hoặc nếu bạn đã áp dụng chia sẻ lợi nhuận, thì 25% thuộc về họ).
 
@@ -5829,8 +5394,6 @@ Về mặt chi phí, bạn chỉ vận hành 15 buổi một tuần (mỗi thứ
 Dành cho những ai đang chú ý kỹ: tôi hoàn toàn thoải mái nếu các lớp semi-private vận hành ở biên lợi nhuận (margin) 75%, thay vì 80% trở lên như các lớp nhóm lớn (**large-group**).
 
 Tôi sẽ không đi sâu vào chi tiết cách thực thi ở đây, nhưng về cơ bản, đây phải là dịch vụ cấp độ cao nhất của bạn. Hãy chủ động hỏi thăm và viết thiệp tay cho những khách hàng này (thực ra bạn nên làm điều đó cho tất cả mọi người). Về nội dung tập luyện, nhìn chung bạn nên nhấn mạnh nhiều hơn vào các bài tập với thanh tạ (barbell), bởi đây là lúc bạn có môi trường lý tưởng để kèm cặp họ sát sao. Tuy nhiên, điểm bán hàng chủ lực (**selling point**) vẫn nằm ở tỷ lệ huấn luyện viên trên học viên. Đừng hiểu lầm ý tôi nhé: TẤT CẢ các cấp độ đào tạo của bạn đều phải mang lại kết quả; nhưng chương trình Huấn luyện Thể hình Cao cấp (**HTP** - High-Ticket Fitness) sẽ giúp họ đạt kết quả đó nhanh hơn, theo một format cá nhân hóa và thú vị hơn.
-
-276 Alex Hormozi
 
 Đừng quá căng thẳng về điều này. Nếu trước giờ bạn chưa từng làm dịch vụ semi-private, việc chuyển từ nhóm lớn sang nhóm nhỏ sẽ tự động khiến mọi người cảm thấy mình đặc biệt, và nó không hề khó nhằn như bạn tưởng đâu.
 
@@ -5852,8 +5415,6 @@ Do đó, để chốt sale kỹ hơn trước khi khách hàng đến gặp tr�
 
 Điều này có nghĩa là, trước khi đến gặp "chuyên viên chốt đơn" (**closer** — có thể là bạn hoặc nhân viên khác), khách hàng sẽ phải trao đổi qua điện thoại với một "chuyên viên đặt lịch" (**setter**).
 
-Gym Launch Secrets 277
-
 Nếu đội ngũ nhân sự hiện tại của bạn chưa đủ mạnh để phân chia rách nhiệm này, bạn hoàn toàn có thể tự mình làm cả setter lẫn closer. Tôi đã từng làm thế rồi. (Đôi khi, bạn buộc phải làm những gì cần làm thôi).
 
 Và đây là kịch bản chúng tôi sử dụng.
@@ -5872,11 +5433,7 @@ Hãy để họ giải thích lý do tại sao họ muốn nói chuyện, tại 
 
 Mục tiêu & Chẩn đoán (**Goals & Diagnostics**)
 
-Tuyệt vời… cảm ơn bạn đã chia sẻ điều đó. Chắc chắn chúng tôi sẽ giúp được bạn và vạch ra cho bạn những bước đi 
-
-278 Alex Hormozi
-
-để đạt được điều đó. Nào, hãy đưa tôi bay bổng đến 12 tháng sau trong tương lai và mô tả chi tiết cuộc sống hoàn hảo của bạn trông sẽ như thế nào. Nói cách khác, điều gì phải xảy ra trong 12 tháng tới để bạn cảm thấy mình thực sự có những bước tiến vượt bậc?
+Tuyệt vời… cảm ơn bạn đã chia sẻ điều đó. Chắc chắn chúng tôi sẽ giúp được bạn và vạch ra cho bạn những bước đi để đạt được điều đó. Nào, hãy đưa tôi bay bổng đến 12 tháng sau trong tương lai và mô tả chi tiết cuộc sống hoàn hảo của bạn trông sẽ như thế nào. Nói cách khác, điều gì phải xảy ra trong 12 tháng tới để bạn cảm thấy mình thực sự có những bước tiến vượt bậc?
 
 Dẫn dắt tương lai (**Future pace**)... hãy để họ vẽ ra bức tranh về cái đích lý tưởng của họ.
 
@@ -5889,8 +5446,6 @@ Hiểu rồi, vậy bạn muốn đạt size quần áo X và giảm Y cân. Ngh
 Đào sâu hơn nữa... bạn đang đi tìm chữ "TẠI SAO" (**WHY**) chứa đầy cảm xúc mãnh liệt.
 
 Tuyệt vời, hiểu rồi. Vậy là hiện tại, các con của bạn cũng đang ăn uống không lành mạnh, và chúng đang lặp lại chính những thói quen xấu ngày bé của bạn. Cho nên, nếu cứ tiếp đà này, bạn chẳng hề có chút tự tin nào về việc chúng có thể lớn lên thành những người trưởng thành khỏe mạnh cả.
-
-Gym Launch Secrets 279
 
 Bùm. Hiển nhiên đây chỉ là một kịch bản giả định cụ thể, nhưng bạn sẽ thường xuyên nhận được những câu trả lời kiểu này. Sau đó, bạn chuyển sang các câu hỏi như…
 
@@ -5914,8 +5469,6 @@ Nếu họ trả lời bất cứ điều gì ngoài câu “Ngay và luôn ch�
 
 Hừm… ý bạn là, dù chỉ mất 12 tuần, nhưng bạn vẫn sẵn sàng chờ thêm 8 tháng nữa rồi mới bắt đầu giải quyết chuyện này sao? Tôi cứ ngỡ là bạn muốn chuyện này được giải quyết nhanh chóng vì nó đang ảnh hưởng trực tiếp đến gia đình bạn chứ. Tôi đã hiểu lầm ý bạn à?
 
-280 Alex Hormozi
-
 Đa số thời gian, họ sẽ đáp rằng: “Ồ không. Tôi muốn làm ngay bây giờ chứ, tôi cứ tưởng bạn đang hỏi tôi nghĩ quá trình đó sẽ mất bao lâu cơ.”
 
 Nếu họ vẫn không bắt được nhịp, hãy nói thẳng: “Đáng tiếc là tôi nghĩ mình không thể giúp bạn được rồi. Cảm ơn thời gian của bạn nhé. Chào bạn.” (Đến lúc đó, họ đã tự loại mình ra khỏi cuộc chơi).
@@ -5936,8 +5489,6 @@ Nếu họ hỏi chưa rõ ý, hãy diễn đạt lại câu hỏi. “Ồ thế
 
 Chương trình này được thiết kế để giúp bạn THON GỌN và SĂN CHẮC chỉ trong 12 tuần. Một người bình thường có thể giảm tới 30 pound mỡ, con số này vượt qua cả mục tiêu của bạn, điều đó có nghĩa là ngay cả khi bạn chỉ làm được một phần, bạn vẫn sẽ chạm mốc mục tiêu một cách dễ dàng. Và chương trình được thiết kế để đưa bạn về đích SIÊU TỐC—chỉ trong 12 tuần—để bạn có thể đạt được mục tiêu của mình càng sớm càng tốt và đưa gia đình cũng như các con bạn đi đúng quỹ đạo như chúng ta vừa bàn. Chúng ta sẽ làm việc cùng nhau [_chèn chi tiết ngắn gọn về chương trình_]. Nghe ổn chứ?
 
-Gym Launch Secrets 281
-
 Chờ họ nói đồng ý. Nếu họ có thắc mắc, hãy giải đáp.
 
 TUYỆT ĐỐI KHÔNG nói cho họ biết giá. Nếu họ không nói gì, hãy bồi thêm câu: “Tuyệt, vậy bước tiếp theo chúng ta nên bắt đầu từ đâu đây?” Hãy ép họ phải hỏi giá của bạn. Ngay khi họ hỏi, bạn có thể tiết lộ.
@@ -5956,8 +5507,6 @@ Hãy đảm bảo rằng nếu bạn đang làm nhiệm vụ đặt lịch (sett
 
 - Lưu ý đặc biệt: Tùy chọn dựa trên năng lực của người đặt lịch (setter): đề cập đến tổng giá hoặc mức đầu tư tối thiểu là 500$.
 
-282 Alex Hormozi
-
 - ❍ “Vậy khi bạn gặp Brad, huấn luyện viên trưởng của chúng tôi, vào thứ Tư tới, bạn có sẵn sàng đặt cọc trước 500$ cho chương trình nếu anh ấy thấy bạn thực sự phù hợp không?”
 
 - ❍ Một setter non tay sẽ chỉ chốt phí tư vấn và nói rằng giá cụ thể sẽ do Brad quyết định.
@@ -5969,8 +5518,6 @@ Nghe này, việc gặp phải những lời từ chối (objections) là chuy�
 **Mẹo chuyên gia:** Thực ra chúng tôi dùng chung một kịch bản cho cả việc đặt lịch (setting) lẫn chốt sale (closing). Điểm khác biệt duy nhất là khi đến bước chốt, bạn sẽ biến tấu phần cuối thành: “Giá cuối cùng sẽ do Brad quyết định, nhưng để bạn có thể gặp trực tiếp anh ấy, chúng tôi thu một khoản tiền đặt cọc [_50$–100_$], vì lịch trình của anh ấy cực kỳ bận rộn.” Lúc đó, bạn chính thức khép lại buổi gặp mang tính thăm dò, và việc có muốn nhận họ làm khách hàng hay không sẽ hoàn toàn do Brad quyết định. Đến lúc này, bạn đã thiết lập được vị thế cao cấp (premium positioning) và hoàn toàn có thể "bơm" một gói trị giá 3.000$ ngay trong lần ghé thăm đầu tiên của họ.
 
 **Mẹo chuyên gia:** Setter phải luôn biết cách nâng tầm (edify) người chốt sale (closer) trong suốt toàn bộ quá trình. Họ cần hành xử giống như một người gác cổng quyền uy, miêu tả "Brad" tựa như một vị thần hạ thế. Tôi nói câu này nửa đùa nửa thật, nhưng bạn thực sự phải tỏa ra cái khí chất đó. Tuy nhiên, phần quan trọng nhất vẫn là chốt được phí tư vấn. Đó là tất cả vấn đề. Bạn có thể bật mí giá qua điện thoại nếu muốn, hoặc nói rằng mọi thứ tùy thuộc vào quyết định của Brad. Điều này tùy thuộc vào độ "cứng" của setter. Nhưng có một điều chúng tôi chắc chắn: Buổi đặt lịch (The set) chính là buổi chốt sale (the close).
-
-Gym Launch Secrets 283
 
 Nếu bạn chốt được khoản phí tư vấn 100$, bạn chắc chắn sẽ chốt được họ khi họ đặt chân đến phòng tập. Nếu bạn KHÔNG chốt được 100$ qua điện thoại, có tới 90% khả năng bạn sẽ tạch khi gặp mặt trực tiếp. Vậy nên đừng mất thời gian nữa. Nếu không lấy được thông tin thẻ tín dụng, đừng cố gắng xếp lịch làm gì cho mất công. Chúng tôi đã thử nghiệm điều này với hàng trăm phòng tập. Thỉnh thoảng lại có ai đó thích vẽ vời phát minh lại cái bánh xe. Đừng làm thế. Hoặc là chốt được khoản phí tư vấn 50$–100$, hoặc dẹp luôn khỏi cần gọi.
 
@@ -6090,8 +5637,6 @@ Bây giờ, trước khi bạn nổi đóa lên, tôi không hề đang chào b�
 
 Và đây là cách bạn bán thực phẩm bổ sung chuẩn chỉnh.
 
-Gym Launch Secrets 289
-
 Đầu tiên, bạn cần hợp tác với một công ty thực phẩm bổ sung đáp ứng đầy đủ các tiêu chí sau:
 
 - Vận hành theo mô hình ký gửi/giao hàng trực tiếp từ kho (drop-ship), giúp bạn không phải ôm hàng, không tốn vốn đầu bán và không bao giờ sợ hết vị.
@@ -6114,8 +5659,6 @@ Gym Launch Secrets 289
 
 - Cung cấp các tài liệu bảo chứng từ người nổi tiếng, chuyên gia có học vị tiến sĩ (PhD), vận động viên Olympic và vận động viên chuyên nghiệp để bạn củng cố mạnh mẽ hơn nữa sự định vị cao cấp này.
 
-294 Alex Hormozi
-
 - Sử dụng công thức độc quyền (**proprietary blends**) cho các thành phần phổ biến và công khai định lượng chính xác đối với các thành phần đắt đỏ. Điều này giúp bạn nhấn mạnh thực tế rằng không có sản phẩm nào khác trên thị trường sở hữu hàm lượng dưỡng chất đắt giá tương tự, qua đó một lần nữa khẳng định sự vượt trội của sản phẩm bạn bán.
 
 - Chỉ phân phối các sản phẩm có biên lợi nhuận cao (**high-margin products**), giúp bạn không lãng phí ngân sách của khách hàng vào những mặt hàng kém lợi nhuận, đồng thời gia tăng mức doanh thu trung bình trên mỗi khách hàng.
@@ -6129,8 +5672,6 @@ Gym Launch Secrets 289
 - Thanh toán hoa hồng hai lần một tháng (bimonthly), giúp bạn có sẵn nguồn tiền để trả lương hoặc hoa hồng ngay từ doanh số bán sản phẩm thay vì phải mòn mỏi chờ đợi 30 hay 60 ngày như hầu hết các công ty **dropship** khác trên thị trường.
 
 Vì trên thị trường không có sẵn công ty nào đáp ứng được toàn bộ những kỳ vọng đó, tôi quyết định tự thành lập một công ty riêng mang tên Prestige Labs. Chúng tôi đã đổ vào đây gần 8 con số để khởi nghiệp, đồng thời tận dụng lợi thế quy mô (**economies of scale**) để tối ưu hóa lợi nhuận cho chủ phòng tập mà vẫn đảm bảo chất lượng sản phẩm tuyệt đối. Đó chính là thử thách lớn nhất. Chìa khóa nằm ở việc phải nhập số lượng khủng – hơn 50.000 sản phẩm. Nói cách khác, chúng tôi đặt mua đúng 50.000 hộp cho một hương vị duy nhất của một dòng sản phẩm, rồi lại 50.000 hộp cho hương vị tiếp theo, v.v.
-
-Gym Launch Secrets 291
 
 Đây là những điều tôi không bao giờ có thể tự làm được với tư cách là một chủ phòng tập, ngay cả khi sở hữu trong tay 6 cơ sở. Tôi cũng chẳng có đủ nguồn vốn để thuê các tiến sĩ nghiên cứu công thức tạo ra sản phẩm hoàn hảo đến vậy.
 
@@ -6152,11 +5693,7 @@ Có 4 cách chính để chúng ta bán thực phẩm bổ sung cho khách hàng
 
 Lý do tất cả các chiến lược này hiệu quả là vì thực phẩm bổ sung đại diện cho nấc thang đầu tiên trong chuỗi đường cong mua sắm "chồng tầng" (**stacking buying curves**). Nói một cách dễ hiểu, bán thực phẩm bổ sung chính là tầng đầu tiên chạm đến một "túi tiền" hoàn toàn mới của khách hàng. Chúng ta đã móc ví họ cho dịch vụ "lớp tập thể hình" (**fitness classes**); giờ là lúc họ mở tiếp "ví mua thực phẩm bổ sung". Càng đáp ứng được nhiều nhu cầu, chúng ta càng chạm tay vào nhiều túi tiền hơn, và cuối cùng là kiếm được nhiều tiền hơn từ chính một vị khách hàng đó.
 
-Tôi đã nói điều này trước đó, nhưng phải nhắc lại để bạn chắc chắn không bỏ lỡ: **Chủ doanh nghiệp nào khiến khách hàng tiềm năng của họ trở nên giá trị hơn đối với doanh nghiệp mình so với đối thủ, người đó chiến thắng.** Đây thực chất là một biến thể mang tính chiến thuật hơn của câu nói kinh điển: *"Ai sẵn sàng chi nhiều tiền hơn để có được một khách hàng, kẻ đó thắng."* Câu trả lời cho câu hỏi "Nhưng bằng cách nào?" nằm ngay ở
-
-292 Alex Hormozi
-
-câu nói đầu tiên: Bạn làm cho họ trở nên giá trị hơn. Và bạn thực hiện điều đó bằng cách khuyến khích họ chi tiêu nhiều hơn cho các dịch vụ giá trị cao (**high-ticket service**) ĐỒNG THỜI thỏa mãn càng nhiều nhu cầu của họ càng tốt.
+Tôi đã nói điều này trước đó, nhưng phải nhắc lại để bạn chắc chắn không bỏ lỡ: **Chủ doanh nghiệp nào khiến khách hàng tiềm năng của họ trở nên giá trị hơn đối với doanh nghiệp mình so với đối thủ, người đó chiến thắng.** Đây thực chất là một biến thể mang tính chiến thuật hơn của câu nói kinh điển: *"Ai sẵn sàng chi nhiều tiền hơn để có được một khách hàng, kẻ đó thắng."* Câu trả lời cho câu hỏi "Nhưng bằng cách nào?" nằm ngay ở câu nói đầu tiên: Bạn làm cho họ trở nên giá trị hơn. Và bạn thực hiện điều đó bằng cách khuyến khích họ chi tiêu nhiều hơn cho các dịch vụ giá trị cao (**high-ticket service**) ĐỒNG THỜI thỏa mãn càng nhiều nhu cầu của họ càng tốt.
 
 Tôi xem việc bán thực phẩm bổ sung là một trong những sản phẩm cốt lõi (**core offerings**) của mọi phòng tập, bởi vì nó dễ làm đến mức nếu không làm thì quả là ngớ ngẩn.
 
@@ -6176,8 +5713,6 @@ Dựa trên số liệu thực tế, chúng ta thường chốt đơn thành cô
 
 Hơn thế nữa, chúng ta tuyệt đối không bán những mặt hàng này ngay trong buổi ghé thăm đầu tiên. Cách đó chẳng bao giờ mang lại kết quả tốt đẹp. Bạn cần cho khách hàng thời gian để hạ nhiệt sau cú chốt đơn đầu tiên (gói dịch vụ thể hình).
 
-Gym Launch Secrets 293
-
 Cách chúng ta bán hàng là vào buổi gặp mặt thứ hai với họ. Đây là buổi định hướng dinh dưỡng (**nutrition orientation**), nơi chúng ta khiến họ phải trầm trồ trước một trải nghiệm được dàn dựng công phu, để rồi kết thúc bằng một cú chốt đơn mặc định kèm theo "đơn thuốc" gồm các loại thực phẩm bổ sung mà họ bắt buộc phải dùng cho chương trình vừa mua vài ngày trước đó.
 
 ###### **Toán học dòng tiền từ Lớp kem phủ (Front-End Cash Money Math)**
@@ -6189,8 +5724,6 @@ Nhưng điều này đồng nghĩa với việc bạn sẽ đút túi **lợi nh
 Lưu ý: Vẫn có cả một quy trình bán các gói thực phẩm bổ sung trị giá từ 2.000 đến 5.000 USD mà tôi đã đề cập trước đó. Tôi đã đúc kết quy trình bán hàng chuẩn xác này từ người bạn của mình – Cris Cawley (cựu chủ sở hữu thương hiệu nhượng quyền giảm cân Thinique) và nhân viên Sales xuất sắc nhất của cô ấy. Nó thực sự rất bùng nổ (pure fire). Do đó, những con số tôi đưa ra với giá trị đơn hàng trung bình (average ticket) chưa bao gồm các gói high-ticket này.
 
 Bạn sẽ khó mà tin nổi cho đến khi tận mắt chứng kiến hệ thống bán hàng này thực chiến. Vì vậy, hiện tại chúng ta sẽ chỉ tập trung vào gói đăng ký định kỳ đơn giản và bài toán tài chính đằng sau nó.
-
-294 Alex Hormozi
 
 Quay lại vấn đề chính nhé.
 
@@ -6221,8 +5754,6 @@ Một cách khác để nhìn nhận bài toán này là cách nó thực sự d
 
 Bạn chốt thành công 29 người mua gói định kỳ. Không ai rời đi cả, vì bạn chưa có khách hàng nào từ tháng trước. Do đó, bạn giữ nguyên **29 subscriber**.
 
-Gym Launch Secrets 295
-
 ###### **Tháng 2**
 
 29 đăng ký / 7 rời đi > 29 người mới tháng này + 22 subscriber còn lại từ tháng trước
@@ -6241,11 +5772,7 @@ Sang tháng thứ hai, bạn chốt thêm 29 người đăng ký mới. Hãy tí
 
 Hy vọng bạn đã hiểu rõ cơ chế vận hành của bài toán tỷ lệ rời bỏ này.
 
-Nhưng rồi mọi thứ cũng sẽ chững lại ở điểm cân bằng, khi tỷ lệ rời đi ngang bằng với tỷ lệ đăng ký mới. Đó là lúc bạn đạt đến mức tối đa giả định. Trong ví dụ này, đó là thời điểm mà 23% tổng số subscriber bằng đúng số lượng khách hàng mới bạn ký được mỗi tháng. Với chúng tôi, điều đó có nghĩa là 126 subscriber x 23% tỷ lệ mất đi = 29 người. Tại mốc 126 người, lượng khách bạn kiếm được và mất đi sẽ bằng nhau 
-
-296 Alex Hormozi
-
-(29 khách hàng), đồng nghĩa với việc doanh thu định kỳ từ thực phẩm bổ sung đã ổn định.
+Nhưng rồi mọi thứ cũng sẽ chững lại ở điểm cân bằng, khi tỷ lệ rời đi ngang bằng với tỷ lệ đăng ký mới. Đó là lúc bạn đạt đến mức tối đa giả định. Trong ví dụ này, đó là thời điểm mà 23% tổng số subscriber bằng đúng số lượng khách hàng mới bạn ký được mỗi tháng. Với chúng tôi, điều đó có nghĩa là 126 subscriber x 23% tỷ lệ mất đi = 29 người. Tại mốc 126 người, lượng khách bạn kiếm được và mất đi sẽ bằng nhau (29 khách hàng), đồng nghĩa với việc doanh thu định kỳ từ thực phẩm bổ sung đã ổn định.
 
 Và với mức 200 USD/tháng, con số này đưa chúng ta quay trở lại mức doanh thu 25.201 USD/tháng mà chúng ta đã tính toán ban đầu.
 
@@ -6277,10 +5804,6 @@ Hook dựa trên Dinh dưỡng: Đây là dạng khó làm nhất, đòi hỏi c
 
 Ví dụ:
 
-297
-
-298 Alex Hormozi
-
 - Giảm cân ngay cả khi đang uống rượu bia → Giảm cân trong cơn say (Lose While You Booze) / Thon gọn đón Giáng sinh (Slim Down For Santa)
 
 - Giảm cân nhưng vẫn được ăn kẹo và chocolate → Thon gọn trước Halloween (Lean By Halloween)
@@ -6307,11 +5830,7 @@ Hook dựa trên Thể hình: Các hook này thường dựa trên một nhóm c
 
 - Tấm lưng ong quyến rũ (Sexy Back)
 
-Hook dựa trên Cộng đồng/Trải nghiệm: Đây là những hook dễ thực hiện (fulfillment) nhất nhưng lại khó chứng minh giá trị nhất. Bạn đang tạo ra...
-
-Gym Launch Secrets 299
-
-đội nhóm và sự cạnh tranh. Đó chính là giá trị cốt lõi: tạo ra động lực ngoại sinh cho khách hàng của bạn. Những hoạt động này cũng cực kỳ "hợp rơ" với các chiến dịch từ thiện hay phong trào giới thiệu bạn bè (**referral pushes**). Theo kinh nghiệm của tôi, nếu bạn kết hợp chúng với một sự kiện hoặc một bữa tiệc vào phút chót, hiệu quả sẽ tăng lên gấp bội. Các chiến dịch từ thiện không chỉ khiến khách hàng sẵn sàng rút hầu bao mà còn tạo cảm hứng để bạn viết những nội dung quảng cáo (**ad copy**) cực kỳ hài hước. Ví dụ, trong một chương trình nội bộ quyên góp một nửa số tiền thu được cho quỹ Toys for Tots (Đồ chơi cho trẻ em nghèo), bạn có thể nói đùa rằng: *"Lý do duy nhất khiến bạn từ chối tham gia chương trình này là vì... bạn ghét trẻ con."*
+Hook dựa trên Cộng đồng/Trải nghiệm: Đây là những hook dễ thực hiện (fulfillment) nhất nhưng lại khó chứng minh giá trị nhất. Bạn đang tạo ra... đội nhóm và sự cạnh tranh. Đó chính là giá trị cốt lõi: tạo ra động lực ngoại sinh cho khách hàng của bạn. Những hoạt động này cũng cực kỳ "hợp rơ" với các chiến dịch từ thiện hay phong trào giới thiệu bạn bè (**referral pushes**). Theo kinh nghiệm của tôi, nếu bạn kết hợp chúng với một sự kiện hoặc một bữa tiệc vào phút chót, hiệu quả sẽ tăng lên gấp bội. Các chiến dịch từ thiện không chỉ khiến khách hàng sẵn sàng rút hầu bao mà còn tạo cảm hứng để bạn viết những nội dung quảng cáo (**ad copy**) cực kỳ hài hước. Ví dụ, trong một chương trình nội bộ quyên góp một nửa số tiền thu được cho quỹ Toys for Tots (Đồ chơi cho trẻ em nghèo), bạn có thể nói đùa rằng: *"Lý do duy nhất khiến bạn từ chối tham gia chương trình này là vì... bạn ghét trẻ con."*
 
 ### Ví dụ 
 
@@ -6335,8 +5854,6 @@ Bạn không nhất thiết phải giới hạn chương trình nội bộ trong
 
 Các mùa trong năm là thứ có thể tạo ra cú hích cực mạnh. Nếu bạn gắn một thử thách với một dịp lễ sắp tới, bạn sẽ được cộng điểm thưởng. Nó cũng giúp trả lời câu hỏi "Tại sao?". Khách hàng tiềm năng (**prospects**) thường tự hỏi: *"Tại sao họ lại làm chương trình này nhỉ?"*, và việc bám lấy một ngày lễ lớn sẽ giải đáp thắc mắc đó một cách cực kỳ gọn gàng.
 
-300 Alex Hormozi 
-
 ###### Ví dụ theo các dịp lễ 
 
 - Đập tan mỡ thừa đón hè sang (**Slim Down For Summer**) 
@@ -6357,8 +5874,6 @@ Sẽ có rất nhiều người muốn tham gia những sự kiện này. Hội 
 
 Tôi cực kỳ thích thêm vào mấy món quà vặt vãnh ngộ nghĩnh ở cuối chương trình và dựng lên một cái bục trao giải giả để người chiến thắng bước lên. Mấy thứ nhỏ nhặt này lại có võ phết đấy. Tôi cũng thích bắt họ tự thiết kế áo đấu và băng roll đội nhóm để treo ngoài sảnh nhằm thổi bùng ngọn lửa **FOMO**. Bạn có thể mua áo lưới phân nhóm (pinnies) với giá siêu rẻ trên mạng. Sắm thêm vài bình sơn xịt và để họ tự do sáng tạo. Mọi người mê mẩn mấy trò này lắm. 
 
-Gym Launch Secrets 301 
-
 Hãy nhớ đăng tải các video quay cảnh mọi người tập luyện những bài tập phụ trội – vốn chỉ dành riêng cho những ai mua gói chương trình nội bộ này. Và cũng giống như mọi bài đăng mạng xã hội chất lượng khác, nó phải cho thấy ai nấy đều đang có khoảng thời gian tuyệt vời như thể cuộc đời này hoàn toàn hoàn hảo. 
 
 Yêu cầu khách hàng chụp những bức ảnh "ướt đẫm mồ hôi" (sweaty selfies) để đăng lên khi check-in mạng xã hội và gắn thẻ (**tag**) doanh nghiệp của bạn nhằm tối ưu hóa cơ hội marketing không đồng. 
@@ -6376,8 +5891,6 @@ Tôi có thể liệt kê dài hoài về mấy món này, nhưng bấy nhiêu t
 Lý do khiến các chiến dịch nội bộ không đứng thành một tầng riêng biệt là vì thực chất chúng giống một nguồn traffic (lưu lượng khách hàng) hơn. 
 
 Chúng nuôi sống các tầng còn lại chứ bản thân không phải là một trung tâm lợi nhuận độc lập. Nhưng khi được nhồi nhét chung với các nguyên liệu khác, chúng chỉ làm mọi thứ mạnh lên mà thôi. Lớp đường rắc trang trí (sprinkles) chính là thứ làm cho chiếc bánh của chúng ta ngon miệng hơn gấp bội! 
-
-302 Alex Hormozi 
 
 Chiến dịch nội bộ là một trong những bí mật lớn nhất làm nên thành công của chúng tôi. Việc thiếu vắng các chiến dịch này thường là lỗ hổng toác hoác nhất mà tôi từng thấy ở các mô hình phòng tập. Ý tôi là có lẽ chỉ khoảng 5% số phòng tập tôi biết là thực sự làm đúng bài bản khâu này. 
 
@@ -6425,11 +5938,7 @@ Tại sao lại gọi là cái tên đó? Bởi vì cái hội thảo "6 Tuần 
 
 Chúng tôi marketing cho những khóa bootcamp này bằng cách "dội bom" khách hàng bằng những email hài hước, bài đăng Facebook, poster, và loạt tin nhắn SMS/text dồn dập trong đồng hồ đếm ngược 10 ngày trước khi khai giảng.
 
-Mỗi ngày, tôi sẽ yêu cầu một huấn luyện viên quay một video hài hước (sự hài hước là chìa khóa sống còn ở đây), đăng lên nhóm, sau đó gửi email 
-
-304 Alex Hormozi
-
-và tin nhắn giục họ xem video. Bằng cách đó, chẳng ai cảm thấy bạn đang làm phiền họ cả — đó gọi là "giải trí trá hình" (advertainment). Và cách này cực kỳ hiệu quả... theo đúng nghĩa đen.
+Mỗi ngày, tôi sẽ yêu cầu một huấn luyện viên quay một video hài hước (sự hài hước là chìa khóa sống còn ở đây), đăng lên nhóm, sau đó gửi email và tin nhắn giục họ xem video. Bằng cách đó, chẳng ai cảm thấy bạn đang làm phiền họ cả — đó gọi là "giải trí trá hình" (advertainment). Và cách này cực kỳ hiệu quả... theo đúng nghĩa đen.
 
 Vì bạn thường có 25% trên tổng số 120 người nhận offer, tính ra sẽ có khoảng 30 người trong ví dụ này. (Nhưng chúng tôi từng chứng kiến những phòng gym có hơn 100 khách hàng đăng ký tham gia chiến dịch nội bộ một cách đều đặn. Giới hạn duy nhất là bầu trời.)
 
@@ -6453,8 +5962,6 @@ Hầu hết các "Đế vương Gym" (Gym Lords) của chúng tôi đều rất 
 
 $4,500 trong vòng 6 tuần = ~$3,000/tháng
 
-Gym Launch Secrets 305
-
 Nếu bạn bỏ túi thêm $3.000/tháng vào doanh thu, đó là thêm $25 cho mỗi khách hàng mỗi tháng và gần như toàn bộ là lợi nhuận. Dễ như ăn kẹo.
 
 ###### **Đưa Các Chiến Dịch Nội Bộ Vào HTP (Funnel)**
@@ -6468,8 +5975,6 @@ Tuy nhiên, ở phần **backend**, bạn thường sẽ chốt được khoản
 Dòng khách hàng đổ vào này gần như tự động duy trì chương trình HTP mà không cần đến một chiến dịch **Paid Ads** hoành tráng nào bên ngoài. Và bạn không bắt buộc phải thiết lập sẵn HTP mới bắt đầu chạy mấy chiến dịch này; nó chỉ là điểm thưởng thôi vì sẽ có rất nhiều người muốn học tiếp. Rất nhiều phòng gym từng làm việc với chúng tôi — dù chưa sẵn sàng cho HTP — vẫn chạy chiến dịch nội bộ, rồi cứ thế lặp lại khung giờ, ngày tháng, chỉ đổi **hook** hoặc điểm nhấn đi là xong. Cơ hội là vô tận.
 
 Vấn đề ở đây là có hàng triệu lẻ một cách để làm marketing với khách hàng hiện tại của bạn. Hãy chắc chắn rằng bạn làm điều đó, giữ chân họ tương tác, thể hiện sự quan tâm bằng cách tạo ra những trải nghiệm mới mẻ, thú vị, và tiện thể bỏ túi thêm một khoản tiền kha khá.
-
-306 Alex Hormozi
 
 ###### **Điểm Chuyển Đổi Cho Thực Phẩm Bổ Sung (Supplements)**
 
@@ -6492,8 +5997,6 @@ Tỷ lệ chốt (%) / Chi phí ($ / Danh mục chi tiêu theo chiều dọc, S�
 100% / $99 / Dịch vụ Nhóm Lớn / Chương trình Tập luyện Thanh lọc & Thực đơn / **$99**
 
 90% / $167 / Thực phẩm bổ sung (Supplements) / Combo Detox / **$150** (Giá trị đơn hàng gia tăng)
-
-Gym Launch Secrets 307
 
 25% / $550 / Dịch vụ Bán riêng tư (Semi-Private) / **$137** (Giá trị đơn hàng gia tăng - tính riêng Tháng 1)
 
@@ -6541,10 +6044,6 @@ Dưới đây là điểm nhanh những gì bạn đã học được:
 
    - ❍ Offer không thể chối từ (Irresistible Offers)
 
-309
-
-310 Alex Hormozi
-
    - ❍ Chăm sóc Leads (Lead Nurture)
 
    - ❍ Bán hàng (Sales)
@@ -6583,8 +6082,6 @@ Nếu bạn có chút nào giống tôi, chắc hẳn bạn sẽ thấy mình x�
 
 Dưới đây là 8 cách MIỄN PHÍ khác mà tôi có thể giúp bạn kiếm thêm nhiều tiền hơn từ phòng gym của mình.
 
-Gym Launch Secrets 311
-
 - NẾU BẠN MUỐN ĐÀO TẠO MIỄN PHÍ…
 
    - Nếu bạn muốn học cách bán thực phẩm bổ sung (supplements) và cách chúng tôi áp dụng chúng vào bất kỳ quy mô mô hình thể hình nào để giúp chủ doanh nghiệp kiếm thêm tiền, đồng thời giúp hội viên đạt kết quả tốt hơn với mức rủi ro bằng không, bạn có thể đăng ký khóa huấn luyện miễn phí tại: SupplementSellingSecrets.com.
@@ -6604,8 +6101,6 @@ Gym Launch Secrets 311
 - NẾU BẠN THÍCH NGHE PODCAST… Hãy truy cập AlexsPodcast.com.
 
 - NẾU BẠN MUỐN TRÒ CHUYỆN TRỰC TIẾP VỚI CON NGƯỜI… Nếu bạn cần hỗ trợ triển khai bất kỳ bước nào trong cuốn sách này, bạn có thể đặt lịch hẹn gọi 1-1 miễn phí với một thành viên trong đội ngũ của tôi tại: IReadAlexsBook.com.
-
-312 Alex Hormozi
 
 NẾU BẠN MUỐN TÌM HIỂU VỀ CÔNG TY VÀ BLOG CỦA CHÚNG TÔI…
 
@@ -6642,10 +6137,6 @@ Các đòn chốt (closes) thường phát huy tác dụng cực mạnh khi đư
 
 Thế nên, dành cho các "sate-closer" (tay chốt đơn sừng sỏ) ngoài kia, tôi đã xếp chồng các tổ hợp đòn đã thực chiến hiệu quả nhất (Jab – Jab – Uppercut – Hook / Xốc – Xốc – Móc ngược – Móc ngang). Bạn hãy thử nhẩm lại và cảm nhận độ mượt mà của chúng trong đầu xem.
 
-313
-
-314 Alex Hormozi
-
 Bán hàng cũng giống như đánh quần vợt vậy, bạn đánh trả được bóng càng nhiều lần, cơ hội chiến thắng càng cao. Sở hữu một vài cú đánh hiểm hóc có thể đưa bạn đi xa, nhưng nắm trong tay vô số chiêu thức phản công cũng lợi hại không kém. Bạn hoàn toàn có thể làm kiệt sức đối thủ theo cách đó, thay vì chỉ chăm chăm tung ra những cú smash (đập cầu/đập bóng) từ trên cao. Cả hai cách đều có chỗ đứng riêng, và kỹ năng của bạn sẽ quyết định việc biết khi nào nên dùng chiêu nào, khi nào cần xông lên lưới, và khi nào nên thủ ở vạch baseline (đường biên cuối sân).
 
 Tôi đã hệ thống hóa tất cả các đòn chốt đơn thành các nhóm: đầu tiên phân loại theo rào cản mà chúng xử lý, sau đó chia nhỏ thành các bộ sưu tập nhỏ hơn tùy theo đòn nào kết hợp với đòn nào là "bén" nhất.
@@ -6655,8 +6146,6 @@ Tôi đã hệ thống hóa tất cả các đòn chốt đơn thành các nhóm
 **Mẹo chuyên gia:** LUÔN LUÔN ĐỒNG TÌNH với khách hàng tiềm năng. Hãy bắt đầu mọi cú chốt bằng câu *"Tôi hoàn toàn đồng ý"* hoặc *"Tôi rất hiểu cảm giác của bạn"*. Sau đó chuyển hướng sang *"Cho tôi hỏi bạn một câu nhé..."* hoặc đặt câu hỏi trực tiếp. Tuyệt đối không dùng từ *"nhưng"* hay *"tôi không nghĩ vậy"*. Đó là cách nhanh nhất đẩy khách hàng vào thế phòng thủ. Họ phải là người tự đưa ra kết luận rằng họ nên làm điều này; nếu không, họ sẽ có cảm giác bị ép buộc.
 
 Nào, nói thế là đủ rồi, chúng ta quẩy thôi!
-
-Gym Launch Secrets 315
 
 Chắc hẳn bạn đã từng đụng độ những chiêu trò trì hoãn và câu giờ kinh điển, chẳng hạn như khách hàng tiềm năng bảo rằng: *"Để tôi suy nghĩ thêm đã"* hoặc *"Mai tôi gọi lại và đưa thông tin thẻ cho bạn nhé"*.
 
@@ -6674,8 +6163,6 @@ Không vấn đề gì. Anh/chị có mang theo điện thoại không? Tuyệt 
 
 *(Nếu hiện tại bạn chưa áp dụng hình thức thanh toán tự động qua cổng thanh toán ACH [Automated Clearing House], thì bạn nên làm ngay. Bên cạnh chi phí thấp hơn, ít bị lỗi hết hạn hay đổi tài khoản, lại giảm thiểu rủi ro bị khiếu nại bồi hoàn [chargebacks], bạn luôn có thể chốt một khách hàng mới ngay cả khi họ quên mang ví. Chúng tôi từng cứu ván sale thành công vô số lần nhờ cách này. Cực kỳ hữu ích.)* 
 
-316 Alex Hormozi 
-
 ###### **Khách hàng từ chối: [Nói bất cứ điều gì ngoài từ "Đồng ý" khi bạn hỏi họ đã sẵn sàng bắt đầu chưa]** 
 
 Hãy hỏi ngay: “Mối bận tâm lớn nhất của anh/chị lúc này là gì?” 
@@ -6688,19 +6175,13 @@ Nếu bây giờ anh/chị bước chân ra khỏi cửa/cúp máy ngay lúc nà
 
 Lựa chọn 1: Anh/chị quyết định không đồng hành cùng chúng tôi và tự nhủ rằng mình sẽ dùng cái thẻ tập của 24 Hour Fitness. Vấn đề là, cả tôi và anh/chị đều biết anh/chị sẽ chẳng đời nào làm thế, vì anh/chị vừa thú nhận với tôi là cả năm nay có bén mảng đến đó đâu. Và ngay cả khi có đi tập, anh/chị cũng chẳng thu lại kết quả gì, bởi vì anh/chị sợ bị thương, chẳng dám ép bản thân nặng đô hơn, và cũng chẳng biết thêm bài tập mới nào. 
 
-Lựa chọn 2: Anh/chị thuê một huấn luyện viên cá nhân (personal trainer) để giữ cho mình có động lực và kỷ luật. Nhưng chi phí sẽ ngốn từ 600 đến 1.000 đô-la/tháng, mà tính ra anh/chị cũng chỉ tập được chừng hai đến ba buổi một tuần, tương đương 60 đô-la 
-
-Gym Launch Secrets 317 
-
-cho mỗi buổi. Hầu hết mọi người không đủ tiềm lực tài chính cho khoản này. Anh/chị có đủ không? Tôi thì chịu đấy. 
+Lựa chọn 2: Anh/chị thuê một huấn luyện viên cá nhân (personal trainer) để giữ cho mình có động lực và kỷ luật. Nhưng chi phí sẽ ngốn từ 600 đến 1.000 đô-la/tháng, mà tính ra anh/chị cũng chỉ tập được chừng hai đến ba buổi một tuần, tương đương 60 đô-la cho mỗi buổi. Hầu hết mọi người không đủ tiềm lực tài chính cho khoản này. Anh/chị có đủ không? Tôi thì chịu đấy. 
 
 Lựa chọn 3: Anh/chị có thể theo đuổi một giải pháp hoàn toàn dựa vào ăn kiêng như Weight Watchers hay Nutrisystem. Nhưng vì những lý do tôi vừa nêu, anh/chị thừa biết Weight Watchers không thể hiệu quả về lâu dài, bởi vì anh/chị cần phải xây dựng cơ bắp để giữ cân, nhờ đó mới có thể ăn uống như một người bình thường mà KHÔNG bị béo lên. Và anh/chị cũng biết rằng với Nutrisystem hay bất kỳ chương trình làm sẵn nào, anh/chị sẽ chẳng bao giờ học được cách tự kiểm soát, để rồi cuối cùng lại tăng cân trở lại, thậm chí còn mập hơn trước. 
 
 Lựa chọn Cuối cùng: Anh/chị có toàn bộ sự đồng hành và kèm cặp mà mình hằng mong muốn. Anh/chị nhận được một thực đơn dinh dưỡng giúp _dạy_ anh/chị cách ăn uống lành mạnh thay vì chỉ _ra lệnh_ phải ăn thế nào, một thực đơn linh hoạt để áp dụng suốt đời. Anh/chị có huấn luyện viên cá nhân kèm sát trong từng buổi tập. Anh/chị nhận được một cuốn sách nấu ăn giúp anh/chị THỰC SỰ THÍCH THÚ với việc ăn uống lành mạnh để không bao giờ muốn bỏ cuộc nữa, vì mọi thứ quá ngon miệng. Anh/chị thuộc về một cộng đồng gồm toàn những người giống như mình—những con người bình thường, vui vẻ, đang cố gắng ưu tiên cho mục tiêu giảm cân và sức khỏe. Anh/chị có cả một cổng thông tin trực tuyến cung cấp các mẹo sống khỏe với lộ trình rõ ràng để đạt được sức khỏe và vóc dáng tự do bền vững. 
 
 Hãy để chúng tôi giúp anh/chị chinh phục MỤC TIÊU TRONG MƠ mà anh/chị đã đặt chân đến đây để tìm kiếm. Và nếu vì lý do nào đó mà anh/chị không thích chúng tôi hoặc thấy chúng tôi làm ăn tệ hại, chúng tôi sẽ vui vẻ hoàn tiền 100%. Hơn nữa, anh/chị lại được gặp TÔI mỗi ngày, chỉ riêng điều đó thôi cũng đáng giá lắm rồi chứ bộ. Hãy để chúng tôi làm tốt nhất những gì chúng tôi giỏi và giúp đỡ anh/chị. Chiến thôi nào! 
-
-318 Alex Hormozi 
 
 ###### **Kỹ thuật chốt "Ghế bập bênh" (Rocking Chair Close)** 
 
@@ -6710,11 +6191,7 @@ Rồi bốn ngày sau, có thể khi vô tình lướt qua gương hoặc thấy
 
 Thế nên, tôi thà rằng chúng ta giải quyết dứt điểm quyết định đó ngay tại đây—rằng anh/chị có thực sự muốn làm gì đó với lý do mình đã cất công đến đây hay không. Tôi có thể bật mí cho anh/chị nghe một bí mật không? Dường như chẳng ai có thời gian cho bất cứ việc gì cả, nhưng đó lại là một tư duy sai lầm. Chúng ta LUÔN DÀNH THỜI GIAN cho những thứ mà mình khao khát nhất. Vừa rồi anh/chị chẳng bảo là mình cực kỳ có động lực để thay đổi cơ hội này là gì? Vậy đây chính là lúc để kiểm chứng xem anh/chị có nói thật hay không. Anh/chị có muốn để chúng tôi làm tốt việc của mình và giúp anh/chị sở hữu vóc dáng hằng mong ước bấy lâu nay không? 
 
-Sự thật phũ phàng là các quyết định không tốn thời gian, chúng tốn thông tin, bởi vì tư duy diễn ra chỉ trong tích tắc. Vậy nên chúng ta có thể cùng nhau đối mặt với nó ngay lúc này để tiết kiệm thời gian cho anh/chị trong tương lai. Chỉ có ba lý do duy nhất khiến 
-
-Gym Launch Secrets 319 
-
-mọi người từ chối: họ không thích chương trình, không thích con người, hoặc không thích giá tiền. Đâu là vấn đề chính trong ba điều này? Nỗi sợ lớn nhất của anh/chị khi đặt bút ký hợp đồng là gì? 
+Sự thật phũ phàng là các quyết định không tốn thời gian, chúng tốn thông tin, bởi vì tư duy diễn ra chỉ trong tích tắc. Vậy nên chúng ta có thể cùng nhau đối mặt với nó ngay lúc này để tiết kiệm thời gian cho anh/chị trong tương lai. Chỉ có ba lý do duy nhất khiến mọi người từ chối: họ không thích chương trình, không thích con người, hoặc không thích giá tiền. Đâu là vấn đề chính trong ba điều này? Nỗi sợ lớn nhất của anh/chị khi đặt bút ký hợp đồng là gì? 
 
 Khoảnh khắc duy nhất tôi không mua thứ gì đó là khi tôi sợ mắc sai lầm. Anh/chị cũng giống vậy phải không? Thế nên tôi hay tự nhủ, trường hợp tốt nhất và tệ nhất có thể xảy ra là gì? Điều tồi tệ nhất có thể xảy ra nếu anh/chị làm điều này là gì? Cứ nhìn thẳng vào nó xem nào—anh/chị bỏ ra 600 đô-la và chúng tôi cuỗm luôn số tiền đó chạy mất tăm, đúng chứ? Vấn đề là, tôi không nghĩ đó thực sự là viễn cảnh tồi tệ nhất đâu, bởi vì nếu anh/chị nhận được mức độ dịch vụ mà tôi đang cam kết, chẳng phải anh/chị sẽ giảm được cân thật sao?
 
@@ -6792,11 +6269,7 @@ Những kẻ duy nhất thất bại trong chương trình là những kẻ ph�
 
 Chúng tôi có một quy tắc duy nhất về những người tham gia chương trình này: họ phải đưa ra quyết định ngay trong ngày. Lý do duy nhất chúng tôi làm vậy là vì trong quá khứ, khi không áp dụng quy tắc này, những ai trì hoãn quyết định thường là người gió chiều nào theo chiều ấy — họ nói họ muốn thứ này, nhưng thực ra không hẳn thế, nên họ đăng ký, rồi sau đó lại bỏ cuộc giữa chừng.
 
-Và sau khi chứng kiến đủ nhiều người đòi “về suy nghĩ thêm” rồi quay lại, rồi lại bỏ cuộc, giờ đây chúng tôi thừa biết rằng đó chính là những kẻ không thể thành công. Nhưng khi khách hàng bước vào và đăng ký ngay từ phút đầu, họ 
-
-Gym Launch Secrets 325 
-
-lại làm cực kỳ tốt. Thế nên bây giờ, chúng tôi chỉ đơn giản là yêu cầu mọi người đưa ra quyết định — vì lợi ích của chính họ và của cả chúng tôi — để không phải ôm thêm những hội viên lúc nào cũng bày cái chân trong chân ngoài.
+Và sau khi chứng kiến đủ nhiều người đòi “về suy nghĩ thêm” rồi quay lại, rồi lại bỏ cuộc, giờ đây chúng tôi thừa biết rằng đó chính là những kẻ không thể thành công. Nhưng khi khách hàng bước vào và đăng ký ngay từ phút đầu, họ lại làm cực kỳ tốt. Thế nên bây giờ, chúng tôi chỉ đơn giản là yêu cầu mọi người đưa ra quyết định — vì lợi ích của chính họ và của cả chúng tôi — để không phải ôm thêm những hội viên lúc nào cũng bày cái chân trong chân ngoài.
 
 Những kẻ duy nhất thất bại trong chương trình là những kẻ phải suy nghĩ đắn đo, bởi vì ngay từ đầu họ đã không đủ quyết tâm để đưa ra lựa chọn.
 
@@ -6809,8 +6282,6 @@ Hoàn toàn hiểu ý bạn. Thực ra chúng tôi không cho phép ai tham gia 
 Tôi hoàn toàn hiểu sự e ngại của bạn. Một điều khiến nhiều người sợ hãi là nếu họ đăng ký, họ sẽ thực sự giảm cân và làm tất cả những điều cần thiết cho sự thay đổi đó. Đôi khi, việc đối mặt với điều đó không hề dễ dàng.
 
 Tất cả những gì tôi có thể nói với bạn là, sau khi thấy quảng cáo, sắp xếp thời gian biểu và có mặt ở đây ngày hôm nay, việc bỏ cuộc khi đã ở vạch đích sẽ là một bước lùi quá lớn cho mục tiêu của bạn. Đôi khi tôi tự hỏi: “Điều gì xảy ra nếu ngày trước mình quyết định không tham gia chương trình đã thay đổi cuộc đời mình? Giờ này mình đang ở xó nào rồi?” 
-
-326 Alex Hormozi 
 
 Nếu bạn bước ra khỏi đây bây giờ, có lẽ sẽ mất một thời gian rất dài nữa sức khỏe mới lại trở thành ưu tiên của bạn. Dù sao thì bạn cũng phải đưa ra quyết định — một ngã rẽ sẽ đẩy bạn ra xa mục tiêu, và ngã rẽ kia sẽ kéo bạn tiến lại gần nó. Tại sao không chọn con đường tạo ra sự khác biệt tích cực cho cuộc đời bạn? 
 
@@ -6840,13 +6311,9 @@ Bạn cần phải suy nghĩ thêm. Tôi hoàn toàn hiểu. Vậy nếu bạn �
 
 Vậy chương trình kia thiếu cái gì cơ chứ? Tôi phải biết chứ. Nếu bạn chẳng có lý do gì để từ chối chương trình này và nó đã có mọi thứ bạn cần để chạm tới mục tiêu, thì thứ duy nhất đang ngáng đường chính là BẠN. 
 
-Gym Launch Secrets 327 
-
 Vậy nên hãy làm luôn đi và bước đi bước đầu tiên đó. Bằng không, vấn đề này sẽ mãi là thứ hành hạ bạn, là thứ mà bạn cứ gõ cửa rồi lại chạy mất, rồi lại gõ cửa, rồi lại chạy mất. Nhưng chúng tôi đang đứng đây với vòng tay rộng mở, sẵn sàng giúp đỡ. 
 
 Rồi, đó là toàn bộ các phương án đối phó với chiến thuật trì hoãn. Tập hợp phương án tiếp theo dành cho những kẻ viện lý do cần phải bàn bạc với người khác trước khi đưa ra quyết định. 
-
-
 
 **Lời thoái thác của Khách hàng tiềm năng (Prospect): “Tôi cần nói chuyện với chồng tôi cái đã,” hoặc “Tôi không bao giờ tự mình quyết định.”** 
 
@@ -6857,8 +6324,6 @@ Thực ra chỉ có 3 cách chính để xử lý tình huống này:
 2. Vượt qua lớp phòng thủ của họ và hỏi xem người chồng sẽ phản đối điều gì. Điều này giúp hướng sự chú ý lệch sang một trở ngại khác mà bạn có thể dễ dàng xử lý hơn. 
 
 3. Nhắc nhở họ rằng họ là một cá thể độc lập và nên tự đưa ra quyết định cho chính mình. 
-
-328 Alex Hormozi 
 
 Nói thật, đây là trở ngại tôi GHÉT NHẤT vì nó cho thấy họ không nắm quyền kiểm soát cuộc đời mình, điều mà tôi cực kỳ dị ứng. Nó cũng gần như là bất khả thi để xử lý nếu ai đó khẳng định họ không thể tự đưa ra quyết định mua hàng. Dù vậy, tôi sẽ xâu chuỗi tất cả các chiêu chốt sale này lại với nhau một cách mượt mà. Chúng trôi chảy đến mức dù bạn có quên vài ý thì nó vẫn cứ là "đòn chí mạng". Xem đây này. 
 
@@ -6880,8 +6345,6 @@ Phản ứng 2: “Thế thì tôi không làm nữa.”
 
 Hoàn toàn hợp lý. Chị nghĩ điều gì ở chương trình này khiến chồng chị không duyệt? Chị nghĩ mối bận tâm lớn nhất của anh ấy là gì? Giá cả ư? Chương trình ư? Hay là tôi? (haha). 
 
-Gym Launch Secrets 329 
-
 Đến lúc đó, bạn chuyển hướng (pivot) để đè bẹp bất kỳ trở ngại mới nào mà họ lòi ra. 
 
 ###### **Chuỗi phản ứng #2: Chồng chị có chấp nhận tình trạng hiện tại của chị không?** 
@@ -6894,8 +6357,6 @@ Tôi nói thế này nhé. Cứ giữ chỗ cho bạn trước đã để khỏi
 
 Một câu hỏi nhanh thế này nhé — đây có phải là việc thực sự bạn muốn làm không? Vì nếu không, điều tôi ngại nhất là đi thuyết phục bạn tập luyện để khỏe mạnh nếu bạn không thích điều đó. Ôi tuyệt, vậy là bạn CÓ muốn làm đúng không? Tuyệt vời. Tôi biết chắc chắn vợ tôi sẽ không bao giờ từ chối những gì tôi thực sự muốn, cũng như tôi sẽ không từ chối cô ấy, bởi vì tôi biết cô ấy xứng đáng nhận được điều đó. Cuối cùng, nếu tôi phải cắt giảm chi tiêu ở khoản khác, tôi sẽ làm. Nhưng rốt cuộc, chúng tôi luôn xoay sở được mọi thứ.
 
-330 Alex Hormozi
-
 Bạn cũng có thể bồi thêm câu này: *"Thà xin lỗi còn hơn xin phép. Đôi khi điều đó hợp lý hơn rất nhiều khi nó liên quan đến sức khỏe của chúng ta."*
 
 ###### **Chốt Đơn Trì Hoãn Thanh Toán (Delayed Payment Close)**
@@ -6907,8 +6368,6 @@ Nãy giờ tôi đã xử lý xong các chiến thuật trì hoãn và lời t�
 ###### **Lý do từ khách hàng tiềm năng: “Tôi không kham nổi,” “Tôi không có tiền,” “Nó vượt ngân sách mất rồi.”**
 
 Tôi muốn bạn ngấm thật sâu điều này: con người ta CÓ THỂ CHẾT vì những thói quen xấu. Họ không được nhìn thấy cháu chắt của mình, họ bỏ lỡ bao nhiêu năm cuộc đời. Họ đi lại trong một màn sương u ám, thiếu tự tin và luôn nơm nớp lo sợ tai họa giáng xuống. Bản chất của những người đưa ra lời từ chối này là họ hoàn toàn không hiểu giá trị của việc lột xác cuộc đời và vóc dáng của chính họ.
-
-Gym Launch Secrets 331
 
 Nếu bạn bán cho họ một ngôi nhà trị giá 500.000 USD với giá chỉ 2.000 USD, chắc chắn họ sẽ tìm ra cách để lo đủ số tiền đó. Con người ta LUÔN LUÔN tìm ra cách kiếm tiền nếu họ nhìn thấy đủ giá trị. Việc bạn cần làm là giúp họ nhận ra rằng cuộc sống họ hằng mơ ước và sự thỏa mãn họ khát khao sẽ còn bùng nổ mạnh mẽ hơn từ một cuộc cách mạng phong cách sống, chứ không chỉ là một ngôi nhà 500.000 USD.
 
@@ -6930,8 +6389,6 @@ Giờ hãy nói đến trường hợp xấu nhất. Điều tồi tệ nhất c
 
 Tôi hoàn toàn hiểu, ĐÚNG LÀ MỘT KHOẢN TIỀN LỚN. Nhưng tin vui là bạn làm tôi nhớ đến Rosie, người đã đến đây vài tháng trước. Cô ấy cũng nói y hệt như vậy, nhưng cuối cùng cô ấy vẫn tham gia. Bạn biết tại sao không? Vì tôi đã nói với cô ấy rằng: *"Nếu bạn quan tâm đến tiền bạc đến mức này, thì TÔI CHẮC CHẮN bạn sẽ thành công, bởi vì điều đó có ý nghĩa rất lớn với bạn. Chúng tôi nói được làm được. Và trong trường hợp này, bạn không nên 'ngậm đắng nuốt cay' vì tiếc tiền. Vậy điều tồi tệ nhất có thể xảy ra là gì?"*
 
-Gym Launch Secrets 333
-
 Khách hàng tiềm năng: *"Tôi mất 600 USD."*
 
 Đúng vậy, thế 600 USD có ý nghĩa lớn với bạn phải không? Tôi không nghĩ bạn sẽ trả tiền rồi bỏ bê không thèm tập, vì tôi tin bạn sẽ cực kỳ tận tụy với chương trình nếu đã dốc ngần ấy tiền vào đó. Thế nên, kịch bản tồi tệ nhất thực sự là bạn bước chân ra khỏi cánh cửa này ngay lúc này và chẳng đạt được kết quả quái gì cả.
@@ -6943,8 +6400,6 @@ Bạn có thể bồi thêm câu này...
 ###### **Quần áo đắt tiền**
 
 Món quần áo, phụ kiện hoặc đôi giày đắt nhất mà bạn mua trong ba năm qua (không tính váy cưới) là gì? Đôi giày cao gót hàng ngàn đô hả. Hiểu rồi. Và bạn đã đi đôi giày đó bao lâu rồi? Hai năm. Okay. Bạn đã đi nó bao nhiêu lần? Khoảng 4 lần một năm, tổng cộng là 8 lần. Mỗi lần đi trong bao lâu? Bốn tiếng mỗi lần hả? Okay, tuyệt vời. Vậy là bạn đã chi 1,000 USD để đi đôi giày đó 8 lần, tổng cộng là 32 tiếng. Tính ra bạn tốn 33 USD cho mỗi tiếng mang giày đó. Đúng không? Vậy nếu bạn chi 2,500 USD cho chương trình này, bạn sẽ mang theo cơ thể của mình đi muôn nơi trong bao nhiêu lần?
-
-334 Alex Hormozi
 
 Ối giời ơi. Những "quả bom sự thật" chuẩn bị phát nổ đây rồi. Chúng ta đang nói về khoản tiền 2,500 USD và bạn sẽ dùng nó 24/7—không chỉ lúc đi chơi, mà còn ở bên chồng, bên con, bên bạn bè, và trong mọi bức ảnh cho đến hết cuộc đời. Hơn nữa, mọi bộ quần áo bạn mặc lên người đều sẽ được tôn lên nhờ vóc dáng mà bạn đang sở hữu. Thế có đáng không? Bạn có nghĩ đó là một khoản đầu tư hời hơn rất nhiều để sở hữu vóc dáng mơ ước của mình không?
 
@@ -6958,8 +6413,6 @@ Câu chuyện này sẽ mổ xẻ chính cái sự chuyển dịch trong nhận 
 
 Có một cô bé 14 tuổi bước vào Sephora, Mac hoặc một cửa hàng mỹ phẩm nào đó cùng bạn của mình.
 
-Gym Launch Secrets 335
-
 Nhân viên bán hàng bảo: “Em cần một cây chì kẻ này… một thỏi son này… một ít mascara…” Nói chung là một bộ trang điểm cơ bản. Chị nhân viên bảo tiếp: “Ừm, từ bây giờ em phải hiểu là mình đã lớn rồi nhé, nên em cần bắt đầu lên ngân sách cho những thứ thế này đi, vì đây là những món mà từ nay em sẽ phải chi tiền mua thường xuyên đấy, chịu không nào?”
 
 Và tôi thấy điều đó CỰC KỲ thú vị, bởi vì khoản chi tiêu đó khiến cô bé vô cùng phấn khích kiểu như: “Tuyệt vời—em CHƠI KHÔ MÁU LUÔN,” vì nó đánh dấu cột mốc chuyển giao từ một đứa trẻ sang việc chấp nhận một danh tính mới: một người phụ nữ trưởng thành. Và đi kèm với danh tính mới đó là những ưu tiên mới.
@@ -6967,8 +6420,6 @@ Và tôi thấy điều đó CỰC KỲ thú vị, bởi vì khoản chi tiêu �
 Vậy nên, thứ chúng ta đang bàn tới lúc này chính là việc bạn chuyển từ một người phụ nữ đang không hài lòng với ngoại hình của mình—một người mà những thói quen hệt như cũ đã đẩy cô ấy đến hoàn cảnh hiện tại—sang một người phụ nữ HOÀN TOÀN hài lòng với vóc dáng lẫn cảm xúc của bản thân, một người sở hữu những thói quen tốt hơn, đúng chứ? Bạn muốn có được danh tính của một người sống lành mạnh, thon gọn, và một phần của danh tính mới đó đi kèm với những ưu tiên mới về chuyện bạn sẽ tiêu tiền vào đâu.
 
 Và nếu bạn thực sự tính toán kỹ, chúng ta chỉ đang nói đến mức 8 đô-la mỗi ngày. Hơn thế nữa, đây là điều mà hầu hết phụ nữ không nhìn thấy trước, nhưng lại nhận ra sau khi dấn thân vào thử thách: đi kèm với danh tính mới ấy là những khoản TIẾT KIỆM mới. Bạn sẽ không la cà quán xá tốn kém như trước, không vung tiền cho đồ ăn vặt hay các hóa đơn khám bệnh nữa. Rất nhiều thứ tuyệt vời khác sẽ xuất hiện cùng danh tính mới này và giúp bạn tiết kiệm bộn tiền.
-
-336 Alex Hormozi
 
 Việc chúng ta cần làm lúc này là mang theo những ưu tiên mới đó cùng bạn, để củng cố cú lích-xê về mặt danh tính… để bạn CÓ ĐƯỢC thứ mình đang tìm kiếm, chứ không phải lúc nào cũng chỉ “cố gắng giảm cân” nữa, mà là thực sự lột xác thành một con người mới—một người phụ nữ thon gọn hơn, phiên bản tốt hơn của chính mình. Bởi vì NGƯỜI ĐÓ mới là người sẵn sàng chi tiền cho sức khỏe, thực phẩm bổ sung và coaching (huấn luyện) để trở thành phiên bản tuyệt vời nhất của chính mình.
 
@@ -6981,8 +6432,6 @@ Trong ba tháng tới, đằng nào thì bạn cũng sẽ tiêu từng ấy ti�
 ###### **Bạn đã từng mua một thứ vượt quá khả năng tài chính chưa? (Have You Ever Bought Something You Couldn’t Afford?)** 
 
 Tôi hiểu chứ. Số tiền ĐÚNG LÀ không nhỏ. Vậy để tôi hỏi bạn một câu nhé: bạn đã bao giờ mua một món đồ mà thực ra mình chưa đủ tiền trang trải chưa?
-
-Gym Launch Secrets 337
 
 Nếu họ trả lời là có…
 
@@ -7022,8 +6471,6 @@ Tôi hoàn toàn hiểu việc bạn đã đổ rất nhiều tiền vào chươ
 
 Đúng là nó tốn không ít tiền, nhưng mức giá đó hoàn toàn xứng đáng với lượng thời gian mà nó sẽ tiết kiệm cho bạn. Bạn đã khao khát điều này bao lâu rồi nhỉ? Kể từ khi bạn còn nhớ được, đúng chứ? 
 
-340 Alex Hormozi
-
 Giả sử 10 năm trước, bạn đưa ra một quyết định giúp cho 10 năm vừa qua của cuộc đời trở nên khỏe mạnh và đỉnh cao nhất, thì điều đó có đáng với số tiền chúng tôi đang đề nghị không? Chắc chắn là có rồi, phải không nào? Vậy thì hãy làm một việc tốt cho "Bản-thân-trong-tương-lai" đi: hãy để cô ấy/anh ấy nhìn lại 10 năm tới với sự hào hứng tột độ vì đã đưa ra một quyết định thay đổi cuộc đời mãi mãi.
 
 ###### HOẶC
@@ -7035,8 +6482,6 @@ Bạn có thể tung ra đòn chí mạng cuối cùng này để thuyết phụ
 ###### **Sẽ Đáng Giá Bao Nhiêu Nếu Chương Trình Này Chỉ Giúp Bạn…**
 
 Suy cho cùng, nếu tất cả những gì chương trình này làm được chỉ là giúp bạn ních vừa lại bộ đồ nhỏ nhất của mình, thì nó có đáng giá không? Ý tôi là, hiện tại bạn đang có bao nhiêu bộ quần áo muốn mặc mà đành chịu vì chúng không còn vừa vặn như ý muốn nữa? Nào, thử cộng tổng giá trị của đống quần áo đó lại xem? Nếu chúng ta không giải quyết vấn đề này, chẳng khác nào bạn đang vứt đống tiền đó ra sọt rác. Thế nên, chi bằng bạn hãy bỏ ra một khoản tiền nhỏ ngay hôm nay để "vớt" toàn bộ số tiền đó trở lại túi mình.
-
-Gym Launch Secrets 341
 
 Giải pháp thay thế thậm chí còn tồi tệ hơn: bạn sẽ phải vứt luôn cả những bộ đồ đang mặc trên người, cộng thêm đống đồ đã bị vứt xó từ lâu. Chi phí sẽ chỉ ngày càng đắt đỏ hơn theo thời gian, nhưng chúng ta có thể đảo ngược tình thế ngay lúc này. Nói thật nhé, nếu chúng tôi có thể giúp bạn mặc vừa lại những bộ đồ đó, thì có đáng không? Tuyệt vời – bắt đầu ngay thôi nào!
 
@@ -7052,11 +6497,7 @@ Phần lớn đây chỉ là những câu hỏi hoặc lời phàn nàn, chứ k
 
 ###### **Kịch Bản Xử Lý Các Vấn Đề Về Tập Luyện**
 
-Trước mỗi buổi tập, chúng tôi yêu cầu bạn thông báo cho các huấn luyện viên về bất kỳ cơn đau hay vấn đề nào đang gặp phải để họ 
-
-342 Alex Hormozi
-
-đưa ra các bài tập thay thế phù hợp. Họ cũng sẽ hướng dẫn một số động tác giãn cơ nhằm cải thiện tình trạng đó. Những chấn thương này chính là lý do cốt lõi khiến bạn nên đăng ký tập tại một cơ sở có huấn luyện viên, bởi bạn cần sự đồng hành của chuyên gia khi bắt đầu học một thứ mới, đặc biệt là khi cơ thể đang gặp chấn thương. Chúng tôi nhận thấy phần lớn những cơn đau dai dẳng này xuất phát từ việc mất cân bằng cơ bắp hoặc thiếu hụt sức mạnh ở các vùng cơ quanh khớp, khiến khớp phải chịu áp lực lớn hơn. Vì vậy, khi chúng ta tăng cường sức mạnh cho cơ bắp, khớp sẽ được cố định vững chắc và những cơn đau sẽ biến mất.
+Trước mỗi buổi tập, chúng tôi yêu cầu bạn thông báo cho các huấn luyện viên về bất kỳ cơn đau hay vấn đề nào đang gặp phải để họ đưa ra các bài tập thay thế phù hợp. Họ cũng sẽ hướng dẫn một số động tác giãn cơ nhằm cải thiện tình trạng đó. Những chấn thương này chính là lý do cốt lõi khiến bạn nên đăng ký tập tại một cơ sở có huấn luyện viên, bởi bạn cần sự đồng hành của chuyên gia khi bắt đầu học một thứ mới, đặc biệt là khi cơ thể đang gặp chấn thương. Chúng tôi nhận thấy phần lớn những cơn đau dai dẳng này xuất phát từ việc mất cân bằng cơ bắp hoặc thiếu hụt sức mạnh ở các vùng cơ quanh khớp, khiến khớp phải chịu áp lực lớn hơn. Vì vậy, khi chúng ta tăng cường sức mạnh cho cơ bắp, khớp sẽ được cố định vững chắc và những cơn đau sẽ biến mất.
 
 *Lưu ý: Cách này cũng áp dụng cực tốt cho lời từ chối “Tôi quá già” hoặc “Tôi từng bị chấn thương trước đây”.*
 
@@ -7067,8 +6508,6 @@ Khả năng bạn gặp chấn thương là cực kỳ thấp. Tỷ lệ này th
 ###### **“Nhỡ tôi không thích các bài tập thì sao?”**
 
 Chà, tôi có thể khẳng định với bạn là nó sẽ không giống mấy lớp Zumba hay chạy trên bãi biển tóc bay phấp phới đâu; nhưng nó sẽ là NHỮNG GÌ CƠ THỂ BẠN CẦN để có được vẻ ngoài như mơ ước. Và tôi biết chắc chắn mọi người đều thích các bài tập này. Bằng chứng là nếu không, chúng tôi đã dẹp tiệm từ lâu vì chẳng có ma nào thèm quay lại cả. Thế nên bạn chẳng cần phải lo lắng quá đâu.
-
-Gym Launch Secrets 343
 
 ###### **“Nhỡ tôi thấy chán thì sao?”**
 
@@ -7083,8 +6522,6 @@ Thực tế là chúng tôi không áp dụng chính sách tập thử cho nhữ
 Chúng tôi đã có sẵn các phác đồ chuyên biệt để xử lý tình huống này. Trong buổi định hướng dinh dưỡng đầu tiên, chúng tôi sẽ trao đổi với bạn rất kỹ về vấn đề đó. Nói thật, đây chính là một trong những lý do khiến mọi người chọn chương trình này thay vì những nơi khác.
 
 *Lưu ý: Mẹo này cũng dùng được luôn cho câu từ chối “Tôi không muốn bị đô con quá mức”.*
-
-344 Alex Hormozi
 
 ###### **Rào Cản Về Thời Gian Bắt Đầu**
 
@@ -7174,18 +6611,11 @@ chạy quảng cáo chuyển đổi<br>21 ngày thực hiện đến<br>chốt s
 
 - nhưng khoan đã... trong suốt 6 tuần đó, bạn cũng mất đi tỷ lệ rời bỏ trung bình của ngành là 10% mỗi tháng, đồng nghĩa với việc nếu bạn khởi đầu với 100 gói EFT... bạn đã mất 15 khách hàng trong 1,5 tháng, đưa mức tăng trưởng ròng về con số không và tốn mất 1.199 đô la chỉ để đứng giậm chân tại chỗ. 
 
-349 
-
-350 Alex Hormozi 
-
 ###### 3 cách duy nhất để phát triển doanh nghiệp của bạn 
 
-
-
 <!-- Start of picture text -->
-thu hút (acquire)<br>nâng cấp (ascend)<br>bán lại (resell)<br><!-- End of picture text -->
-
-Gym Launch Secrets 351 
+thu hút (acquire)<br>nâng cấp (ascend)<br>bán lại (resell)<br>
+<!-- End of picture text -->
 
 ###### Danh sách kiểm tra Offer không thể chối từ (Irresistible Offer Checklist)
 * **Pre-frame:** Xây dựng uy tín (Authority)
@@ -7204,8 +6634,6 @@ Gym Launch Secrets 351
 * Đối với mô hình **Continuity (Thu phí định kỳ)**: Tặng kèm sản phẩm/dịch vụ giá trị cao như một món "hối lộ" miễn phí.
 * Đối với mô hình **Continuity**: Hãy downsell (bán gói thấp hơn) sản phẩm upsell của bạn.
 
-352 Alex Hormozi
-
 ###### Client-Financed Acquisition (Khách hàng tự tài trợ chi phí chiêu mộ)
 Tạo ra sản phẩm phễu giá trị cao (High-ticket front-end product) để kiếm được nhiều tiền hơn từ doanh số ban đầu so với chi phí quảng cáo (Lead cost/Ads), giúp bạn KHÔNG BAO GIỜ cần đến ngân sách Marketing nữa.
 
@@ -7221,8 +6649,6 @@ Tạo ra sản phẩm phễu giá trị cao (High-ticket front-end product) đ�
   - Số dư ngân hàng (Bank acct): -100 | -200 | -300 | 2000 | 3100
 
 *Lưu ý:* Tôi cho thấy có độ trễ vì hầu hết các cổng thanh toán mất 72 giờ để giải ngân dòng tiền. Điều này giúp bạn thấy được dòng tiền thực tế (Cash flow).
-
-Gym Launch Secrets 353 
 
 ###### Máy trộn nội dung Lead Gen (Lead Gen Scrambler) - Không bao giờ phải chật vật nghĩ quảng cáo mới nữa!
 
@@ -7280,13 +6706,9 @@ Gym Launch Secrets 353
   - Bài tập nhóm đồng đều (-group exercise in unison) 
   - Khiến khách hàng ca ngợi bạn tuyệt vời thế nào
 
-354 Alex Hormozi 
-
 <!-- Start of picture text -->
 Trang cần phải đầy ắp | Tiêu đề cần mặc định khách đã chốt đơn | Có nhiều bảng điểm danh đã dùng qua | Bên dưới là chồng hợp đồng đã ký | Có nhiều ghế ngồi | Không bao giờ ngồi đối diện qua bàn | Hãy cố gắng ngồi lệch góc/kế bên | Chào hỏi bằng tên trong vòng 10 giây | Điền bảng câu hỏi tiền bán hàng (pre-sell questionnaire) | Chi tiết: Bằng chứng xã hội ngập tràn | Chuyên gia bước ra từ phòng làm việc để dẫn vào trong... | Khu vực phòng chờ Testimonial | Chi tiết: Thiết lập phòng bán hàng | Đội ngũ tiềm năng | Điểm danh | Tôi cần giúp đỡ | Tôi sẽ thử | Tôi rất nghiêm túc | Đăng ký thử thách thể hình (Fitness challenge) | Khách hàng tiềm năng bước vào | Bạn
 <!-- End of picture text -->
-
-Gym Launch Secrets 355 
 
 ###### Công thức The Closer Formula 
 
@@ -7296,8 +6718,6 @@ Gym Launch Secrets 355
 * **S**ell them the vacation, not the flight (Bán cho họ "kỳ nghỉ dưỡng", chứ không bán "chuyến bay")
 * **E**xplain away their concerns (Giải tỏa mọi mối bận tâm của họ)
 * **R**einforce their decision (Củng cố quyết định của họ)
-
-356 Alex Hormozi 
 
 ###### VÒNG LẶP NỖI ĐAU VÀ VẤN ĐỀ: TỔNG QUAN VỀ CÁC TRẢI NGHIỆM QUÁ KHỨ 
 
@@ -7311,8 +6731,6 @@ Phòng gym lớn (Big box gym) | Personal Trainer (PT cá nhân) | Weight Watche
 
 ###### Bạn đã làm gì khác nữa chưa?
 
-Gym Launch Secrets 357 
-
 ###### Công thức phá vỡ niềm tin (Belief-breaking formula)
 
 * **Ví dụ:** Công thức
@@ -7324,16 +6742,12 @@ Gym Launch Secrets 357
 
 idonthatemoney.com
 
-358 Alex Hormozi 
-
 <!-- Start of picture text -->
 Trung bình ngành: 118$/tháng | Buổi tập không giới hạn | Công suất tối đa | Điểm hòa vốn không thể đạt được | Doanh thu | Thành viên
 <!-- End of picture text -->
 
 **Ví dụ:** Một cơ sở huấn luyện nhóm lớn có giới hạn tối đa 16 người/buổi, EFT (Phí thu định kỳ) trung bình 120$/tháng, số thành viên hiện tại 100, buổi tập hàng ngày: 7, công suất tối đa: 114 (giả sử 100% đến mỗi ngày), công suất tối đa: 134 (giả sử 85% - mức trung bình ngành tham gia), doanh thu tối đa: 16.000$/tháng (134 x $120). 
 Tiền thuê nhà: 4.250$ | Lương: 4.000$ (163 buổi x $25) | Quản lý/Marketing: 2.750$ | Tiện ích/Phần mềm/Vệ sinh: 1.000$ | Khác: 1.750$ | Lương chủ gym: 750$ | Lợi nhuận: 0
-
-Gym Launch Secrets 359 
 
 ###### Vòng lặp nhân quả vs. Vòng lặp luẩn quẩn của giá cả
 
@@ -7355,29 +6769,21 @@ Lợi nhuận | Giá trị cảm nhận của bản thân | NHẬN THỨC về T
 ###### Giá (Price)
 Tăng -> Tăng -> Tăng -> Tăng -> Tăng
 
-360 Alex Hormozi 
-
 ###### <u>ĐƯỜNG CONG MUA HÀNG THEO GIÁ TRỊ THÀNH VIÊN</u>
 
 <!-- Start of picture text -->
 25$ - 100$ - 167$ | 499$/tháng - 199$/tháng | 499$/tháng - 199$/tháng | 20$ | Cao - Thấp | Cao | Nhóm lớn | 1 kèm 4 | Bán riêng tư (Semi-private) | NỖI ĐAU & NHU CẦU | THU NHẬP Thấp | 10 | 5 | 225$ - 500$ - 700$ | Nhu cầu (Demand)
 <!-- End of picture text -->
 
-Gym Launch Secrets 361 
-
 <!-- Start of picture text -->
 EFT | EFT | Đỉnh núi | Mục tiêu | Tỷ lệ rời bỏ (Attrition)
 <!-- End of picture text -->
-
-362 Alex Hormozi 
 
 ###### Phương trình "Chiếc bánh" (The pie equation)
 
 <!-- Start of picture text -->
 Doanh thu phòng gym giả định | Tối đa | Ví dụ: 3 khách giới thiệu (referral), 15 EFTs, EFTs từ traffic lạnh (cold traffic): 18 | 180 EFTs tối đa | 10 khách rời bỏ (churn)
 <!-- End of picture text -->
-
-Gym Launch Secrets 363 
 
 ###### Sự suy giảm chất lượng dịch vụ (Deteriorating Service Delivery)
 
@@ -7387,8 +6793,6 @@ Gym Launch Secrets 363
 | **Tỷ lệ rời bỏ (Churn)** | Thấp | Cao |
 | **Cộng đồng** | Cởi mở, chào đón | Bè phái, hội nhóm độc quyền |
 | **Loại Traffic** | Khách giới thiệu (Referrals) | LBOs, Traffic lạnh (Cold traffic) |
-
-364 Alex Hormozi 
 
 <!-- Start of picture text -->
 Lớp kem phủ (Icing) & Cốt bánh (Cake) | Tiền mặt front-end & Tiền mặt định kỳ | 3, 6, 12 tháng tự động trừ tiền (autoship): 500$ - 700$/tháng | 1 kèm 4 bán riêng tư EFT: 500$ - 5.000$ | EFT định kỳ: 167$ - 225$/tháng | Gói High-ticket 12 tuần: 1.500$ - 3.000$ | Gói tập (Packages): 200$ - 400$/tháng | Thử thách & Chương trình giới hạn thời gian: 400$ - 1.000$ | Các chiến thuật nội bộ (Internal plays) | Tầng 3: Thực phẩm bổ sung (Supps) | Tầng 2: Bán riêng tư (Semis) | Tầng 1: Nhóm lớn (Large group)
