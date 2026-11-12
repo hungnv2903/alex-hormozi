@@ -142,7 +142,7 @@ Nhờ Gym Launch, tôi đã có thể chuyển phòng tập từ một nhà đ�
 
 **— John Rudolf | Iron Empire 24 Hour Elite Fitness | Dover, New Hampshire** 
 
-Gym Launch Secrets không chỉ cung cấp cho chúng tôi các công cụ để chạy các chiến dịch **Paid Ads** chuẩn chỉnh, mà còn vạch ra từng bước cụ thể để kéo các **Leads** tiềm năng đến thẳng phòng tập, giúp chúng tôi dễ dàng chốt sales thẻ hội viên và các thử thách (challenges). Đội ngũ kỹ thuật của GL phải nói là đỉnh của chóp và luôn sẵn sàng hỗ trợ bất cứ khi nào chúng tôi cần. Hệ thống thì xuất sắc khỏi bàn, nhưng bản thân tôi cũng đã trưởng thành hơn rất nhiều với tư cách là một chủ doanh nghiệp thông qua việc kết nối và làm bạn với các chủ phòng tập khác trên khắp cả nước. Từ Texas, Canada, châu Âu cho đến California, những mối thâm tình tôi có được là hoàn toàn chân thực và ở đây không có chỗ cho sự cạnh tranh độc hại. Nếu lỡ nhân sự GL bận, tôi biết mình luôn có thể trông cậy vào cộng đồng chủ phòng tập sẵn sàng nhảy vào trợ giúp bất cứ lúc nào. Cảm ơn Alex Hormozi vì đã luôn tung ra những sản phẩm đỉnh cao và không ngừng cập nhật tài liệu mới. 
+Gym Launch Secrets không chỉ cung cấp cho chúng tôi các công cụ để chạy các chiến dịch **Paid Ads** chuẩn chỉnh, mà còn vạch ra từng bước cụ thể để kéo các KHTN tiềm năng đến thẳng phòng tập, giúp chúng tôi dễ dàng chốt sales thẻ hội viên và các thử thách (challenges). Đội ngũ kỹ thuật của GL phải nói là đỉnh của chóp và luôn sẵn sàng hỗ trợ bất cứ khi nào chúng tôi cần. Hệ thống thì xuất sắc khỏi bàn, nhưng bản thân tôi cũng đã trưởng thành hơn rất nhiều với tư cách là một chủ doanh nghiệp thông qua việc kết nối và làm bạn với các chủ phòng tập khác trên khắp cả nước. Từ Texas, Canada, châu Âu cho đến California, những mối thâm tình tôi có được là hoàn toàn chân thực và ở đây không có chỗ cho sự cạnh tranh độc hại. Nếu lỡ nhân sự GL bận, tôi biết mình luôn có thể trông cậy vào cộng đồng chủ phòng tập sẵn sàng nhảy vào trợ giúp bất cứ lúc nào. Cảm ơn Alex Hormozi vì đã luôn tung ra những sản phẩm đỉnh cao và không ngừng cập nhật tài liệu mới. 
 
 **— Steve Morici | Be1ST Fitness | Westbury, New York** 
 
@@ -178,7 +178,7 @@ Tôi đã có hơn 10 năm huấn luyện học viên và thực chất là mộ
 
 **— Shawn Carlson | BodyFit Personal Training & Nutrition | Boise, Idaho**
 
-Suốt 8 năm trời, chúng tôi chật vật tìm cách “cày cuốc” để vượt qua khó khăn, chỉ biết ngậm ngùi hy vọng cộng đồng gắn kết và chất lượng huấn luyện đỉnh cao sẽ cứu vớt mình. Từ khi gặp Alex và áp dụng các phương pháp từng bước (step-by-step) của anh ấy, cuối cùng chúng tôi cũng được trang bị những vũ khí và công cụ sắc bén—không chỉ để tạo ra dòng tiền khủng cùng lượng **Leads** mới dồi dào, mà còn để nâng tầm dịch vụ lên một đẳng cấp trước đây chưa từng có. Nhờ Alex, giờ đây tôi đã nắm rõ như lòng bàn tay những bước đi thiết thực để mang lại sự thịnh vượng ổn định, lâu dài cho chính mình, cho cộng đồng và gia đình. Cảm ơn Alex Hormozi rất nhiều!!
+Suốt 8 năm trời, chúng tôi chật vật tìm cách “cày cuốc” để vượt qua khó khăn, chỉ biết ngậm ngùi hy vọng cộng đồng gắn kết và chất lượng huấn luyện đỉnh cao sẽ cứu vớt mình. Từ khi gặp Alex và áp dụng các phương pháp từng bước (step-by-step) của anh ấy, cuối cùng chúng tôi cũng được trang bị những vũ khí và công cụ sắc bén—không chỉ để tạo ra dòng tiền khủng cùng lượng KHTN mới dồi dào, mà còn để nâng tầm dịch vụ lên một đẳng cấp trước đây chưa từng có. Nhờ Alex, giờ đây tôi đã nắm rõ như lòng bàn tay những bước đi thiết thực để mang lại sự thịnh vượng ổn định, lâu dài cho chính mình, cho cộng đồng và gia đình. Cảm ơn Alex Hormozi rất nhiều!!
 
 **— Jason Skeesick | Bucktown CrossFit | Chicago, Illinois**
 
@@ -186,7 +186,7 @@ Alex và Gym Launch Secrets đã giúp tôi chuẩn hóa hệ thống tạo **Le
 
 **— James Tosoff | Kickboxing Victoria | Victoria, British Columbia, Canada**
 
-Chúng tôi đã làm khá tốt trước khi đến với Gym Launch, mở rộng được tới 5 trung tâm và đạt doanh thu triệu đô cho một cơ sở. Tuy nhiên, tốc độ tăng trưởng nóng lại đẩy chúng tôi vào cảnh cạn kiệt tiền mặt (cash poor), quy trình vận hành kém hiệu quả và chất lượng bắt đầu sụt giảm. Chúng tôi đã kiệt quệ hoàn toàn trong việc duy trì dòng **Leads** (lead flow) để giữ cho tất cả các cơ sở đều hoạt động trơn tru. Và rồi Gym Launch xuất hiện. Thực ra, chúng tôi từng làm việc với khá nhiều cố vấn kinh doanh và cũng gặt hái một số thành công nhất định, nhưng không gì có thể sánh được với các giải pháp thực chiến, lắp-là-chạy (plug-and-play) mà Alex và Leila mang lại. Đây là một đẳng cấp hoàn toàn khác biệt và vượt trội hơn bất kỳ chương trình "mastermind" nào. Gym Launch đã trao cho chúng tôi kim chỉ nam: luôn đặt khách hàng lên hàng đầu và tạo ra một lượng lớn khách hàng thực sự khao khát được đồng hành cùng chúng tôi. Giờ đây, chúng tôi đã có 6 trung tâm, tất cả đều đang tăng trưởng với tốc độ mà trước đây tôi chưa từng dám tin là có thật. Chúng tôi chỉ thấy tiếc hùi hụi vì đã không đăng ký tham gia sớm hơn 9 tháng, ngay từ cuộc gọi đầu tiên.
+Chúng tôi đã làm khá tốt trước khi đến với Gym Launch, mở rộng được tới 5 trung tâm và đạt doanh thu triệu đô cho một cơ sở. Tuy nhiên, tốc độ tăng trưởng nóng lại đẩy chúng tôi vào cảnh cạn kiệt tiền mặt (cash poor), quy trình vận hành kém hiệu quả và chất lượng bắt đầu sụt giảm. Chúng tôi đã kiệt quệ hoàn toàn trong việc duy trì dòng KHTN (lead flow) để giữ cho tất cả các cơ sở đều hoạt động trơn tru. Và rồi Gym Launch xuất hiện. Thực ra, chúng tôi từng làm việc với khá nhiều cố vấn kinh doanh và cũng gặt hái một số thành công nhất định, nhưng không gì có thể sánh được với các giải pháp thực chiến, lắp-là-chạy (plug-and-play) mà Alex và Leila mang lại. Đây là một đẳng cấp hoàn toàn khác biệt và vượt trội hơn bất kỳ chương trình "mastermind" nào. Gym Launch đã trao cho chúng tôi kim chỉ nam: luôn đặt khách hàng lên hàng đầu và tạo ra một lượng lớn khách hàng thực sự khao khát được đồng hành cùng chúng tôi. Giờ đây, chúng tôi đã có 6 trung tâm, tất cả đều đang tăng trưởng với tốc độ mà trước đây tôi chưa từng dám tin là có thật. Chúng tôi chỉ thấy tiếc hùi hụi vì đã không đăng ký tham gia sớm hơn 9 tháng, ngay từ cuộc gọi đầu tiên.
 
 **— James Buchanan | The Body Consultants | East Perth, Australia**
 
@@ -206,7 +206,7 @@ Tôi nhớ lại cảnh mình đứng trong phòng tập vài năm trước. C�
 
 **— Matthew Boccaccio | Republic of Fitness | Westport, Ireland**
 
-Tôi từng cày cuốc một "công việc chân chính" hơn 50 tiếng mỗi tuần, đứng lớp 11 buổi và tự tay ôm trọn mọi **Leads** mỗi tháng. Alex và Leila đã giúp chúng tôi phất lên từ 20 hội viên thành hơn 250 hội viên chỉ trong 8 tháng. Và giờ đây, tôi đã có thể tự trả lương cho chính mình.
+Tôi từng cày cuốc một "công việc chân chính" hơn 50 tiếng mỗi tuần, đứng lớp 11 buổi và tự tay ôm trọn mọi KHTN mỗi tháng. Alex và Leila đã giúp chúng tôi phất lên từ 20 hội viên thành hơn 250 hội viên chỉ trong 8 tháng. Và giờ đây, tôi đã có thể tự trả lương cho chính mình.
 
 **— Daniel Romigh | Redemption Fitness Mason | Mason, Michigan**
 
@@ -302,7 +302,7 @@ Công ty Gym Launch và đội ngũ đẳng cấp thế giới của họ đã g
 
 **— Willis Renee Hicks | Gracie Jiu-Jitsu | Fort Wayne, Indiana** 
 
-Trước khi đến với Gym Launch, chúng tôi cũng từng thuê coach (huấn luyện viên/cố vấn kinh doanh), nhưng chưa bao giờ học được cách vận hành doanh nghiệp bài bản như bây giờ. Chúng tôi gần như mù tịt về cách làm sao để thực sự kéo **Leads** tiềm năng bước chân qua cửa. *Gym Launch Secrets* đã dạy chúng tôi cách tuyển thêm nhân sự để gánh vớt bớt các đầu việc huấn luyện, nhờ đó chúng tôi có thể lùi lại nhìn vào bức tranh tổng thể và tập trung phát triển phòng gym. Từ chỗ chỉ có 2 HLV làm việc bán thời gian, chúng tôi đã vươn lên thành một đội ngũ 5 người! Chúng tôi đã học được cách tối ưu doanh thu để đạt được cột mốc này. Những kiến thức tôi thu lượm được về **Marketing** và sales (bán hàng) thực sự vô giá!! Hồi đại học tôi còn học chuyên ngành marketing ấy chứ, há há. Cảm ơn GL Secrets nhé!! 
+Trước khi đến với Gym Launch, chúng tôi cũng từng thuê coach (huấn luyện viên/cố vấn kinh doanh), nhưng chưa bao giờ học được cách vận hành doanh nghiệp bài bản như bây giờ. Chúng tôi gần như mù tịt về cách làm sao để thực sự kéo KHTN tiềm năng bước chân qua cửa. *Gym Launch Secrets* đã dạy chúng tôi cách tuyển thêm nhân sự để gánh vớt bớt các đầu việc huấn luyện, nhờ đó chúng tôi có thể lùi lại nhìn vào bức tranh tổng thể và tập trung phát triển phòng gym. Từ chỗ chỉ có 2 HLV làm việc bán thời gian, chúng tôi đã vươn lên thành một đội ngũ 5 người! Chúng tôi đã học được cách tối ưu doanh thu để đạt được cột mốc này. Những kiến thức tôi thu lượm được về **Marketing** và sales (bán hàng) thực sự vô giá!! Hồi đại học tôi còn học chuyên ngành marketing ấy chứ, há há. Cảm ơn GL Secrets nhé!! 
 
 **— Shawna Frank | CrossFit Slake | Aubrey, Texas** 
 
@@ -330,7 +330,7 @@ Trước khi đọc *Gym Launch Secrets*, tôi chỉ là một chủ doanh nghi�
 
 **— Tom Miller | Lifelight Fitness | Pleasanton, California** 
 
-Vào năm 2017, tất cả những cách thức kéo **Leads** cũ kỹ của tôi đều ĐÃ VÔ TÁC DỤNG. Kiếm được 30 **Leads** mỗi tháng đối với tôi lúc đó đã là mộth may mắn lắm rồi!! Giờ đây, nhờ áp dụng Gym Launch, tôi nhẹ nhàng bỏ túi 300 **Leads** mỗi tháng, thậm chí có lúc vượt mốc 600. Tôi cũng từng rất cần sự trợ giúp về cơ cấu tổ chức, cũng như mọi chi tiết về cách lãnh đạo đội ngũ bài bản và giữ chân khách hàng!! Thế là tôi gia nhập Gym Legacy và nhận được tất cả những điều đó, thậm chí còn hơn thế nữa. Trình độ sales của tôi đã đạt đến một tầm cao mới nhờ Alex Hormozi và Gym Launch. Trước đây tôi cực kỳ ghét việc bán hàng, nhưng giờ thì thấy nó cũng tạm ổn (cười lớn), và tôi đang chốt sales cực kỳ mượt mà nhờ áp dụng hệ thống của Gym Launch. Năm nay, tôi đã gia tăng chỉ số EFT (Dòng tiền định kỳ hằng tháng từ hội viên) tại một cơ sở lên thêm 10.000 USD/tháng nhờ hệ thống của anh ấy! Doanh thu tổng thể cũng đã tăng hơn 400.000 USD chỉ trong một năm! 
+Vào năm 2017, tất cả những cách thức kéo KHTN cũ kỹ của tôi đều ĐÃ VÔ TÁC DỤNG. Kiếm được 30 KHTN mỗi tháng đối với tôi lúc đó đã là mộth may mắn lắm rồi!! Giờ đây, nhờ áp dụng Gym Launch, tôi nhẹ nhàng bỏ túi 300 KHTN mỗi tháng, thậm chí có lúc vượt mốc 600. Tôi cũng từng rất cần sự trợ giúp về cơ cấu tổ chức, cũng như mọi chi tiết về cách lãnh đạo đội ngũ bài bản và giữ chân khách hàng!! Thế là tôi gia nhập Gym Legacy và nhận được tất cả những điều đó, thậm chí còn hơn thế nữa. Trình độ sales của tôi đã đạt đến một tầm cao mới nhờ Alex Hormozi và Gym Launch. Trước đây tôi cực kỳ ghét việc bán hàng, nhưng giờ thì thấy nó cũng tạm ổn (cười lớn), và tôi đang chốt sales cực kỳ mượt mà nhờ áp dụng hệ thống của Gym Launch. Năm nay, tôi đã gia tăng chỉ số EFT (Dòng tiền định kỳ hằng tháng từ hội viên) tại một cơ sở lên thêm 10.000 USD/tháng nhờ hệ thống của anh ấy! Doanh thu tổng thể cũng đã tăng hơn 400.000 USD chỉ trong một năm! 
 
 **— Stephanie Flynn | Bixby & Owasso Fit Body Boot Camp | Oklahoma City, Oklahoma** 
 
@@ -342,7 +342,7 @@ Khi bắt đầu tham gia Gym Launch, doanh thu phòng gym của tôi chỉ vỏ
 
 **— Mollie Estes | Training For Warriors Lee’s Summit & Overland Park | Lee’s Summit, Missouri** 
 
-Chúng tôi đã đầu tư vào chương trình của Alex trong vài tháng ngắn ngủi nhiều hơn tổng số tiền từng bỏ ra cho bất kỳ thứ gì trong suốt 12 năm mở phòng tập. Thế nhưng, chỉ trong vòng 3 tháng, chúng tôi đã nhân đôi doanh thu nhờ lượng **Leads** nhiều chưa từng thấy, và họ sẵn sàng trả mức giá cao gấp 4 lần so với bất kỳ khách hàng nào chúng tôi từng nhận trước đó. Sự lột xác về tư duy mà chương trình này mang lại sẽ tái định hình hoàn toàn doanh nghiệp của bạn. 
+Chúng tôi đã đầu tư vào chương trình của Alex trong vài tháng ngắn ngủi nhiều hơn tổng số tiền từng bỏ ra cho bất kỳ thứ gì trong suốt 12 năm mở phòng tập. Thế nhưng, chỉ trong vòng 3 tháng, chúng tôi đã nhân đôi doanh thu nhờ lượng KHTN nhiều chưa từng thấy, và họ sẵn sàng trả mức giá cao gấp 4 lần so với bất kỳ khách hàng nào chúng tôi từng nhận trước đó. Sự lột xác về tư duy mà chương trình này mang lại sẽ tái định hình hoàn toàn doanh nghiệp của bạn. 
 
 **— Craig Kinsey | Kinetics Gym & Personal Training | Lytham St. Annes, Lancashire, UK**
 
@@ -422,7 +422,7 @@ Khi mới bắt đầu làm việc với Alex, tôi kiếm được con số th�
 
 **— Drew Reddish | Zoo Fit | Fayetteville, Georgia** 
 
-Chúng tôi luôn chật vật với khâu **lead generation** (tạo nguồn khách hàng tiềm năng), và suốt 6 năm trời không thể bứt phá nổi mốc 40 khách hàng. Đã có lúc chúng tôi phải ngủ lại ngay trong phòng gym và mất cả căn hộ đang ở. Mọi thứ thực sự quá tồi tệ. Chúng tôi chuyển phòng gym đến một địa điểm tốt hơn cách đó 7 dặm và hậu quả là mất đi một nửa số khách hàng trong quá trình chuyển đổi. Thế nên, khi bắt đầu áp dụng Gym Launch Secrets, chúng tôi vừa phải gánh tiền thuê mặt bằng mới, định giá dịch vụ quá thấp, chỉ vỏn vẹn 20 khách hàng và không có nổi một hệ thống **lead generation** nào. Chúng tôi đang sống bằng tiền đi vay và lỗ chỏng vó mỗi tháng. Chỉ trong vòng 3 tháng áp dụng các hệ thống tạo **leads** học được, chúng tôi đã phóng vù vù từ 20 lên 150 hội viên, ghi nhận năm kinh doanh rực rỡ nhất từ trước đến nay. Tất cả là nhờ Gym Launch Secrets. 
+Chúng tôi luôn chật vật với khâu **lead generation** (tạo nguồn khách hàng tiềm năng), và suốt 6 năm trời không thể bứt phá nổi mốc 40 khách hàng. Đã có lúc chúng tôi phải ngủ lại ngay trong phòng gym và mất cả căn hộ đang ở. Mọi thứ thực sự quá tồi tệ. Chúng tôi chuyển phòng gym đến một địa điểm tốt hơn cách đó 7 dặm và hậu quả là mất đi một nửa số khách hàng trong quá trình chuyển đổi. Thế nên, khi bắt đầu áp dụng Gym Launch Secrets, chúng tôi vừa phải gánh tiền thuê mặt bằng mới, định giá dịch vụ quá thấp, chỉ vỏn vẹn 20 khách hàng và không có nổi một hệ thống **lead generation** nào. Chúng tôi đang sống bằng tiền đi vay và lỗ chỏng vó mỗi tháng. Chỉ trong vòng 3 tháng áp dụng các hệ thống tạo KHTN học được, chúng tôi đã phóng vù vù từ 20 lên 150 hội viên, ghi nhận năm kinh doanh rực rỡ nhất từ trước đến nay. Tất cả là nhờ Gym Launch Secrets. 
 
 **— Ashe Starbuck | The Nerd Gym | Tucson, Arizona** 
 
@@ -733,7 +733,7 @@ Họ nướng “ngân sách marketing” (lát nữa tôi sẽ giải thích v�
 > 
 > Mục tiêu của nó không phải là tạo ra lợi nhuận trực tiếp, mà là biến một "người lạ" thành "khách hàng trả tiền", mở đường cho việc bán các sản phẩm có giá trị cao hơn ở phía sau.
 
-Sau đó, họ có được một lượng **Leads** (khách hàng tiềm năng)—giả sử là 100 Leads cho ví dụ này—và gọi điện cho từng người (hoặc thuê người làm, nhưng điều đó đồng nghĩa với việc gánh thêm chi phí nhân sự).
+Sau đó, họ có được một lượng KHTN (khách hàng tiềm năng)—giả sử là 100 Leads cho ví dụ này—và gọi điện cho từng người (hoặc thuê người làm, nhưng điều đó đồng nghĩa với việc gánh thêm chi phí nhân sự).
 
 Tiếp theo, họ chốt được một số gói 21 USD — tuyệt vời. Trong ví dụ này, hãy giả sử họ chốt được 30 sales trên tổng số 100 Leads từ gói ưu đãi đó.
 
@@ -816,7 +816,7 @@ Nghe có vẻ hấp dẫn chứ?
 
 Vậy thì chúng ta hãy đi thẳng vào giải pháp ngay bây giờ thôi.
 
-### **chương 2: Mô Hình Kiếm Khách Thực Chiến**
+### **Chương 2: Mô Hình Kiếm Khách Thực Chiến**
 
 Bây giờ tôi muốn chỉ cho bạn một tư duy có thể thay đổi cuộc đời bạn theo đúng nghĩa đen.
 
@@ -1104,13 +1104,13 @@ Nó hoạt động thế này – bám sát tôi nhé.
 
 &emsp;Vào Ngày 1, bạn ném 100 USD vào **Paid Ads** để quảng bá cho gói ưu đãi không thể chối từ của mình.
 
-&emsp;Bạn thu về 10 **Leads** với chi phí 10 USD cho mỗi **Lead**.
+&emsp;Bạn thu về 10 KHTN với chi phí 10 USD cho mỗi **Lead**.
 
-&emsp;Từ 10 **Leads** đó, bạn đặt lịch hẹn được với 7 người.
+&emsp;Từ 10 KHTN đó, bạn đặt lịch hẹn được với 7 người.
 
 &emsp;Trong 7 người đó, sẽ có 3 hoặc 4 người đến đúng hẹn. Từ 3 hoặc 4 người thực sự xuất hiện, bạn chốt được 2 người mua gói Thử thách 6 tuần (6-Week Challenge) với giá 600 USD/người.
 
-&emsp;Tức là từ 10 **Leads**, bạn chốt được 2 đơn hàng, tương đương tỷ lệ chuyển đổi (conversion rate) 20%.
+&emsp;Tức là từ 10 KHTN, bạn chốt được 2 đơn hàng, tương đương tỷ lệ chuyển đổi (conversion rate) 20%.
 
 &emsp;Điều này có nghĩa là bạn chỉ tốn 100 USD để kiếm về 1.200 USD (2 x 600 USD).
 
@@ -1245,9 +1245,9 @@ Hãy lấy "Tiêu đề 1" kết hợp với "Hình ảnh 8" và "Video 16" rồ
 
 (Làm ơn đừng thấy quá tải ở đây nhé. Bạn có thể bắt đầu với số lượng ít và chỉ vài đoạn "body copy" khác nhau. Theo thời gian, bạn sẽ thu thập ngày càng nhiều mảnh ghép hiệu quả.)
 
-Sau đó, tôi chuyển tất cả những thứ này cho đội ngũ marketing của mình để làm ra các quảng cáo mới. Kỹ thuật này mang lại cho bạn gần như vô số biến thể. Thế nên, ngay cả trong bán kính địa lý nhỏ bé bảy dặm của bạn, bạn vẫn luôn có thể tạo ra những chiếc quảng cáo mới toanh có khả năng **convert** (chuyển đổi) cao. (Đó là bán kính mà chúng tôi nhận thấy là "điểm ngọt" tối ưu cho một phòng gym địa phương. Không có chi nhé.)
+Sau đó, tôi chuyển tất cả những thứ này cho đội ngũ marketing của mình để làm ra các quảng cáo mới. Kỹ thuật này mang lại cho bạn gần như vô số biến thể. Thế nên, ngay cả trong bán kính địa lý nhỏ bé bảy dặm của bạn, bạn vẫn luôn có thể tạo ra những chiếc quảng cáo mới toanh có khả năng chuyển đổi cao. (Đó là bán kính mà chúng tôi nhận thấy là "điểm ngọt" tối ưu cho một phòng gym địa phương. Không có chi nhé.)
 
-Đã có cả những cuốn sách được viết ra chỉ để bàn về từng thành phần của một quảng cáo. Những gì bạn thấy ở trên chính là các biến số. Mỗi gạch đầu dòng là một trong những "viên kim cương" có tỷ lệ **convert** tốt nhất mà tôi đúc kết được cho từng hạng mục. Đây là tấm vé gian lận (cheat sheet) chắc thắng của tôi. Bất cứ khi nào bị kẹt ý tưởng hoặc cần một ý tưởng mới cho hình ảnh, video hay "body copy", tôi lại nhìn vào đây để nhắc nhở bản thân về những nguyên tắc cốt lõi.
+Đã có cả những cuốn sách được viết ra chỉ để bàn về từng thành phần của một quảng cáo. Những gì bạn thấy ở trên chính là các biến số. Mỗi gạch đầu dòng là một trong những "viên kim cương" có tỷ lệ chuyển đổi tốt nhất mà tôi đúc kết được cho từng hạng mục. Đây là tấm vé gian lận (cheat sheet) chắc thắng của tôi. Bất cứ khi nào bị kẹt ý tưởng hoặc cần một ý tưởng mới cho hình ảnh, video hay "body copy", tôi lại nhìn vào đây để nhắc nhở bản thân về những nguyên tắc cốt lõi.
 
 Vì "body copy" có thể là một trong những phần khó nhằn nhất để làm cho đúng, hãy để tôi đào sâu hơn về chủ đề này. Dưới đây là mười hai điều răn về "body copy" mà tôi dùng để kiểm tra từng mẫu quảng cáo mà chúng tôi viết. Đây cũng là danh sách kiểm tra (checklist) mà tôi giao cho đội ngũ nội bộ của mình. Tôi không giấu giếm bất cứ điều gì ở đây cả.
 
@@ -1279,25 +1279,25 @@ Hy vọng tôi vừa giúp bạn tiết kiệm hàng ngàn đô la cho các khó
 
 Swipe (Sao chép/Tham khảo). Deploy (Triển khai). Enjoy (Tận hưởng thành quả).
 
-### **Chương 4: Kéo Họ Đến Trực Tiếp**
+### **Chương 4: Khiến Họ Xuất Hiện**
 
-Vẫn đi cùng tôi chứ? Chúng ta đang giải quyết bài toán thu hút khách hàng (client acquisition), nhớ không? Sẽ là chưa đủ nếu chỉ có một **Core Offer** không thể chối từ và một chiến lược **ad** tuyệt vời. Những thứ đó mới chỉ đem lại **Leads** cho bạn thôi. Tuyệt vời đấy. Nhưng bây giờ thì sao nữa?
+Vẫn đi cùng tôi chứ? Chúng ta đang giải quyết bài toán thu hút khách hàng (client acquisition), nhớ không? Sẽ là chưa đủ nếu chỉ có một **Irresistible Offer** và một chiến lược quảng cáo tuyệt vời. Những thứ đó mới chỉ đem lại KHTN cho bạn thôi. Tuyệt vời đấy. Nhưng bây giờ thì sao nữa?
 
-Có hai thử thách lớn ở bước này: ép/giúp **leads** đặt lịch hẹn và làm sao để họ thực sự xuất hiện tại buổi hẹn đó. Hiển nhiên là bạn cần cả hai điều này xảy ra thì mới có thể **convert** **leads** thành khách hàng trả tiền thực sự. Dưới đây là cách làm.
+Có hai thử thách lớn ở bước này: _Khiến KHTN đặt lịch hẹn và... làm sao để họ thực sự xuất hiện tại buổi hẹn đó_. Hiển nhiên là bạn cần cả hai điều này xảy ra thì mới có thể chuyển đổi KHTN thành khách hàng trả tiền thực sự. Dưới đây là cách làm.
 
-###### **Giúp Họ Đặt Lịch**
+#### **Khiến Họ Đặt Lịch**
 
 Cách dễ nhất để khách hàng đặt lịch hẹn là tích hợp ngay một ứng dụng lịch biểu tự động (calendar app) vào trang cảm ơn (thank-you page) của bạn. (Nghe thì đỉnh chóp thật đấy, nhưng thú thực là tôi đã không làm điều này trong suốt 5 năm đầu khởi nghiệp. Thật là quê độ).
 
-Khoảng 70% những người truy cập trang cảm ơn của bạn sẽ tiến hành đặt lịch nếu được trao sẵn lựa chọn này—một con số khá ấn tượng. Tuy nhiên, bạn vẫn phải làm nhiều hơn thế để đảm bảo họ thực sự xuất hiện. Hãy nhớ rằng, những khách hàng này có thể đã click vào ứng dụng đặt lịch hoặc nút *"Vâng, tôi muốn tham gia"* trong một phút bốc đồng. Ngay khoảnh khắc đó, họ cảm thấy bản thân đã sẵn sàng để tạo ra một bước ngoặt lớn trong đời. Nhưng chỉ một phút sau, rất có thể họ đã quên sạch sành sanh mọi chuyện. Chìa khóa ở đây là phải kéo họ đến cơ sở của bạn thật nhanh, trước khi họ kịp chùn bước (cold feet) hay tụt hứng.
+Khoảng 70% những người truy cập trang cảm ơn của bạn sẽ tiến hành đặt lịch nếu được trao sẵn lựa chọn này—một con số khá ấn tượng. Tuy nhiên, bạn vẫn phải làm nhiều hơn thế để đảm bảo họ thực sự xuất hiện. Hãy nhớ rằng, những khách hàng này có thể đã click vào ứng dụng đặt lịch hoặc nút *"Vâng, tôi muốn tham gia"* trong một phút bốc đồng. Ngay khoảnh khắc đó, họ cảm thấy bản thân đã sẵn sàng để tạo ra một bước ngoặt lớn trong đời. Nhưng chỉ một phút sau, rất có thể họ đã quên sạch sành sanh mọi chuyện. Chìa khóa ở đây là phải kéo họ đến cơ sở của bạn thật nhanh, trước khi họ kịp chùn bước hay tụt hứng.
 
-###### **Các Phương Thức Đặt Lịch Tối Ưu (Scheduling Best Practices)**
+##### **Các Phương Thức Đặt Lịch Tối Ưu**
 
-**Chỉ cho phép đặt lịch trong ngày hoặc ngày hôm sau.** Tôi có thể huyên thuyên mãi về vấn đề này, nhưng việc không chốt lịch ngay trong ngày hoặc ngày mai là một canh bạc vô cùng rủi ro. Khách hàng chỉ nên được phép đặt lịch cách đó từ 3 ngày trở lên trong những trường hợp cực kỳ bất đắc dĩ. Tại sao ư? Bởi vì tỷ lệ lên lớp (show rate) sẽ sụt giảm thê thảm sau khoảng thời gian đó. Và một khi khách đã "bùng lịch" (no-show), bạn sẽ phải vượt qua ba vòng địa ngục sau mới mong biến họ thành khách hàng thực sự:
+**Chỉ cho phép đặt lịch trong ngày hoặc ngày hôm sau.** Tôi có thể huyên thuyên mãi về vấn đề này, nhưng việc không chốt lịch ngay trong ngày hoặc ngày mai là một canh bạc vô cùng rủi ro. Khách hàng chỉ nên được phép đặt lịch cách đó từ 3 ngày trở lên trong những trường hợp cực kỳ bất đắc dĩ. Tại sao ư? Bởi vì tỷ lệ có mặt sẽ sụt giảm thê thảm sau khoảng thời gian đó. Và một khi khách đã "bỏ bom", bạn sẽ phải vượt qua ba vòng địa ngục sau mới mong biến họ thành khách hàng thực sự:
 
 1. Họ phải chủ động đặt lịch hẹn lại.
 2. Họ phải xuất hiện sau cú "bùng kèo" đầu tiên.
-3. Họ phải chịuóc ví mua hàng.
+3. Họ phải móc ví mua hàng.
 
 Đó là một tá chướng ngại vật mà bạn phải dắt mũi họ vượt qua. Thế nên, hãy cố gắng tối đa hóa ngay ở lần đặt lịch đầu tiên để kéo càng nhiều người đến và chốt sale càng tốt. Hãy vẽ một đường thẳng đến nút thanh toán.
 
@@ -1305,32 +1305,31 @@ Nếu ai đó đôi co với bạn về chuyện này, hãy nhắc họ nhớ r�
 
 Dưới đây là một kịch bản mẫu:
 
-Bạn: *"Khi nào thì anh/chị dự định bắt đầu tập luyện?"*  
-Tracy: *"Sau giờ làm."*  
+&emsp;Bạn: *"Khi nào thì anh/chị dự định bắt đầu tập luyện?"*  
+&emsp;Tracy: *"Sau giờ làm."*  
 
-Bạn: *"Ngày mai mấy giờ chị tan làm?"*  
-Tracy: *"Năm giờ."*  
+&emsp;Bạn: *"Ngày mai mấy giờ chị tan làm?"*  
+&emsp;Tracy: *"Năm giờ."*  
 
-Bạn: *"Tuyệt vời. Lịch của tôi và cả Mark đều kín mít trong hai tuần tới, nhưng xui rủi thế nào anh ấy lại vừa có một slot trống phút chót vào ngày mai (mà ngàn năm mới có một lần đấy nhé). Chị có muốn chớp lấy suất 5 giờ rưỡi ngay sau giờ làm vào ngày mai luôn không?"*  
+&emsp;Bạn: *"Tuyệt vời. Lịch của tôi và cả Mark đều kín mít trong hai tuần tới, nhưng xui rủi thế nào anh ấy lại vừa có một slot trống phút chót vào ngày mai (mà ngàn năm mới có một lần đấy nhé). Chị có muốn chớp lấy suất 5 giờ rưỡi ngay sau giờ làm vào ngày mai luôn không?"*  
+&emsp;Tracy: *"Ừ, được đấy."*  
 
-Tracy: *"Ừ, được đấy."*  
+&emsp;Bạn: *"Ok, đây có phải là số di động của chị không?"*  
+&emsp;Tracy: *"Đúng rồi."*  
 
-Bạn: *"Ok, đây có phải là số di động của chị không?"*  
-Tracy: *"Đúng rồi."*  
+&emsp;Bạn: *"Xịn. Tôi sẽ bắn ngay cho chị một tin nhắn kèm địa chỉ và mọi thông tin chi tiết. Gặp chị sớm nhé, Tracy."* *Cạch*.  
 
-Bạn: *"Xịn. Tôi sẽ bắn ngay cho chị một tin nhắn kèm địa chỉ và mọi thông tin chi tiết. Gặp chị sớm nhé, Tracy."* *Cạch*.  
+Sau đó, hãy gửi tin nhắn đi. Kịch bản này cũng chính là bí quyết giúp bạn cúp điện thoại nhanh gọn để chuyển sang KHTN tiếp theo.
 
-Sau đó, hãy gửi tin nhắn đi. Kịch bản này cũng chính là bí quyết giúp bạn cúp điện thoại nhanh gọn để chuyển sang **Lead** tiếp theo.
+**Tận dụng tính khan hiếm và tính cấp bách.** Tôi chắc là cứ cách một ngày tôi lại kể câu chuyện này một lần cho các chủ phòng gym mới gia nhập đội ngũ của chúng tôi.
 
-**Tận dụng tính khan hiếm và tính cấp bách (Scarcity & Urgency).** Tôi chắc là cứ cách một ngày tôi lại kể câu chuyện này một lần cho các chủ phòng gym mới gia nhập đội ngũ của chúng tôi.
-
-Nhiều đời trăng trước, chúng tôi từng duy trì một đội ngũ sale gồm 8 người, chuyên lượn lờ từ phòng gym này sang phòng gym khác để chốt sale hộ các chủ phòng. Cuối cùng, việc này hóa ra lại cực kỳ khó scale (nào là tiền khách sạn x 8, xe thuê x 8, ngân sách marketing x 8, hoa hồng x 8, quản lý hơn 800 ca thanh toán mới, v.v.), nhưng bù lại chúng tôi vỡ vạc được rất nhiều điều. Một trong những bài học xương máu nhất tôi rút ra từ trải nghiệm đó là: trong một chiến dịch kéo dài 21 ngày, đội ngũ sale của chúng tôi luôn chốt được doanh số trong 5 ngày cuối nhiều gấp đôi tổng doanh số của 2 tuần đầu tiên cộng lại. Theo bạn, tại sao lại có chuyện ngược đời đó?
+Nhiều tuần trăng trước, chúng tôi từng duy trì một đội ngũ sale gồm 8 người, chuyên lượn lờ từ phòng gym này sang phòng gym khác để chốt sale hộ các chủ phòng. Cuối cùng, việc này hóa ra lại cực kỳ khó scale (nào là tiền khách sạn x 8, xe thuê x 8, ngân sách marketing x 8, hoa hồng x 8, quản lý hơn 800 ca thanh toán mới, v.v.), nhưng bù lại chúng tôi học được rất nhiều điều. Một trong những bài học xương máu nhất tôi rút ra từ trải nghiệm đó là: trong một chiến dịch kéo dài 21 ngày, đội ngũ sale của chúng tôi luôn chốt được doanh số trong 5 ngày cuối nhiều gấp đôi tổng doanh số của 2 tuần đầu tiên cộng lại. Theo bạn, tại sao lại có chuyện ngược đời đó?
 
 Đó là vì khi chặng nước rút điểm danh, đội ngũ sale ngộ ra rằng nếu không tóm cổ khách hàng đến tận cửa phòng tập, họ sẽ chẳng bao giờ bỏ được đồng tiền hoa hồng nào vào túi. Khi thời hạn 21 ngày cận kề, họ thay đổi cách trò chuyện với khách hàng tiềm năng, bởi vì trong đầu họ đang nhẩm tính những con số và nhận ra họ buộc phải vét thêm nhiều người ký hợp đồng hơn nữa. Và đó là sự chuyển dịch về mặt tâm thế cốt lõi, chứ không chỉ nằm ở câu chữ trong kịch bản.
 
-Những nhân viên sale lúc này đã thấm nhuần sự cấp bách—họ muốn một tấm séc hoa hồng béo bở hơn cho chu kỳ đó. Thế nên TÔNG GIỌNG của họ đã thay đổi. Họ nói chuyện với khách hàng với một sắc thái khác. Họ chốt sale nhanh hơn. Tính khan hiếm và tính cấp bách lúc này đã trở thành SỰ THẬT HIỆN HỮU. Và kết quả là… TỶ LỆ LÊN LỚP CỦA KHÁCH HÀNG TĂNG GẤP ĐÔI.
+Những nhân viên sale lúc này đã thấm nhuần sự cấp bách—họ muốn một tấm séc hoa hồng béo bở hơn cho chu kỳ đó. Thế nên TÔNG GIỌNG của họ đã thay đổi. Họ nói chuyện với khách hàng với một sắc thái khác. Họ chốt sale nhanh hơn. Tính khan hiếm và tính cấp bách lúc này đã trở thành SỰ THẬT HIỆN HỮU. Và kết quả là… TỶ LỆ XUẤT HIỆN CỦA KHÁCH HÀNG TĂNG GẤP ĐÔI.
 
-Thế nào cũng sẽ có một chủ phòng gym nhảy vào nói với tôi rằng: *"Anh đang áp dụng tính khan hiếm đây chứ, anh bảo với họ là số chỗ còn lại đếm trên đầu ngón tay cơ mà, nhưng sao chẳng ăn thua gì cả?"* Vấn đề nằm ở chỗ này: bộ não con người tinh ranh lắm, nó ngửi thính rất nhạy để phát hiện ra đâu là văn vở nhảm nhí (BS). Do đó, chính bản thân bạn cũng phải *thực sự tin* rằng tính cấp bách và sự khan hiếm đó là thật.
+Thế nào cũng sẽ có một chủ phòng gym nhảy vào nói với tôi rằng: *"Anh đang áp dụng tính khan hiếm đây chứ, anh bảo với họ là số chỗ còn lại đếm trên đầu ngón tay cơ mà, nhưng sao chẳng ăn thua gì cả?"* Vấn đề nằm ở chỗ này: bộ não con người tinh ranh lắm, nó rất thính nhạy để phát hiện ra đâu là văn vở nhảm nhí (BS). Do đó, chính bản thân bạn cũng phải *thực sự tin* rằng tính cấp bách và sự khan hiếm đó là thật.
 
 Đây là lý do tại sao tôi tin điều đó: nếu khách hàng không bước chân được đến phòng gym, chúng tôi gần như bó tay trong việc giúp đỡ họ. Thế nên, thực tế phũ phàng là nếu người đó bỏ lỡ buổi hẹn, thì đó rất có thể là cơ hội cuối cùng để họ giữ được suất tập. Bởi vì xác suất họ chịu đặt lịch lại, xuất hiện và chốt mua hàng chỉ vỏn vẹn tầm 10%. Đó là lý do chúng tôi huy động mọi thứ có trong tay để lùa họ đến đúng hẹn ngay trong lần đặt lịch đầu tiên.
 
@@ -1354,7 +1353,7 @@ Chẳng ai thích làm những việc đi ngược lại với hình ảnh tích
 
 **Số Lần Tương Tác (Number Of Outreach Attempts):** Số lần bạn liên hệ với khách hàng tiềm năng có mối tương quan trực tiếp với số lượng người thực sự bước chân qua cánh cửa phòng gym của bạn.
 
-Nghe thì có vẻ đơn giản, nhưng đây là một định luật bất biến trong giới sale. Bạn càng c, thì khách hàng càng có xu hướng chốt lịch, tin rằng việc này quan trọng và sẽ xách mông đến lớp.
+Nghe thì có vẻ đơn giản, nhưng đây là một định luật bất biến trong giới sale. Bạn càng cố gắng liên hệ với một khách hàng, thì khách hàng càng có xu hướng chốt lịch, tin rằng việc này quan trọng và sẽ xách mông đến buổi hẹn.
 
 Nhiều chủ phòng gym hay ngại ngùng, sợ làm phiền người khác hoặc cứ ôm khư khư quan điểm: *"Tôi chỉ muốn phục vụ những người không cần phải nhắc nhở, vì việc tập luyện vốn dĩ là quan trọng với họ rồi."* Nghe ngây thơ hết sức. Bởi vì chẳng ai biết ai đang gọi cho đến khi họ nhấc máy lên và trò chuyện với bạn, lúc đó bạn hoàn toàn có thể bồi thêm câu thế này: *"Tôi hiểu mà. Ngay từ TRƯỚC khi là khách hàng mà tôi đã bám riết anh/chị thế này rồi, thì cứ tưởng tượng xem tôi sẽ cuồng nhiệt cỡ nào để đảm bảo anh/chị sẽ có mặt ở phòng tập nhé."* Và chừng đó là quá đủ để chốt hạ vấn đề.
 
@@ -1368,21 +1367,19 @@ Tôi khuyến nghị thực hiện 15 lần tiếp cận (**outreach**) trong 3 
 
 **Tin Nhắn Dạng Video (Video Texts):** Tôi học chiến lược này từ Grant Cardone. Một nhân viên sales của ông ấy từng gửi cho tôi một đoạn video ngắn trong đó CẬY ẤY GỌI ĐÚNG TÊN TÔI. Tôi thấy chiêu này quá đỉnh nên đã áp dụng ngay lập tức và chứng kiến tỷ lệ khách đến phòng (show rate) tăng vọt. Một video đơn giản dài 15–20 giây gửi cho khách tiềm năng vào sáng ngày hẹn sẽ tạo ra những kỳ tích. 
 
-*Chào Tracy. Anh là Alex, một trong những HLV tại 123 Fitness. Chúng tôi là người thật việc thật và đây là phòng tập của bọn anh (_quay cửa ra vào & biển hiệu_) ngay đối diện [địa điểm mốc]. Em đã có tên trong danh sách đội ngũ tham gia [tên chương trình có thời hạn cụ thể] rồi đấy. Anh thấy lịch hẹn của em là tối nay lúc [giờ hẹn], nên anh chỉ muốn gửi video này để tự giới thiệu bản thân và cho em biết rằng bọn anh rất hào hứng được gặp cũng như giới thiệu em với mọi người. Nhắn lại cho anh biết áo size gì nhé, anh giữ riêng cho một chiếc. Hẹn gặp em sớm nha (_cười tươi và vẫy tay_).* 
+> *Chào Tracy. Anh là Alex, một trong những HLV tại 123 Fitness. Bọn anh là người thật việc thật và đây là phòng tập của bọn anh (_quay cửa ra vào & biển hiệu_) ngay đối diện [địa điểm mốc]. Em đã có tên trong danh sách đội ngũ tham gia [tên chương trình có thời hạn cụ thể] rồi đấy. Anh thấy lịch hẹn của em là tối nay lúc [giờ hẹn], nên anh chỉ muốn gửi video này để tự giới thiệu bản thân và cho em biết rằng bọn anh rất hào hứng được gặp cũng như giới thiệu em với mọi người. Nhắn lại cho anh biết áo size gì nhé, anh giữ riêng cho một chiếc. Hẹn gặp em sớm nha (_cười tươi và vẫy tay_).* 
 
-Nếu bạn thấy việc này quá nhiều việc phải làm… bạn nói chuẩn rồi đấy. Nhưng cháy túi thì cũng tệ hại chẳng kém, nên bạn hoàn toàn có thể chọn: một là làm việc chăm chỉ, hai là phá sản. 
+Nếu bạn thấy có quá nhiều việc phải làm… bạn nói chuẩn rồi đấy. Nhưng cháy túi thì cũng tệ hại chẳng kém, nên bạn hoàn toàn có thể chọn: một là làm việc chăm chỉ, hai là phá sản. 
 
 Tin vui là bạn có thể tự động hóa toàn bộ quy trình này. Chuẩn luôn. Dĩ nhiên việc này nằm ngoài phạm vi của cuốn sách này, và các phần mềm công nghệ thì thay đổi từng giờ, nhưng toàn bộ quy trình tôi vừa phác thảo hoàn toàn có thể tự động hóa 100%. (Thực tế, chúng tôi vẫn đang hướng dẫn các chủ phòng tự làm việc này). Chỉ riêng quy trình này đã giúp các chủ phòng tập tiết kiệm trung bình 30.000 USD/năm tiền lương nhân sự, đồng thời bơm một lượng doanh thu khổng lồ vào kết quả kinh doanh nhờ tỷ lệ đến hẹn và tỷ lệ chốt sale tăng vọt. 
 
 Vẫn còn rất nhiều điều nữa—và tôi thực sự đau lòng khi phải cắt ngắn phần này—nhưng chúng ta phải tiến lên thôi. Tôi hy vọng phần trên đã cung cấp cho bạn những kiến thức vỡ lòng về các best practice (thực tiễn tốt nhất) để kéo mọi người đến phòng tập. Nhưng một khi họ đã đặt chân đến phòng tập, làm thế nào để bạn giúp đỡ họ? 
 
-###### **chương 5** 
-
-###### **Chốt Sale (Get Them To Buy)** 
+### **Chương 5:** Chốt Sale (Get Them To Buy)** 
 
 Đây là phần mà rất nhiều chủ phòng tập (và cả những người làm kinh doanh nói chung) thường thú nhận là họ ghét cay ghét đắng. Họ không muốn làm phiền người khác, họ sợ khách hàng sẽ bỏ chạy khi bị chốt sale, hoặc họ lo rằng khách hàng sẽ từ chối. Nhưng để mang lại dịch vụ tốt nhất có thể cho khách hàng—và kiếm đủ tiền để duy trì phòng tập không chỉ hoạt động mà còn phát triển thịnh vượng cho bạn lẫn đội ngũ nhân sự—bạn bắt buộc phải nắm vững các kỹ thuật bán hàng. Trong chương này, tôi sẽ điểm qua một vài kỹ thuật yêu thích của mình. 
 
-###### **Khiến Họ Móc Túi Trao Tiền Cho Bạn (Get Them To Give You Money)** 
+#### **Khiến Họ Móc Túi Trao Tiền Cho Bạn (Get Them To Give You Money)** 
 
 Ban đầu tôi đặt một cái tên rất kêu cho phần này: *"Cách Móc Tiền Từ Những Kẻ Lạ Hoắc Chưa Từng Gặp Mặt… Và Khiến Họ Thích Điều Đó"*, nhưng cuối cùng tôi quyết định chọn một cái tên nhẹ nhàng hơn. 
 
@@ -1402,11 +1399,11 @@ Về bản chất, bán hàng chỉ xoay quanh ba sự chuyển dịch (transfer
 
 Nếu không truyền tải được ba yếu tố này, bạn sẽ chẳng thể giúp được ai cả. Dưới đây là một số cách để đập tan sự kháng cự thay đổi của khách hàng. Đây không phải là lý thuyết suông. Chúng được đúc kết từ hơn 4.000 ca chốt sale **1-on-1**. Vâng… đúng vậy, 4.000 ca. Tôi đã tự mình gánh vác khâu bán hàng cho tất cả các cơ sở trong một khoảng thời gian dài, đơn giản vì tôi là một kẻ cứng đầu và tôi thích bán hàng. Và tôi thích bán hàng vì tôi làm giỏi việc đó. Tôi làm giỏi vì tôi đã làm nó tới 4.000 lần. 
 
-###### **Vấn Đề: "Thẻ Hội Viên Giá Bao Nhiêu?"** 
+#### **Vấn Đề: "Thẻ Hội Viên Giá Bao Nhiêu?"** 
 
 Kể nhanh cho bạn nghe một câu chuyện… 
 
-Bạn tôi, Josh Price, là một trong những khách hàng đầu tiên của tôi. (Tôi hay trêu cậu ấy vì cậu ấy là một trong những người tốt tính và khiêm tốn nhất quả đất, và cậu ấy không bao giờ để bụng khi tôi bông đùa vài câu). Vài năm trước, tôi có sang hỗ trợ Josh làm sales cho phòng tập của cậu ấy. Hôm đó, tôi đang tư vấn cho một khách tiềm năng—người đã phản hồi lại các chiến dịch **Paid Ads** mà chúng tôi đang chạy—và tôi đã đi được nửa chặng đường của buổi tư vấn. Tôi đang hừng hực khí thế—ở vào thời điểm không thể bỏ dở hay nhường cho người khác—thì đột nhiên có một vị khách bước cửa bước vào. 
+Bạn tôi, Josh Price, là một trong những khách hàng đầu tiên của tôi. (Tôi hay trêu cậu ấy vì cậu ấy là một trong những người tốt tính và khiêm tốn nhất quả đất, và cậu ấy không bao giờ để bụng khi tôi bông đùa vài câu). Vài năm trước, tôi có sang hỗ trợ Josh làm sales cho phòng tập của cậu ấy. Hôm đó, tôi đang tư vấn cho một khách tiềm năng—người đã phản hồi lại các chiến dịch quảng cáo mà chúng tôi đang chạy—và tôi đã đi được nửa chặng đường của buổi tư vấn. Tôi đang hừng hực khí thế—ở vào thời điểm không thể bỏ dở hay nhường cho người khác—thì đột nhiên có một vị khách bước cửa bước vào. 
 
 Nghe điên rồ đúng không? Một khách vãng lai (**walk-in**). Hiếm như động vật quý hiếm. 
 
@@ -1422,7 +1419,7 @@ Cảm giác lúc đó giống như đang chứng kiến một vụ tai nạn ô 
 
 Anh chàng kia nhìn lướt qua tấm kẹp giấy rồi đảo mắt ngắm nghía phòng tập. Anh ta đặt nó lên một chiếc ghế sofa ở sảnh, bước thẳng ra cửa và biến mất vĩnh viễn. 
 
-###### _RẦM_ 
+_RẦM_ 
 
 Đây là một ví dụ cực đoan, nhưng nó vẫn diễn ra cơm bữa mỗi ngày. Nhiều chủ phòng tập thường than thở: *"Tôi ghét bán hàng"* hoặc *"Tôi không muốn gây áp lực cho người khác"* hay đại loại thế. Nhưng thực tế là, chúng ta ai cũng ghét những thứ mình làm dở, bởi chẳng ai thích cảm giác thất bại cả. Thế nhưng thất bại, đặc biệt trong bán hàng, là một phần của cuộc chơi. 
 
@@ -1436,11 +1433,11 @@ Giống như bao kỹ năng khác, việc bạn thấy khó chỉ là do thiếu
 
 Và một bộ khung sales vững chắc sẽ giúp bạn tiến bộ thần tốc.
 
-**Mẹo chuyên gia (Pro Tip):** Lý do bạn luôn cảm thấy ai cũng chê mình quá đắt đỏ hoặc ai cũng than mình "cháy túi" là vì khi họ hỏi về **GIÁ**, bạn trả lời ngay bằng một con số cụ thể.
-
-Câu trả lời thực sự cho câu hỏi: *"Tham gia phòng tập của anh/chị tốn bao nhiêu tiền?"* phải là: *"Còn tùy thuộc vào mục tiêu của anh/chị."* Cách này giúp định hình bối cảnh giá trị, để bạn có thể thực sự bán hàng ở một phân khúc cao cấp (premium-priced). Đó cũng chính là mục tiêu của một **Core Offer** (Sản phẩm cốt lõi) không thể chối từ, phải không nào?
-
-Khách hàng chỉ hỏi giá tiền vì họ chẳng biết phải hỏi gì thêm. Phần lớn mọi người nghĩ Planet Fitness và Weight Watchers đều giống nhau. Nhiệm vụ của nhân viên bán hàng là giáo dục, thiết lập bối cảnh và đập tan nhữnghoài nghi của khách hàng, giúp họ đưa ra quyết định thông minh và thấu đáo. Cách dễ nhất để làm điều đó là tiêu chuẩn hóa mọi cuộc trò chuyện để luôn thu về một kết quả nhất định.
+> **Mẹo chuyên gia (Pro Tip):** Lý do bạn luôn cảm thấy ai cũng chê quá đắt đỏ hoặc ai cũng than "cháy túi" là vì khi họ hỏi về **GIÁ**, bạn trả lời ngay bằng một con số cụ thể.
+>
+> Câu trả lời thực sự cho câu hỏi: *"Tham gia phòng tập của anh/chị tốn bao nhiêu tiền?"* phải là: *"Còn tùy thuộc vào mục tiêu của anh/chị."* Cách này giúp định hình bối cảnh giá trị, để bạn có thể thực sự bán hàng ở một phân khúc cao cấp (premium-priced). Đó cũng chính là mục tiêu của một **Irresistible Offer** (Sản phẩm cốt lõi) không thể chối từ, phải không nào?
+> 
+> Khách hàng chỉ hỏi giá tiền vì họ chẳng biết phải hỏi gì thêm. Phần lớn mọi người nghĩ Planet Fitness và Weight Watchers đều giống nhau. Nhiệm vụ của nhân viên bán hàng là giáo dục, thiết lập bối cảnh và đập tan những hoài nghi của khách hàng, giúp họ đưa ra quyết định thông minh và thấu đáo. Cách dễ nhất để làm điều đó là tiêu chuẩn hóa mọi cuộc trò chuyện để luôn thu về một kết quả nhất định.
 
 Suy cho cùng, bạn cần làm cho việc bán hàng trở nên dễ dàng đối với đội ngũ của mình, sao cho ngay cả khi bạn không có mặt ở đó, lợi thế vẫn nghiêng về phía họ.
 
@@ -1454,15 +1451,15 @@ Của bạn đây nhé…
 
 *(Sách này vốn không định viết về bán hàng đâu, nhưng mà tôi ngứa tay quá nên đành chịu.)*
 
-###### **Lời chào bán hàng, Khu vực chờ và Phòng làm việc**
+#### **Lời chào bán hàng, Khu vực chờ và Phòng làm việc**
 
 Phần đầu tiên để tạo nên một cuộc trò chuyện đồng nhất chính là một môi trường đồng nhất. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng thương vụ hoàn toàn nằm trong tay bạn.
 
 Tôi sẽ cố gắng diễn đạt thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
 
-*(Sơ đồ bố trí văn phòng bán hàng: trang phải kín chữ | tiêu đề phải giả định khách đã chốt đơn | đặt bên dưới chồng hợp đồng đã ký là xấp phiếu điểm danh dày đặc | kê thật nhiều ghế | tuyệt đối không ngồi đối diện qua bàn | hãy ngồi lệch góc bên cạnh | chào đón bằng tên trong vòng 10 giây | phòng chờ với vô số social proof (bằng chứng xã hội) cực khủng | chuyên gia bước ra từ phòng làm việc để dẫn khách vào trong... | khách hàng tiềm năng bước vào | đội ngũ của bạn | phiếu điểm danh: tôi cần giúp đỡ, tôi sẽ thử, tôi rất nghiêm túc | đăng ký Thử thách Thể hình)*
+![](../assets/images/gym-launch/01-05-00.png)
 
-Hãy bắt đầu từ khoảnh khắc một khách hàng tiềm năng bước chân qua cửa. Dưới đây là mô hình bố trí lý tưởng cho lời chào hàng và văn phòng của bạn nhằm tối đa hóa tỷ lệ chốt đơn (**close rate**).
+Hãy bắt đầu từ khoảnh khắc một khách hàng tiềm năng bước chân qua cửa. Dưới đây là mô hình bố trí lý tưởng cho lời chào bán hàng (sales greeting) và văn phòng của bạn nhằm tối đa hóa tỷ lệ chốt đơn.
 
 Hãy cùng phân tích sơ đồ này từng bước một nhé.
 
@@ -1472,19 +1469,23 @@ Hãy cùng phân tích sơ đồ này từng bước một nhé.
 
 3. Biến khu vực chờ thành một bức tường hoặc căn phòng tràn ngập những câu chuyện thành công (**testimonial**) khiến ai nhìn vào cũng phải kinh ngạc. Đó là những bức ảnh "trước và sau" của những người đã tập luyện cùng bạn. Dưới đây là ví dụ từ hai **Gym Lord** (Chúa tể phòng gym) của chúng tôi:
 
-1. Yêu cầu họ điền vào phiếu khảo sát trước khi bán hàng (**pre-sell intake questionnaire**). Việc này sẽ giúp cải thiện tỷ lệ chốt đơn của bạn và cả đội ngũ.
+![](../assets/images/gym-launch/01-05-01.png)
 
-2. Sau khi để họ có vài phút tự do ngắm nhìn các đánh giá, hãy dẫn họ vào khu vực tư vấn. Trước đó, bạn phải sắp xếp bàn làm việc sao cho **KHÔNG BAO GIỜ** ngồi đối diện trực diện với khách hàng tiềm năng. Bạn phải ngồi sát vai bên cạnh, cùng một phía với họ. Hãy kê thật nhiều ghế trong phòng để tạo cảm giác lúc nào cũng có đông người muốn tranh thủ sự chú ý của bạn, kèm theo một xấp hợp đồng đã ký dày bịch. (Cứ lấy mấy hợp đồng EFT ra nếu cần). Những món đồ này sẽ phát đi thông điệp ngầm rằng…
+![](../assets/images/gym-launch/01-05-02.png)
 
-- Bạn rất có sức hút và luôn được săn đón (**in demand**).
+   1. Yêu cầu họ điền vào phiếu khảo sát trước khi bán hàng (**pre-sell intake questionnaire**). Việc này sẽ giúp cải thiện tỷ lệ chốt đơn của bạn và cả đội ngũ.
 
-- Bạn là một chuyên gia có tầm ảnh hưởng lớn (**authority & expert**).
+   2. Sau khi để họ có vài phút tự do ngắm nhìn các đánh giá, hãy dẫn họ vào khu vực tư vấn. Trước đó, bạn phải sắp xếp bàn làm việc sao cho **KHÔNG BAO GIỜ** ngồi đối diện trực diện với khách hàng tiềm năng. Bạn phải ngồi sát vai bên cạnh, cùng một phía với họ. Hãy kê thật nhiều ghế trong phòng để tạo cảm giác lúc nào cũng có đông người muốn tranh thủ sự chú ý của bạn, kèm theo một xấp hợp đồng đã ký dày bịch. (Cứ lấy mấy hợp đồng EFT ra nếu cần). Những món đồ này sẽ phát đi thông điệp ngầm rằng…
 
-- Rất nhiều người đã ghé thăm gần đây.
+      - Bạn rất có sức hút và luôn được săn đón (**in demand**).
 
-- Rất nhiều người đã đăng ký gói dịch vụ này rồi. (Mọi người thường thích làm theo số đông khi thấy người khác đã mua).
+      - Bạn là một chuyên gia có tầm ảnh hưởng lớn (**authority & expert**).
 
-- Cơ hội đang rất khan hiếm (**scarcity**) (vì bạn sắp kín chỗ) và cấp bách (**urgency**) (vì chương trình chuẩn bị bắt đầu).
+      - Rất nhiều người đã ghé thăm gần đây.
+
+      - Rất nhiều người đã đăng ký gói dịch vụ này rồi. (Mọi người thường thích làm theo số đông khi thấy người khác đã mua).
+
+      - Cơ hội đang rất khan hiếm (**scarcity**) (vì bạn sắp kín chỗ) và cấp bách (**urgency**) (vì chương trình chuẩn bị bắt đầu).
 
 Một số chủ phòng gym hoặc đội ngũ sale thường để khách tự điền phiếu khảo sát (từ Chương 2), số khác thì nhờ nhân viên lễ tân làm việc đó. Cách nào cũng được—tùy bạn quyết định. Nhưng nếu bạn trực tiếp làm, hãy ngồi xổm xuống để tầm mắt ngang bằng với họ và đọc các câu hỏi cho họ nghe. Nó cho thấy bạn thực sự quan tâm, và mọi người luôn trân trọng những ai sẵn sàng hạ mình vì họ. Thao tác này cũng giúp bạn tự tin hơn vì cả hai đang ở cùng một bình diện, xóa nhòa mọi khoảng cách tâm lý. Chi tiết nhỏ làm nên chuyện lớn.
 
@@ -1494,11 +1495,9 @@ Và vì tôi quá yêu quý các bạn, tôi sẽ vạch ra toàn bộ khung bá
 
 Đọc tiếp đi nào.
 
-###### **Chương 6**
+### **Chương 6: Công thức C-L-O-S-E-R**
 
-###### **Công thức C-L-O-S-E-R**
-
-Bạn có muốn xem khung quy trình mà tôi đã truyền đạt cho vô số nhân viên và hơn 1.500 phòng gym để giúp họ chốt đơn từ **cold traffic** (khách hàng lạnh) một cách NHANH CHÓNG không? Nếu bạn nghĩ mình giỏi bán hàng nhưng chưa từng bán được cho ai ngoài khách quen được giới thiệu (**referral**), thì thực ra bạn chưa biết bán hàng là gì. Theo định nghĩa của tôi, bán hàng là việc thuyết phục một kẻ vốn chỉ đang quan tâm sương sương đến dịch vụ của bạn—một kẻ còn chả nhớ mình đã đăng ký nhận thông tin từ bao giờ và hoàn toàn mù tịt về những người từng tập cùng bạn—móc ví đưa tiền cho bạn. Đó mới gọi là bán hàng. Và đó chính là thứ tôi sắp chỉ cho bạn đây.
+Bạn có muốn xem khung quy trình mà tôi đã truyền đạt cho vô số nhân viên và hơn 1.500 phòng gym để giúp họ chốt đơn từ **cold traffic** (khách hàng lạnh) một cách NHANH CHÓNG không? Nếu bạn nghĩ mình giỏi bán hàng nhưng chưa từng bán được cho ai ngoài khách quen được giới thiệu (**referral**), thì thực ra bạn chưa biết bán hàng là gì. Theo định nghĩa của tôi, bán hàng là việc thuyết phục một kẻ vốn chỉ đang quan tâm sương sương đến dịch vụ của bạn—một kẻ còn chả nhớ mình đã đăng ký nhận thông tin từ bao giờ và hoàn toàn mù tịt về những người từng gặp cùng bạn—móc ví đưa tiền cho bạn. Đó mới gọi là bán hàng. Và đó chính là thứ tôi sắp chỉ cho bạn đây.
 
 Dù bạn trực tiếp đứng lớp bán hàng hay sở hữu một đội ngũ—bạn vẫn cần phải tự mình bán hàng ở một mức độ nhất định để thấu hiểu cái khung này và biết nó thần thánh đến mức nào.
 
@@ -1518,7 +1517,7 @@ Hãy học nó. Hãy dùng nó. Kiếm tiền từ nó. Sau đó truyền lại 
 
 Bây giờ bạn đã có một từ viết tắt cực kỳ dễ nhớ rồi, hãy cùng mổ xẻ chi tiết từng chữ cái nhé.
 
-### làm rõ lý do họ hành động / xuất hiện 
+#### Làm rõ (Clarify) lý do họ hành động / xuất hiện 
 
 “Điều gì đưa bạn đến đây ngày hôm nay?” 
 
@@ -1534,7 +1533,7 @@ Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì 
 
 Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mình. 
 
-<mark>g</mark> ắn nhãn họ với vấn đề mà bạn định giải quyết 
+#### Gắn nhãn (Label) họ với vấn đề mà bạn định giải quyết 
 
 Đây là lúc bạn làm nổi bật hoặc tóm tắt trạng thái hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
 
@@ -1544,9 +1543,9 @@ Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mìn
 
 - “Vậy nếu chúng tôi giúp bạn đạt được điều đó, bạn sẽ không ‘ghim’ tôi chứ nhỉ? (ha ha ha)” 
 
-Tôi biết—nghe hơi nhạt nhẽo phải không? Nhưng tôi vẫn dùng đúng trò đùa đó, và ai cũng bật cười giả lả một cách rập khuôn mỗi lần nghe thấy. 
+Tôi biết—nghe hơi nhạt nhẽo phải không? Nhưng tôi vẫn dùng đúng trò đùa đó, và ai cũng bật cười giả tạo một cách rập khuôn mỗi lần nghe thấy. 
 
-###### tổng quan về những nỗi đau và trải nghiệm trong quá khứ 
+#### Tổng quan (Overview) về những nỗi đau và trải nghiệm trong quá khứ 
 
 Ở bước tiếp theo, bạn sẽ cùng họ nhìn lại những nỗi đau và thất bại trong quá khứ. (Tin tôi đi, họ chắc chắn đã nếm mùi thất bại—đó là lý do họ phải cất công lái xe đến gặp bạn, vì họ chưa thể đạt được kết quả tuyệt vời ở bất kỳ nơi nào khác.) 
 
@@ -1560,55 +1559,37 @@ Khách hàng của bạn rất có thể đang cảm thấy bản thân đã th�
 
 Sau đó, bạn sẽ so sánh và đối chiếu những việc họ đã làm trong quá khứ, đứng về phía những phương pháp đúng đắn và tách biệt dịch vụ của bạn khỏi những thứ họ từng ghét hoặc những thứ không mang lại kết quả. 
 
-###### CHUỲ KỲ NỖI ĐA VẤN ĐỀ: TỔNG QUAN VỀ TRẢI NGHIỆM TRONG QUÁ KHỨ 
-
-Bạn đã làm những gì? 
-
-bạn duy trì nó trong bao lâu? từ bao lâu trước? nó đã mang lại kết quả thế nào cho bạn? 
-
-phân loại: đứng về phía tích cực, loại bỏ tiêu cực & các khoảng trống (gaps) 
-
-||thể hình (fitness)|dinh dưỡng (nutrition)|tính trách nhiệm / sự đồng hành (accountability)|
-|---|---|---|---|
-|phòng gym lớn (big box gym)||||
-|huấn luyện viên cá nhân (personal trainer)||||
-|weight watchers / jenny craig / các chế độ ăn kiêng||||
-|chỉ dùng thuốc, sữa lắc, thực phẩm bổ sung||||
-|tập luyện tại nhà||||
-
-###### Bạn còn từng làm gì nữa không? 
+![](../assets/images/gym-launch/01-06-00.png)
 
 Sơ đồ nhỏ này sẽ kiếm cho bạn nhiều tiền hơn bạn tưởng tượng. Nó sẽ đập tan những niềm tin sai lầm của khách hàng về lý do tại sao họ từng thất bại. Tôi sẽ chia sẻ kịch bản để giải thích điều này ở phần tiếp theo. 
 
-##### bán kỳ nghỉ, đừng bán chuyến bay 
+#### Bán (Sell) cho họ một kỳ nghỉ, đừng bán chuyến bay.
 
 Khi đi du lịch nghỉ dưỡng, chẳng ai muốn nghe về hàng chờ kiểm tra an ninh TSA, khu nhận hành lý, các chuyến bay bị hoãn, thời gian quá cảnh hay việc đổi múi giờ cả. Họ chỉ muốn nghe về Hawaii. Thế nên, đừng nói với khách hàng tiềm năng về hệ thống bài tập, cách chọn bài, các nguyên tắc đằng sau thực đơn dinh dưỡng hay những thứ đại loại thế. 
 
 Họ. Không. Quan. Tâm. Họ chỉ muốn "Hawaii" mà thôi. 
 
-Hãy bán cho họ những thứ hào hứng trước, rồi sau đó mới dạy họ phần còn lại một khi họ thực sự chịu lắng nghe bạn (nói cách khác là sau khi họ đãóc ví đưa tiền cho bạn rồi). 
+Hãy bán cho họ những thứ hào hứng trước, rồi sau đó mới dạy họ phần còn lại một khi họ thực sự chịu lắng nghe bạn (nói cách khác là sau khi họ móc ví đưa tiền cho bạn rồi). 
 
 Khi chuyển sang bước chốt sale, bạn sẽ muốn gắn kết các **Lợi ích Cốt lõi (Core Benefits)** của mình với những nỗi đau mà họ từng trải qua trong quá khứ, đồng thời giải thích rằng LÝ DO khiến họ thất bại là do thiếu sự kết hợp đồng bộ của các yếu tố cốt lõi—thể hình, dinh dưỡng và tính trách nhiệm. 
 
 Đây là lúc chúng ta sử dụng toàn bộ dữ liệu đã thu thập được từ khách hàng và giải thích lý do vì sao từng phương pháp trước đây lại thất bại trong một bức tranh tổng thể lớn hơn. Có thể họ đã làm đúng một vài điểm ở mỗi hoàn cảnh, nhưng chưa đủ tất cả. Dưới đây là một kịch bản mẫu. 
-
-Ừm, tôi nghĩ mình đã hiểu vì sao những chương trình khác không mang lại cho bạn kết quả, hay những kết quả bền vững mà bạn đang tìm kiếm. Và sau khi nghe bạn chia sẻ, việc bạn có mặt ở đây hôm nay là hoàn toàn dễ hiểu. 
-
-Tin vui đây—tôi nghĩ bạn sẽ thích chương trình của chúng tôi đấy. Và xét theo quá khứ của bạn, bạn hoàn toàn giống với 95% khách hàng của chúng tôi—những người đã lột xác ngoạn mục nhờ các chương trình này. Tôi có thể chia sẻ với bạn về những trường hợp đó không? (_Hãy khéo léo lấy sự đồng thuận của khách hàng bằng câu hỏi này để họ cảm thấy tâm phục khẩu phục khi bạn tư vấn chốt sale_). 
-
-Chương trình của chúng tôi dựa trên ba trụ cột chính: thể hình, dinh dưỡng và tính trách nhiệm. Bạn bắt buộc phải có đủ cả ba yếu tố này (_động tác giơ ngón tay và ra hiệu bằng tay rất phát huy tác dụng ở đây_) thì mới có được sự chuyển hóa bền vững. Bởi vì nếu bạn chỉ có một hoặc hai yếu tố, bạn sẽ chỉ tiến được một chặng đường ngắn. Nó giống như động cơ xe vậy—nếu thiếu đi dù chỉ một bộ phận quan trọng, xe sẽ không thể chạy được. 
+ 
+> Ừm, tôi nghĩ mình đã hiểu vì sao những chương trình khác không mang lại cho bạn kết quả, hay những kết quả bền vững mà bạn đang tìm kiếm. Và sau khi nghe bạn chia sẻ, việc bạn có mặt ở đây hôm nay là hoàn toàn dễ hiểu. 
+> 
+> Tin vui đây—tôi nghĩ bạn sẽ thích chương trình của chúng tôi đấy. Và xét theo quá khứ của bạn, bạn hoàn toàn giống với 95% khách hàng của chúng tôi—những người đã lột xác ngoạn mục nhờ các chương trình này. Tôi có thể chia sẻ với bạn về những trường hợp đó không? (_Hãy khéo léo lấy sự đồng thuận của khách hàng bằng câu hỏi này để họ cảm thấy tâm phục khẩu phục khi bạn tư vấn chốt sale_). 
+> 
+> Chương trình của chúng tôi dựa trên ba trụ cột chính: thể hình, dinh dưỡng và tính trách nhiệm. Bạn bắt buộc phải có đủ cả ba yếu tố này (_động tác giơ ngón tay và ra hiệu bằng tay rất phát huy tác dụng ở đây_) thì mới có được sự chuyển hóa bền vững. Bởi vì nếu bạn chỉ có một hoặc hai yếu tố, bạn sẽ chỉ tiến được một chặng đường ngắn. Nó giống như động cơ xe vậy—nếu thiếu đi dù chỉ một bộ phận quan trọng, xe sẽ không thể chạy được. 
 
 Hãy sử dụng một trong các kịch bản sau tùy thuộc vào yếu tố mà họ từng tập trung nhiều nhất trong quá khứ. 
 
-**Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn nhận được các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và cuộc gọi nhắc nhở trách nhiệm duy nhất mà bạn nhận được có phải là khi thẻ ngân hàng của bạn bị từ lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
+> **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn nhận được các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và cuộc gọi nhắc nhở trách nhiệm duy nhất mà bạn nhận được có phải là khi thẻ ngân hàng của bạn gặp lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
 
-**Weight Watchers / Jenny Craig** (dinh dưỡng và tính trách nhiệm): “Khi tham gia các chương trình đó, họ đưa cho bạn một chế độ ăn và thỉnh thoảng hỏi thăm bạn. Nhờ vậy bạn đã giảm được cân. Quá tuyệt vời. Vấn đề duy nhất là 
-
-bạn không giữ được cân nặng đó lâu dài, đúng không? Được rồi. Vấn đề nằm ở hai điểm sau: 1) Chế độ ăn đó không bền vững (nếu không thì giờ này bạn vẫn theo đuổi nó rồi) và 2) khi bạn giảm cân, quá trình trao đổi chất của bạn thực sự bị suy giảm vì bạn chẳng hề tập tạ hay kháng lực chút nào cả. 
-
-Bạn có biết rằng mình sẽ bị mất cơ khi ăn kiêng không? Đó là lý do tại sao rất nhiều người tăng cân trở lại và thậm chí còn béo hơn trước. Đây cũng là lý do vì sao đàn ông có thể ăn nhiều hơn phụ nữ—họ có nhiều cơ nạc hơn, và cơ bắp sẽ đốt cháy mỡ thừa giúp họ. Nếu bạn ăn kiêng đúng cách, kết hợp với một kế hoạch bền vững và tập luyện kháng lực, bạn có thể giảm cân và giữ vững thành quả nhờ lượng cơ bắp mới được xây dựng. Bạn thấy điều này có hợp lý không? Đó chính là mảnh ghép còn thiếu trước đây của bạn.”
-
-**Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là chị từng thử qua chương trình uống shake (sinh tố dinh dưỡng), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
+> **Weight Watchers / Jenny Craig** (dinh dưỡng và tính trách nhiệm): “Khi tham gia các chương trình đó, họ đưa cho bạn một chế độ ăn và thỉnh thoảng hỏi thăm bạn. Nhờ vậy bạn đã giảm được cân. Quá tuyệt vời. Vấn đề duy nhất là bạn không giữ được cân nặng đó lâu dài, đúng không? Được rồi. Vấn đề nằm ở hai điểm sau: 1) Chế độ ăn đó không bền vững (nếu không thì giờ này bạn vẫn theo đuổi nó rồi) và 2) khi bạn giảm cân, quá trình trao đổi chất của bạn thực sự bị suy giảm vì bạn chẳng hề tập tạ hay kháng lực chút nào cả. 
+>
+> Bạn có biết rằng mình sẽ bị mất cơ khi ăn kiêng không? Đó là lý do tại sao rất nhiều người tăng cân trở lại và thậm chí còn béo hơn trước. Đây cũng là lý do vì sao đàn ông có thể ăn nhiều hơn phụ nữ—họ có nhiều cơ nạc hơn, và cơ bắp sẽ đốt cháy mỡ thừa giúp họ. Nếu bạn ăn kiêng đúng cách, kết hợp với một kế hoạch bền vững và tập luyện kháng lực, bạn có thể giảm cân và giữ vững thành quả nhờ lượng cơ bắp mới được xây dựng. Bạn thấy điều này có hợp lý không? Đó chính là mảnh ghép còn thiếu trước đây của bạn.”
+>
+> **Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là chị từng thử qua chương trình uống shake (sinh tố dinh dưỡng), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
 
 Quá trình bạn vừa áp dụng với từng trường hợp trên chính là thứ mà chúng tôi gọi là **công thức phá vỡ niềm tin (belief-breaking formula)**. Tôi học được khung 5 bước nhỏ này từ người bạn Linh Trinh của mình. Bạn có thể áp dụng nó cho bất kỳ mô hình kinh doanh nào:
 
@@ -1622,33 +1603,7 @@ Quá trình bạn vừa áp dụng với từng trường hợp trên chính là
 
 5. Đưa ra bằng chứng (bức tường minh chứng đằng sau bạn).
 
-###### công thức phá vỡ niềm tin
-
-###### ví dụ:
-
-###### công thức
-
-bạn tin rằng các **Front-end Offer** giá rẻ sẽ hiệu quả ư?
-
-nói ra điều họ tin
-
-nó không tạo ra dòng tiền để làm marketing hay mua khách hàng (**acquire customers**)
-
-hãy dùng chiến lược thu hút khách hàng đầu phễu (**front-end acquisition**) phân khúc cao (**High-ticket**)
-
-nó cho phép bạn chi tiêu thoải mái để kéo khách hàng vào một cách có lãi
-
-đừng tin tôi hay mấy con số toán học ư?... hãy nhìn 1.000 phòng gym khác
-
-nói ra tại sao nó sai
-
-nói ra điều gì là đúng
-
-nói ra tại sao nó đúng
-
-chứng minh bằng số liệu và **testimonials** từ bên thứ ba
-
-idonthatemoney.com
+![](../assets/images/gym-launch/01-06-01.png)
 
 Hy vọng là đến đây bạn đã nắm được mấu chốt. Bạn cần làm nổi bật cả mặt tốt lẫn mặt xấu dựa trên ba trụ cột cốt lõi: tập luyện (fitness), dinh dưỡng (nutrition) và đồng hành cam kết (accountability).
 
@@ -1656,33 +1611,33 @@ Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàn
 
 “Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để nhường lại một trong những suất tham gia cuối cùng, tôi cần biết liệu chị có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
 
-TẬP LUYỆN: “Chị có thể đến đây tập cùng huấn luyện viên 3 ngày một tuần trong [ _khoảng thời gian_ ] tới chứ? Tuyệt vời. Quá dễ phải không nào.”
+<u>TẬP LUYỆN</u>: “Chị có thể đến đây tập cùng huấn luyện viên 3 ngày một tuần trong [ _khoảng thời gian_ ] tới chứ? Tuyệt vời. Quá dễ phải không nào.”
 
 Hãy nhớ rằng, họ đã khoanh tròn khung giờ trên phiếu khảo sát trước khi mua hàng rồi. Thêm nữa, tôi không nói gì thêm về phần tập luyện, bởi vì khách hàng chẳng quan tâm đâu. Họ chỉ quan tâm đến đích đến cuối cùng của mình, chứ không phải giáo án tập ra sao.
 
-DINH DƯỠNG: “Chị có thể tuân thủ theo một thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) “Chúng tôi sẽ làm cho chị…
+<u>DINH DƯỠNG</u>: “Chị có thể tuân thủ theo một thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) 
 
-- Một thực đơn cá nhân hóa
+&emsp;“Chúng tôi sẽ làm cho chị…
 
-- Một danh sách đi chợ dành riêng cho chị
+&emsp;- Một thực đơn cá nhân hóa
 
-- Một cẩm nang ăn uống ngoài hàng dành riêng cho chị
+&emsp;- Một danh sách đi chợ dành riêng cho chị
 
-- Các công thức nấu ăn khớp hoàn toàn với thực đơn của chị
+&emsp;- Một cẩm nang ăn uống ngoài hàng dành riêng cho chị
 
-- Cẩm nang siêu sinh tố (**super shake**)
+&emsp;- Các công thức nấu ăn khớp hoàn toàn với thực đơn của chị
 
-- Những bữa sáng bùng nổ vị giác
+&emsp;- Cẩm nang siêu sinh tố (**super shake**)
 
-- Những bữa trưa ngon quên sầu
+&emsp;- Những bữa sáng bùng nổ vị giác
 
-- Những bữa tối tuyệt hảo”
+&emsp;- Những bữa trưa ngon quên sầu
 
-**Mẹo chuyên gia:** Đừng lược bỏ những thứ này nếu bạn đang có sẵn chúng. Khách hàng tiềm năng sẽ muốn xem xét chúng một cách chi tiết (dù thực ra họ chẳng biết mình đang nhìn cái gì đâu). Nó sẽ làm kéo dài thời gian chốt sale và thường dẫn đến những câu hỏi lạc đề, chẳng đi đến đâu. Nó chỉ tạo thêm cớ để họ phản bác (bất chấp thực tế là phần lớn bọn họ chẳng có chút kiến thức nào ngoài một bài báo trên Buzzfeed đọc được từ đời thuở nào). 
+&emsp;- Những bữa tối tuyệt hảo”
 
-Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của tôi, cách này vừa tiết kiệm thời gian lại vừa hiệu quả hơn rất nhiều. Nếu họ đòi xem tận mắt những thứ này, đó là một dấu hiệu cảnh báo đỏ (**red flag**). Tôi thường chỉ lướt qua nhanh và nói rằng đây chưa phải là bản thực đơn chính thức của họ, mà chỉ là bản mẫu mà thôi. TUYỆT ĐỐI không đưa thẳng tài liệu cho họ. Chỉ trưng ra rồi cất đi ngay (tạo cảm giác đây chỉ là một bản phác thảo sơ sài của thành phẩm, khiến nó trở nên không quá quan trọng).
+> **Mẹo chuyên gia:** Đừng lược bỏ những thứ này nếu bạn đang có sẵn chúng. Khách hàng tiềm năng sẽ muốn xem xét chúng một cách chi tiết (dù thực ra họ chẳng biết mình đang nhìn cái gì đâu). Nó sẽ làm kéo dài thời gian chốt sale và thường dẫn đến những câu hỏi lạc đề, chẳng đi đến đâu. Nó chỉ tạo thêm cớ để họ phản bác (bất chấp thực tế là phần lớn bọn họ chẳng có chút kiến thức nào ngoài một bài báo trên Buzzfeed đọc được từ đời thuở nào). Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của tôi, cách này vừa tiết kiệm thời gian lại vừa hiệu quả hơn rất nhiều. Nếu họ đòi xem tận mắt những thứ này, đó là một dấu hiệu cảnh báo đỏ (**red flag**). Tôi thường chỉ lướt qua nhanh và nói rằng đây chưa phải là bản thực đơn chính thức của họ, mà chỉ là bản mẫu mà thôi. TUYỆT ĐỐI không đưa thẳng tài liệu cho họ. Chỉ trưng ra rồi cất đi ngay (tạo cảm giác đây chỉ là một bản phác thảo sơ sài của thành phẩm, khiến nó trở nên không quá quan trọng).
 
-ĐỒNG HÀNH CAM KẾT (**ACCOUNTABILITY**): “Được rồi, phần cuối cùng là sự cam kết đồng hành. Bạn có thể lên kế hoạch tập luyện và dinh dưỡng đỉnh nhất thế giới, nhưng nếu không làm theo thì cũng bằng hòa, đúng không? Vì vậy, chúng tôi cực kỳ tự hào về việc kèm cặp và giữ cam kết với khách hàng. Chúng tôi làm điều đó theo ba cách:
+<u>ĐỒNG HÀNH CAM KẾT</u> (ACCOUNTABILITY): “Được rồi, phần cuối cùng là sự cam kết đồng hành. Bạn có thể lên kế hoạch tập luyện và dinh dưỡng đỉnh nhất thế giới, nhưng nếu không làm theo thì cũng bằng hòa, đúng không? Vì vậy, chúng tôi cực kỳ tự hào về việc kèm cặp và giữ cam kết với khách hàng. Chúng tôi làm điều đó theo ba cách:
 
 - Chị sẽ được phân công một huấn luyện viên đồng hành cá nhân (**accountability coach**).
 
@@ -1700,55 +1655,46 @@ Phần còn lại của giao dịch này diễn ra như sau:
 
 Rồi tôi nói: “Tuyệt vời—để tôi đổi chiếc CMND này lấy chiếc thẻ thanh toán mà chị muốn dùng nhé.” Và tôi trả lại giấy tờ tùy thân, ra hiệu về phía chiếc ví của họ. Bước này thường diễn ra rất thoải mái, và tôi vừa trò chuyện phiếm vừa làm thủ tục đăng ký cho họ. (Đồng thời cũng để chắc chắn rằng tôi lấy được chính xác số thẻ tín dụng điền vào hợp đồng.)
 
-## e xplain away their concerns — xóa bỏ mọi lo lắng của khách hàng
+#### Giải thích (Explain)/xóa bỏ mọi lo lắng của khách hàng
 
 Trong bất kỳ tình huống bán hàng nào, bạn chỉ phải đối mặt với đúng ba rào cản (và một rào cản phụ). Chỉ thế thôi. Thật đấy. 
 
 Đó là… 
 
 - Sự trì hoãn (Stalls) 
-
-   - ❍ “Tôi cần suy nghĩ thêm.” 
-
-   - ❍ “Ngày mai tôi sẽ gọi lại và đọc số thẻ cho bạn.” 
+   - “Tôi cần suy nghĩ thêm.” 
+   - “Ngày mai tôi sẽ gọi lại và đọc số thẻ cho bạn.” 
 
 - Vấn đề ra quyết định (Decision-Making) 
-
-   - ❍ “Tôi phải hỏi ý kiến chồng tôi đã.” 
-
-   - ❍ “Tôi không bao giờ tự mình quyết định.” 
+   - “Tôi phải hỏi ý kiến chồng tôi đã.” 
+   - “Tôi không bao giờ tự mình quyết định.” 
 
 - Giá cả (Price) 
-
-   - ❍ “Tôi không đủ tiền.” 
-
-   - ❍ “Tôi không có ngân sách cho việc này.” 
-
-   - ❍ “Khoản này vượt quá ngân sách của tôi rồi.” 
+   - “Tôi không đủ tiền.” 
+   - “Tôi không có ngân sách cho việc này.” 
+   - “Khoản này vượt quá ngân sách của tôi rồi.” 
 
 Xét về các **rào cản đặc thù trong ngành thể hình (fitness-specific obstacles)**, đây là những câu hỏi kinh điển mà bạn phải luôn sẵn sàng đối phó: 
 
 - “Tôi bị đau lưng.” 
-
 - “Tôi không thích dậy sớm.” 
-
 - “Tôi ghét súp lơ. Tôi không bao giờ ăn bất cứ thứ gì có súp lơ.” 
 
 Thực ra đây không phải là rào cản thật sự, thế nên đừng có hoang mang khi khách tiềm năng phun ra mấy câu kỳ cục đó. Họ vẫn muốn mua hàng đấy chứ. 
 
-Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS Xử lý rào cản ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
+Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS "Xử lý rào cản" ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
 
 Lưu ý: Nếu bạn bán hàng tốt, bạn sẽ chẳng cần đến chúng. Nếu bạn cảm thấy mình lúc nào cũng phải chật vật tranh cãi với khách để chốt sale, có khả năng đã có gì đó sai sót ở các bước đầu trong quy trình này. (Thường là do bạn chưa dành đủ thời gian để đào sâu khoảng trống, khoét sâu nhu cầu và xoáy vào vòng lặp nỗi đau của họ). Nhưng NẾU bạn đã làm tốt tất cả các bước trước đó, và bạn tràn đầy năng lượng (thật sự) cùng một nụ cười rạng rỡ (thật sự), thì những chiến thuật này sẽ giúp bạn hỗ trợ khách hàng đưa ra quyết định mà cả hai đều biết họ nên làm. 
 
 Và bạn càng luyện tập nhiều, mọi thứ sẽ càng mượt mà, và bạn có thể lôi chúng ra sử dụng bất cứ lúc nào bạn muốn. Nghệ sĩ Eminem từng đọc cả cuốn từ điển để trang bị mọi "vũ khí" trong kho tàng của mình—anh ấy nắm rõ từng từ ngữ. Đối với một sales, danh sách các đòn chốt sale này chính là vũ khí của bạn. Hãy chắc chắn rằng bạn luôn ra sân với phong độ đỉnh cao nhất. 
 
+#### Củng cố (Reinforce) quyết định của họ
 
-
-#### einforce their decision — củng cố quyết định của họ
+![](../assets/images/gym-launch/01-06-02.png)
 
 Bước cuối cùng trong công thức C-L-O-S-E-R giúp ngăn chặn tình trạng khách lật lọng (backouts) và là khởi đầu cho một mối quan hệ bền chặt. Nó tạo ra ấn tượng ban đầu tuyệt vời. Bạn chỉ có một cơ hội duy nhất để gây ấn tượng, vậy nên hãy làm cho nó thật hoành tráng. 
 
-###### **Bộ Ba Hoàn Hảo: Vũ Khí Lựa Chọn Của Chúng Tôi** 
+**Bộ Ba Hoàn Hảo: Vũ Khí Lựa Chọn Của Chúng Tôi** 
 
 Ba bước chúng tôi thực hiện để củng cố quyết định gia nhập phòng tập của khách hàng là… 
 
@@ -1762,51 +1708,45 @@ Ngày nay, phần lớn những việc này có thể tự động hóa bằng h
 
 Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những món quà trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
 
-###### **Cùng Ôn Lại Nào** 
+#### **Cùng Ôn Lại Nào** 
 
 Bạn mới đi được một phần ba chặng đường của cuốn sách này, và chúng ta đã giải quyết được một trong những vấn đề lớn nhất của phòng tập. Bạn thấy phấn khích chưa? Đến lúc này, bạn có hai lựa chọn. Bạn có thể gấp sách lại ngay bây giờ, đi áp dụng phương pháp kiếm khách hàng mới này, gom về một đống tiền, rồi sau đó quay lại đọc phần còn lại. Hoặc bạn có thể đọc tiếp và giải quyết cả ba vấn đề cùng một lúc. Dù chọn cách nào đi nữa, bạn cũng sẽ có khối thứ hay ho để trải nghiệm. 
 
 Trước khi chọn một trong hai đường đó, hãy cùng điểm lại những gì bạn đã học được nãy giờ. 
 
-###### **Quy Trình Thu Hút Khách Hàng Hiệu Quả** 
+**Quy Trình Thu Hút Khách Hàng Hiệu Quả** 
 
 - Front-end offers giá rẻ không đem lại lợi ích gì cho bạn hay khách hàng. 
 
-- Khách hàng tự tài trợ chi phí thu hút<sup>®</sup> (Client-financed acquisition) chính là cách tiếp cận khách hàng hoàn toàn mới… đem lại lợi nhuận ngay lập tức. 
+- Để khách hàng tài trợ cho việc thu hút họ (Client-financed acquisition) chính là cách tiếp cận khách hàng hoàn toàn mới… đem lại lợi nhuận ngay lập tức. 
 
-   - ❍ High-Ticket Irresistible Offer (Ưu đãi giá trị cao không thể chối từ) 
+   - Ưu đãi giá trị cao không thể chối từ (High-Ticket Irresistible Offer ) 
 
-   - ❍ Tạo Leads liên tục bằng Lead Gen Scrambler 
+   - Tạo Leads liên tục bằng Lead Gen Scrambler 
 
-   - ❍ Kéo họ đến phòng tập (Getting Them In) 
+   - Kéo họ đến phòng tập (Getting Them In) 
 
-      - ➤ Lên lịch hẹn (Scheduling) 
+      - Lên lịch hẹn (Scheduling) 
 
-      - ➤ Có mặt đúng giờ (Showing Up) 
+      - Có mặt đúng giờ (Showing Up) 
 
-   - ❍ Thuyết phục họ mua hàng (Getting Them to Buy) 
+   - Thuyết phục họ mua hàng (Getting Them to Buy) 
 
-      - ➤ Câu hỏi định hướng và Bảng câu hỏi thu thập thông tin (Pre-Frame Questions and Intake Questionnaire) 
+      - Câu hỏi định hướng và Bảng câu hỏi thu thập thông tin (Pre-Frame Questions and Intake Questionnaire) 
 
-      - ➤ Phòng bán hàng (Sales Office) 
+      - Phòng bán hàng (Sales Office) 
 
-      - ➤ Chốt sale (The Sale) 
+      - Chốt sale (The Sale) 
 
-         - ➢ Công thức C-L-O-S-E-R 
+         - Công thức C-L-O-S-E-R 
 
 Nào, sẵn sàng giải quyết vấn đề lớn thứ hai trong ngành thể hình chưa? 
 
 Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang hỏng hóc và cách để sửa chữa nó. 
 
-###### **<u>Phần ii</u>** 
+## **Phần II: Nâng cấp dịch vụ (Ascension): Tối ưu hóa lợi nhuận** 
 
-**Ascension (Thăng hạng dịch vụ): Tối ưu hóa lợi nhuận** 
-
-65 
-
-hắc đến đòn bẩy (lever), chắc bạn thừa biết đó là gì: một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của con người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
-
-**I** 
+Tôi đảm bảo bạn biết đến đòn bẩy (lever): một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của con người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
 
 Trong phần này, trước tiên chúng ta sẽ chỉ ra vấn đề của mô hình phòng tập lỗi thời mà đa số mọi người đang dùng. Khi đã rõ vấn đề, tôi sẽ giới thiệu ba **đòn bẩy vĩ mô (macro levers)** giúp bạn gia tăng lợi nhuận cho phòng tập, đồng thời cung cấp các dịch vụ nhiều hơn và tốt hơn cho khách hàng. **Đòn bẩy vĩ mô** là những chiến lược chủ chốt giúp đưa phòng tập của bạn tiến về phía trước. Trong mỗi đòn bẩy vĩ mô, chúng ta sẽ đi sâu vào các **đòn bẩy vi mô (micro levers)** nhỏ hơn nhưng cực kỳ hữu ích để giúp bạn kéo đòn bẩy lớn và thu về thành quả. Đòn bẩy vi mô là những yếu tố nhỏ hơn (nhưng tầm quan trọng không hề kém cạnh) nằm bên trong đòn bẩy vĩ mô. 
 
@@ -1816,15 +1756,15 @@ Ba đòn bẩy vĩ mô đó là:
 
 - Đòn bẩy vĩ mô số 1: Đòn bẩy Giá cả (Price Levers) 
 
-   - ❍ Đòn bẩy này liên quan đến chính sách giá, gói tập và các hình thức hội viên. 
+   - Đòn bẩy này liên quan đến chính sách giá, gói tập và các hình thức hội viên. 
 
 - Đòn bẩy vĩ mô số 2: Đòn bẩy Công suất (Capacity Levers) 
 
-   - ❍ Đây là đòn bẩy "cơ bắp" và nặng đô nhất. Nó sẽ mổ xẻ toàn bộ các cách khác nhau để gia tăng sức chứa của cơ sở vật chất. Điều này cực kỳ tối quan trọng, vì nó cho phép bạn kiếm được nhiều tiền hơn rất nhiều ngay trên cơ sở hạ tầng hiện có. 
+   - Đây là đòn bẩy "cơ bắp" và nặng đô nhất. Nó sẽ mổ xẻ toàn bộ các cách khác nhau để gia tăng sức chứa của cơ sở vật chất. Điều này cực kỳ tối quan trọng, vì nó cho phép bạn kiếm được nhiều tiền hơn rất nhiều ngay trên cơ sở hạ tầng hiện có. 
 
 - Đòn bẩy vĩ mô số 3: Đòn bẩy Chi phí vận hành (Overhead Levers) 
 
-   - ❍ Đây là đòn bẩy kém hào nhoáng nhất trong ba cái, nhưng lại vô cùng cốt lõi. Quan trọng không phải bạn kiếm được bao nhiêu, mà là bạn đút túi được bao nhiêu. Thế nên chúng ta sẽ mổ xẻ chính sách đãi ngộ nhân sự, chiến lược vận hành dịch vụ và các yếu tố khác để tinh gọn hóa phòng tập. 
+   - Đây là đòn bẩy kém hào nhoáng nhất trong ba cái, nhưng lại vô cùng cốt lõi. Quan trọng không phải bạn kiếm được bao nhiêu, mà là bạn đút túi được bao nhiêu. Thế nên chúng ta sẽ mổ xẻ chính sách đãi ngộ nhân sự, chiến lược vận hành dịch vụ và các yếu tố khác để tinh gọn hóa phòng tập. 
 
 Khép lại phần này, tôi sẽ chỉ cho bạn cách truyền đạt những thay đổi này đến đội ngũ nhân viên và khách hàng sao cho vấp phải ít sự kháng cự nhất và đạt tỷ lệ đồng thuận cao nhất. 
 
@@ -2768,7 +2708,7 @@ Tôi biết chừng đó thông tin là khá nhiều để tiêu hóa. Nhưng t�
 
 ###### **Tóm tắt Các Đòn bẩy Lợi nhuận Công suất (Capacity Profit Levers)**
 
-1. Cấp độ Thành viên (Membership Levels): Chuyển từ gói tập không giới hạn sang gói 3 buổi/tuần làm **Core Offer**. Hãy gọi chúng là "buổi tập" (sessions), thay vì "lớp học" (classes).
+1. Cấp độ Thành viên (Membership Levels): Chuyển từ gói tập không giới hạn sang gói 3 buổi/tuần làm **Irresistible Offer**. Hãy gọi chúng là "buổi tập" (sessions), thay vì "lớp học" (classes).
 
 2. Điểm danh (Attendance): Yêu cầu tất cả đặt lịch trước và hỏi họ muốn tham gia buổi nào theo thứ tự từ các khung giờ gần kín chỗ trước. Triển khai phí phạt vắng mặt không báo trước (no-show fee) để tối ưu hiệu quả.
 
@@ -4105,7 +4045,7 @@ Lần đầu tiên là ngay sau khi họ đăng ký. Hãy gửi một tấm thi�
 
 Tôi khuyên bạn nên giữ mọi thứ thật đơn giản. Theo kinh nghiệm của tôi, những hệ thống phức tạp thường không mang lại hiệu quả.
 
-Lần thứ hai thiệp viết tay phát huy tác dụng là khi bạn muốn xin lời giới thiệu (referral). Hãy áp dụng quy trình dưới đây, và mỗi huấn luyện viên (PT) sẽ có trong tay 10 **Leads** "nóng" mỗi tuần.
+Lần thứ hai thiệp viết tay phát huy tác dụng là khi bạn muốn xin lời giới thiệu (referral). Hãy áp dụng quy trình dưới đây, và mỗi huấn luyện viên (PT) sẽ có trong tay 10 KHTN "nóng" mỗi tuần.
 
 Bước 1: Chia khách hàng thành 4 nhóm—A, B, C, D.
 
@@ -4157,7 +4097,7 @@ Sự kiện mang lại tiền cho bạn theo nhiều cách. Bạn giảm đượ
 
 Tiếp nối thành công đó bằng thái độ niềm nở, thân thiện, đồng thời kết nối người bạn kia với một HLV (hoặc chính bạn), để bạn có thể vừa chơi golf vừa trò chuyện, tìm hiểu về họ. Nếu hôm sau bạn mời họ đến phòng tập thử sức một buổi, liệu họ có nỡ từ chối không? Xác suất từ chối cực kỳ thấp.
 
-Bạn sẽ sẵn sàng trả bao nhiêu tiền để có một buổi ngồi trò chuyện trực tiếp với một khách hàng tiềm năng do người quen giới thiệu (warm referral)? Nếu bạn giống tôi, chắc chắn bạn sẽ không tiếc tiền. Và bạn hoàn toàn có đủ nguồn lực để làm điều đó, bởi vì giờ đây bạn đã có một cơ chế định giá thực sự mang lại lợi nhuận, mang đến cho khách hàng những trải nghiệm tuyệt vời, cùng với các **Core Offer** (Sản phẩm cốt lõi) ở phần phễu đầu vào mang lại kết quả vượt trội mà không bắt bạn phải hy sinh cả cuộc đời mình cho công việc.
+Bạn sẽ sẵn sàng trả bao nhiêu tiền để có một buổi ngồi trò chuyện trực tiếp với một khách hàng tiềm năng do người quen giới thiệu (warm referral)? Nếu bạn giống tôi, chắc chắn bạn sẽ không tiếc tiền. Và bạn hoàn toàn có đủ nguồn lực để làm điều đó, bởi vì giờ đây bạn đã có một cơ chế định giá thực sự mang lại lợi nhuận, mang đến cho khách hàng những trải nghiệm tuyệt vời, cùng với các **Irresistible Offer** (Sản phẩm cốt lõi) ở phần phễu đầu vào mang lại kết quả vượt trội mà không bắt bạn phải hy sinh cả cuộc đời mình cho công việc.
 
 Bạn thấy đấy, mọi thứ đang dần khớp với nhau phải không?
 
@@ -4472,7 +4412,7 @@ Thật thú vị khi thấy hai quy trình này là bản sao của nhau, đúng
 
 Bạn luôn cần phải có nguồn hồ sơ đổ về (inflow) cho từng vị trí. Điều này giúp bạn không bao giờ bị biến thành "con tin" của bất kỳ nhân viên nào, đồng thời nắm đằng chuôi trong mọi tình huống. Không phải để thao túng hay đè đầu cưỡi cổ ai cả, nhưng ai cũng phải hiểu một thực tế: không có ai là không thể thay thế. 
 
-Chìa khóa ở đây là sở hữu một quy trình tạo **Leads** (khách hàng tiềm năng/hồ sơ tiềm năng) đáng tin cậy. Đây là lúc các mẫu **ad copy** (nội dung quảng cáo) phát huy tác dụng. Dưới đây là ba mẫu quảng cáo hiệu quả nhất của chúng tôi mà bạn có thể dùng để tuyển dụng cho những vị trí chắc chắn sẽ cần đến. 
+Chìa khóa ở đây là sở hữu một quy trình tạo KHTN (khách hàng tiềm năng/hồ sơ tiềm năng) đáng tin cậy. Đây là lúc các mẫu **ad copy** (nội dung quảng cáo) phát huy tác dụng. Dưới đây là ba mẫu quảng cáo hiệu quả nhất của chúng tôi mà bạn có thể dùng để tuyển dụng cho những vị trí chắc chắn sẽ cần đến. 
 
 ###### **Tuyển Giám đốc Vận hành (Operations Manager)** 
 
@@ -4512,7 +4452,7 @@ Nếu nghe thấy giống bạn đấy chứ, HÃY ĐỌC TIẾP PHẦN CÒN L�
 
 ###### **CẦN TUYỂN GẤP CÁC NGÔI SAO SALES!** 
 
-Nếu đến giờ mà bạn vẫn chưa biết về [ _TÊN PHÒNG GYM CỦA BẠN_ ] là ai, thì xin thưa: chúng tôi là một doanh nghiệp đang TĂNG TRƯỞNG TỐC ĐỘ ÁNH SÁNG và hiện đang ngập ngụa trong đống **Leads**. Thật đấy, đội ngũ của chúng tôi MỖI NGƯỜI đang phải ôm hơn 10 cuộc gọi sales mỗi ngày vì chúng tôi đang cực kỳ khát nhân lực để cùng thay đổi cả cái ngành này! 
+Nếu đến giờ mà bạn vẫn chưa biết về [ _TÊN PHÒNG GYM CỦA BẠN_ ] là ai, thì xin thưa: chúng tôi là một doanh nghiệp đang TĂNG TRƯỞNG TỐC ĐỘ ÁNH SÁNG và hiện đang ngập ngụa trong đống KHTN. Thật đấy, đội ngũ của chúng tôi MỖI NGƯỜI đang phải ôm hơn 10 cuộc gọi sales mỗi ngày vì chúng tôi đang cực kỳ khát nhân lực để cùng thay đổi cả cái ngành này! 
 
 Không gọi điện làm phiền người lạ (Cold Calling) 
 
@@ -4580,7 +4520,7 @@ Ba mẫu ad trên là sự khởi đầu hoàn hảo cho bạn.
 
 ###### **Applicant Nurture (Chăm sóc ứng viên)** 
 
-Đừng để cái tôi lấn át lý trí. Hãy chăm sóc ứng viên y hệt cách bạn chăm sóc **leads** vậy. Đừng nghĩ kiểu: "Nếu họ đúng là người mình tìm, họ tự khắc tìm đến mình." Ấu trĩ thật đấy. Chẳng ai sống trên đời để phục vụ bạn cả. Bạn phải nhắc nhở họ và cho họ một lý do (tiền thôi là chưa đủ) để nhấc điện thoại lên nói chuyện với bạn. Nếu CV trông sáng giá, hãy bày tỏ sự quan tâm, bám sát thật nhanh và chốt cuộc gọi ngay. 
+Đừng để cái tôi lấn át lý trí. Hãy chăm sóc ứng viên y hệt cách bạn chăm sóc KHTN vậy. Đừng nghĩ kiểu: "Nếu họ đúng là người mình tìm, họ tự khắc tìm đến mình." Ấu trĩ thật đấy. Chẳng ai sống trên đời để phục vụ bạn cả. Bạn phải nhắc nhở họ và cho họ một lý do (tiền thôi là chưa đủ) để nhấc điện thoại lên nói chuyện với bạn. Nếu CV trông sáng giá, hãy bày tỏ sự quan tâm, bám sát thật nhanh và chốt cuộc gọi ngay. 
 
 ###### **Interviewing (Phỏng vấn)** 
 
@@ -4590,25 +4530,25 @@ Khi phỏng vấn nhân viên sales, bạn cần săm soi 5 yếu tố sau:
 
 - Đạo đức nghề nghiệp (Work Ethic) 
 
-   - ❍ Đo lường bằng tốc độ phản hồi nhanh chóng ngay sau khi bạn bày tỏ sự quan tâm 
+   - Đo lường bằng tốc độ phản hồi nhanh chóng ngay sau khi bạn bày tỏ sự quan tâm 
 
 - Thành tựu trong quá khứ (Past Success) 
 
 - Tính tò mò (Curiosity) 
 
-   - ❍ Họ đặt ra cho bạn bao nhiêu câu hỏi? 
+   - Họ đặt ra cho bạn bao nhiêu câu hỏi? 
 
-   - ❍ Họ có độc thoại xuyên suốt buổi phỏng vấn không? 
+   - Họ có độc thoại xuyên suốt buổi phỏng vấn không? 
 
 - Khả năng tiếp thu hướng dẫn (Coachability) 
 
-   - ❍ Yêu cầu họ bán hàng cho bạn, sau đó đưa ra feedback. 
+   - Yêu cầu họ bán hàng cho bạn, sau đó đưa ra feedback. 
 
-   - ❍ Gửi trước kịch bản (**script**) trước buổi phỏng vấn. 
+   - Gửi trước kịch bản (**script**) trước buổi phỏng vấn. 
 
 - Năng lượng (Energy) 
 
-   - ❍ Họ có tích cực và vui vẻ không? (Yếu tố này phụ thuộc vào trực giác—bạn phải có thiện cảm với họ cái đã.) 
+   - Họ có tích cực và vui vẻ không? (Yếu tố này phụ thuộc vào trực giác—bạn phải có thiện cảm với họ cái đã.) 
 
 Tôi thường đánh giá các ứng viên vị trí Giám đốc Vận hành (Operations Manager) và Giám đốc Điều hành (General Manager) dựa trên năng lực ra quyết định và sự cẩn thận đến từng chi tiết. Họ phải đảm nhận được vai trò "Mẹ ngỗng" trong phòng gym và là một nhà quản lý đích thực từ trong máu. 
 
@@ -5213,7 +5153,7 @@ Dưới đây là bản dịch tiếng Việt theo đúng chuẩn văn phong th�
 
 Trên thực tế, đây là bức ảnh mà Robyn Thrasher đã gửi cho tôi. Cô ấy đã trả được 28.000 đô tiền nhà nợ đọng chỉ trong vòng ba tuần nhờ áp dụng những phương pháp này.
 
-Tóm lại là như vậy. Rất đơn giản. Phần kem phủ chính là chương trình mà bạn đem đi quảng cáo. Tại thời điểm viết cuốn sách này, **Core Offer** (Gói ưu đãi cốt lõi) có tỷ lệ chuyển đổi cao nhất của chúng tôi là Thử thách 6 tuần (6-Week Challenge). Tại sao ư? Ai mà biết được!
+Tóm lại là như vậy. Rất đơn giản. Phần kem phủ chính là chương trình mà bạn đem đi quảng cáo. Tại thời điểm viết cuốn sách này, **Irresistible Offer** (Gói ưu đãi cốt lõi) có tỷ lệ chuyển đổi cao nhất của chúng tôi là Thử thách 6 tuần (6-Week Challenge). Tại sao ư? Ai mà biết được!
 
 Lý thuyết của tôi là Thử thách 6 tuần (42 ngày) vừa đủ dài để mọi người tin rằng một kết quả hoặc sự thay đổi đáng kể có thể xảy ra, nhưng lại vừa đủ ngắn để họ nghĩ rằng mình thực sự làm được. Chúng tôi đã đốt thẳng tay cả triệu đô tiền mặt để chạy thử nghiệm các gói ưu đãi, và không bàn cãi gì nữa, đây chính là "vua". Thế nên chúng tôi cứ thế mà làm thôi. Khi nào nó hết "hot", chắc chắn sẽ có một gói ưu đãi khác và một nền tảng khác để quảng cáo. Đừng có mà lo lắng. Và một khi bạn đã sở hữu một hệ thống **Acquisition** (Thu hút khách hàng) siêu lợi nhuận, thì việc mua **Traffic** (Lưu lượng truy cập) chỉ là chuyện nhỏ, nhờ vào mô hình **Client-Financed Acquisition** (Thu hút khách hàng tài trợ bởi chính doanh thu từ khách).
 
@@ -5536,7 +5476,7 @@ Hãy để họ lên tiếng. Hoặc họ sẽ có thắc mắc về chương tr
 
 Hãy đảm bảo rằng nếu bạn đang làm nhiệm vụ đặt lịch (setting), bạn đã chốt được tất cả các yếu tố sau vào cuối cuộc gọi:
 
-- Thông tin thẻ tín dụng và khoản đặt cọc từ \$50–100 cho buổi tư vấn ❍ Tối thiểu nhất, hãy giữ thông tin thẻ và tính phí \$50 nếu họ "bùng" hẹn (no-show).
+- Thông tin thẻ tín dụng và khoản đặt cọc từ \$50–100 cho buổi tư vấn Tối thiểu nhất, hãy giữ thông tin thẻ và tính phí \$50 nếu họ "bùng" hẹn (no-show).
 
 - Họ phải có mặt cùng người ra quyết định hoặc đã được người ra quyết định phê duyệt trước.
 
@@ -5544,9 +5484,9 @@ Hãy đảm bảo rằng nếu bạn đang làm nhiệm vụ đặt lịch (sett
 
 - Lưu ý đặc biệt: Tùy chọn dựa trên năng lực của người đặt lịch (setter): đề cập đến tổng giá hoặc mức đầu tư tối thiểu là \$500.
 
-- ❍ “Vậy khi bạn gặp Brad, huấn luyện viên trưởng của chúng tôi, vào thứ Tư tới, bạn có sẵn sàng đặt cọc trước \$500 cho chương trình nếu anh ấy thấy bạn thực sự phù hợp không?”
+- “Vậy khi bạn gặp Brad, huấn luyện viên trưởng của chúng tôi, vào thứ Tư tới, bạn có sẵn sàng đặt cọc trước \$500 cho chương trình nếu anh ấy thấy bạn thực sự phù hợp không?”
 
-- ❍ Một setter non tay sẽ chỉ chốt phí tư vấn và nói rằng giá cụ thể sẽ do Brad quyết định.
+- Một setter non tay sẽ chỉ chốt phí tư vấn và nói rằng giá cụ thể sẽ do Brad quyết định.
 
 Tuyệt đối không xếp lịch cho họ trừ khi họ nói đồng ý với tất cả các điều kiện trên. Hãy đề nghị mức đặt cọc \$50–\$100 để giữ mức giá (đã giảm) trong trường hợp họ cần về bàn bạc lại với vợ/chồng trước.
 
@@ -5967,7 +5907,7 @@ Thế nên các con số thường chạy thế này…
 
 Giả sử bạn là một phòng tập tầm trung với 120 tài khoản EFT hoạt động ổn định...
 
-Từ lượng khách hàng đó, thường có khoảng 25% chốt các **Core Offer** nội bộ. (Các phòng gym xuất sắc nhất của chúng tôi đạt tỷ lệ tương tác thành viên khoảng 60% với các chiến dịch nội bộ này). Đây cũng là một cách tuyệt vời để đo lường mức độ thiện cảm (goodwill) bạn đang có, cũng như sức mạnh của văn hóa và cộng đồng. Một chiếc "nhiệt kế" hoàn hảo để đo sức khỏe của phòng gym.
+Từ lượng khách hàng đó, thường có khoảng 25% chốt các **Irresistible Offer** nội bộ. (Các phòng gym xuất sắc nhất của chúng tôi đạt tỷ lệ tương tác thành viên khoảng 60% với các chiến dịch nội bộ này). Đây cũng là một cách tuyệt vời để đo lường mức độ thiện cảm (goodwill) bạn đang có, cũng như sức mạnh của văn hóa và cộng đồng. Một chiếc "nhiệt kế" hoàn hảo để đo sức khỏe của phòng gym.
 
 Lấy ví dụ thế này: Chiến dịch "Mông Cong Đón Tết" (Big Booty Bootcamp).
 
@@ -6077,41 +6017,41 @@ Dưới đây là điểm nhanh những gì bạn đã học được:
 
 - Hệ thống thu hút khách hàng bị lỗi (The Broken Acquisition System)
 
-   - ❍ Thu hút khách hàng tự tài trợ chi phí (Client-Financed Acquisition)
+   - Thu hút khách hàng tự tài trợ chi phí (Client-Financed Acquisition)
 
-   - ❍ Offer không thể chối từ (Irresistible Offers)
+   - Offer không thể chối từ (Irresistible Offers)
 
-   - ❍ Chăm sóc Leads (Lead Nurture)
+   - Chăm sóc Leads (Lead Nurture)
 
-   - ❍ Bán hàng (Sales)
+   - Bán hàng (Sales)
 
 - Mô hình lợi nhuận bất khả thi (The Impossible Profit Model)
 
-   - ❍ Các đòn bẩy định giá (Pricing Levers)
+   - Các đòn bẩy định giá (Pricing Levers)
 
-   - ❍ Các đòn bẩy công suất (Capacity Levers)
+   - Các đòn bẩy công suất (Capacity Levers)
 
-   - ❍ Các đòn bẩy chi phí vận hành (Overhead Levers)
+   - Các đòn bẩy chi phí vận hành (Overhead Levers)
 
-   - ❍ Truyền thông sự thay đổi (Communicating the Change)
+   - Truyền thông sự thay đổi (Communicating the Change)
 
 - Vấn đề "thủng đáy thùng" (The Hole-In-The-Bucket Problem)
 
-   - ❍ Quy trình (Process)
+   - Quy trình (Process)
 
-   - ❍ Con người (People)
+   - Con người (People)
 
-   - ❍ Sản phẩm (Product)
+   - Sản phẩm (Product)
 
 - Phòng Gym hoàn hảo: Phần kem phủ và Cốt bánh (The Perfect Gym: Icing & Cake)
 
-   - ❍ Nhóm lớn (Large Group)
+   - Nhóm lớn (Large Group)
 
-   - ❍ Nhóm nhỏ (Small Group)
+   - Nhóm nhỏ (Small Group)
 
-   - ❍ Thực phẩm bổ sung (Supplements)
+   - Thực phẩm bổ sung (Supplements)
 
-   - ❍ Các chiến lược nội bộ (Internal Plays)
+   - Các chiến lược nội bộ (Internal Plays)
 
 Ở phần đầu cuốn sách, tôi đã hứa sẽ mang lại cho bạn một khoản **ROI** (lợi tức đầu tư) xứng đáng để đổi lấy tài sản giá trị nhất của bạn — sự tập trung. Tôi hy vọng bạn cảm thấy tôi đã giữ đúng lời hứa đó. Tôi cũng từng nói rằng mục tiêu của mình là chiếm trọn niềm tin từ bạn. Tôi thừa hiểu rằng việc đọc xong một cuốn sách không đồng nghĩa với việc bạn bỗng chốc muốn trở thành bạn thân của tác giả, nhưng tôi hy vọng đây sẽ là một màn chào hỏi tốt đẹp cho bước đầu chúng ta kết nối với nhau.
 
@@ -6416,7 +6356,7 @@ Nếu bạn bán cho họ một ngôi nhà trị giá 500.000 USD với giá ch�
 
 Quá tuyệt. Đó là trường hợp tốt nhất, và nếu điều đó xảy ra, bạn quá ổn rồi.
 
-Ngay cả khi bạn không dùng **Core Offer** không thể chối từ đó, bạn vẫn có thể nói: *"Nếu bạn đạt được mục tiêu mơ ước của mình, bạn sẽ rất hạnh phúc đúng không?"*
+Ngay cả khi bạn không dùng **Irresistible Offer** không thể chối từ đó, bạn vẫn có thể nói: *"Nếu bạn đạt được mục tiêu mơ ước của mình, bạn sẽ rất hạnh phúc đúng không?"*
 
 Giờ hãy nói đến trường hợp xấu nhất. Điều tồi tệ nhất có thể xảy ra là gì? Chúng tôi lấy hết tiền của bạn và gửi sang Algeria để bắt bạn làm việc trong mỏ kim cương mà bạn lại chẳng giảm được lạng nào. Vấn đề là, đó không phải là kịch bản tồi tệ nhất thực sự. Tồi tệ nhất là khi chúng tôi không mang lại chất lượng dịch vụ như đã hứa với bạn. Nhưng trong trường hợp đó, tôi sẽ tự tay viết cho bạn một tấm séc hoàn lại toàn bộ số tiền bạn đã trả. Tại sao tôi lại làm thế? Vì trong số hàng ngàn người đã tham gia chương trình này, chỉ có đúng hai người yêu cầu tôi thực hiện lời hứa hoàn tiền. Thế nên tôi có thể tự tin đưa ra cam kết dịch vụ 100% rằng bạn sẽ nhận được giá trị vượt xa số tiền bạn bỏ ra. Và nếu vào ngày cuối cùng, bạn thấy chúng tôi làm ăn như hạch, tôi sẽ trả lại toàn bộ tiền cho bạn.
 
@@ -6863,5 +6803,5 @@ Và xin cảm ơn Julie Eason cùng đội ngũ của cô đã hiện thực hó
 
 ###### **Về Tác Giả** 
 
-Khi Alex mở phòng gym đầu tiên và nhận ra tiền thuê mặt bằng còn nhiều hơn số dư trong tài khoản ngân hàng, anh nhanh chóng nhận ra mình phải tìm ra cách chuyển đổi khách hàng tiềm năng (**Leads**) thành khách hàng đến trực tiếp (**walk-ins**), rồi chốt sales thành công. Và anh đã làm được. Kể từ đó, anh đã tự tay chốt hơn 4.000 giao dịch 1-1 và huấn luyện một đội ngũ sales gồm 10 người đạt được kết quả tương tự. Hiện tại, anh đang điều hành công ty Gym Launch — chuyên cung cấp các giải pháp tạo phễu khách hàng tiềm năng giá trị cao (**high-ticket lead generation**) và kỹ năng bán hàng cùng đội ngũ sales tinh nhuệ dành cho các mô hình bootcamp, crosscut và studio tập luyện nhóm nhỏ. Anh giúp các phòng gym chuyển mình từ con số không đến mức lấp đầy công suất chỉ trong 30 ngày hoặc ít hơn.
+Khi Alex mở phòng gym đầu tiên và nhận ra tiền thuê mặt bằng còn nhiều hơn số dư trong tài khoản ngân hàng, anh nhanh chóng nhận ra mình phải tìm ra cách chuyển đổi khách hàng tiềm năng (KHTN) thành khách hàng đến trực tiếp (**walk-ins**), rồi chốt sales thành công. Và anh đã làm được. Kể từ đó, anh đã tự tay chốt hơn 4.000 giao dịch 1-1 và huấn luyện một đội ngũ sales gồm 10 người đạt được kết quả tương tự. Hiện tại, anh đang điều hành công ty Gym Launch — chuyên cung cấp các giải pháp tạo phễu khách hàng tiềm năng giá trị cao (**high-ticket lead generation**) và kỹ năng bán hàng cùng đội ngũ sales tinh nhuệ dành cho các mô hình bootcamp, crosscut và studio tập luyện nhóm nhỏ. Anh giúp các phòng gym chuyển mình từ con số không đến mức lấp đầy công suất chỉ trong 30 ngày hoặc ít hơn.
 
