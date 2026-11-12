@@ -1068,20 +1068,29 @@ Sao cơ?
 
 Giờ thì bạn đã có trong tay một gói ưu đãi cực chất, hãy làm cho tiền chảy về như lũ đi nào!
 
-Như tôi đã giải thích trước đó, lý do những chuỗi phòng gym lớn có thể vung tiền qua cửa sổ cho quảng cáo và marketing mà không cần thấy lợi tức đầu tư (ROI) ngay lập tức là vì họ thuộc sở hữu của các quỹ đầu tư tư nhân với nguồn vốn khổng lồ. Phần lớn các chủ phòng gym độc lập không có được đặc quyền đó, thế nên họ cứ cắm mặt lấy tiền túi ra đốt vào marketing, để rồi chẳng còn lại đồng nào để vận hành phòng tập. Nhưng luôn có lối thoát cho cái vòng luẩn quẩn đó, và tôi chuẩn bị vén màn ngay đây. Đây chính là Bước 2 trong quy trình thu hút khách hàng tài trợ bởi chính khách hàng (client-financed acquisition).
+Như tôi đã giải thích trước đó, lý do những chuỗi phòng gym lớn có thể vung tiền qua cửa sổ cho quảng cáo và marketing mà không cần thấy lợi tức đầu tư (ROI) ngay lập tức là vì họ thuộc sở hữu của các quỹ đầu tư tư nhân với nguồn vốn khổng lồ. Phần lớn các chủ phòng gym độc lập không có được đặc quyền đó, thế nên họ cứ cắm mặt lấy tiền túi ra đốt vào marketing, để rồi chẳng còn lại đồng nào để vận hành phòng tập. Nhưng luôn có lối thoát cho cái vòng luẩn quẩn đó, và tôi chuẩn bị vén màn ngay đây. Đây chính là Bước 2 trong quy trình thu hút khách hàng được tài trợ bởi chính khách hàng (client-financed acquisition).
 
 Bắn phá thôi nào! Dưới đây là bức tranh trực quan mô tả concept này.
 
-###### thu hút khách hàng được tài trợ bởi khách hàng
+**Thu hút khách hàng được tài trợ bởi khách hàng**
+1. Tạo sản phẩm phễu đầu vào high-ticket 
+2. Kiếm được nhiều tiền từ doanh thu đầu vào hơn chi phí lead (lead cost) ads 
+3. Không bao giờ cần ngân sách marketing thêm lần nào nữa
 
-tạo sản phẩm phễu đầu vào high-ticket kiếm được nhiều tiền từ doanh thu đầu vào hơn chi phí lead (lead cost) ads không bao giờ cần ngân sách mktg thêm lần nào nữa
+**VÍ DỤ: MÔ HÌNH DÒNG TIỀN VÀ LỢI NHUẬN (CASH FLOW MODEL)**
 
-###### ví dụ:
+| Chỉ số / Ngày | Ngày 1 | Ngày 2 | Ngày 3 | Ngày 4 *(100% Lợi nhuận)* | Ngày 5 *(100% Lợi nhuận)* |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Quảng cáo** | \$100 | \$100 | \$100 | \$100 | \$100 |
+| **Khách hàng tiềm năng** | 10 | 10 | 10 | 10 | 10 |
+| **Tỷ lệ chuyển đổi / Chốt đơn** | 20% | 20% | 20% | 20% | 20% |
+| **Số đơn hàng chốt được** | 2 | 2 | 2 | 2 | 2 |
+| **Giá bán** | \$600 | \$600 | \$600 | \$600 | \$600 |
+| **Doanh thu** | \$1.200 | \$1.200 | \$1.200 | \$1.200 | \$1.200 |
+| **Tiền về tài khoản** | \$0 | \$0 | \$0 | **+\$2.400** | **+\$3.600** |
+| **Số dư tài khoản ngân hàng** | **-\$100** | **-\$200** | **-\$300** | **+\$2.000** | **+\$3.100** |
 
-###### 100 lợi nhuận
-ngày 1 ngày 2 ngày 3 ngày 4 ngày 5 chi phí 100 100 100 100 100 leads 10 10 10 10 10 sales 20 20 20 20 20 sales 2 2 2 2 2 giá 600 600 600 600 600 doanh thu 1200 1200 1200 1200 1200 tiền về tài khoản 0 0 0 2400 3600 tài khoản ngân hàng -100 -200 -300 2000 3100
-
-###### lưu ý: tôi tính độ trễ vì hầu hết các cổng thanh toán mất 72 giờ để giải ngân. điều này giúp bạn phản ánh chính xác dòng tiền thực tế (cash flow)
+> **Lưu ý:** Tôi tính toán có độ trễ vì phần lớn các cổng thanh toán/xử lý thẻ (payment processors) mất khoảng 72 giờ để giải ngân tiền về tài khoản ngân hàng của bạn. Do đó, bảng này sẽ phản ánh chính xác các con số dòng tiền thực tế.
 
 Chính nó đấy. Đây là thứ đã mang lại cho tôi một khối tài sản khổng lồ, nhiều hơn những gì tôi cần để sống đến hết đời. Đây là thứ đã giúp chúng tôi từ một cái tên vô danh trong lĩnh vực đào tạo kinh doanh phòng gym vươn lên thành ông lớn thống trị thị trường. (Và hy vọng nó sẽ giữ chân chúng tôi ở vị trí đó lâu dài, chừng nào chúng tôi còn giữ cái đầu lạnh, không ngủ quên trên chiến thắng, luôn giữ sự khiêm nhường và tận tụy phục vụ).
 
@@ -1089,23 +1098,23 @@ Chính nó đấy. Đây là thứ đã mang lại cho tôi một khối tài s�
 
 Tôi chỉ chia sẻ điều này vì nếu bạn đã đọc đến đây, nghĩa là bạn đã vớ được mỏ vàng rồi đấy.
 
-Concept này cực kỳ đơn giản nhưng lại sắc bén và hiệu quả đến tàn nhẫn.
+Khái niệm này cực kỳ đơn giản nhưng lại sắc bén và hiệu quả đến tàn nhẫn.
 
 Nó hoạt động thế này – bám sát tôi nhé.
 
-Vào Ngày 1, bạn ném 100 USD vào **Paid Ads** để quảng bá cho gói ưu đãi không thể chối từ của mình.
+&emsp;Vào Ngày 1, bạn ném 100 USD vào **Paid Ads** để quảng bá cho gói ưu đãi không thể chối từ của mình.
 
-Bạn thu về 10 **Leads** với chi phí 10 USD cho mỗi **Lead**.
+&emsp;Bạn thu về 10 **Leads** với chi phí 10 USD cho mỗi **Lead**.
 
-Từ 10 **Leads** đó, bạn đặt lịch hẹn được với 7 người.
+&emsp;Từ 10 **Leads** đó, bạn đặt lịch hẹn được với 7 người.
 
-Trong 7 người đó, sẽ có 3 hoặc 4 người đến đúng hẹn. Từ 3 hoặc 4 người thực sự xuất hiện, bạn chốt được 2 người mua gói Thử thách 6 tuần (6-Week Challenge) với giá 600 USD/người.
+&emsp;Trong 7 người đó, sẽ có 3 hoặc 4 người đến đúng hẹn. Từ 3 hoặc 4 người thực sự xuất hiện, bạn chốt được 2 người mua gói Thử thách 6 tuần (6-Week Challenge) với giá 600 USD/người.
 
-Tức là từ 10 **Leads**, bạn chốt được 2 đơn hàng, tương đương tỷ lệ chuyển đổi (conversion rate) 20%.
+&emsp;Tức là từ 10 **Leads**, bạn chốt được 2 đơn hàng, tương đương tỷ lệ chuyển đổi (conversion rate) 20%.
 
-Điều này có nghĩa là bạn chỉ tốn 100 USD để kiếm về 1.200 USD (2 x 600 USD).
+&emsp;Điều này có nghĩa là bạn chỉ tốn 100 USD để kiếm về 1.200 USD (2 x 600 USD).
 
-Tỷ suất hoàn vốn (ROI) là 1 ăn 12.
+&emsp;Tỷ suất hoàn vốn (ROI) là 1 ăn 12.
 
 Chuyện này hoàn toàn bình thường, chẳng có gì lạ cả. Thậm chí chi phí 10 USD cho mỗi **Lead** còn cao hơn mức bình quân mà phần lớn mọi người làm được, nhưng tôi muốn giữ nguyên con số giống với gói ưu đãi 21 ngày điển hình mà tôi từng dùng lúc mới bắt đầu để dễ hình dung.
 
@@ -1113,9 +1122,9 @@ Trong ví dụ này, tính đến ngày thứ tư, bạn sẽ bỏ túi 3.600 US
 
 Nhưng vì tôi đã làm việc này vô số lần, tôi thừa biết các cổng thanh toán thường giữ tiền từ 2 đến 3 ngày làm việc. Do đó, ít nhất là vào ngày thứ tư của chiến dịch, doanh thu của 1 hoặc 2 ngày đầu tiên mới được chuyển vào tài khoản của bạn.
 
-Tính ra là 2.400 USD trừ đi 400 USD tiền chạy **Ads**, bạn đút túi khoản lợi nhuận ròng 2.000 USD.
+Tính ra là 2.400 USD trừ đi 400 USD tiền chạy quảng cáo, bạn đút túi khoản lợi nhuận ròng 2.000 USD.
 
-Giờ thì với 2.000 USD này, bạn đã dư sức bù đắp chi phí thu hút khách hàng ban đầu (**CAC - Cost of Acquiring Customer**), và mọi khoản tiền tiếp theo bạn ném vào chiến dịch này đều là **lợi nhuận ròng 100%**.
+Giờ thì với 2.000 USD này, bạn đã dư sức bù đắp chi phí thu hút khách hàng ban đầu (CAC - Cost of Acquiring Customer), và mọi khoản tiền tiếp theo bạn ném vào chiến dịch này đều là **lợi nhuận ròng 100%**.
 
 Và chu kỳ này cứ thế tiếp diễn cho đến khi bạn kiếm được tiền từ việc... đi kiếm khách hàng.
 
@@ -1147,43 +1156,102 @@ Bạn ĐƯỢC TIỀN khi mang về nhiều khách hàng hơn. Vậy lý do gì 
 
 Câu hỏi hay đấy. Phần lớn các chủ phòng gym của chúng tôi chỉ dừng lại khi một trong các hệ thống vận hành của họ gặp sự cố (phòng tập quá tải, phải mở thêm ca tập, thay đổi cách thức phục vụ, v.v.). Nhưng tôi sẽ chỉ cho bạn cách xử lý những rắc rối đó sau.
 
-###### **Bí Quyết Để Tạo Ra Lead Siêu Chất Lượng Chính Là Quảng Cháo Đỉnh Cao**
+#### **Bí Quyết Để Tạo Ra Lead Siêu Chất Lượng Chính Là Quảng Cáo Đỉnh Cao**
 
-Giờ thì chúng ta hãy cùng xử lý thử thách tiếp theo—xây dựng các chiến dịch **Ads** thực chiến.
+Giờ thì chúng ta hãy cùng xử lý thử thách tiếp theo—xây dựng các chiến dịch quảng cáo thực chiến.
 
-Bí quyết cốt lõi để làm ra những mẫu **Ads** triệu view đơn giản chỉ là thử nghiệm thật nhiều ý tưởng khác nhau. Bạn không cần phải quá sáng tạo thiên tài. Bạn cũng chẳng cần phải thuê một **agency** đắt cắt cổ nào cả. Tất cả chỉ là thử và sai (trial and error), đồng thời theo dõi sát sao các chỉ số (data) để mẫu quảng cáo tiếp theo chạy mượt hơn, hiệu quả hơn.
+Bí quyết cốt lõi để làm ra những mẫu quảng cáo triệu view đơn giản chỉ là thử nghiệm thật nhiều ý tưởng khác nhau. Bạn không cần phải quá sáng tạo thiên tài. Bạn cũng chẳng cần phải thuê một **agency** đắt cắt cổ nào cả. Tất cả chỉ là thử và sai (trial and error), đồng thời theo dõi sát sao các chỉ số (data) để mẫu quảng cáo tiếp theo chạy mượt hơn, hiệu quả hơn.
 
-Tôi hy vọng điều đó sẽ giúp bạn đỡ đau đầu hơn. Không có vị thần ma thuật nào tạo ra quảng cáo cả. Cũng chẳng có viên đạn bạc nào ở đây đâu. Đơn giản là liên tục test (thử nghiệm) các mẫu **ads**, chọn ra những mẫu hiệu quả nhất, rồi lại tiếp tục test thêm. Khi chúng tôi chạy **tests** cho các phòng gym của mình, chúng tôi thường thử nghiệm hơn 150 mẫu **ads** để tìm ra 5 cú "home run" (những mẫu thắng đậm ở mọi thị trường) và khoảng 15 cú "triple" (những mẫu chiến thắng ở 2/3 thị trường). Tôi đã tự bỏ tiền túi khoảng 100.000 USD cho các **ads** tại hơn 100 thị trường để kiểm chứng xem cái gì đang thực sự hiệu quả. Chỉ khi đó, tôi mới trao những **ads** chiến thắng này cho các chủ phòng gym cấp cao nhất của chúng tôi (những người mà chúng tôi gọi là Gym Lords - Các Chúa tể Phòng gym).
+Tôi hy vọng điều đó sẽ giúp bạn đỡ đau đầu hơn. Không có vị thần ma thuật nào tạo ra quảng cáo cả. Cũng chẳng có viên đạn bạc nào ở đây đâu. Đơn giản là liên tục thử nghiệm các mẫu quảng cáo, chọn ra những mẫu hiệu quả nhất, rồi lại tiếp tục thử nghiệm thêm. Khi chúng tôi chạy các chiến dịch thử nghiệm cho các phòng gym của mình, chúng tôi thường thử nghiệm hơn 150 mẫu quảng cáo để tìm ra 5 cú "home run" (những mẫu thắng đậm ở mọi thị trường) và khoảng 15 cú "triple" (những mẫu chiến thắng ở 2/3 thị trường). Tôi đã tự bỏ tiền túi khoảng 100.000 USD cho các quảng cáo tại hơn 100 thị trường để kiểm chứng xem cái gì đang thực sự hiệu quả. Chỉ khi đó, tôi mới trao những quảng cáo chiến thắng này cho các chủ phòng gym cấp cao nhất của chúng tôi (những người mà chúng tôi gọi là Gym Lords - Các Chúa tể Phòng gym).
 
-Nhờ vậy, họ luôn đánh trúng những cú "home run". Họ in ra tiền. Họ trả tiền cho chúng tôi để không phải tự mò mẫm test nữa. Một mối quan hệ đôi bên cùng có lợi (Win-win).
+Nhờ vậy, họ luôn đánh trúng những cú "home run". Họ in ra tiền. Họ trả tiền cho chúng tôi để không phải tự mò mẫm thử nghiệm nữa. Một mối quan hệ đôi bên cùng có lợi (Win-win).
 
-Nếu bạn đã từng cạn kiệt ý tưởng không biết nên sáng tạo nội dung gì cho các **ads** của mình để "hái ra tiền", thì bạn không cô đơn đâu. Tôi cũng phải mất một thời gian mới nắm bắt được nó đấy. Vậy nên, để tôi giúp bạn một tay.
+Nếu bạn đã từng cạn kiệt ý tưởng không biết nên sáng tạo nội dung gì cho các quảng cáo của mình để "hái ra tiền", thì bạn không cô đơn đâu. Tôi cũng phải mất một thời gian mới nắm bắt được nó đấy. Vậy nên, để tôi giúp bạn một tay.
 
-Đây là thứ mà tôi gọi là **Bộ trộn tạo Lead (Lead-Gen Scrambler)**. Về cơ bản, bạn sẽ dành chút thời gian để nghĩ ra càng nhiều **headlines** (tiêu đề), hình ảnh, và **body copy** (nội dung chi tiết) càng tốt. Sau đó, bạn xáo trộn chúng lên để tạo ra những chiếc **ads** hoàn toàn mới mẻ.
+Đây là thứ mà tôi gọi là **Bộ trộn tạo Lead (Lead-Gen Scrambler)**. Về cơ bản, bạn sẽ dành chút thời gian để nghĩ ra càng nhiều **headlines** (tiêu đề), hình ảnh, và "body copy" (nội dung chi tiết) càng tốt. Sau đó, bạn xáo trộn chúng lên để tạo ra những quảng cáo hoàn toàn mới mẻ.
 
-###### lead gen scrambler
+**BỘ PHỐI TRỘN TẠO LEAD (LEAD GEN SCRAMBLER)**
+> *Không bao giờ phải lo cạn ý tưởng làm mới quảng cáo (Never struggle to make "fresh" ads again)*
 
-không bao giờ phải vật lộn để làm ads mới nữa
+1. **TIÊU ĐỀ (HEADLINE)**
+- Thời lượng (Duration)
+- Giới tính (Gender)
+- Lợi ích / Nâng cao vị thế (Benefit/Status ↑)
+- Gợi sự tò mò (Curiosity)
+- Đối đầu nỗi sợ (Against Fear)
+- Tiêu cực / Cảnh báo (Negative)
+- Thử thách (Challenge)
 
-Headline (Tiêu đề): - thời lượng - giới tính - trạng thái lợi ích - sự tò mò - chống lại nỗi sợ - tiêu cực - thử thách  
-Copy (Nội dung): - ngắn - dài - miễn phí - mới - lý do tại sao - các lợi ích - trạng thái - để bạn có thể - mô tả, đừng kể - sự khan hiếm - sự khẩn cấp - uy tín ngầm ẩn  
-Business / Page name (Tên doanh nghiệp/Trang): - có nhiều phiên bản - mang tính mô tả - bên thứ 3  
+2. **NỘI DUNG BÀI VIẾT (COPY)**
+- **Độ dài & Định dạng:** Ngắn (Short) • Dài (Long) • Miễn phí (Free) • Mới mẻ (New)
+- **Lý do vì sao (Reason Why)**
+- **Lợi ích (Benefits)**
+- **Địa vị xã hội (Status)**
+- **"Để bạn có thể..." (So that you can...)**
+- **Mô tả hành động, đừng chỉ kể suông (Describe, don't tell)**
+- **Sự khan hiếm (Scarcity)**
+- **Tính cấp bách (Urgency)**
+- **Uy quyền ngầm định (Implied Authority)**
 
-Image (Hình ảnh): - độ tương phản - đen trắng - băng rôn (banners) - đường chéo - ảnh nhóm - ảnh selfie - ảnh tập luyện - mọi người trong lớp học - mọi người đổ mồ hôi sau lớp - meme - các vật dụng độc lạ  
+3. **TÊN TRANG / TÊN THƯƠNG HIỆU (PAGE NAME / BUSINESS NAME)**
+- **Chuẩn bị nhiều phiên bản tên khác nhau (Have multiple versions)**
+- **Mang tính mô tả rõ ràng (Descriptive)**
+- **Góc nhìn bên thứ ba độc lập (3rd party)**
 
-Video<sup>:</sup> - thẻ ghi nhớ (flash cards) - nền - phong cảnh - quay bằng iPhone chuyên nghiệp - phụ đề - chốt sale (pitching) - tham quan cơ sở - bảng trắng - lời chứng thực nhóm - lời chứng thực từ khách hàng bình thường - lời chứng thực selfie - tập luyện đồng đều theo nhóm - khiến khách hàng ca ngợi bạn tuyệt vời ra sao  
+4. **HÌNH ẢNH (IMAGE)**
+- **Phong cách & Thị giác:** Tăng độ tương phản (↑Contrast) • Đen / Trắng (Black/White) • Thêm biểu ngữ (Banners) • Góc chụp chéo (Diagonal)
+- **Chủ đề ảnh:**
+  - Ảnh chụp nhóm (Group pics)
+  - Ảnh selfie (Selfie)
+  - Ảnh đang tập luyện (Workout pics)
+  - Ảnh lớp học đang tập (People in class)
+  - Ảnh mồ hôi nhễ nhại sau buổi tập (People sweating post class)
+  - Ảnh chế hài hước (Meme)
+  - Đạo cụ / Vật dụng bắt mắt (Doo-dads)
 
-Hãy lấy Headline 1 kết hợp với Image 8 và Video 16 rồi đem đi **test**. Trộn lại lần nữa với Headline 3, Body Copy 2 và Image 12. Càng có nhiều mảnh ghép, bạn càng có nhiều trò vui để xáo trộn chúng với nhau.
+5. **VIDEO**
+- **Thẻ từ khóa / Bảng lật (Flash cards)** • **Hậu cảnh (Background)** • **Ngoại cảnh (Scenery)**
+- **Chất lượng quay:** Máy quay chuyên nghiệp vs. Điện thoại iPhone (Pro v. iPhone)
+- **Phụ đề (Subtitles)**
+- **Pitching trực tiếp (Pitching)**
+- **Dẫn tour tham quan phòng tập (Facility tour)**
+- **Thuyết trình bảng trắng (Whiteboard)**
+- **Lời chứng thực (Testimonial):**
+  - Cảm nhận từ nhóm (Group testimonial)
+  - Cảm nhận từ người bình thường / khách hàng điển hình (Avg joe testimonial)
+  - Cảm nhận tự quay selfie (Selfie testimonial)
+- **Hoạt động thực tế:**
+  - Cảnh cả nhóm cùng tập đồng đều (Group exercise in unison)
+  - Cảnh khách hàng khen ngợi bạn tuyệt vời ra sao (Get clients to say how great you are)
 
-(Làm ơn đừng thấy quá tải ở đây nhé. Bạn có thể bắt đầu với số lượng ít và chỉ vài đoạn **copy** khác nhau. Theo thời gian, bạn sẽ thu thập ngày càng nhiều mảnh ghép hiệu quả.)
+**SƠ ĐỒ BỐ CỤC QUẢNG CÁO FACEBOOK**
 
-Sau đó, tôi chuyển tất cả những thứ này cho đội ngũ **marketing** của mình để làm ra các **ads** mới. Kỹ thuật này mang lại cho bạn gần như vô số biến thể. Thế nên, ngay cả trong bán kính địa lý nhỏ bé bảy dặm của bạn, bạn vẫn luôn có thể tạo ra những chiếc **ads** mới toanh có khả năng **convert** (chuyển đổi) cao. (Đó là bán kính mà chúng tôi nhận thấy là "điểm ngọt" tối ưu cho một phòng gym địa phương. Không có chi nhé.)
+```text
+┌──────────────────────────────────────────────┐
+│ ③ Tên Trang: Joe's Fitness                   │
+│ ① Tiêu đề: THỬ THÁCH 6 TUẦN MIỄN PHÍ         │
+│ ② Nội dung bài viết (Copy):                  │
+│    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  │
+│    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  │
+│ ┌──────────────────────────────────────────┐ │
+│ │ ④ Hình ảnh / ⑤ Video                     │ │
+│ │                    [ ▶ ] ⑤               │ │
+│ └──────────────────────────────────────────┘ │
+│ THỬ THÁCH 6 TUẦN MIỄN PHÍ       [ ĐĂNG KÝ ]  │
+└──────────────────────────────────────────────┘
+```
 
-Đã có cả những cuốn sách được viết ra chỉ để bàn về từng thành phần của một quảng cáo. Những gì bạn thấy ở trên chính là các biến số. Mỗi gạch đầu dòng là một trong những "viên kim cương" có tỷ lệ **convert** tốt nhất mà tôi đúc kết được cho từng hạng mục. Đây là tấm vé gian lận (cheat sheet) chắc thắng của tôi. Bất cứ khi nào bị kẹt ý tưởng hoặc cần một ý tưởng mới cho hình ảnh, video hay **copy**, tôi lại nhìn vào đây để nhắc nhở bản thân về những nguyên tắc cốt lõi.
+Hãy lấy "Tiêu đề 1" kết hợp với "Hình ảnh 8" và "Video 16" rồi đem đi thử nghiệm. Trộn lại lần nữa với "Tiêu đề 3", "Body Copy 2" và "Image 12". Càng có nhiều mảnh ghép, bạn càng có nhiều trò vui để xáo trộn chúng với nhau.
 
-Vì **copywriting** có thể là một trong những phần khó nhằn nhất để làm cho đúng, hãy để tôi đào sâu hơn về chủ đề này. Dưới đây là mười hai điều răn về **copy** mà tôi dùng để kiểm tra từng mẫu **ad** mà chúng tôi viết. Đây cũng là danh sách kiểm tra (checklist) mà tôi giao cho đội ngũ nội bộ của mình. Tôi không giấu giếm bất cứ điều gì ở đây cả.
+(Làm ơn đừng thấy quá tải ở đây nhé. Bạn có thể bắt đầu với số lượng ít và chỉ vài đoạn "body copy" khác nhau. Theo thời gian, bạn sẽ thu thập ngày càng nhiều mảnh ghép hiệu quả.)
 
-**1. Headline phải đứng đầu.** Đây là phần được đọc nhiều nhất của một quảng cáo và nó phải thuyết phục được khách hàng tiềm năng cho phép bạn có thêm một phần nghìn giây chú ý nữa. Sự tò mò là vua. Khác biệt là lý tưởng. Và sự hấp dẫn (sexy) luôn phát huy tác dụng. Đừng bao giờ chạy một **ad** nào mà không có **headline**.
+Sau đó, tôi chuyển tất cả những thứ này cho đội ngũ marketing của mình để làm ra các quảng cáo mới. Kỹ thuật này mang lại cho bạn gần như vô số biến thể. Thế nên, ngay cả trong bán kính địa lý nhỏ bé bảy dặm của bạn, bạn vẫn luôn có thể tạo ra những chiếc quảng cáo mới toanh có khả năng **convert** (chuyển đổi) cao. (Đó là bán kính mà chúng tôi nhận thấy là "điểm ngọt" tối ưu cho một phòng gym địa phương. Không có chi nhé.)
+
+Đã có cả những cuốn sách được viết ra chỉ để bàn về từng thành phần của một quảng cáo. Những gì bạn thấy ở trên chính là các biến số. Mỗi gạch đầu dòng là một trong những "viên kim cương" có tỷ lệ **convert** tốt nhất mà tôi đúc kết được cho từng hạng mục. Đây là tấm vé gian lận (cheat sheet) chắc thắng của tôi. Bất cứ khi nào bị kẹt ý tưởng hoặc cần một ý tưởng mới cho hình ảnh, video hay "body copy", tôi lại nhìn vào đây để nhắc nhở bản thân về những nguyên tắc cốt lõi.
+
+Vì "body copy" có thể là một trong những phần khó nhằn nhất để làm cho đúng, hãy để tôi đào sâu hơn về chủ đề này. Dưới đây là mười hai điều răn về "body copy" mà tôi dùng để kiểm tra từng mẫu quảng cáo mà chúng tôi viết. Đây cũng là danh sách kiểm tra (checklist) mà tôi giao cho đội ngũ nội bộ của mình. Tôi không giấu giếm bất cứ điều gì ở đây cả.
+
+**1. Headline phải đứng đầu.** Đây là phần được đọc nhiều nhất của một quảng cáo và nó phải thuyết phục được khách hàng tiềm năng cho phép bạn có thêm một phần nghìn giây chú ý nữa. Sự tò mò là vua. Khác biệt là lý tưởng. Và sự hấp dẫn (sexy) luôn phát huy tác dụng. Đừng bao giờ chạy một quảng cáo nào mà không có tiêu đề.
 
 **2. Hãy nói những gì chỉ một mình bạn nói được.** Nếu bạn đã làm được điều gì đó đáng chú ý hoặc khác biệt, hãy nói ra.
 
@@ -1205,15 +1273,13 @@ Vì **copywriting** có thể là một trong những phần khó nhằn nhất 
 
 **11. Các bước tiếp theo rõ ràng.** Hãy làm cho nó. Đơn giản. Một. cách. ngu. ngốc. "Nếu bạn muốn X, hãy bấm vào nút này. Ở trang tiếp theo, hãy điền thông tin của bạn. Sau đó chọn một khung giờ thuận tiện để bạn đến mà chắc chắn bạn sẽ không bỏ lỡ." Bước 1. Bước 2. Bước 3. Họ sẽ không phải đoán mò. Khi viết ra, nghe có vẻ hơi ngớ ngẩn đấy. Nhưng nó SẼ giúp bạn kiếm được nhiều tiền hơn.
 
-**12. Trình độ lớp ba.** Phần lớn **copy** không **convert** được là vì người ta phải khựng lại để suy nghĩ mới hiểu được. Các câu văn quá phức tạp hoặc dùng từ ngữ quá hoa mỹ. Bạn không đang viết luận văn đại học. Bạn đang viết một **ad** chỉ có vài phần nghìn giây để thu hút sự chú ý của ai đó. Hãy làm cho quá trình đó ít ma sát nhất có thể. Hoa mỹ = ma sát. Đơn giản = chốt đơn. Tôi đưa mọi **ad** của mình qua một công cụ đo cấp độ đọc miễn phí và liên tục biên tập lại phần **copy** cho đến khi nó đạt mức đọc hiểu từ lớp ba trở xuống.
+**12. Trình độ lớp ba.** Phần lớn "body copy" không chuyển đổi được là vì người ta phải khựng lại để suy nghĩ mới hiểu được. Các câu văn quá phức tạp hoặc dùng từ ngữ quá hoa mỹ. Bạn không đang viết luận văn đại học. Bạn đang viết một quảng cáo chỉ có vài phần nghìn giây để thu hút sự chú ý của ai đó. Hãy làm cho quá trình đó ít ma sát nhất có thể. `Hoa mỹ = ma sát`. `Đơn giản = chốt đơn`. Tôi đưa mọi quảng cáo của mình qua một công cụ đo cấp độ đọc miễn phí và liên tục biên tập lại phần "body copy" cho đến khi nó đạt mức đọc hiểu từ lớp ba trở xuống.
 
-Hy vọng tôi vừa giúp bạn tiết kiệm hàng ngàn đô la cho các khóa học **copywriting**. Đó là mười hai "viên kim cương" đắt giá nhất để viết nên những mẫu **copy** tuyệt đỉnh.
+Hy vọng tôi vừa giúp bạn tiết kiệm hàng ngàn đô la cho các khóa học **copywriting** (_viết quảng cáo_). Đó là mười hai "viên kim cương" đắt giá nhất để viết nên những mẫu "body copy" tuyệt đỉnh.
 
 Swipe (Sao chép/Tham khảo). Deploy (Triển khai). Enjoy (Tận hưởng thành quả).
 
-###### **chương 4**
-
-###### **Kéo Họ Đến Trực Tiếp**
+### **Chương 4: Kéo Họ Đến Trực Tiếp**
 
 Vẫn đi cùng tôi chứ? Chúng ta đang giải quyết bài toán thu hút khách hàng (client acquisition), nhớ không? Sẽ là chưa đủ nếu chỉ có một **Core Offer** không thể chối từ và một chiến lược **ad** tuyệt vời. Những thứ đó mới chỉ đem lại **Leads** cho bạn thôi. Tuyệt vời đấy. Nhưng bây giờ thì sao nữa?
 
@@ -5374,7 +5440,7 @@ Bây giờ, chúng ta hãy cùng đi đến cách lấp đầy các buổi tập
 
 Chúng tôi bán HTP như một chương trình chuyển đổi ngoại hình **front-end** kéo dài 12 tuần với mức giá dao động từ \$2.000 đến \$3.000.
 
-Có hai điểm khác biệt chính giữa chương trình **front-end** HTP và chương trình **front-end** nhóm lớn. Thứ nhất là khâu nhắm mục tiêu (**targeting**). Đối tượng mục tiêu thực tế và thông điệp (**copy**) bạn dùng trong quảng cáo phải nhắm thẳng vào những người khá giả. Thứ hai là quy trình bán hàng (**sales process**).
+Có hai điểm khác biệt chính giữa chương trình **front-end** HTP và chương trình **front-end** nhóm lớn. Thứ nhất là khâu nhắm mục tiêu (**targeting**). Đối tượng mục tiêu thực tế và thông điệp ("body copy") bạn dùng trong quảng cáo phải nhắm thẳng vào những người khá giả. Thứ hai là quy trình bán hàng (**sales process**).
 
 Với quy trình bán hàng truyền thống mà tôi từng phác thảo, bạn chỉ cần kéo mọi người đến lịch hẹn mà không cần qua bất kỳ bước sàng lọc (**qualification**) thực sự nào. Với mức giá từ \$500 đến \$1.000, bạn hoàn toàn có thể làm vậy. Khách hàng sẵn sàng chi chừng đó cho chuyện tập tành ngay trong lần ghé thăm đầu tiên.
 
