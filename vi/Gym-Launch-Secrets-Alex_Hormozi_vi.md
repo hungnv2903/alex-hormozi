@@ -1,4 +1,4 @@
-### **Lời khen dành cho** **_Gym Launch Secrets_**
+# **Lời khen dành cho** **_Gym Launch Secrets_**
 
 Nhờ *Gym Launch Secrets*, chúng tôi từ chỗ lỗ chổng vó (doanh thu 3.000 USD/tháng nhưng chi tới 8.000 USD), chỉ còn cách ngày đóng cửa vỏn vẹn 3 tuần, đã vươn lên đạt doanh thu hơn 600.000 USD trong vòng 18 tháng và xây dựng được một đội ngũ 8 người. Quan trọng hơn, nó đã cứu sống toàn bộ sự nghiệp của chúng tôi và thắp lại ngọn lửa đam mê giúp đỡ mọi người! Cảm ơn anh, Alex!
 
@@ -1375,7 +1375,7 @@ Tin vui là bạn có thể tự động hóa toàn bộ quy trình này. Chuẩ
 
 Vẫn còn rất nhiều điều nữa—và tôi thực sự đau lòng khi phải cắt ngắn phần này—nhưng chúng ta phải tiến lên thôi. Tôi hy vọng phần trên đã cung cấp cho bạn những kiến thức vỡ lòng về các best practice (thực tiễn tốt nhất) để kéo mọi người đến phòng tập. Nhưng một khi họ đã đặt chân đến phòng tập, làm thế nào để bạn giúp đỡ họ? 
 
-### **Chương 5:** Chốt Sale (Get Them To Buy)** 
+### **Chương 5: Chốt Sale (Get Them To Buy)** 
 
 Đây là phần mà rất nhiều chủ phòng tập (và cả những người làm kinh doanh nói chung) thường thú nhận là họ ghét cay ghét đắng. Họ không muốn làm phiền người khác, họ sợ khách hàng sẽ bỏ chạy khi bị chốt sale, hoặc họ lo rằng khách hàng sẽ từ chối. Nhưng để mang lại dịch vụ tốt nhất có thể cho khách hàng—và kiếm đủ tiền để duy trì phòng tập không chỉ hoạt động mà còn phát triển thịnh vượng cho bạn lẫn đội ngũ nhân sự—bạn bắt buộc phải nắm vững các kỹ thuật bán hàng. Trong chương này, tôi sẽ điểm qua một vài kỹ thuật yêu thích của mình. 
 
@@ -1451,13 +1451,35 @@ Của bạn đây nhé…
 
 *(Sách này vốn không định viết về bán hàng đâu, nhưng mà tôi ngứa tay quá nên đành chịu.)*
 
-#### **Lời chào bán hàng, Khu vực chờ và Phòng làm việc**
+#### **Quy trình tiếp đón, khu vực chờ và văn phòng chốt sale**
 
-Phần đầu tiên để tạo nên một cuộc trò chuyện đồng nhất chính là một môi trường đồng nhất. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng thương vụ hoàn toàn nằm trong tay bạn.
+(_The Sales Greeting, Waiting Area, And Office_)
 
-Tôi sẽ cố gắng diễn đạt thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
+Bước đầu tiên để có một cuộc tư vấn nhất quán chính là một không gian nhất quán. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng buổi chốt sale hoàn toàn nằm trong tay bạn.
+
+Tôi sẽ cố gắng diễn đạt điều này thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
 
 ![](../assets/images/gym-launch/01-05-00.png)
+
+> ### QUY TRÌNH TIẾP ĐÓN & THIẾT LẬP VĂN PHÒNG CHỐT SALE
+>
+> 1. **Khách bước vào:** Đội ngũ chào đón khách tiềm năng **bằng tên trong vòng 10 giây**.
+> 2. **Ký danh xác nhận:** Cho khách ký xác nhận vào bảng danh sách đăng ký tham dự của bạn. (Ví dụ: "FITNESS CHALLENGE SIGN UPS")
+>    - **A.** Trang đăng ký nên được lấp đầy khoảng 3/4 danh sách (thể hiện những người đăng ký trước đó).
+>    - **B.** Tiêu đề bảng phải mặc định tâm lý họ đã sẵn sàng chốt đơn.
+>    - **C.** Kẹp nhiều tờ danh sách đã điền kín phía bên dưới để tạo hiệu ứng.
+> 3. **Phòng/khu vực chờ tràn ngập câu chuyện thành công:**
+>    - **A.** Rất nhiều bằng chứng xã hội (tường dán kín ảnh trước/sau khiến khách phải thốt lên *"WOW!"*).
+> 4. **Điền phiếu khảo sát trước bán hàng:** Khách tự tay cam kết các câu hỏi then chốt. Ví dụ:
+>    - *"Tôi cần giúp đỡ ✔"*
+>    - *"Tôi sẽ cố gắng ✔"*
+>    - *"Tôi thực sự nghiêm túc ✔"*
+> 5. **Chuyên gia bước ra khỏi phòng dẫn khách vào...**
+> 6. **Thiết lập không gian văn phòng bán hàng:**
+>    - **A.** Chồng hợp đồng đã ký xếp sẵn trên bàn.
+>    - **B.** Xếp nhiều ghế xung quanh để tạo cảm giác đông đúc/nhộn nhịp.
+>    - **C.** Tuyệt đối không ngồi đối diện qua một chiếc bàn.
+>    - **D.** Hãy cố gắng ngồi cạnh nhau / góc liền kề.
 
 Hãy bắt đầu từ khoảnh khắc một khách hàng tiềm năng bước chân qua cửa. Dưới đây là mô hình bố trí lý tưởng cho lời chào bán hàng (sales greeting) và văn phòng của bạn nhằm tối đa hóa tỷ lệ chốt đơn.
 
@@ -1517,25 +1539,28 @@ Hãy học nó. Hãy dùng nó. Kiếm tiền từ nó. Sau đó truyền lại 
 
 Bây giờ bạn đã có một từ viết tắt cực kỳ dễ nhớ rồi, hãy cùng mổ xẻ chi tiết từng chữ cái nhé.
 
-#### Làm rõ (Clarify) lý do họ hành động / xuất hiện 
+#### CLARIFY (Làm rõ)
 
-“Điều gì đưa bạn đến đây ngày hôm nay?” 
+> _Lý do họ tham gia/xuất hiện_
+ 
+&emsp;_“Điều gì đưa bạn đến đây ngày hôm nay?”_ 
+&emsp;_“Mục tiêu của bạn là gì?”_ 
+&emsp;_“Tại sao bạn lại đăng ký tham gia [ _tên chương trình_ ] trực tuyến này?”_ 
 
-“Mục tiêu của bạn là gì?” 
+Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì một số khách hàng cần vài gợi ý khác nhau mới hiểu được ý bạn là gì. Mục đích của chuỗi câu hỏi này là **thiết lập KHOẢNG TRỐNG (GAP)**. Họ đang khao khát một thứ mà họ chưa thể đạt được (hoặc không giữ được sau khi đã đạt), và cách dễ nhất để tìm ra điều đó là cứ thẳng thắn hỏi họ. 
 
-“Tại sao bạn lại đăng ký tham gia [ _tên chương trình_ ] trực tuyến này?” 
+> **Người dịch:** GAP
+> Ý tác giả muốn nói ở đây là: Khách hàng cần cảm nhận/hình dung được vấn đề/nỗi đau của họ.
 
-Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì một số khách hàng cần vài gợi ý khác nhau mới hiểu được ý bạn là gì. Mục đích của chuỗi câu hỏi này là **thiết lập KHOẢNG CÁCH (GAP)**. Họ đang khao khát một thứ mà họ chưa thể đạt được (hoặc không giữ được sau khi đã đạt), và cách dễ nhất để tìm ra điều đó là cứ thẳng thắn hỏi họ. 
+Đôi khi họ sẽ đưa ra câu trả lời chung chung, chẳng hạn như: _“Tôi chỉ muốn tìm hiểu thêm thông tin thôi”_ hoặc _“Tôi thấy ưu đãi hời quá nên tò mò thế thôi”_. 
 
-Đôi khi họ sẽ đưa ra câu trả lời chung chung, chẳng hạn như: “Tôi chỉ muốn tìm hiểu thêm thông tin thôi” hoặc “Tôi thấy ưu đãi hời quá nên tò mò thế thôi”. 
-
-Để phá vỡ câu trả lời chung chung đó, hãy nói kiểu như thế này: “Tôi xin lỗi, đáng lẽ tôi nên đặt câu hỏi trúng trọng tâm hơn để biết cách hỗ trợ bạn tốt nhất. Không biết bạn kỳ vọng đạt được hoặc cải thiện điều gì khi đến đây?” 
+Để phá vỡ câu trả lời chung chung đó, hãy nói kiểu như thế này: _“Tôi xin lỗi, đáng lẽ tôi nên đặt câu hỏi trúng trọng tâm hơn để biết cách hỗ trợ bạn tốt nhất. Không biết bạn kỳ vọng đạt được hoặc cải thiện điều gì khi đến đây?”_ 
 
 Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mình. 
 
-#### Gắn nhãn (Label) họ với vấn đề mà bạn định giải quyết 
+#### LABEL (Gắn nhãn) họ với vấn đề mà bạn định giải quyết 
 
-Đây là lúc bạn làm nổi bật hoặc tóm tắt trạng thái hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
+Đây là lúc bạn làm nổi bật hoặc tóm tắt tình trạng hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
 
 - “Hiểu rồi, vậy là bạn muốn giảm cân. Cụ thể thì hiện tại bạn nặng bao nhiêu?” 
 
@@ -1545,25 +1570,44 @@ Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mìn
 
 Tôi biết—nghe hơi nhạt nhẽo phải không? Nhưng tôi vẫn dùng đúng trò đùa đó, và ai cũng bật cười giả tạo một cách rập khuôn mỗi lần nghe thấy. 
 
-#### Tổng quan (Overview) về những nỗi đau và trải nghiệm trong quá khứ 
+#### OVERVIEW (Tổng quan) về những nỗi đau và trải nghiệm trong quá khứ 
 
 Ở bước tiếp theo, bạn sẽ cùng họ nhìn lại những nỗi đau và thất bại trong quá khứ. (Tin tôi đi, họ chắc chắn đã nếm mùi thất bại—đó là lý do họ phải cất công lái xe đến gặp bạn, vì họ chưa thể đạt được kết quả tuyệt vời ở bất kỳ nơi nào khác.) 
 
 - “Tuyệt vời, vậy là tôi đã nắm được bạn đang ở đâu và muốn đến đâu, thế còn trước đây bạn đã thử những cách gì rồi?” 
 
-- “Tôi không thể giúp bạn đến đích nếu tôi không biết bạn đã xuất phát từ đâu và đã làm những gì.” 
+- “Tôi không thể giúp bạn đạt được mục tiêu nếu tôi không biết tình trạng hiện tại của bạn và bạn đã từng thử những cách nào để đạt được mục tiêu đó.” 
 
 Khách hàng của bạn rất có thể đang cảm thấy bản thân đã thất bại ở một mức độ nào đó, và đó là lý do họ không đạt được mục tiêu thể hình trong các lần thử sức trước. 
 
-Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra khoảng cách nằm ở đâu, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
+Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra nơi và **GAP** tồn tại, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
 
 Sau đó, bạn sẽ so sánh và đối chiếu những việc họ đã làm trong quá khứ, đứng về phía những phương pháp đúng đắn và tách biệt dịch vụ của bạn khỏi những thứ họ từng ghét hoặc những thứ không mang lại kết quả. 
 
 ![](../assets/images/gym-launch/01-06-00.png)
 
+**VÒNG LẶP NỖI ĐAU & VẤN ĐỀ: TỔNG QUAN VỀ TRẢI NGHIỆM TRONG QUÁ KHỨ**
+*(Problem Pain Cycle: Overview of Past Experiences)*
+
+1. **Anh/chị đã từng làm những gì rồi?** *(What have you done?)*
+2. **Anh/chị đã theo phương pháp đó trong bao lâu? Cách đây bao lâu rồi?** *(How long did you do it for? How long ago?)*
+3. **Kết quả mang lại cho anh/chị ra sao?** *(How did that work for you?)*
+
+> **PHÂN LOẠI:** Đồng thuận & gắn kết bản thân với những điểm tích cực, tách biệt bản thân khỏi những trải nghiệm tiêu cực / lỗ hổng mà họ gặp phải *(Categorize: Align self with positives, repel self from negatives/gaps)*.
+
+| Các hình thức đã thử | TẬP LUYỆN <br>*(Fitness)* | DINH DƯỠNG <br>*(Nutrition)* | ĐỒNG HÀNH CAM KẾT <br>*(Accountability)* |
+| :--- | :---: | :---: | :---: |
+| **Phòng gym thương mại / chuỗi lớn**<br/>*(Big Box Gym)* | ❌ | | |
+| **Huấn luyện viên cá nhân**<br/>*(Personal Trainer)* | ❌ | | ❌ |
+| **Weight Watchers / Jenny Craig / Chế độ ăn sẵn**<br/>*(Food-based systems)* | | ❌ | ❌ |
+| **Chỉ dùng thuốc giảm cân, bột lắc, TPCN** *(Pills, shakes, supplement-only)* | | ❌ | |
+| **Tự tập luyện tại nhà**<br/>*(Workout from home)* | ❌ | | |
+
+4. ↻ **Anh/chị còn thử qua giải pháp nào khác nữa chưa?** *(What else have you done? - Lặp lại chu trình từ câu 1)*
+
 Sơ đồ nhỏ này sẽ kiếm cho bạn nhiều tiền hơn bạn tưởng tượng. Nó sẽ đập tan những niềm tin sai lầm của khách hàng về lý do tại sao họ từng thất bại. Tôi sẽ chia sẻ kịch bản để giải thích điều này ở phần tiếp theo. 
 
-#### Bán (Sell) cho họ một kỳ nghỉ, đừng bán chuyến bay.
+#### SELL (Bán) cho họ một kỳ nghỉ, đừng bán chuyến bay.
 
 Khi đi du lịch nghỉ dưỡng, chẳng ai muốn nghe về hàng chờ kiểm tra an ninh TSA, khu nhận hành lý, các chuyến bay bị hoãn, thời gian quá cảnh hay việc đổi múi giờ cả. Họ chỉ muốn nghe về Hawaii. Thế nên, đừng nói với khách hàng tiềm năng về hệ thống bài tập, cách chọn bài, các nguyên tắc đằng sau thực đơn dinh dưỡng hay những thứ đại loại thế. 
 
@@ -1583,13 +1627,13 @@ Khi chuyển sang bước chốt sale, bạn sẽ muốn gắn kết các **Lợ
 
 Hãy sử dụng một trong các kịch bản sau tùy thuộc vào yếu tố mà họ từng tập trung nhiều nhất trong quá khứ. 
 
-> **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn nhận được các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và cuộc gọi nhắc nhở trách nhiệm duy nhất mà bạn nhận được có phải là khi thẻ ngân hàng của bạn gặp lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
+> **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn được sử dụng các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và trách nhiệm duy nhất của họ là gọi cho bạn để nhắc nhở có phải là khi thẻ ngân hàng của bạn gặp lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
 
 > **Weight Watchers / Jenny Craig** (dinh dưỡng và tính trách nhiệm): “Khi tham gia các chương trình đó, họ đưa cho bạn một chế độ ăn và thỉnh thoảng hỏi thăm bạn. Nhờ vậy bạn đã giảm được cân. Quá tuyệt vời. Vấn đề duy nhất là bạn không giữ được cân nặng đó lâu dài, đúng không? Được rồi. Vấn đề nằm ở hai điểm sau: 1) Chế độ ăn đó không bền vững (nếu không thì giờ này bạn vẫn theo đuổi nó rồi) và 2) khi bạn giảm cân, quá trình trao đổi chất của bạn thực sự bị suy giảm vì bạn chẳng hề tập tạ hay kháng lực chút nào cả. 
 >
 > Bạn có biết rằng mình sẽ bị mất cơ khi ăn kiêng không? Đó là lý do tại sao rất nhiều người tăng cân trở lại và thậm chí còn béo hơn trước. Đây cũng là lý do vì sao đàn ông có thể ăn nhiều hơn phụ nữ—họ có nhiều cơ nạc hơn, và cơ bắp sẽ đốt cháy mỡ thừa giúp họ. Nếu bạn ăn kiêng đúng cách, kết hợp với một kế hoạch bền vững và tập luyện kháng lực, bạn có thể giảm cân và giữ vững thành quả nhờ lượng cơ bắp mới được xây dựng. Bạn thấy điều này có hợp lý không? Đó chính là mảnh ghép còn thiếu trước đây của bạn.”
 >
-> **Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là chị từng thử qua chương trình uống shake (sinh tố dinh dưỡng), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
+> **Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là bạn từng thử qua chương trình ăn sinh tố dinh dưỡng (shake), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
 
 Quá trình bạn vừa áp dụng với từng trường hợp trên chính là thứ mà chúng tôi gọi là **công thức phá vỡ niềm tin (belief-breaking formula)**. Tôi học được khung 5 bước nhỏ này từ người bạn Linh Trinh của mình. Bạn có thể áp dụng nó cho bất kỳ mô hình kinh doanh nào:
 
@@ -1603,51 +1647,60 @@ Quá trình bạn vừa áp dụng với từng trường hợp trên chính là
 
 5. Đưa ra bằng chứng (bức tường minh chứng đằng sau bạn).
 
-![](../assets/images/gym-launch/01-06-01.png)
+**CÔNG THỨC BẺ GÃY NIỀM TIN CŨ**
+(_Belief-Breaking Formula_)
+
+| # | Công thức | Ví dụ thực chiến |
+| :---: | :--- | :--- |
+| **1** | **Nói ra điều họ đang TIN**<br/>*(Say what they believe)* | *"Anh vẫn tin là tung ra các ưu đãi phễu đầu vào giá rẻ (cheap front-end offers) thì hiệu quả sao?"* |
+| **2** | **Chỉ ra tại sao điều đó SAI**<br/>*(Say why it is wrong)* | *"Làm thế làm sao tạo đủ dòng tiền (cash flow) để tái đầu tư vào marketing hay chi trả chi phí thu hút khách hàng mới?"* |
+| **3** | **Đưa ra giải pháp ĐÚNG**<br/>*(Say what is right)* | *"Hãy dùng chiến lược thu hút đầu vào giá cao (high-ticket front-end acquisition)."* |
+| **4** | **Giải thích tại sao nó ĐÚNG**<br/>*(Say WHY it is right)* | *"Nó cho phép anh thoải mái chi bạo tay bao nhiêu cũng được để kéo khách về mà vẫn nắm chắc phần sinh lời."* |
+| **5** | **Đưa ra BẰNG CHỨNG**<br/>*(Show proof - 3rd party stats + testimonials)* | *"Nếu không tin tôi hay các con số toán học này? ... Hãy nhìn vào hơn 1.000 phòng gym khác đã làm được."* |
 
 Hy vọng là đến đây bạn đã nắm được mấu chốt. Bạn cần làm nổi bật cả mặt tốt lẫn mặt xấu dựa trên ba trụ cột cốt lõi: tập luyện (fitness), dinh dưỡng (nutrition) và đồng hành cam kết (accountability).
 
-Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàng về lý do tại sao họ thất bại trong quá khứ, đã đến lúc xây dựng lại sự tự tin cho họ. Họ đã biết vì giờ là lúc chúng ta chuẩn bị cho họ thành công.
+Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàng về lý do tại sao họ thất bại trong quá khứ, đã đến lúc xây dựng lại sự tự tin cho họ. Họ đã biết vì sao trước đây họ thất bại. Giờ là lúc chúng ta chuẩn bị cho họ thành công.
 
-“Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để nhường lại một trong những suất tham gia cuối cùng, tôi cần biết liệu chị có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
+“Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để có thể đăng ký cho bạn một trong các suất cuối cùng của chương trình, tôi cần biết liệu bạn có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
 
 <u>TẬP LUYỆN</u>: “Chị có thể đến đây tập cùng huấn luyện viên 3 ngày một tuần trong [ _khoảng thời gian_ ] tới chứ? Tuyệt vời. Quá dễ phải không nào.”
 
 Hãy nhớ rằng, họ đã khoanh tròn khung giờ trên phiếu khảo sát trước khi mua hàng rồi. Thêm nữa, tôi không nói gì thêm về phần tập luyện, bởi vì khách hàng chẳng quan tâm đâu. Họ chỉ quan tâm đến đích đến cuối cùng của mình, chứ không phải giáo án tập ra sao.
 
-<u>DINH DƯỠNG</u>: “Chị có thể tuân thủ theo một thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) 
+<u>DINH DƯỠNG</u>: “Chị có thể tuân thủ theo thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) 
 
-&emsp;“Chúng tôi sẽ làm cho chị…
+&emsp;“Chúng tôi sẽ làm cho bạn...
 
-&emsp;- Một thực đơn cá nhân hóa
+&emsp;&emsp;- Một thực đơn cá nhân hóa
 
-&emsp;- Một danh sách đi chợ dành riêng cho chị
+&emsp;&emsp;- Một danh sách đi chợ dành riêng cho bạn
 
-&emsp;- Một cẩm nang ăn uống ngoài hàng dành riêng cho chị
+&emsp;&emsp;- Một cẩm nang ăn ngoài hàng dành riêng cho bạn
 
-&emsp;- Các công thức nấu ăn khớp hoàn toàn với thực đơn của chị
+&emsp;&emsp;- Các công thức nấu ăn khớp hoàn toàn với thực đơn của bạn
 
-&emsp;- Cẩm nang siêu sinh tố (**super shake**)
+&emsp;&emsp;- Cẩm nang sinh tố siêu ngon (**super shake**)
 
-&emsp;- Những bữa sáng bùng nổ vị giác
+&emsp;&emsp;- Những bữa sáng bùng nổ vị giác
 
-&emsp;- Những bữa trưa ngon quên sầu
+&emsp;&emsp;- Những bữa trưa ngon quên sầu
 
-&emsp;- Những bữa tối tuyệt hảo”
+&emsp;&emsp;- Những bữa tối tuyệt hảo”
 
 > **Mẹo chuyên gia:** Đừng lược bỏ những thứ này nếu bạn đang có sẵn chúng. Khách hàng tiềm năng sẽ muốn xem xét chúng một cách chi tiết (dù thực ra họ chẳng biết mình đang nhìn cái gì đâu). Nó sẽ làm kéo dài thời gian chốt sale và thường dẫn đến những câu hỏi lạc đề, chẳng đi đến đâu. Nó chỉ tạo thêm cớ để họ phản bác (bất chấp thực tế là phần lớn bọn họ chẳng có chút kiến thức nào ngoài một bài báo trên Buzzfeed đọc được từ đời thuở nào). Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của tôi, cách này vừa tiết kiệm thời gian lại vừa hiệu quả hơn rất nhiều. Nếu họ đòi xem tận mắt những thứ này, đó là một dấu hiệu cảnh báo đỏ (**red flag**). Tôi thường chỉ lướt qua nhanh và nói rằng đây chưa phải là bản thực đơn chính thức của họ, mà chỉ là bản mẫu mà thôi. TUYỆT ĐỐI không đưa thẳng tài liệu cho họ. Chỉ trưng ra rồi cất đi ngay (tạo cảm giác đây chỉ là một bản phác thảo sơ sài của thành phẩm, khiến nó trở nên không quá quan trọng).
 
 <u>ĐỒNG HÀNH CAM KẾT</u> (ACCOUNTABILITY): “Được rồi, phần cuối cùng là sự cam kết đồng hành. Bạn có thể lên kế hoạch tập luyện và dinh dưỡng đỉnh nhất thế giới, nhưng nếu không làm theo thì cũng bằng hòa, đúng không? Vì vậy, chúng tôi cực kỳ tự hào về việc kèm cặp và giữ cam kết với khách hàng. Chúng tôi làm điều đó theo ba cách:
 
-- Chị sẽ được phân công một huấn luyện viên đồng hành cá nhân (**accountability coach**).
+- Bạn sẽ được phân công một huấn luyện viên đồng hành cá nhân (**accountability coach**).
 
-- Chị sẽ được mời tham gia nhóm đồng hành trực tuyến của chúng tôi, gồm những người mới bắt đầu và các cựu học viên. Nhờ vậy, chị sẽ được sát cánh cùng những người cũng đang trải qua hành trình này lần đầu tiên, đồng thời có thể học hỏi từ những người đã về đích và đang hô hào cổ vũ chị từ vạch đích.
+- Bạn sẽ được mời tham gia nhóm đồng hành trực tuyến của chúng tôi, gồm những người mới bắt đầu và các cựu học viên. Nhờ vậy, bạn sẽ được sát cánh cùng những người cũng đang trải qua hành trình này lần đầu tiên, đồng thời có thể học hỏi từ những người đã về đích và đang hô hào cổ vũ bạn từ vạch đích.
 
-- Chúng tôi cũng có các buổi kiểm tra tiến độ hàng tuần để đảm bảo chúng tôi làm tốt việc của mình và chị cũng đang làm tốt việc của chị. Nếu cần điều chỉnh thực đơn, chúng tôi sẽ làm ngay. Không còn kiểu ‘lên thực đơn xong rồi để đấy’ nữa. Cơ thể con người luôn thích nghi và chúng ta phải điều chỉnh cho phù hợp. Đó là một trong những lợi ích lớn nhất của việc có huấn luyện viên. Rất nhiều người vấp phải điểm dừng (**plateau**) và bị mắc kẹt. Chúng tôi đã thấy cảnh này hàng trăm lần, và chúng tôi biết rằng chỉ cần một tinh chỉnh nhỏ là có thể tiếp tục giảm cân mà không bị mất đà. Có hợp lý không ạ?”
+- Chúng tôi cũng có các buổi kiểm tra tiến độ hàng tuần để đảm bảo chúng tôi làm tốt việc của mình và bạn cũng đang làm tốt việc của bạn. Nếu cần điều chỉnh thực đơn, chúng tôi sẽ làm ngay. Không còn kiểu ‘lên thực đơn xong rồi để đấy’ nữa. Cơ thể con người luôn thích nghi và chúng ta phải điều chỉnh cho phù hợp. Đó là một trong những lợi ích lớn nhất của việc có huấn luyện viên. Rất nhiều người vấp phải nút thắt (**plateau**) và bị mắc kẹt tại đó. Chúng tôi đã thấy cảnh này hàng trăm lần, và chúng tôi biết rằng chỉ cần một tinh chỉnh nhỏ là có thể tiếp tục giảm cân mà không bị mất đà. Có hợp lý không ạ?”
 
-Nghe tuyệt vời quá phải không? Chị có muốn giữ một trong những suất cuối cùng không?
+Nghe tuyệt vời quá phải không? Bạn có muốn giữ một trong những suất cuối cùng không?
 
-À, chị đúng là gặp may đấy, vì tôi cũng không chắc mình sẽ chạy chương trình này được bao lâu nữa—đã có quá nhiều người đăng ký rồi.”
+À, bạn đúng là gặp may đấy, vì tôi cũng không chắc mình sẽ chạy chương trình này được bao lâu nữa—đã có quá nhiều người đăng ký rồi.”
 
 Phần còn lại của giao dịch này diễn ra như sau:
 
@@ -1655,11 +1708,11 @@ Phần còn lại của giao dịch này diễn ra như sau:
 
 Rồi tôi nói: “Tuyệt vời—để tôi đổi chiếc CMND này lấy chiếc thẻ thanh toán mà chị muốn dùng nhé.” Và tôi trả lại giấy tờ tùy thân, ra hiệu về phía chiếc ví của họ. Bước này thường diễn ra rất thoải mái, và tôi vừa trò chuyện phiếm vừa làm thủ tục đăng ký cho họ. (Đồng thời cũng để chắc chắn rằng tôi lấy được chính xác số thẻ tín dụng điền vào hợp đồng.)
 
-#### Giải thích (Explain)/xóa bỏ mọi lo lắng của khách hàng
+#### Explain (Giải thích/xóa bỏ) mọi lo lắng của khách hàng
 
-Trong bất kỳ tình huống bán hàng nào, bạn chỉ phải đối mặt với đúng ba rào cản (và một rào cản phụ). Chỉ thế thôi. Thật đấy. 
+Trong bất kỳ tình huống chốt sale nào, bạn chỉ phải đối mặt với đúng ba rào cản (và một rào cản phụ). Chỉ thế thôi. Thật đấy. 
 
-Đó là… 
+&emsp;Đó là...
 
 - Sự trì hoãn (Stalls) 
    - “Tôi cần suy nghĩ thêm.” 
@@ -1680,15 +1733,15 @@ Xét về các **rào cản đặc thù trong ngành thể hình (fitness-specif
 - “Tôi không thích dậy sớm.” 
 - “Tôi ghét súp lơ. Tôi không bao giờ ăn bất cứ thứ gì có súp lơ.” 
 
-Thực ra đây không phải là rào cản thật sự, thế nên đừng có hoang mang khi khách tiềm năng phun ra mấy câu kỳ cục đó. Họ vẫn muốn mua hàng đấy chứ. 
+Thực ra đây không phải là rào cản thật sự, thế nên đừng có hoang mang khi khách hàng tiềm năng phun ra mấy câu kỳ cục đó. Thực ra họ vẫn muốn mua hàng đấy chứ. 
 
-Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS "Xử lý rào cản" ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
+Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS "Xử Lý Rào Cản" ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
 
-Lưu ý: Nếu bạn bán hàng tốt, bạn sẽ chẳng cần đến chúng. Nếu bạn cảm thấy mình lúc nào cũng phải chật vật tranh cãi với khách để chốt sale, có khả năng đã có gì đó sai sót ở các bước đầu trong quy trình này. (Thường là do bạn chưa dành đủ thời gian để đào sâu khoảng trống, khoét sâu nhu cầu và xoáy vào vòng lặp nỗi đau của họ). Nhưng NẾU bạn đã làm tốt tất cả các bước trước đó, và bạn tràn đầy năng lượng (thật sự) cùng một nụ cười rạng rỡ (thật sự), thì những chiến thuật này sẽ giúp bạn hỗ trợ khách hàng đưa ra quyết định mà cả hai đều biết họ nên làm. 
+<u>Lưu ý:</u> Nếu bạn bán hàng tốt, bạn sẽ chẳng cần đến chúng. Nếu bạn cảm thấy mình lúc nào cũng phải chật vật tranh cãi với khách để chốt sale, có khả năng đã có gì đó sai sót ở các bước đầu trong quy trình này. (Thường là do bạn chưa dành đủ thời gian để đào sâu khoảng trống (GAP), khoét sâu nhu cầu và xoáy vào vòng lặp nỗi đau của họ). Nhưng nếu bạn đã làm tốt tất cả các bước trước đó, và bạn tràn đầy năng lượng (thật sự) cùng một nụ cười rạng rỡ (thật sự), thì những chiến thuật này sẽ giúp bạn hỗ trợ khách hàng đưa ra quyết định mà cả hai đều biết họ nên làm. 
 
-Và bạn càng luyện tập nhiều, mọi thứ sẽ càng mượt mà, và bạn có thể lôi chúng ra sử dụng bất cứ lúc nào bạn muốn. Nghệ sĩ Eminem từng đọc cả cuốn từ điển để trang bị mọi "vũ khí" trong kho tàng của mình—anh ấy nắm rõ từng từ ngữ. Đối với một sales, danh sách các đòn chốt sale này chính là vũ khí của bạn. Hãy chắc chắn rằng bạn luôn ra sân với phong độ đỉnh cao nhất. 
+Và bạn càng luyện tập nhiều, mọi thứ sẽ càng mượt mà, và bạn có thể lôi chúng ra sử dụng bất cứ lúc nào bạn muốn. Nghệ sĩ Eminem từng đọc cả cuốn từ điển để trang bị mọi "vũ khí" trong kho tàng của mình—anh ấy nắm rõ từng từ ngữ. Đối với một người bán hàng (sales person), danh sách các đòn chốt sale này chính là vũ khí của bạn. Hãy chắc chắn rằng bạn luôn ra sân với phong độ đỉnh cao nhất. 
 
-#### Củng cố (Reinforce) quyết định của họ
+#### REINFORCE (Củng cố) quyết định của họ
 
 ![](../assets/images/gym-launch/01-06-02.png)
 
@@ -1698,15 +1751,15 @@ Bước cuối cùng trong công thức C-L-O-S-E-R giúp ngăn chặn tình tr�
 
 Ba bước chúng tôi thực hiện để củng cố quyết định gia nhập phòng tập của khách hàng là… 
 
-- Một **thư mời viết tay** tham dự sự kiện tiếp theo của chúng tôi 
+- Một **thư mời viết tay** tham dự sự kiện tiếp theo của chúng tôi.
 
-- Một **cuộc gọi từ chủ phòng tập** để chào mừng họ vào tối hôm đó hoặc sáng sớm ngày hôm sau 
+- Một **cuộc gọi từ chủ phòng tập** để chào mừng họ vào tối hôm đó hoặc sáng sớm ngày hôm sau.
 
-- Một chiếc **áo thun hoặc quà lưu niệm (swag)** 
+- Một chiếc **áo thun hoặc quà lưu niệm (swag)**.
 
 Ngày nay, phần lớn những việc này có thể tự động hóa bằng hệ thống và công nghệ. Nhưng bạn vẫn nên xây dựng một trải nghiệm được chuẩn bị kỹ lưỡng cho khách hàng mới, giúp họ cảm thấy mình đặc biệt và tự tin rằng họ đã đưa ra quyết định đúng đắn. 
 
-Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những món quà trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
+Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những "_vũ khí_" trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
 
 #### **Cùng Ôn Lại Nào** 
 
@@ -1724,13 +1777,13 @@ Trước khi chọn một trong hai đường đó, hãy cùng điểm lại nh�
 
    - Tạo Leads liên tục bằng Lead Gen Scrambler 
 
-   - Kéo họ đến phòng tập (Getting Them In) 
+   - Khiến khách hàng tiềm năng phải xuất hiện
 
       - Lên lịch hẹn (Scheduling) 
 
       - Có mặt đúng giờ (Showing Up) 
 
-   - Thuyết phục họ mua hàng (Getting Them to Buy) 
+   - Khiến họ phải mua hàng
 
       - Câu hỏi định hướng và Bảng câu hỏi thu thập thông tin (Pre-Frame Questions and Intake Questionnaire) 
 
@@ -1742,11 +1795,11 @@ Trước khi chọn một trong hai đường đó, hãy cùng điểm lại nh�
 
 Nào, sẵn sàng giải quyết vấn đề lớn thứ hai trong ngành thể hình chưa? 
 
-Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang hỏng hóc và cách để sửa chữa nó. 
+Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang bị hỏng và cách để sửa chữa nó. 
 
-## **Phần II: Nâng cấp dịch vụ (Ascension): Tối ưu hóa lợi nhuận** 
+## **Phần II: Nâng cấp (Ascension): Tối ưu hóa lợi nhuận** 
 
-Tôi đảm bảo bạn biết đến đòn bẩy (lever): một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của con người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
+Tôi chắc chắn rằng bạn biết một cái đòn bẩy (lever) trông như thế nào: một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
 
 Trong phần này, trước tiên chúng ta sẽ chỉ ra vấn đề của mô hình phòng tập lỗi thời mà đa số mọi người đang dùng. Khi đã rõ vấn đề, tôi sẽ giới thiệu ba **đòn bẩy vĩ mô (macro levers)** giúp bạn gia tăng lợi nhuận cho phòng tập, đồng thời cung cấp các dịch vụ nhiều hơn và tốt hơn cho khách hàng. **Đòn bẩy vĩ mô** là những chiến lược chủ chốt giúp đưa phòng tập của bạn tiến về phía trước. Trong mỗi đòn bẩy vĩ mô, chúng ta sẽ đi sâu vào các **đòn bẩy vi mô (micro levers)** nhỏ hơn nhưng cực kỳ hữu ích để giúp bạn kéo đòn bẩy lớn và thu về thành quả. Đòn bẩy vi mô là những yếu tố nhỏ hơn (nhưng tầm quan trọng không hề kém cạnh) nằm bên trong đòn bẩy vĩ mô. 
 
@@ -6804,4 +6857,3 @@ Và xin cảm ơn Julie Eason cùng đội ngũ của cô đã hiện thực hó
 ###### **Về Tác Giả** 
 
 Khi Alex mở phòng gym đầu tiên và nhận ra tiền thuê mặt bằng còn nhiều hơn số dư trong tài khoản ngân hàng, anh nhanh chóng nhận ra mình phải tìm ra cách chuyển đổi khách hàng tiềm năng (KHTN) thành khách hàng đến trực tiếp (**walk-ins**), rồi chốt sales thành công. Và anh đã làm được. Kể từ đó, anh đã tự tay chốt hơn 4.000 giao dịch 1-1 và huấn luyện một đội ngũ sales gồm 10 người đạt được kết quả tương tự. Hiện tại, anh đang điều hành công ty Gym Launch — chuyên cung cấp các giải pháp tạo phễu khách hàng tiềm năng giá trị cao (**high-ticket lead generation**) và kỹ năng bán hàng cùng đội ngũ sales tinh nhuệ dành cho các mô hình bootcamp, crosscut và studio tập luyện nhóm nhỏ. Anh giúp các phòng gym chuyển mình từ con số không đến mức lấp đầy công suất chỉ trong 30 ngày hoặc ít hơn.
-
