@@ -1,4 +1,4 @@
-### **Lời khen dành cho** **_Gym Launch Secrets_**
+# **Lời khen dành cho** **_Gym Launch Secrets_**
 
 Nhờ *Gym Launch Secrets*, chúng tôi từ chỗ lỗ chổng vó (doanh thu 3.000 USD/tháng nhưng chi tới 8.000 USD), chỉ còn cách ngày đóng cửa vỏn vẹn 3 tuần, đã vươn lên đạt doanh thu hơn 600.000 USD trong vòng 18 tháng và xây dựng được một đội ngũ 8 người. Quan trọng hơn, nó đã cứu sống toàn bộ sự nghiệp của chúng tôi và thắp lại ngọn lửa đam mê giúp đỡ mọi người! Cảm ơn anh, Alex!
 
@@ -1375,7 +1375,7 @@ Tin vui là bạn có thể tự động hóa toàn bộ quy trình này. Chuẩ
 
 Vẫn còn rất nhiều điều nữa—và tôi thực sự đau lòng khi phải cắt ngắn phần này—nhưng chúng ta phải tiến lên thôi. Tôi hy vọng phần trên đã cung cấp cho bạn những kiến thức vỡ lòng về các best practice (thực tiễn tốt nhất) để kéo mọi người đến phòng tập. Nhưng một khi họ đã đặt chân đến phòng tập, làm thế nào để bạn giúp đỡ họ? 
 
-### **Chương 5:** Chốt Sale (Get Them To Buy)** 
+### **Chương 5: Chốt Sale (Get Them To Buy)** 
 
 Đây là phần mà rất nhiều chủ phòng tập (và cả những người làm kinh doanh nói chung) thường thú nhận là họ ghét cay ghét đắng. Họ không muốn làm phiền người khác, họ sợ khách hàng sẽ bỏ chạy khi bị chốt sale, hoặc họ lo rằng khách hàng sẽ từ chối. Nhưng để mang lại dịch vụ tốt nhất có thể cho khách hàng—và kiếm đủ tiền để duy trì phòng tập không chỉ hoạt động mà còn phát triển thịnh vượng cho bạn lẫn đội ngũ nhân sự—bạn bắt buộc phải nắm vững các kỹ thuật bán hàng. Trong chương này, tôi sẽ điểm qua một vài kỹ thuật yêu thích của mình. 
 
@@ -1451,13 +1451,35 @@ Của bạn đây nhé…
 
 *(Sách này vốn không định viết về bán hàng đâu, nhưng mà tôi ngứa tay quá nên đành chịu.)*
 
-#### **Lời chào bán hàng, Khu vực chờ và Phòng làm việc**
+#### **Quy trình tiếp đón, khu vực chờ và văn phòng chốt sale**
 
-Phần đầu tiên để tạo nên một cuộc trò chuyện đồng nhất chính là một môi trường đồng nhất. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng thương vụ hoàn toàn nằm trong tay bạn.
+(_The Sales Greeting, Waiting Area, And Office_)
 
-Tôi sẽ cố gắng diễn đạt thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
+Bước đầu tiên để có một cuộc tư vấn nhất quán chính là một không gian nhất quán. Dù bạn có chủ đích hay không, sảnh chờ và không gian bán hàng của bạn cũng đang liên tục phát ra những tín hiệu ngầm tới khách hàng tiềm năng. Việc những tín hiệu đó thúc đẩy hay phá hỏng buổi chốt sale hoàn toàn nằm trong tay bạn.
+
+Tôi sẽ cố gắng diễn đạt điều này thật ngắn gọn và súc tích. Nó đơn giản nhưng mang lại hiệu quả cực kỳ cao. Thế nên, hãy dành ra một buổi chiều để thiết lập nó một lần và mãi mãi không cần bận tâm nữa.
 
 ![](../assets/images/gym-launch/01-05-00.png)
+
+> ### QUY TRÌNH TIẾP ĐÓN & THIẾT LẬP VĂN PHÒNG CHỐT SALE
+>
+> 1. **Khách bước vào:** Đội ngũ chào đón khách tiềm năng **bằng tên trong vòng 10 giây**.
+> 2. **Ký danh xác nhận:** Cho khách ký xác nhận vào bảng danh sách đăng ký tham dự của bạn. (Ví dụ: "FITNESS CHALLENGE SIGN UPS")
+>    - **A.** Trang đăng ký nên được lấp đầy khoảng 3/4 danh sách (thể hiện những người đăng ký trước đó).
+>    - **B.** Tiêu đề bảng phải mặc định tâm lý họ đã sẵn sàng chốt đơn.
+>    - **C.** Kẹp nhiều tờ danh sách đã điền kín phía bên dưới để tạo hiệu ứng.
+> 3. **Phòng/khu vực chờ tràn ngập câu chuyện thành công:**
+>    - **A.** Rất nhiều bằng chứng xã hội (tường dán kín ảnh trước/sau khiến khách phải thốt lên *"WOW!"*).
+> 4. **Điền phiếu khảo sát trước bán hàng:** Khách tự tay cam kết các câu hỏi then chốt. Ví dụ:
+>    - *"Tôi cần giúp đỡ ✔"*
+>    - *"Tôi sẽ cố gắng ✔"*
+>    - *"Tôi thực sự nghiêm túc ✔"*
+> 5. **Chuyên gia bước ra khỏi phòng dẫn khách vào...**
+> 6. **Thiết lập không gian văn phòng bán hàng:**
+>    - **A.** Chồng hợp đồng đã ký xếp sẵn trên bàn.
+>    - **B.** Xếp nhiều ghế xung quanh để tạo cảm giác đông đúc/nhộn nhịp.
+>    - **C.** Tuyệt đối không ngồi đối diện qua một chiếc bàn.
+>    - **D.** Hãy cố gắng ngồi cạnh nhau / góc liền kề.
 
 Hãy bắt đầu từ khoảnh khắc một khách hàng tiềm năng bước chân qua cửa. Dưới đây là mô hình bố trí lý tưởng cho lời chào bán hàng (sales greeting) và văn phòng của bạn nhằm tối đa hóa tỷ lệ chốt đơn.
 
@@ -1517,25 +1539,28 @@ Hãy học nó. Hãy dùng nó. Kiếm tiền từ nó. Sau đó truyền lại 
 
 Bây giờ bạn đã có một từ viết tắt cực kỳ dễ nhớ rồi, hãy cùng mổ xẻ chi tiết từng chữ cái nhé.
 
-#### Làm rõ (Clarify) lý do họ hành động / xuất hiện 
+#### CLARIFY (Làm rõ)
 
-“Điều gì đưa bạn đến đây ngày hôm nay?” 
+> _Lý do họ tham gia/xuất hiện_
+ 
+&emsp;_“Điều gì đưa bạn đến đây ngày hôm nay?”_ 
+&emsp;_“Mục tiêu của bạn là gì?”_ 
+&emsp;_“Tại sao bạn lại đăng ký tham gia [ _tên chương trình_ ] trực tuyến này?”_ 
 
-“Mục tiêu của bạn là gì?” 
+Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì một số khách hàng cần vài gợi ý khác nhau mới hiểu được ý bạn là gì. Mục đích của chuỗi câu hỏi này là **thiết lập KHOẢNG TRỐNG (GAP)**. Họ đang khao khát một thứ mà họ chưa thể đạt được (hoặc không giữ được sau khi đã đạt), và cách dễ nhất để tìm ra điều đó là cứ thẳng thắn hỏi họ. 
 
-“Tại sao bạn lại đăng ký tham gia [ _tên chương trình_ ] trực tuyến này?” 
+> **Người dịch:** GAP
+> Ý tác giả muốn nói ở đây là: Khách hàng cần cảm nhận/hình dung được vấn đề/nỗi đau của họ.
 
-Tôi thường hỏi nhanh cả ba câu hỏi này nối tiếp nhau, bởi vì một số khách hàng cần vài gợi ý khác nhau mới hiểu được ý bạn là gì. Mục đích của chuỗi câu hỏi này là **thiết lập KHOẢNG CÁCH (GAP)**. Họ đang khao khát một thứ mà họ chưa thể đạt được (hoặc không giữ được sau khi đã đạt), và cách dễ nhất để tìm ra điều đó là cứ thẳng thắn hỏi họ. 
+Đôi khi họ sẽ đưa ra câu trả lời chung chung, chẳng hạn như: _“Tôi chỉ muốn tìm hiểu thêm thông tin thôi”_ hoặc _“Tôi thấy ưu đãi hời quá nên tò mò thế thôi”_. 
 
-Đôi khi họ sẽ đưa ra câu trả lời chung chung, chẳng hạn như: “Tôi chỉ muốn tìm hiểu thêm thông tin thôi” hoặc “Tôi thấy ưu đãi hời quá nên tò mò thế thôi”. 
-
-Để phá vỡ câu trả lời chung chung đó, hãy nói kiểu như thế này: “Tôi xin lỗi, đáng lẽ tôi nên đặt câu hỏi trúng trọng tâm hơn để biết cách hỗ trợ bạn tốt nhất. Không biết bạn kỳ vọng đạt được hoặc cải thiện điều gì khi đến đây?” 
+Để phá vỡ câu trả lời chung chung đó, hãy nói kiểu như thế này: _“Tôi xin lỗi, đáng lẽ tôi nên đặt câu hỏi trúng trọng tâm hơn để biết cách hỗ trợ bạn tốt nhất. Không biết bạn kỳ vọng đạt được hoặc cải thiện điều gì khi đến đây?”_ 
 
 Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mình. 
 
-#### Gắn nhãn (Label) họ với vấn đề mà bạn định giải quyết 
+#### LABEL (Gắn nhãn) họ với vấn đề mà bạn định giải quyết 
 
-Đây là lúc bạn làm nổi bật hoặc tóm tắt trạng thái hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
+Đây là lúc bạn làm nổi bật hoặc tóm tắt tình trạng hiện tại so với trạng thái mong muốn của họ. Hãy lấy số liệu cụ thể. 
 
 - “Hiểu rồi, vậy là bạn muốn giảm cân. Cụ thể thì hiện tại bạn nặng bao nhiêu?” 
 
@@ -1545,25 +1570,44 @@ Lúc này, họ sẽ thổ lộ **VẤN ĐỀ (PROBLEM)** thực sự của mìn
 
 Tôi biết—nghe hơi nhạt nhẽo phải không? Nhưng tôi vẫn dùng đúng trò đùa đó, và ai cũng bật cười giả tạo một cách rập khuôn mỗi lần nghe thấy. 
 
-#### Tổng quan (Overview) về những nỗi đau và trải nghiệm trong quá khứ 
+#### OVERVIEW (Tổng quan) về những nỗi đau và trải nghiệm trong quá khứ 
 
 Ở bước tiếp theo, bạn sẽ cùng họ nhìn lại những nỗi đau và thất bại trong quá khứ. (Tin tôi đi, họ chắc chắn đã nếm mùi thất bại—đó là lý do họ phải cất công lái xe đến gặp bạn, vì họ chưa thể đạt được kết quả tuyệt vời ở bất kỳ nơi nào khác.) 
 
 - “Tuyệt vời, vậy là tôi đã nắm được bạn đang ở đâu và muốn đến đâu, thế còn trước đây bạn đã thử những cách gì rồi?” 
 
-- “Tôi không thể giúp bạn đến đích nếu tôi không biết bạn đã xuất phát từ đâu và đã làm những gì.” 
+- “Tôi không thể giúp bạn đạt được mục tiêu nếu tôi không biết tình trạng hiện tại của bạn và bạn đã từng thử những cách nào để đạt được mục tiêu đó.” 
 
 Khách hàng của bạn rất có thể đang cảm thấy bản thân đã thất bại ở một mức độ nào đó, và đó là lý do họ không đạt được mục tiêu thể hình trong các lần thử sức trước. 
 
-Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra khoảng cách nằm ở đâu, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
+Để thuyết phục họ rằng bạn có thể làm được điều mà những nơi khác chưa làm được, bạn sẽ muốn phân loại từng vấn đề của họ vào một bảng nhỏ như dưới đây. (Bạn có thể nhẩm trong đầu hoặc vẽ ra giấy.) Việc dùng sơ đồ trực quan này sẽ giúp bạn chỉ ra nơi và **GAP** tồn tại, từ đó chứng minh cho họ thấy rằng **đó không phải lỗi của HỌ**, mà là do việc thực thi một kế hoạch sai lầm. 
 
 Sau đó, bạn sẽ so sánh và đối chiếu những việc họ đã làm trong quá khứ, đứng về phía những phương pháp đúng đắn và tách biệt dịch vụ của bạn khỏi những thứ họ từng ghét hoặc những thứ không mang lại kết quả. 
 
 ![](../assets/images/gym-launch/01-06-00.png)
 
+**VÒNG LẶP NỖI ĐAU & VẤN ĐỀ: TỔNG QUAN VỀ TRẢI NGHIỆM TRONG QUÁ KHỨ**
+*(Problem Pain Cycle: Overview of Past Experiences)*
+
+1. **Anh/chị đã từng làm những gì rồi?** *(What have you done?)*
+2. **Anh/chị đã theo phương pháp đó trong bao lâu? Cách đây bao lâu rồi?** *(How long did you do it for? How long ago?)*
+3. **Kết quả mang lại cho anh/chị ra sao?** *(How did that work for you?)*
+
+> **PHÂN LOẠI:** Đồng thuận & gắn kết bản thân với những điểm tích cực, tách biệt bản thân khỏi những trải nghiệm tiêu cực / lỗ hổng mà họ gặp phải *(Categorize: Align self with positives, repel self from negatives/gaps)*.
+
+| Các hình thức đã thử | TẬP LUYỆN <br>*(Fitness)* | DINH DƯỠNG <br>*(Nutrition)* | ĐỒNG HÀNH CAM KẾT <br>*(Accountability)* |
+| :--- | :---: | :---: | :---: |
+| **Phòng gym thương mại / chuỗi lớn**<br/>*(Big Box Gym)* | ❌ | | |
+| **Huấn luyện viên cá nhân**<br/>*(Personal Trainer)* | ❌ | | ❌ |
+| **Weight Watchers / Jenny Craig / Chế độ ăn sẵn**<br/>*(Food-based systems)* | | ❌ | ❌ |
+| **Chỉ dùng thuốc giảm cân, bột lắc, TPCN** *(Pills, shakes, supplement-only)* | | ❌ | |
+| **Tự tập luyện tại nhà**<br/>*(Workout from home)* | ❌ | | |
+
+4. ↻ **Anh/chị còn thử qua giải pháp nào khác nữa chưa?** *(What else have you done? - Lặp lại chu trình từ câu 1)*
+
 Sơ đồ nhỏ này sẽ kiếm cho bạn nhiều tiền hơn bạn tưởng tượng. Nó sẽ đập tan những niềm tin sai lầm của khách hàng về lý do tại sao họ từng thất bại. Tôi sẽ chia sẻ kịch bản để giải thích điều này ở phần tiếp theo. 
 
-#### Bán (Sell) cho họ một kỳ nghỉ, đừng bán chuyến bay.
+#### SELL (Bán) cho họ một kỳ nghỉ, đừng bán chuyến bay.
 
 Khi đi du lịch nghỉ dưỡng, chẳng ai muốn nghe về hàng chờ kiểm tra an ninh TSA, khu nhận hành lý, các chuyến bay bị hoãn, thời gian quá cảnh hay việc đổi múi giờ cả. Họ chỉ muốn nghe về Hawaii. Thế nên, đừng nói với khách hàng tiềm năng về hệ thống bài tập, cách chọn bài, các nguyên tắc đằng sau thực đơn dinh dưỡng hay những thứ đại loại thế. 
 
@@ -1583,13 +1627,13 @@ Khi chuyển sang bước chốt sale, bạn sẽ muốn gắn kết các **Lợ
 
 Hãy sử dụng một trong các kịch bản sau tùy thuộc vào yếu tố mà họ từng tập trung nhiều nhất trong quá khứ. 
 
-> **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn nhận được các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và cuộc gọi nhắc nhở trách nhiệm duy nhất mà bạn nhận được có phải là khi thẻ ngân hàng của bạn gặp lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
+> **Phòng gym lớn** (chỉ có thể hình): “Vậy khi bạn đến phòng gym lớn, bạn được sử dụng các thiết bị tập. Tạm gọi là thế… nhưng họ có hướng dẫn bạn cách tập luyện cụ thể trong lúc ở đó không? Không, chắc chắn là không rồi. Họ có giúp bạn lên thực đơn ăn uống không? Và trách nhiệm duy nhất của họ là gọi cho bạn để nhắc nhở có phải là khi thẻ ngân hàng của bạn gặp lỗi thanh toán không (ha ha ha), tôi nói có đúng không nào?” (Lại là câu trò đùa quen thuộc đó… nhưng lúc nào cũng hiệu quả.) 
 
 > **Weight Watchers / Jenny Craig** (dinh dưỡng và tính trách nhiệm): “Khi tham gia các chương trình đó, họ đưa cho bạn một chế độ ăn và thỉnh thoảng hỏi thăm bạn. Nhờ vậy bạn đã giảm được cân. Quá tuyệt vời. Vấn đề duy nhất là bạn không giữ được cân nặng đó lâu dài, đúng không? Được rồi. Vấn đề nằm ở hai điểm sau: 1) Chế độ ăn đó không bền vững (nếu không thì giờ này bạn vẫn theo đuổi nó rồi) và 2) khi bạn giảm cân, quá trình trao đổi chất của bạn thực sự bị suy giảm vì bạn chẳng hề tập tạ hay kháng lực chút nào cả. 
 >
 > Bạn có biết rằng mình sẽ bị mất cơ khi ăn kiêng không? Đó là lý do tại sao rất nhiều người tăng cân trở lại và thậm chí còn béo hơn trước. Đây cũng là lý do vì sao đàn ông có thể ăn nhiều hơn phụ nữ—họ có nhiều cơ nạc hơn, và cơ bắp sẽ đốt cháy mỡ thừa giúp họ. Nếu bạn ăn kiêng đúng cách, kết hợp với một kế hoạch bền vững và tập luyện kháng lực, bạn có thể giảm cân và giữ vững thành quả nhờ lượng cơ bắp mới được xây dựng. Bạn thấy điều này có hợp lý không? Đó chính là mảnh ghép còn thiếu trước đây của bạn.”
 >
-> **Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là chị từng thử qua chương trình uống shake (sinh tố dinh dưỡng), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
+> **Shakes** (Dinh dưỡng): “Hiểu rồi. Vậy là bạn từng thử qua chương trình ăn sinh tố dinh dưỡng (shake), giảm được chút cân lúc đầu, nhưng rồi lại tăng cân trở lại. Kiểu này giống Weight Watchers, nhưng phần dinh dưỡng kém hơn chút, phần đồng hành cam kết (**accountability**) thì tệ hơn hẳn, và mảng tập luyện thì gần như bằng không. Không có thực đơn nào được thiết kế riêng cho chị. Chẳng có ai kèm cặp, theo sát. Và cũng chẳng có ai đợi sẵn ở phòng gym để hướng dẫn chị tập theo đúng mục tiêu cá nhân. Đúng không ạ? Chị nghĩ nếu mình có tất cả những điều đó, liệu mình có thành công không?”
 
 Quá trình bạn vừa áp dụng với từng trường hợp trên chính là thứ mà chúng tôi gọi là **công thức phá vỡ niềm tin (belief-breaking formula)**. Tôi học được khung 5 bước nhỏ này từ người bạn Linh Trinh của mình. Bạn có thể áp dụng nó cho bất kỳ mô hình kinh doanh nào:
 
@@ -1603,51 +1647,60 @@ Quá trình bạn vừa áp dụng với từng trường hợp trên chính là
 
 5. Đưa ra bằng chứng (bức tường minh chứng đằng sau bạn).
 
-![](../assets/images/gym-launch/01-06-01.png)
+**CÔNG THỨC BẺ GÃY NIỀM TIN CŨ**
+(_Belief-Breaking Formula_)
+
+| # | Công thức | Ví dụ thực chiến |
+| :---: | :--- | :--- |
+| **1** | **Nói ra điều họ đang TIN**<br/>*(Say what they believe)* | *"Anh vẫn tin là tung ra các ưu đãi phễu đầu vào giá rẻ (cheap front-end offers) thì hiệu quả sao?"* |
+| **2** | **Chỉ ra tại sao điều đó SAI**<br/>*(Say why it is wrong)* | *"Làm thế làm sao tạo đủ dòng tiền (cash flow) để tái đầu tư vào marketing hay chi trả chi phí thu hút khách hàng mới?"* |
+| **3** | **Đưa ra giải pháp ĐÚNG**<br/>*(Say what is right)* | *"Hãy dùng chiến lược thu hút đầu vào giá cao (high-ticket front-end acquisition)."* |
+| **4** | **Giải thích tại sao nó ĐÚNG**<br/>*(Say WHY it is right)* | *"Nó cho phép anh thoải mái chi bạo tay bao nhiêu cũng được để kéo khách về mà vẫn nắm chắc phần sinh lời."* |
+| **5** | **Đưa ra BẰNG CHỨNG**<br/>*(Show proof - 3rd party stats + testimonials)* | *"Nếu không tin tôi hay các con số toán học này? ... Hãy nhìn vào hơn 1.000 phòng gym khác đã làm được."* |
 
 Hy vọng là đến đây bạn đã nắm được mấu chốt. Bạn cần làm nổi bật cả mặt tốt lẫn mặt xấu dựa trên ba trụ cột cốt lõi: tập luyện (fitness), dinh dưỡng (nutrition) và đồng hành cam kết (accountability).
 
-Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàng về lý do tại sao họ thất bại trong quá khứ, đã đến lúc xây dựng lại sự tự tin cho họ. Họ đã biết vì giờ là lúc chúng ta chuẩn bị cho họ thành công.
+Giờ thì, sau khi đã đập tan mọi niềm tin sai lầm của khách hàng về lý do tại sao họ thất bại trong quá khứ, đã đến lúc xây dựng lại sự tự tin cho họ. Họ đã biết vì sao trước đây họ thất bại. Giờ là lúc chúng ta chuẩn bị cho họ thành công.
 
-“Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để nhường lại một trong những suất tham gia cuối cùng, tôi cần biết liệu chị có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
+“Tôi nghĩ chị sẽ cực kỳ thích chương trình này đấy. Để có thể đăng ký cho bạn một trong các suất cuối cùng của chương trình, tôi cần biết liệu bạn có thể cam kết tuân thủ cả ba trụ cột mà tôi vừa nhắc đến không—gồm tập luyện, dinh dưỡng và đồng hành cam kết. Hãy bắt đầu với việc tập luyện nhé.”
 
 <u>TẬP LUYỆN</u>: “Chị có thể đến đây tập cùng huấn luyện viên 3 ngày một tuần trong [ _khoảng thời gian_ ] tới chứ? Tuyệt vời. Quá dễ phải không nào.”
 
 Hãy nhớ rằng, họ đã khoanh tròn khung giờ trên phiếu khảo sát trước khi mua hàng rồi. Thêm nữa, tôi không nói gì thêm về phần tập luyện, bởi vì khách hàng chẳng quan tâm đâu. Họ chỉ quan tâm đến đích đến cuối cùng của mình, chứ không phải giáo án tập ra sao.
 
-<u>DINH DƯỠNG</u>: “Chị có thể tuân thủ theo một thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) 
+<u>DINH DƯỠNG</u>: “Chị có thể tuân thủ theo thực đơn nếu chúng tôi thiết kế riêng cho chị chứ? Nó được phân loại theo màu sắc và cực kỳ đơn giản đến mức bọn trẻ 12 tuổi cũng làm được.” (Ai mà từ chối được cơ chứ? Ha ha.) 
 
-&emsp;“Chúng tôi sẽ làm cho chị…
+&emsp;“Chúng tôi sẽ làm cho bạn...
 
-&emsp;- Một thực đơn cá nhân hóa
+&emsp;&emsp;- Một thực đơn cá nhân hóa
 
-&emsp;- Một danh sách đi chợ dành riêng cho chị
+&emsp;&emsp;- Một danh sách đi chợ dành riêng cho bạn
 
-&emsp;- Một cẩm nang ăn uống ngoài hàng dành riêng cho chị
+&emsp;&emsp;- Một cẩm nang ăn ngoài hàng dành riêng cho bạn
 
-&emsp;- Các công thức nấu ăn khớp hoàn toàn với thực đơn của chị
+&emsp;&emsp;- Các công thức nấu ăn khớp hoàn toàn với thực đơn của bạn
 
-&emsp;- Cẩm nang siêu sinh tố (**super shake**)
+&emsp;&emsp;- Cẩm nang sinh tố siêu ngon (**super shake**)
 
-&emsp;- Những bữa sáng bùng nổ vị giác
+&emsp;&emsp;- Những bữa sáng bùng nổ vị giác
 
-&emsp;- Những bữa trưa ngon quên sầu
+&emsp;&emsp;- Những bữa trưa ngon quên sầu
 
-&emsp;- Những bữa tối tuyệt hảo”
+&emsp;&emsp;- Những bữa tối tuyệt hảo”
 
 > **Mẹo chuyên gia:** Đừng lược bỏ những thứ này nếu bạn đang có sẵn chúng. Khách hàng tiềm năng sẽ muốn xem xét chúng một cách chi tiết (dù thực ra họ chẳng biết mình đang nhìn cái gì đâu). Nó sẽ làm kéo dài thời gian chốt sale và thường dẫn đến những câu hỏi lạc đề, chẳng đi đến đâu. Nó chỉ tạo thêm cớ để họ phản bác (bất chấp thực tế là phần lớn bọn họ chẳng có chút kiến thức nào ngoài một bài báo trên Buzzfeed đọc được từ đời thuở nào). Hãy bán hàng trong thế giới tưởng tượng. Theo kinh nghiệm của tôi, cách này vừa tiết kiệm thời gian lại vừa hiệu quả hơn rất nhiều. Nếu họ đòi xem tận mắt những thứ này, đó là một dấu hiệu cảnh báo đỏ (**red flag**). Tôi thường chỉ lướt qua nhanh và nói rằng đây chưa phải là bản thực đơn chính thức của họ, mà chỉ là bản mẫu mà thôi. TUYỆT ĐỐI không đưa thẳng tài liệu cho họ. Chỉ trưng ra rồi cất đi ngay (tạo cảm giác đây chỉ là một bản phác thảo sơ sài của thành phẩm, khiến nó trở nên không quá quan trọng).
 
 <u>ĐỒNG HÀNH CAM KẾT</u> (ACCOUNTABILITY): “Được rồi, phần cuối cùng là sự cam kết đồng hành. Bạn có thể lên kế hoạch tập luyện và dinh dưỡng đỉnh nhất thế giới, nhưng nếu không làm theo thì cũng bằng hòa, đúng không? Vì vậy, chúng tôi cực kỳ tự hào về việc kèm cặp và giữ cam kết với khách hàng. Chúng tôi làm điều đó theo ba cách:
 
-- Chị sẽ được phân công một huấn luyện viên đồng hành cá nhân (**accountability coach**).
+- Bạn sẽ được phân công một huấn luyện viên đồng hành cá nhân (**accountability coach**).
 
-- Chị sẽ được mời tham gia nhóm đồng hành trực tuyến của chúng tôi, gồm những người mới bắt đầu và các cựu học viên. Nhờ vậy, chị sẽ được sát cánh cùng những người cũng đang trải qua hành trình này lần đầu tiên, đồng thời có thể học hỏi từ những người đã về đích và đang hô hào cổ vũ chị từ vạch đích.
+- Bạn sẽ được mời tham gia nhóm đồng hành trực tuyến của chúng tôi, gồm những người mới bắt đầu và các cựu học viên. Nhờ vậy, bạn sẽ được sát cánh cùng những người cũng đang trải qua hành trình này lần đầu tiên, đồng thời có thể học hỏi từ những người đã về đích và đang hô hào cổ vũ bạn từ vạch đích.
 
-- Chúng tôi cũng có các buổi kiểm tra tiến độ hàng tuần để đảm bảo chúng tôi làm tốt việc của mình và chị cũng đang làm tốt việc của chị. Nếu cần điều chỉnh thực đơn, chúng tôi sẽ làm ngay. Không còn kiểu ‘lên thực đơn xong rồi để đấy’ nữa. Cơ thể con người luôn thích nghi và chúng ta phải điều chỉnh cho phù hợp. Đó là một trong những lợi ích lớn nhất của việc có huấn luyện viên. Rất nhiều người vấp phải điểm dừng (**plateau**) và bị mắc kẹt. Chúng tôi đã thấy cảnh này hàng trăm lần, và chúng tôi biết rằng chỉ cần một tinh chỉnh nhỏ là có thể tiếp tục giảm cân mà không bị mất đà. Có hợp lý không ạ?”
+- Chúng tôi cũng có các buổi kiểm tra tiến độ hàng tuần để đảm bảo chúng tôi làm tốt việc của mình và bạn cũng đang làm tốt việc của bạn. Nếu cần điều chỉnh thực đơn, chúng tôi sẽ làm ngay. Không còn kiểu ‘lên thực đơn xong rồi để đấy’ nữa. Cơ thể con người luôn thích nghi và chúng ta phải điều chỉnh cho phù hợp. Đó là một trong những lợi ích lớn nhất của việc có huấn luyện viên. Rất nhiều người vấp phải nút thắt (**plateau**) và bị mắc kẹt tại đó. Chúng tôi đã thấy cảnh này hàng trăm lần, và chúng tôi biết rằng chỉ cần một tinh chỉnh nhỏ là có thể tiếp tục giảm cân mà không bị mất đà. Có hợp lý không ạ?”
 
-Nghe tuyệt vời quá phải không? Chị có muốn giữ một trong những suất cuối cùng không?
+Nghe tuyệt vời quá phải không? Bạn có muốn giữ một trong những suất cuối cùng không?
 
-À, chị đúng là gặp may đấy, vì tôi cũng không chắc mình sẽ chạy chương trình này được bao lâu nữa—đã có quá nhiều người đăng ký rồi.”
+À, bạn đúng là gặp may đấy, vì tôi cũng không chắc mình sẽ chạy chương trình này được bao lâu nữa—đã có quá nhiều người đăng ký rồi.”
 
 Phần còn lại của giao dịch này diễn ra như sau:
 
@@ -1655,11 +1708,11 @@ Phần còn lại của giao dịch này diễn ra như sau:
 
 Rồi tôi nói: “Tuyệt vời—để tôi đổi chiếc CMND này lấy chiếc thẻ thanh toán mà chị muốn dùng nhé.” Và tôi trả lại giấy tờ tùy thân, ra hiệu về phía chiếc ví của họ. Bước này thường diễn ra rất thoải mái, và tôi vừa trò chuyện phiếm vừa làm thủ tục đăng ký cho họ. (Đồng thời cũng để chắc chắn rằng tôi lấy được chính xác số thẻ tín dụng điền vào hợp đồng.)
 
-#### Giải thích (Explain)/xóa bỏ mọi lo lắng của khách hàng
+#### Explain (Giải thích/xóa bỏ) mọi lo lắng của khách hàng
 
-Trong bất kỳ tình huống bán hàng nào, bạn chỉ phải đối mặt với đúng ba rào cản (và một rào cản phụ). Chỉ thế thôi. Thật đấy. 
+Trong bất kỳ tình huống chốt sale nào, bạn chỉ phải đối mặt với đúng ba rào cản (và một rào cản phụ). Chỉ thế thôi. Thật đấy. 
 
-Đó là… 
+&emsp;Đó là...
 
 - Sự trì hoãn (Stalls) 
    - “Tôi cần suy nghĩ thêm.” 
@@ -1680,15 +1733,15 @@ Xét về các **rào cản đặc thù trong ngành thể hình (fitness-specif
 - “Tôi không thích dậy sớm.” 
 - “Tôi ghét súp lơ. Tôi không bao giờ ăn bất cứ thứ gì có súp lơ.” 
 
-Thực ra đây không phải là rào cản thật sự, thế nên đừng có hoang mang khi khách tiềm năng phun ra mấy câu kỳ cục đó. Họ vẫn muốn mua hàng đấy chứ. 
+Thực ra đây không phải là rào cản thật sự, thế nên đừng có hoang mang khi khách hàng tiềm năng phun ra mấy câu kỳ cục đó. Thực ra họ vẫn muốn mua hàng đấy chứ. 
 
-Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS "Xử lý rào cản" ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
+Nắm được cách vượt qua những rào cản này, bạn sẽ chốt được nhiều sale hơn và giúp nhiều người khỏe mạnh hơn. (Để biết thêm chi tiết, hãy xem phần BONUS "Xử Lý Rào Cản" ở cuối sách. Nhưng đừng lật qua đó vội, bạn sẽ bị phân tâm đấy. Phần đó chỉ chứa các câu xử lý từ chối mà chúng tôi thực sự dùng để chốt sale, loại bỏ hoàn toàn những thứ sáo rỗng mà chẳng ai thèm đồng ý.) 
 
-Lưu ý: Nếu bạn bán hàng tốt, bạn sẽ chẳng cần đến chúng. Nếu bạn cảm thấy mình lúc nào cũng phải chật vật tranh cãi với khách để chốt sale, có khả năng đã có gì đó sai sót ở các bước đầu trong quy trình này. (Thường là do bạn chưa dành đủ thời gian để đào sâu khoảng trống, khoét sâu nhu cầu và xoáy vào vòng lặp nỗi đau của họ). Nhưng NẾU bạn đã làm tốt tất cả các bước trước đó, và bạn tràn đầy năng lượng (thật sự) cùng một nụ cười rạng rỡ (thật sự), thì những chiến thuật này sẽ giúp bạn hỗ trợ khách hàng đưa ra quyết định mà cả hai đều biết họ nên làm. 
+<u>Lưu ý:</u> Nếu bạn bán hàng tốt, bạn sẽ chẳng cần đến chúng. Nếu bạn cảm thấy mình lúc nào cũng phải chật vật tranh cãi với khách để chốt sale, có khả năng đã có gì đó sai sót ở các bước đầu trong quy trình này. (Thường là do bạn chưa dành đủ thời gian để đào sâu khoảng trống (GAP), khoét sâu nhu cầu và xoáy vào vòng lặp nỗi đau của họ). Nhưng nếu bạn đã làm tốt tất cả các bước trước đó, và bạn tràn đầy năng lượng (thật sự) cùng một nụ cười rạng rỡ (thật sự), thì những chiến thuật này sẽ giúp bạn hỗ trợ khách hàng đưa ra quyết định mà cả hai đều biết họ nên làm. 
 
-Và bạn càng luyện tập nhiều, mọi thứ sẽ càng mượt mà, và bạn có thể lôi chúng ra sử dụng bất cứ lúc nào bạn muốn. Nghệ sĩ Eminem từng đọc cả cuốn từ điển để trang bị mọi "vũ khí" trong kho tàng của mình—anh ấy nắm rõ từng từ ngữ. Đối với một sales, danh sách các đòn chốt sale này chính là vũ khí của bạn. Hãy chắc chắn rằng bạn luôn ra sân với phong độ đỉnh cao nhất. 
+Và bạn càng luyện tập nhiều, mọi thứ sẽ càng mượt mà, và bạn có thể lôi chúng ra sử dụng bất cứ lúc nào bạn muốn. Nghệ sĩ Eminem từng đọc cả cuốn từ điển để trang bị mọi "vũ khí" trong kho tàng của mình—anh ấy nắm rõ từng từ ngữ. Đối với một người bán hàng (sales person), danh sách các đòn chốt sale này chính là vũ khí của bạn. Hãy chắc chắn rằng bạn luôn ra sân với phong độ đỉnh cao nhất. 
 
-#### Củng cố (Reinforce) quyết định của họ
+#### REINFORCE (Củng cố) quyết định của họ
 
 ![](../assets/images/gym-launch/01-06-02.png)
 
@@ -1698,15 +1751,15 @@ Bước cuối cùng trong công thức C-L-O-S-E-R giúp ngăn chặn tình tr�
 
 Ba bước chúng tôi thực hiện để củng cố quyết định gia nhập phòng tập của khách hàng là… 
 
-- Một **thư mời viết tay** tham dự sự kiện tiếp theo của chúng tôi 
+- Một **thư mời viết tay** tham dự sự kiện tiếp theo của chúng tôi.
 
-- Một **cuộc gọi từ chủ phòng tập** để chào mừng họ vào tối hôm đó hoặc sáng sớm ngày hôm sau 
+- Một **cuộc gọi từ chủ phòng tập** để chào mừng họ vào tối hôm đó hoặc sáng sớm ngày hôm sau.
 
-- Một chiếc **áo thun hoặc quà lưu niệm (swag)** 
+- Một chiếc **áo thun hoặc quà lưu niệm (swag)**.
 
 Ngày nay, phần lớn những việc này có thể tự động hóa bằng hệ thống và công nghệ. Nhưng bạn vẫn nên xây dựng một trải nghiệm được chuẩn bị kỹ lưỡng cho khách hàng mới, giúp họ cảm thấy mình đặc biệt và tự tin rằng họ đã đưa ra quyết định đúng đắn. 
 
-Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những món quà trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
+Bạn biết thừa rằng họ đã có một quyết định sáng suốt khi đăng ký tập luyện cùng bạn. Để biến điều đó thành sự thật, bạn chỉ cần cho họ thấy sự quan tâm chân thành bằng những hành động mang dấu ấn cá nhân. Hãy dùng một hoặc tất cả những "_vũ khí_" trên để chính thức chốt hạ và chào mừng khách hàng mới vào đại gia đình của bạn. Điều này đóng vai trò vô cùng lớn trong việc giữ chân khách hàng về lâu dài. Thêm nữa, đó cũng là một cách hành xử cực kỳ đẳng cấp. 
 
 #### **Cùng Ôn Lại Nào** 
 
@@ -1724,13 +1777,13 @@ Trước khi chọn một trong hai đường đó, hãy cùng điểm lại nh�
 
    - Tạo Leads liên tục bằng Lead Gen Scrambler 
 
-   - Kéo họ đến phòng tập (Getting Them In) 
+   - Khiến khách hàng tiềm năng phải xuất hiện
 
       - Lên lịch hẹn (Scheduling) 
 
       - Có mặt đúng giờ (Showing Up) 
 
-   - Thuyết phục họ mua hàng (Getting Them to Buy) 
+   - Khiến họ phải mua hàng
 
       - Câu hỏi định hướng và Bảng câu hỏi thu thập thông tin (Pre-Frame Questions and Intake Questionnaire) 
 
@@ -1742,47 +1795,52 @@ Trước khi chọn một trong hai đường đó, hãy cùng điểm lại nh�
 
 Nào, sẵn sàng giải quyết vấn đề lớn thứ hai trong ngành thể hình chưa? 
 
-Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang hỏng hóc và cách để sửa chữa nó. 
+Đọc tiếp để hiểu tại sao mô hình doanh thu của bạn đang bị hỏng và cách để sửa chữa nó. 
 
-## **Phần II: Nâng cấp dịch vụ (Ascension): Tối ưu hóa lợi nhuận** 
+## **Phần II: Nâng cấp (Ascension): Tối ưu hóa lợi nhuận** 
 
-Tôi đảm bảo bạn biết đến đòn bẩy (lever): một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của con người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
+Tôi chắc chắn rằng bạn biết một cái đòn bẩy (lever) trông như thế nào: một công cụ đơn giản được thiết kế để giúp bạn di chuyển hoặc nâng một vật nặng quá sức của người bình thường. Đây có lẽ là một trong những công cụ đầu tiên và mạnh mẽ nhất do nhân loại phát minh ra. Trong kinh doanh, đòn bẩy chính là cách tạo ra những cú bứt phá ngoạn mục chỉ bằng những thay đổi nhỏ trong cách vận hành doanh nghiệp. 
 
-Trong phần này, trước tiên chúng ta sẽ chỉ ra vấn đề của mô hình phòng tập lỗi thời mà đa số mọi người đang dùng. Khi đã rõ vấn đề, tôi sẽ giới thiệu ba **đòn bẩy vĩ mô (macro levers)** giúp bạn gia tăng lợi nhuận cho phòng tập, đồng thời cung cấp các dịch vụ nhiều hơn và tốt hơn cho khách hàng. **Đòn bẩy vĩ mô** là những chiến lược chủ chốt giúp đưa phòng tập của bạn tiến về phía trước. Trong mỗi đòn bẩy vĩ mô, chúng ta sẽ đi sâu vào các **đòn bẩy vi mô (micro levers)** nhỏ hơn nhưng cực kỳ hữu ích để giúp bạn kéo đòn bẩy lớn và thu về thành quả. Đòn bẩy vi mô là những yếu tố nhỏ hơn (nhưng tầm quan trọng không hề kém cạnh) nằm bên trong đòn bẩy vĩ mô. 
+Trong phần này, trước hết chúng ta sẽ làm rõ vấn đề cốt tử trong mô hình phòng gym hiện tại mà hầu hết mọi người đang áp dụng. Một khi điểm nghẽn đó đã sáng tỏ, tôi sẽ chia sẻ về ba đòn bẩy **VĨ MÔ** (macro levers) mà bạn có thể vận dụng cho phòng gym của mình để vừa gia tăng lợi nhuận, vừa nâng tầm chất lượng và số lượng dịch vụ cung cấp cho khách hàng. Đòn bẩy vĩ mô là các sáng kiến chiến lược cốt lõi giúp đẩy toàn bộ cỗ máy kinh doanh của bạn tiến về phía trước. Đi sâu vào từng đòn bẩy vĩ mô, chúng ta sẽ bóc tách các đòn bẩy **VI MÔ** (micro levers) nhỏ hơn—chúng là những mắt xích giúp bạn kích hoạt đòn bẩy vĩ mô một cách chuẩn xác để gặt hái thành quả. Các đòn bẩy vi mô tuy có quy mô nhỏ hơn nhưng đóng vai trò quan trọng không kém cấu thành nên sức mạnh của đòn bẩy vĩ mô.
 
-Hãy hình dung những đòn bẩy này giống như cần gạt ở bên hông máy đánh bạc (chính là phòng tập của bạn). Kéo tất cả và kéo đúng cách, tiền mặt sẽ tự động tuôn ra. 
+Hãy hình dung những đòn bẩy này giống như các tay gạt bên hông một chiếc máy quay xèng (chính là phòng gym của bạn). Kéo đủ tất cả và kéo thật chuẩn xác, tiền mặt sẽ tự động tuôn trào không ngừng.
 
-Ba đòn bẩy vĩ mô đó là: 
+Ba đòn bẩy vĩ mô bao gồm:
 
-- Đòn bẩy vĩ mô số 1: Đòn bẩy Giá cả (Price Levers) 
+- **Đòn bẩy vĩ mô #1: Đòn bẩy về Giá (Price Levers)**
 
-   - Đòn bẩy này liên quan đến chính sách giá, gói tập và các hình thức hội viên. 
+   - Đòn bẩy này liên quan đến chiến lược định giá, các gói sản phẩm/dịch vụ (packages) và các gói hội viên (memberships).
 
-- Đòn bẩy vĩ mô số 2: Đòn bẩy Công suất (Capacity Levers) 
+- **Đòn bẩy vĩ mô #2: Đòn bẩy về Sức chứa (Capacity Levers)**
 
-   - Đây là đòn bẩy "cơ bắp" và nặng đô nhất. Nó sẽ mổ xẻ toàn bộ các cách khác nhau để gia tăng sức chứa của cơ sở vật chất. Điều này cực kỳ tối quan trọng, vì nó cho phép bạn kiếm được nhiều tiền hơn rất nhiều ngay trên cơ sở hạ tầng hiện có. 
+   - Đây là đòn bẩy "nặng đô" và dày dặn nhất. Phần này sẽ mổ xẻ toàn bộ các phương thức khác nhau nhằm tối đa hóa sức chứa của cơ sở phòng gym. Yếu tố này mang tính sống còn, vì nó cho phép bạn kiếm được nhiều tiền hơn gấp bội ngay trên mặt bằng phòng gym hiện có mà không cần mở rộng diện tích.
 
-- Đòn bẩy vĩ mô số 3: Đòn bẩy Chi phí vận hành (Overhead Levers) 
+- **Đòn bẩy vĩ mô #3: Đòn bẩy về Chi phí vận hành (Overhead Levers)**
 
-   - Đây là đòn bẩy kém hào nhoáng nhất trong ba cái, nhưng lại vô cùng cốt lõi. Quan trọng không phải bạn kiếm được bao nhiêu, mà là bạn đút túi được bao nhiêu. Thế nên chúng ta sẽ mổ xẻ chính sách đãi ngộ nhân sự, chiến lược vận hành dịch vụ và các yếu tố khác để tinh gọn hóa phòng tập. 
+   - Đây là đòn bẩy kém hào nhoáng nhất (_người dịch: ít được để ý bởi chủ doanh nghiệp_) trong cả ba, nhưng tầm quan trọng của nó thì không thể bàn cãi. Vấn đề không nằm ở việc bạn kiếm được bao nhiêu tiền doanh thu, mà là bạn thực sự giữ lại và mang được bao nhiêu tiền về túi. Vì vậy, chúng ta sẽ đào sâu về cơ chế trả lương/thưởng, chiến lược thực thi và bàn giao dịch vụ (fulfillment), cùng các mảnh ghép khác để tinh giản hóa bộ máy vận hành phòng gym của bạn.
 
-Khép lại phần này, tôi sẽ chỉ cho bạn cách truyền đạt những thay đổi này đến đội ngũ nhân viên và khách hàng sao cho vấp phải ít sự kháng cự nhất và đạt tỷ lệ đồng thuận cao nhất. 
+Để khép lại toàn bộ phần này, tôi sẽ chỉ cho bạn cách truyền tải những thay đổi trên tới đội ngũ nhân sự và khách hàng sao cho vấp phải ít sự phản kháng nhất, đồng thời đạt được tỷ lệ đón nhận và hưởng ứng cao nhất.
 
 Nghe ổn chứ? 
 
 Tuyệt vời. Giờ để tôi chỉ cho bạn cách biến những phòng tập đang thua lỗ thành máy in tiền... một cách nhanh chóng. 
 
-###### **chương 7** 
+### **Chương 7: Công Thức Kinh Doanh Càng Làm Càng Lỗ** 
 
-###### **Mô Hình Lợi Nhuận Đang Bị Lỗi** 
+> <u>_Ghi chú của người dịch_</u>
+> Nguyên văn: `The Broken Profit Model`
+> Diễn giải: 
+> &emsp;Là tình trạng cấu trúc kinh doanh của doanh nghiệp bị mất cân đối nghiêm trọng giữa <u>chi phí bỏ ra để có/phục vụ khách hàng</u> và <u>giá trị tiền bạc (lợi nhuận ròng) thu về từ khách hàng đó</u>.
+> 
+> &emsp;Nói một cách hình ảnh: Doanh nghiệp của bạn giống như một chiếc xô bị thủng đáy. Bạn càng đổ nhiều nước vào (tăng ngân sách marketing, mở rộng quy mô, chốt nhiều đơn hàng), nước chảy ra ngoài càng nhanh (lỗ lũy kế càng lớn). Vấn đề không nằm ở việc đội ngũ làm việc kém hiệu quả, mà nằm ở <u>công thức kiếm tiền ngay từ đầu đã sai</u>.
 
 Vậy là đến giờ bạn đã nắm chắc khâu thu hút khách hàng rồi chứ? (Nếu chưa, hãy quay lại đọc sáu chương trước đi nhé). Nhưng việc nhét đầy phòng tập bằng những lô khách hàng mới chẳng có tác dụng gì nếu bạn cạn kiệt không gian hoặc mô hình kinh doanh của bạn chưa được thiết lập để tối đa hóa lợi nhuận. 
 
-Công suất thực sự là một bài toán hóc búa kìm hãm khả năng kiếm tiền của bạn. Một lần nữa, đây là bài toán về quy mô (scale). Nhưng bạn hoàn toàn có thể khắc phục triệt để bằng cách áp dụng một mô hình doanh thu khác và tinh chỉnh một vài điểm trong cách vận hành doanh nghiệp.
+Công suất thực sự là một bài toán hóc búa kìm hãm khả năng kiếm tiền của bạn. Một lần nữa, đây là bài toán về quy mô (scale) - khả năng mở rộng để phục vụ được nhiều khách hàng hơn. Nhưng bạn hoàn toàn có thể khắc phục triệt để bằng cách áp dụng một mô hình doanh thu khác và tinh chỉnh một vài điểm trong cách vận hành doanh nghiệp của bạn.
 
 Bạn đã sẵn sàng để nắm bắt phần cốt lõi này trong bài toán kinh doanh chưa? Hãy bắt đầu bằng việc nhìn thẳng vào vấn đề của mô hình doanh thu hiện tại mà bạn đang áp dụng.
 
-###### **Câu chuyện của tôi, và có lẽ cũng là của bạn** 
+#### **Câu chuyện của tôi, và có lẽ cũng là của bạn** 
 
 Nếu bạn giống tôi hồi mới bắt đầu, hẳn bạn cũng từng tự tay tính toán và nghĩ rằng: *"Chỉ cần có 200 khách hàng trả 200 USD/tháng, mình sẽ đút túi 40.000 USD/tháng và thành đại gia."* Thế là bạn hào hứng ký hợp đồng thuê mặt bằng với tư duy ngây thơ kiểu "mình cứ xây lên đi, khách khắc tự đến và rủ thêm cả họ hàng bạn bè", y như phần lớn chúng ta vẫn thường làm.
 
@@ -1794,40 +1852,63 @@ Và hàng loạt rắc rối khác bắt đầu xuất hiện:
 
 - Các khung giờ tập chính trong ngày (5:30 sáng, 5:00 chiều, 6:00 chiều) bắt đầu quá tải. 
 
-- Chi phí cố định (overhead) thực tế LỚN HƠN RẤT NHIỀU so với dự tính (hệ thống tự động trả lời email, trang đích - *landing page*, nhắn tin tự động, CRM và nhiều thứ khác). 
+- Chi phí cố định thực tế LỚN HƠN RẤT NHIỀU so với dự tính (hệ thống tự động trả lời email, trang đích - *landing page*, nhắn tin tự động, CRM (quản lý và chăm sóc khách hàng) và nhiều thứ khác). 
 
 - Một số chi phí tăng lên tương ứng với số lượng hội viên (chi phí nhân sự hành chính tăng, dọn dẹp nhiều hơn, thiết bị hỏng hóc/phải mua mới nhiều hơn, nâng cấp các gói phần mềm cao hơn, số giờ huấn luyện viên tăng lên). 
 
-- Khi tôi chạy các chiến dịch marketing, phần lớn khách hàng chẳng ở lại quá vài tháng. Cốt lõi hội viên trong phòng tập của tôi vẫn chỉ là nhóm 70–80 "cạ cứng" (OGs - original gangsters) đã đồng hành từ những ngày đầu. 
+- Khi tôi chạy các chiến dịch marketing, phần lớn khách hàng chẳng ở lại quá vài tháng. Và các hội viên cốt lõi trong phòng tập của tôi vẫn chỉ là nhóm 70–80 "cạ cứng" (OGs - original gangsters) đã đồng hành từ những ngày đầu. 
 
 - Ngay cả khi các khung giờ vàng đã kín chỗ, **tôi vẫn chật vật lắm mới đủ tiền trang trải qua ngày.** 
 
-Tôi đã cố vận hành doanh nghiệp dựa trên một mô hình lợi nhuận hỏng hóc từ trong trứng nước. Giấc mơ hào hùng về một phòng tập sinh lời, về việc giúp mọi người đạt được mục tiêu thể hình, đang lụi tàn nhanh chóng khi tôi ngày càng kiệt sức. Nhìn vào gương và nghe khách hàng nhận xét trông mình chẳng khác nào một ông già cáu kỉnh, tôi quyết định dừng lại để nhìn nhận thật nghiêm túc về mớ hỗn độn mà mình đang vướng vào, cũng như tìm cách thoát ra bằng được. 
+Tôi đã cố vận hành doanh nghiệp dựa trên "_mô hình tạo lợi nhuận bị lỗi_" từ trong trứng nước. Giấc mơ hào hùng về một phòng tập sinh lời, về việc giúp mọi người đạt được mục tiêu thể hình, đang lụi tàn nhanh chóng khi tôi ngày càng kiệt sức. Nhìn vào gương và nghe khách hàng nhận xét trông mình chẳng khác nào một ông già cáu kỉnh, tôi quyết định dừng lại để nhìn nhận thật nghiêm túc về mớ hỗn độn mà mình đang vướng vào, cũng như tìm cách thoát ra bằng được. 
 
-Nếu bạn thấy mình trong những vấn đề này, rất có thể bạn cũng đang dẫm lên vết xe đổ của cái mô hình què quặt đó. Tin vui là chúng ta sắp sửa sửa lại cho đúng. Nhưng trước khi làm điều đó, hãy nhìn thẳng vào các con số của bạn. Không gì kích thích tinh thần giải quyết vấn đề bằng việc nhìn thấy rõ ràng trắng đen trên giấy. 
+Nếu bạn thấy mình trong những vấn đề này, rất có thể bạn cũng đang dẫm lên vết xe đổ của cái mô hình què quặt đó. Tin vui là chúng ta chuẩn bị sửa lại cho đúng. Nhưng trước khi làm điều đó, hãy nhìn thẳng vào các con số của bạn. Không gì kích thích tinh thần giải quyết vấn đề bằng việc nhìn thấy rõ ràng trắng đen trên giấy. 
 
 Đây là bức ảnh chụp phiên bản trẻ trung và ít nếp nhăn hơn của tôi ngày trước. Nhìn lại nó, tôi gần như có thể cảm nhận lại niềm hy vọng tràn trề thuở ấy—chỉ là nó đi kèm với sự thiếu hiểu biết toàn tập về cách vận hành một doanh nghiệp. 
 
+![](../assets/images/gym-launch/02-07-00.png)
+
 Và vâng, bức ảnh ở trang tiếp theo chính là nơi tôi đã ngủ suốt sáu tháng đầu tiên khởi nghiệp. Tôi không có đủ tiền vừa thuê căn hộ vừa thuê mặt bằng phòng tập. Tôi sống tạt ngang tạt ngửa trên xe hơi và tắm nhờ ở phòng tập LA Fitness cuối phố. 
 
-Tôi kể bạn nghe điều này để khẳng định rằng tôi đã lội bùn lội ruộng qua hết rồi. Đây không phải là lý thuyết suông phát ra từ mấy tòa tháp ngà. Đây là thực chiến. Và những chiêu thức này thực sự hiệu quả. 
+Tôi kể bạn nghe điều này để khẳng định rằng tôi đã từng lội bùn lội ruộng hết cả rồi. Đây không phải là lý thuyết suông phát ra từ mấy tòa tháp ngà. Đây là thực chiến. Và những chiêu thức này thực sự hiệu quả. 
 
 Đã từng có thời điểm tôi đang cố gắng chốt đơn, bắt khách hàng ký hợp đồng và quẹt thẻ, trong lúc đứa con 6 tuổi của họ đang dùng bút lông dầu vẽ bậy lên tường phòng tập của tôi—và tôi phải cố gắng hết sức để không phát điên lên, bởi vì tôi cực kỳ cần khoản đặt cọc 300 USD ngày hôm đó để kịp trả lương nhân viên. 
 
 Tôi hiểu chứ. Tôi đã trải qua hết rồi. Nhưng như tôi đã nói, luôn có một con đường tốt hơn thế. 
 
-###### Tiến lên nào. 
+![](../assets/images/gym-launch/02-07-01.png)
 
-Hình minh họa ở trang tiếp theo chỉ ra vấn đề cốt lõi của ngành công nghiệp microgym (phòng tập quy mô nhỏ). Nói một cách đơn giản, số lượng hội viên tính theo mức giá trung bình của thị trường để giúp một phòng tập có lãi thường vượt quá sức chứa hợp lý của không gian đó. 
+Tiến lên nào. 
 
-Các lớp học trở nên đông đúc và chật kín, nhưng với mức giá trung bình của thị trường, phòng tập vẫn không thể có lãi. 
+Hình minh họa ở trang tiếp theo chỉ ra vấn đề cốt lõi của ngành công nghiệp microgym (phòng tập quy mô nhỏ). Nói một cách đơn giản, số lượng hội viên tính theo mức giá trung bình của thị trường để giúp một phòng tập có lãi thường vượt quá sức chứa hợp lý của không gian đó. Các lớp học trở nên đông đúc và chật kín, nhưng với mức giá trung bình của thị trường, phòng tập vẫn không thể có lãi. 
 
-<!-- Start of picture text -->
-Mức trung bình ngành :    118 USD/tháng<br>tập không giới hạn<br>Sức chứa tối đa<br>Điểm hòa vốn<br>lợi nhuận là bất khả thi<br>d<br>o<br>a<br>n<br>h<br>t<br>h<br>u<br>Hội viên<br><!-- End of picture text -->
+![](../assets/images/gym-launch/02-07-02-1.png)
 
-Ví dụ: một cơ sở huấn luyện nhóm lớn (large-group training) có sức chứa tối đa 16 người/buổi, trung bình doanh thu mỗi khách (eft) 120 USD/tháng, số hội viên hiện tại: 100 người, số buổi tập hàng ngày: 7, sức chứa tối đa: 114, giả sử 100 người đến tập mỗi ngày, sức chứa tối đa: 134, giả sử tỷ lệ tham gia theo mức trung bình ngành là 85%, doanh thu tối đa: 16.000 USD/tháng (134 X 120 USD). Tiền thuê mặt bằng: 4.250 USD, lương nhân sự: 4.000 USD (163 buổi X 25 USD), chi phí vận hành/marketing: 2.750 USD, điện nước/phần mềm/dọn dẹp: 1.750 USD, chi phí khác: 750 USD, chủ phòng tập nhận về: 1.500 USD, lợi nhuận: 0 USD.
+| Thông số vận hành | Giá trị |
+| :--- | :--- |
+| **Mô hình** | Huấn luyện nhóm lớn *(Large Group Training)* |
+| **Sức chứa mỗi ca** | Tối đa 16 người / buổi *(16 people / session)* |
+| **Phí hội viên bình quân (EFT)** | \$120 / tháng |
+| **Số hội viên hiện tại** | 100 người |
+| **Số ca tập mỗi ngày** | 7 ca / ngày |
+| **Sức chứa tối đa 1 (Max Cap₁)** | **114 hội viên** *(giả định 100% người đi tập mỗi ngày)* |
+| **Sức chứa tối đa 2 (Max Cap₂)** | **134 hội viên** *(giả định tỷ lệ điểm danh trung bình ngành đạt 85%)* |
+| **Doanh thu tối đa (Max Rev)** | **\$16.000 / tháng** *(134 hội viên × \$120)* |
 
-Hãy cùng phân tích ví dụ trong hình minh họa. 
+| Khoản mục chi phí<br/>(Tổng chi phí (1~6): \$14.500) | Số tiền |
+| :--- | :--- |
+| **1. Tiền thuê mặt bằng (Rent)** | \$4.250 |
+| **2. Lương huấn luyện viên (Payroll)** | \$4.000 *(163 ca × \$25)* |
+| **3. Lương quản lý / hành chính (Admin)** | \$2.750 |
+| **4. Chi phí Marketing (Mktg)** | \$1.000 |
+| **5. Điện nước / Phần mềm / Vệ sinh (Utilities/Software/Cleaning)** | \$1.750 |
+| **6. Chi phí khác (Misc)** | \$750 |
+| **7. Thu nhập chủ phòng tập (Owner Pay)** | **\$1.500** |
+| **8. Lợi nhuận ròng (Profit)** | **\$0** |
+
+> Người dịch: Lợi nhuận ròng có thể hiểu là phần mà doanh nghiệp còn giữ lại được để làm nguồn lực (hoặc dự phòng) cho doanh nghiệp mà không cần phải tăng vốn.
+
+Hãy cùng phân tích ví dụ minh họa này. 
 
 Tôi sẽ chia phần phân tích nhỏ này thành ba phần, tương ứng với ba đòn bẩy lợi nhuận vĩ mô (macro profit levers) mà tôi đã đề cập trước đó: 
 
@@ -1837,15 +1918,15 @@ Tôi sẽ chia phần phân tích nhỏ này thành ba phần, tương ứng v�
 
 - Đòn bẩy Chi phí cố định (Overhead Levers) 
 
-Chúng có sự liên kết chặt chẽ với nhau, nhưng tôi sẽ cố gắng tách bạch chúng ra nhiều nhất có thể để việc giải thích trở nên dễ hiểu. Trong mỗi đòn bẩy, tôi sẽ phác họa cách mà phần lớn các phòng tập đang làm, sau đó giải thích các tiểu đòn bẩy (micro levers) bạn có thể tác động để làm thay đổi các đòn bẩy vĩ mô, và rộng ra là tác động đến toàn bộ lợi nhuận của mô hình kinh doanh phòng tập. 
+Chúng có sự liên kết chặt chẽ với nhau, nhưng tôi sẽ cố gắng tách bạch chúng ra nhiều nhất có thể để việc giải thích trở nên dễ hiểu. Trong mỗi đòn bẩy, tôi sẽ phác họa cách mà phần lớn các phòng tập đang làm, sau đó giải thích các đòn bẩy vi mô (micro levers) bạn có thể tác động để làm thay đổi các đòn bẩy vĩ mô, và rộng ra là tác động đến toàn bộ lợi nhuận của mô hình kinh doanh phòng tập. 
 
-###### **Đòn bẩy Vĩ mô #1: Đòn bẩy Giá (Price Levers)** 
+#### **Đòn bẩy Vĩ mô #1: Đòn bẩy Giá (Price Levers)** 
 
-Các phòng tập thông thường mà chúng ta hay gặp có các con số trung bình sau: 100 hội viên đóng phí định kỳ, mỗi người trả 120 USD mỗi tháng. Điều này có nghĩa là tổng doanh thu (gross revenue) của họ là 12.000 USD mỗi tháng. 
+Các phòng tập thông thường mà chúng ta hay gặp có các con số trung bình như sau: 100 hội viên đóng phí định kỳ, mỗi người trả 120 USD mỗi tháng. Điều này có nghĩa là tổng doanh thu (gross revenue) của họ là 12.000 USD mỗi tháng. 
 
-Một số nơi nhận kèm thêm huấn luyện riêng (private training) ngoài giờ—đó mới thực sự là lúc họ kiếm tiền để đút túi, còn phòng tập chỉ hoạt động như một tổ chức phi lợi nhuận để tự nuôi sống chính nó—nhưng đại loại chỉ có vậy. Để phục vụ cho phần minh họa này, tôi sẽ chỉ tập trung bàn về cấu phần huấn luyện nhóm lớn. 
+Một số nơi nhận kèm thêm huấn luyện riêng (private training) ngoài giờ—đó mới thực sự là lúc họ kiếm tiền để đút túi, còn phòng tập chỉ hoạt động như một tổ chức phi lợi nhuận để tự nuôi sống chính nó—nhưng đại loại chỉ có vậy. Để phục vụ cho phần minh họa này, tôi sẽ chỉ tập trung bàn về thành phần huấn luyện nhóm lớn. 
 
-Các tiểu đòn bẩy tác động trực tiếp đến đòn bẩy giá vĩ mô của bạn bao gồm: 
+Các đòn bẩy vi mô tác động trực tiếp đến đòn bẩy giá vĩ mô của bạn bao gồm: 
 
 - Số lượng hội viên 
 
@@ -1853,13 +1934,13 @@ Các tiểu đòn bẩy tác động trực tiếp đến đòn bẩy giá vĩ m
 
 - Mức giá 
 
-###### **Đòn bẩy Vĩ mô #2: Đòn bẩy Sức chứa (Capacity Levers)** 
+#### **Đòn bẩy Vĩ mô #2: Đòn bẩy Sức chứa (Capacity Levers)** 
 
 Phòng tập trung bình mà chúng ta thường thấy có bức tranh về công suất hoạt động như sau: 
 
-Họ đang duy trì lịch dạy 7 buổi một ngày từ thứ Hai đến thứ Sáu và thường là 3 buổi vào dịp cuối tuần, chia đều cho thứ Bảy và Chủ Nhật. Gói hội viên mà hầu hết các phòng tập bán ra là gói không giới hạn, nghĩa là khách hàng thích đến tập lúc nào cũng được. Trung bình, họ có thể phục vụ 16 người mỗi buổi, tùy thuộc vào bài tập được lựa chọn. Mỗi buổi kéo dài một tiếng và tỷ lệ tham gia mỗi ngày thường đạt 85%. 
+Họ đang duy trì lịch dạy 7 ca/ngày từ thứ Hai đến thứ Sáu và thường là 3 ca/ngày vào dịp cuối tuần, chia đều cho thứ Bảy và Chủ Nhật. Gói hội viên mà hầu hết các phòng tập bán ra là gói không giới hạn, nghĩa là khách hàng thích đến tập lúc nào cũng được. Trung bình, họ có thể phục vụ 16 người mỗi ca tập, tùy thuộc vào bài tập được lựa chọn. Mỗi buổi kéo dài một tiếng và tỷ lệ tham gia mỗi ngày thường đạt 85%. (Người dịch: Nghĩa là tổng số hội viên tham gia qua tất cả các ca tập trong một ngày)
 
-Các tiểu đòn bẩy tác động đến đòn bẩy sức chứa vĩ mô gồm có: 
+Các đòn bẩy vi mô tác động đến đòn bẩy sức chứa vĩ mô gồm có: 
 
 - Số buổi tập mỗi tuần 
 
@@ -1869,15 +1950,15 @@ Các tiểu đòn bẩy tác động đến đòn bẩy sức chứa vĩ mô g�
 
 - Tỷ lệ chuyên cần (tỷ lệ phần trăm số buổi đã lên lịch mà hội viên thực sự có mặt) 
 
-- Không gian vật lý (diện tích sàn hữu dụng phục vụ cho các hoạt động thể fitness) 
+- Không gian vật lý (diện tích sàn hữu dụng phục vụ cho các hoạt động thể hình) 
 
 - Danh mục bài tập được chọn (vì bước gập gối ôm tạ - *walking barbell lunges* sẽ chiếm nhiều không gian hơn so với bài tập gập bụng - *sit-ups*) 
 
-###### **Đòn bẩy Chi phí cố định (Overhead Levers)** 
+#### **Đòn bẩy Chi phí cố định (Overhead Levers)** 
 
 Một phòng tập trung bình đang phải chi trả 25 USD cho chi phí nhân sự trên mỗi buổi tập, và họ tổ chức tổng cộng 38 buổi tập mỗi tuần. 
 
-Chi phí phòng tập bao gồm tiền thuê mặt bằng, điện nước, marketing và phần mềm. Tuy nhiên, chúng ta chỉ có thể can thiệp vào ba tiểu đòn bẩy sau: 
+Chi phí phòng tập bao gồm tiền thuê mặt bằng, điện nước, marketing và phần mềm. Tuy nhiên, chúng ta chỉ có thể can thiệp vào ba đòn bẩy vi mô sau: 
 
 - Số lượng buổi tập được thực hiện 
 
@@ -1887,13 +1968,9 @@ Chi phí phòng tập bao gồm tiền thuê mặt bằng, điện nước, mark
 
 **Lưu ý:** Số lượng buổi tập cũng sẽ chịu ảnh hưởng bởi những thay đổi mà chúng ta thực hiện trên đòn bẩy vĩ mô sức chứa. 
 
-Giờ thì quay lại với hình minh họa. 
+Giờ thì quay lại với ví dụ minh họa. 
 
 Điểm tôi muốn nhấn mạnh ở đây là: một phòng tập thông thường, ngay cả khi được khai thác đến mức tối đa công suất, vẫn không thể tạo ra mức lợi nhuận mà chủ đầu tư mong muốn. Nó đã chạm ngưỡng giới hạn sức chứa TRƯỚC KHI kịp đạt đến điểm có đủ lợi nhuận, đồng nghĩa với việc bắt buộc phải có thứ gì đó thay đổi, bằng không doanh nghiệp sẽ không thể sống sót.
-
-Dưới đây là bản dịch tiếng Việt cho đoạn trích, được tinh chỉnh theo đúng văn phong thực chiến, thẳng thắn và giàu năng lượng của Alex Hormozi:
-
-***
 
 Dưới đây là cách bài toán tài chính được bóc tách.
 
@@ -1909,15 +1986,13 @@ Nhưng ngay cả với 131 hội viên — tại một cơ sở hoạt động t
 
 - 800 USD tiền điện nước, internet (điện thoại, Wi-Fi) và dụng cụ vệ sinh
 
-- 2.000 USD cho hệ thống quản lý quan hệ khách hàng (**CRM**), phần mềm và phí xử lý giao dịch
+- 2.000 USD cho hệ thống quản lý quan hệ khách hàng (CRM), phần mềm và phí xử lý giao dịch
 
 - 1.000 USD cho marketing
 
-- 1.000 USD cho chi phí phát sinh
+- 1.000 USD cho chi phí phát sinh<br/>(Nếu làm phòng gym, bạn sẽ hiểu ý tôi — thiết bị hỏng hóc, loa đài, áo thun, sự kiện, v.v. Nếu chưa có phòng gym, hãy mở sao kê ngân hàng 3 tháng gần nhất ra xem… bạn sẽ thấy ngay thôi.)
 
-(Nếu làm phòng gym, bạn sẽ hiểu ý tôi — thiết bị hỏng hóc, loa đài, áo thun, sự kiện, v.v. Nếu chưa có phòng gym, hãy mở sao kê ngân hàng 3 tháng gần nhất ra xem… bạn sẽ thấy ngay thôi.)
-
-Tóm lại, lợi nhuận của bạn chỉ vỏn vẹn 2.920 USD/tháng (15.720 USD doanh thu trừ đi 12.800 USD các chi phí kể trên). Đó là tính cho một cơ sở đã tối đa hóa 100% công suất trong một thế giới hoàn hảo, với 0 USD trả cho nhân viên hành chính hay lễ tân, 0 USD tiền hoa hồng bán hàng (**sales commissions**), và 0 USD chi cho việc đào tạo nâng cao năng lực nhân sự. Danh sách những thứ LẼ RA bạn phải chi tiền để biến đây thành một cỗ máy kinh doanh tự vận hành còn dài nữa. Điều này có nghĩa là ngay cả khi bạn trả ai đó 1.000 USD/tháng để làm việc vặt hành chính, số tiền mang về nhà của bạn chỉ còn 1.920 USD/tháng — mức tiền hầu như chỉ đủ để các phòng gym thoi thóp sống qua ngày. Đây là thực trạng của phần lớn các chủ phòng gym… để rồi cuối cùng họ kiệt sức (**burn out**).
+Tóm lại, lợi nhuận của bạn chỉ vỏn vẹn 2.920 USD/tháng (15.720 USD doanh thu trừ đi 12.800 USD các chi phí kể trên). Đó là tính cho một cơ sở đã tối đa hóa 100% công suất trong một thế giới hoàn hảo, với 0 USD trả cho nhân viên hành chính hay lễ tân, 0 USD tiền hoa hồng bán hàng, và 0 USD chi cho việc đào tạo nâng cao năng lực nhân sự. Danh sách những thứ LẼ RA bạn phải chi tiền để biến đây thành một cỗ máy kinh doanh tự vận hành còn dài nữa. Điều này có nghĩa là ngay cả khi bạn trả ai đó 1.000 USD/tháng để làm việc vặt hành chính, số tiền mang về nhà của bạn chỉ còn 1.920 USD/tháng — mức tiền hầu như chỉ đủ để các phòng gym thoi thóp sống qua ngày. Đây là thực trạng của phần lớn các chủ phòng gym… để rồi cuối cùng họ kiệt sức.
 
 Tôi không rõ bạn thế nào, nhưng với việc cày cuốc hơn 80 tiếng/tuần — mức trung bình của hầu hết chủ phòng gym — thì mức thù lao thực tế trên mỗi giờ làm việc của bạn chỉ là 9,13 USD (2.920 USD thu nhập hàng tháng chia cho 320 giờ làm việc mỗi tháng).
 
@@ -1925,23 +2000,21 @@ Tôi không biết có nói hộ được lòng bạn không, nhưng tôi dám c
 
 Nhưng đừng lo — vẫn có lối thoát, và bạn sẽ không mất quá nhiều thời gian để chạm tới nó. Trong những trang tiếp theo, tôi sẽ chia sẻ kinh nghiệm xương máu của mình, rồi sau đó đi thẳng vào cách giải quyết toàn bộ mớ hỗn độn này.
 
-###### **Chương 8**
-
-###### **Đòn bẩy Giá cả & Lợi nhuận (Price-Profit Levers)**
+### **Chương 8: Đòn bẩy Giá cả & Lợi nhuận (Price-Profit Levers)**
 
 Để tôi kể cho bạn nghe về Kirk Huggins. Kirk là một trong những con người tử tế nhất hành tinh này. Nếu bạn nghĩ mình quen ai đó còn tử tế hơn, tôi cá là bạn chưa gặp Kirk đâu. Anh ấy thực sự là một "người tốt hiếm có". Kirk muốn tất cả mọi người đều có thể đi tập và có huấn luyện viên riêng với mức giá vừa túi tiền. Thế nên tại phòng gym của anh ấy ở Bắc Carolina, có những gói hội viên giá thấp đến mức khó tin: chỉ 49 USD/tháng.
 
-Và điều điên rồ là, những khách hàng trả mức giá bèo bọt đó thường lại là những kẻ gây phiền toái nhất (**PIAs - pains in the ass**).
+Và điều điên rồ là, những khách hàng trả mức giá bèo bọt đó thường lại là những kẻ gây phiền toái nhất (_Nguyên văn: PIAs - pains in the ass_).
 
 Dù sao đi nữa, có lần tôi nhận được tin nhắn từ Kirk rằng anh ấy sắp không đủ tiền trả lương nhân viên — mà nhân tiện, việc không trả được lương nhân viên là một thảm họa LỚN HƠN rất nhiều so với việc không trả được tiền thuê mặt bằng, nếu có lúc nào đó bạn rơi vào cảnh khó khăn. Niềm tin của nhân viên là tất cả. Chủ nhà còn có thể châm chước và cho bạn khất dần theo thời gian (tiện thể chia sẻ dưới góc độ tôi từng đóng cả hai vai trò chủ nhà lẫn người thuê nhà). Hãy luôn đặt nhân viên lên hàng đầu.
 
-Thế nên, dẫu biết đó không phải là một quyết định kinh doanh khôn ngoan đối với tôi, tôi vẫn cho Kirk vay tiền để trả lương nhân viên. Chỉ trong vòng 5 ngày, anh ấy đã trả lại tôi đủ nguyên cục (nhờ áp dụng các chiến thuật thu hồi vốn từ khách hàng trong Phần I).
+Thế nên, đối với tôi, dẫu biết đó không phải là một quyết định kinh doanh khôn ngoan, tôi vẫn cho Kirk vay tiền để trả lương nhân viên. Chỉ trong vòng 5 ngày, anh ấy đã trả lại tôi đủ nguyên cục (nhờ áp dụng các chiến thuật thu hồi vốn từ khách hàng trong Phần I).
 
 Nhưng sau vụ đó, chúng tôi thống nhất rằng anh ấy đang tự đẩy mình vào thế bờ vực. Khách hàng trả quá ít khiến mô hình kinh doanh của anh ấy không thể duy trì nổi, và chỉ cần một chi phí bất ngờ phát sinh là anh ấy lại rơi vào cảnh túng quẫn ngay.
 
-Thế là chúng tôi tung ra một loạt thông báo gồm thư tay, tin nhắn phát tán (**text blast**), video và email gửi toàn bộ cơ sở khách hàng để giải thích lý do tại sao anh ấy buộc phải tăng giá. Cuối cùng, chúng tôi chốt mức 150 USD/tháng — một cú nhảy vọt KHỔNG LỒ. Anh ấy đã ĐẠT GẤP BA lần giá cũ ngay tại một thị trường có nền kinh tế èo uột bậc nhất cả nước. Kirk buộc phải hành động vì anh chẳng còn đường lùi. Hy vọng là bạn cũng sẽ hành động trước khi rơi vào bước đường cùng đó.
+Thế là chúng tôi tung ra một loạt thông báo gồm thư tay, tin nhắn phát tán (text blast), video và email gửi toàn bộ khách hàng của anh ấy để giải thích lý do tại sao anh ấy buộc phải tăng giá. Cuối cùng, chúng tôi chốt mức 150 USD/tháng — một cú nhảy vọt KHỔNG LỒ. Anh ấy đã ĐẠT GẤP BA lần giá cũ ngay tại một thị trường có nền kinh tế èo uột bậc nhất cả nước. Kirk buộc phải hành động vì anh chẳng còn đường lùi. Hy vọng là bạn cũng sẽ hành động trước khi rơi vào bước đường cùng đó.
 
-Chúng tôi cũng giật đồng thời mọi đòn bẩy vĩ mô và vi mô có thể (**macro and micro lever**). (Tôi cực kỳ khuyến khích bạn nên làm theo cách này. Đã cắt giảm là cắt một lần cho sâu, cắt tận gốc).
+Chúng tôi cũng giật đồng thời mọi đòn bẩy vĩ mô và vi mô có thể. (Tôi cực kỳ khuyến khích bạn nên làm theo cách này. Đã cắt giảm là cắt một lần cho sâu, cắt tận gốc).
 
 Chỉ trong một nốt nhạc, công việc kinh doanh của Kirk từ chỗ đang lỗ 2.000 USD/tháng đã chuyển sang LỢI NHUẬN RÒNG 4.000 USD. Và chúng tôi làm được điều đó chỉ trong một tuần.
 
@@ -1949,9 +2022,9 @@ Những thứ này có thể thay đổi cuộc đời bạn. Và bạn không n
 
 Nào, chúng ta cùng đi sâu vào chi tiết nhé.
 
-Mục tiêu của các đòn bẩy cụ thể này là làm sao để khách hàng chi tiêu nhiều tiền hơn cho bạn. Chúng ta đang áp dụng Lộ trình Tăng trưởng #2 — Tăng Giá trị Giao dịch Trung bình (**Increase Average Purchase**). Do đó, chúng ta sẽ tinh chỉnh lại cách bạn thiết lập giá cả và các gói sản phẩm. Tôi sẽ chỉ cho bạn ba đòn bẩy khác nhau mà bạn có thể áp dụng ngay.
+Mục tiêu của các đòn bẩy cụ thể này là làm sao để khách hàng chi tiêu nhiều tiền hơn cho bạn. Chúng ta đang áp dụng Lộ trình Tăng trưởng #2 — Tăng Giá trị Giao dịch Trung bình (Increase Average Purchase). Do đó, chúng ta sẽ tinh chỉnh lại cách bạn thiết lập giá cả và các gói sản phẩm. Tôi sẽ chỉ cho bạn ba đòn bẩy khác nhau mà bạn có thể áp dụng ngay.
 
-###### **Đòn bẩy vi mô về Giá #1: Tăng Lợi nhuận Trên Mỗi Hội viên**
+#### **Đòn bẩy vi mô về Giá #1: Tăng Lợi nhuận Trên Mỗi Hội viên**
 
 Cách đây không lâu, tôi gặp một ông bố đơn thân nuôi hai cô con gái vô cùng xinh xắn. Anh ấy đã làm mọi cách để biến giấc mơ của mình thành hiện thực… nhưng rồi nó biến thành một cơn ác mộng thực sự. Anh ấy vừa phải dùng thẻ tín dụng để đóng tiền thuê nhà. Kiểu ác mộng dở khóc dở cười như thế đấy.
 
@@ -1963,17 +2036,17 @@ Chúng tôi bảo Josh nâng giá gói sản phẩm phễu (**front-end offer**)
 
 Thế nên, nếu bạn thực sự muốn giúp đỡ người khác chứ không phải chỉ nói mồm cho sang miệng, hãy thu phí cao lên. Nhưng cụ thể là bao nhiêu?
 
-###### **Bí Mật Lớn**
+##### **Bí Mật Lớn**
 
 Khi thiết lập giá, hầu hết các chủ phòng gym đều mở cửa hàng ra, đảo mắt nhìn xung quanh xem người khác đang thu bao nhiêu, rồi lấy số trung bình và áp dụng y hệt mức giá đó.
 
-Nhưng điều mà phần lớn mọi người không biết…
+&emsp;Nhưng điều mà phần lớn mọi người không biết…
 
-bí mật lớn ở đây là…
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;bí mật lớn ở đây là…
 
-tất cả những kẻ khác đều ĐANG RÁCH TƠI.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tất cả những kẻ khác đều ĐANG RÁCH TƠI TẢ.
 
-Vậy tại sao lại đi copy bọn họ làm gì?
+Vậy tại sao lại đi sao chép bọn họ làm gì?
 
 Ở một mức độ nào đó, có thể bạn cũng nhận ra điều này, bằng chứng là bạn đang đọc cuốn sách này. Bạn có muốn biết thêm một bí mật nữa không? Cách dễ nhất để kiếm nhiều tiền hơn chính là thu phí cao hơn cho cùng một mức độ phục vụ. Đơn giản vãi chưởng. Ai cũng thấy nó đơn giản, nhưng đố ai dám làm.
 
@@ -1981,33 +2054,9 @@ Nhiều người gặp khó khăn với khái niệm này, bởi nó bắt ngu�
 
 Đó là lý do tại sao người giàu ngày càng giàu hơn và khoảng cách kinh tế ngày càng nới rộng. Và cách duy nhất để bạn vượt qua rào cản đó là hiểu rằng: Định giá cao (premium pricing) chính là người bạn tốt nhất của bạn. Nó cho phép bạn vượt mức kỳ vọng, chăm sóc và phục vụ khách hàng theo cách chưa từng có tiền lệ.
 
-Dưới đây là bảng biểu đồ chúng tôi dùng để minh họa khái niệm vòng lặp giá tích cực và tiêu cực. Bạn có thể chọn mô hình phù hợp cho doanh nghiệp của mình.
+Dưới đây là bảng biểu đồ chúng tôi dùng để minh họa khái niệm "vòng lặp giá tích cực và tiêu cực". Bạn có thể chọn mô hình phù hợp cho doanh nghiệp của mình.
 
-###### vòng lặp giá tích cực vs. tiêu cực
-
-###### giá
-
-giảm giảm giảm tăng tăng
-
-###### khách hàng của bạn
-
-sức đầu tư cảm xúc giá trị cảm nhận kết quả mức độ đòi hỏi doanh thu phục vụ trên mỗi khách hàng
-
-###### giá
-
-tăng tăng tăng giảm giảm
-
-###### giá
-
-giảm giảm giảm giảm giảm
-
-###### doanh nghiệp của bạn
-
-lợi nhuận giá trị bản thân được cảm nhận NHẬN THỨC về Tác động Kết quả mức độ dịch vụ ĐỘ TIN CƯỞY CỦA ĐỘI NGŨ SALE
-
-###### giá
-
-tăng tăng tăng tăng tăng
+![](../assets/images/gym-launch/02-08-00.png)
 
 Dưới đây là cách **vòng lặp giá tiêu cực** vận hành (điều mà HẦU HẾT các phòng gym đang làm).
 
@@ -2031,7 +2080,7 @@ Và khi bạn giảm giá, DOANH NGHIỆP của bạn sẽ…
 
 - GIẢM năng lực tạo ra kết quả cho khách hàng.
 
-- GIẢM niềm tin vào quy trình bán hàng, bởi vì bạn và đội ngũ không còn chắc chắn liệu mình có thể giao đúng cam kết hay không.
+- GIẢM niềm tin vào quy trình bán hàng, bởi vì bạn và đội ngũ không còn chắc chắn liệu mình có thể làm đúng cam kết với khách hàng hay không.
 
 *Bạn cảm thấy bản thân kém giá trị đi vì bạn thu phí quá rẻ cho những gì mình làm, và liên tục cảm thấy không được trân trọng, giống như đang “cho không biếu không” vậy.
 
@@ -2059,23 +2108,21 @@ Và khi bạn tăng giá, DOANH NGHIỆP của bạn sẽ…
 
 - TĂNG mức độ dịch vụ bạn cung cấp cho mỗi khách hàng.
 
-- TĂNG niềm tin trong quy trình bán hàng, vì bạn và đội ngũ tự tin rằng mình có thể giao đúng cam kết, thậm chí là bảo chứng cho điều đó.
+- TĂNG niềm tin trong quy trình bán hàng, vì bạn và đội ngũ tự tin rằng mình có thể thực hiện đúng cam kết, thậm chí là đảm bảo cho điều đó.
 
 Nếu bạn chỉ làm một điều duy nhất sau khi đọc cuốn sách này, HÃY TĂNG GIÁ.
 
-###### **Mô hình Định giá Tích cực**
+##### **Mô hình Định giá Tích cực**
 
-Nếu bạn cần một số con số ví dụ để có thêm động lực, đây chính là những gì tôi đang đề cập với mô hình thành viên mà chúng tôi khuyên dùng.
+Nếu bạn cần một số con số ví dụ để có thêm động lực, đây chính là những gì tôi đang đề cập với mô hình hội viên mà chúng tôi khuyên dùng.
 
-**Nhóm Lớn (Large Group)**: 16+ học viên: \$167 – \$225/tháng*
+&emsp;**Nhóm Lớn (Large Group)**: 16+ học viên: \$167 – \$225/tháng*
 
-**Nhóm Trung bình/Vùng đất không người (Medium Group/No-Man’s Land)**: 5–15 học viên:
+&emsp;**Nhóm Trung bình/Vùng đất không người (Medium Group/No-Man’s Land)**: 5–15 học viên:<br/>&emsp;(Theo quan điểm của tôi, đây KHÔNG PHẢI là những lựa chọn phân bổ lớp học hiệu quả, tôi sẽ giải thích điều này sau.)
 
-(Theo quan điểm của tôi, đây KHÔNG PHẢI là những lựa chọn phân bổ lớp học hiệu quả, tôi sẽ giải thích điều này sau.)
+&emsp;**Nhóm Nhỏ (Small Group)**: Tỷ lệ 1 kèm 4: \$500 – \$700/tháng
 
-**Nhóm Nhỏ (Small Group)**: Tỷ lệ 1 kèm 4: \$500 – \$700/tháng
-
-***Lưu ý:** Trên thực tế chúng tôi không thu phí theo tháng—nhưng cách tính này hữu ích cho việc minh họa. Đó là một đòn bẩy khác, tôi sẽ đề cập đến ngay sau đây.*
+***Lưu ý:** Trên thực tế chúng tôi không thu phí theo tháng—nhưng cách tính này hữu ích cho việc minh họa. Đó là một đòn bẩy khác, tôi sẽ đề cập đến ngay sau đây.
 
 Đây là mức giá bạn nên vọt lên ngay lập tức. Và trước khi bạn thốt lên rằng “Nhưng thị trường của tôi khác” hay “Khách hàng không chịu trả mức giá đó đâu” hoặc bất kỳ lý do vòng vo nào khác của bạn, hãy nhớ rằng các phòng gym tôi từng cố vấn đã áp dụng thành công mô hình này ở MỌI thị trường mà chúng tôi thử nghiệm—hơn 1.500 thị trường tính đến nay.
 
@@ -2093,7 +2140,7 @@ Nếu bạn thực sự muốn giúp đỡ người khác chứ không phải ch
 
 Giá rẻ không chừa lại chút dư địa nào để mang lại những trải nghiệm KINH NGẠC cho khách hàng. Giá cao hơn cho phép tôi thực sự trao cho họ sự hỗ trợ cần thiết để lấy lại vóc dáng, và trong trường hợp của tôi, là giúp nhiều chủ phòng gym chuyển đổi mô hình kinh doanh của họ hơn. Nếu tôi chỉ thu dịch vụ của mình với giá \$1.000, tôi sẽ chẳng thể duy trì nổi một đội ngũ hỗ trợ đặc nhiệm kiểu SEAL Team 6—những người giải đáp mọi thắc mắc chưa đầy ba phút, có cam kết hẳn hoi. Và tôi cũng chẳng thể chạy Marketing để lan tỏa thông điệp. Kết quả là tôi sẽ ngồi đây với một sản phẩm làng nhàng (vì tôi có quá ít tiền để đầu tư cho khâu hỗ trợ) cùng một mức giá làng nhàng (thành thật mà nói, nó sẽ chẳng đáng giá bao nhiêu nếu thiếu đi sự coaching và hỗ trợ chiều sâu để đảm bảo chiến thắng), và hoàn toàn bế tắc trong việc tiếp cận khách hàng cũng như làm Marketing vì chẳng còn dư đồng nào.
 
-Hãy để vòng lặp tích cực vận hành vì lợi ích của bạn, để bạn CÓ THỂ THỰC SỰ giúp đỡ mọi người, chứ không chỉ nói suông.
+Hãy để "_Vòng Lặp Tích Cực_" vận hành vì lợi ích của bạn, để bạn CÓ THỂ THỰC SỰ giúp đỡ mọi người, chứ không chỉ nói suông.
 
 Như tôi vẫn thường nói với các chủ phòng gym, đằng nào bạn cũng phải đối mặt với những cuộc trò chuyện khó khăn—hoặc là với vợ/chồng và chủ nhà về việc bạn không thể nuôi nổi gia đình và trả tiền thuê mặt bằng, hoặc là với khách hàng về mức giá mới. Nhưng chỉ có một lựa chọn trong số đó giúp bạn kiếm được nhiều tiền hơn.
 
@@ -2103,13 +2150,13 @@ Tùy bạn chọn.
 
 Nhưng ngay lúc này…
 
-Hãy nâng toàn bộ giá EFT (Electronic Funds Transfer - Trợ giá chuyển khoản tự động/Hợp đồng trả góp định kỳ) mới của bạn lên mức tôi vừa liệt kê. Không có ngoại lệ. Giữ nguyên mức giá cũ (grandfather in) cho các hội viên đời đầu cho đến khi phòng tập chạm ngưỡng công suất, sau đó... hãy đồng thời tăng giá đối với họ. Đó là quy luật kinh tế cơ bản: cung và cầu. Ai cũng hiểu rằng giá sẽ tăng khi nguồn cung giảm. 
+Hãy nâng toàn bộ giá EFT (hội viên thanh toán định kỳ) mới của bạn lên mức tôi vừa liệt kê. Không có ngoại lệ. Giữ nguyên mức giá cũ cho các hội viên đời đầu cho đến khi phòng tập chạm ngưỡng công suất, sau đó... hãy đồng thời tăng giá đối với họ. Đó là quy luật kinh tế cơ bản: cung và cầu. Ai cũng hiểu rằng giá sẽ tăng khi nguồn cung giảm. 
 
-###### **Đòn Bẩy Giá Vi Mô #2: Cấp Độ Thành Viên (Membership Levels)** → **Tối Ưu Lợi Nhuận Trên Mỗi Thành Viên** 
+#### **Đòn Bẩy Giá Vi Mô #2: Cấp Độ Thành Viên (Membership Levels) → Tối Ưu Lợi Nhuận Trên Mỗi Thành Viên** 
 
 Để tôi kể cho bạn nghe một câu chuyện làm sáng tỏ mô hình định giá mà tôi sắp chia sẻ ngay sau đây. 
 
-Tôi có một khách hàng khá khá giả đã đồng hành cùng tôi được vài tháng. Cô ấy có vẻ rất hài lòng. Cô ấy tham gia gói thuê bao (subscription) và tiền được trừ tự động mỗi tháng. Mọi chuyện tưởng chừng chẳng có vấn đề gì. Thế nhưng bỗng một ngày đẹp trời, cô ấy hủy dịch vụ. 
+Tôi có một khách hàng khá khá giả đã đồng hành cùng tôi được vài tháng. Cô ấy có vẻ rất hài lòng. Cô ấy tham gia gói hội viên (subscription) và tiền được trừ tự động mỗi tháng. Mọi chuyện tưởng chừng chẳng có vấn đề gì. Thế nhưng bỗng một ngày đẹp trời, cô ấy hủy dịch vụ. 
 
 Tôi liền hỏi: *"Chúng tôi có thể làm gì tốt hơn? Làm thế nào để đáp ứng nhu cầu của chị tốt hơn nữa?"* 
 
@@ -2121,7 +2168,7 @@ Cô ấy sẵn sàng trả nhiều tiền hơn.
 
 Nhưng tôi lại không dám thu cao hơn. Dù vậy, tôi đã sửa sai điều đó… cực kỳ nhanh chóng. 
 
-###### **Đường Cong Mua Hàng (The Buying Curve)** 
+##### **Đường Cong Mua Hàng (The Buying Curve)** 
 
 Mỗi phòng tập đều có cách riêng để phân chia cấp độ thành viên và cấu trúc dịch vụ. Và như tôi đã đề cập trước đó, rất nhiều trong số đó thực sự ngớ ngẩn, vô lý và cho thấy sự mơ hồ về các nguyên tắc định giá cơ bản. Họ định giá dựa trên mức trung bình của thị trường. Hoặc họ lao vào cuộc chiến hạ giá (race to the bottom) để chơi khăm các đối thủ cạnh tranh ở địa phương. 
 
@@ -2129,18 +2176,15 @@ Lẽ ra, họ phải định giá dựa trên số tiền mà khách hàng sẵn
 
 Nhưng điều quan trọng nhất cần ghi nhớ là: bạn phải thu đúng số tiền mà khách hàng sẵn sàng trả, không được thấp hơn. 
 
-###### <u>ĐƯỜNG CONG MUA HÀNG THEO GIÁ THÀNH VIÊN (MEMBERSHIP PRICE BUYING CURVE)</u> 
+![](../assets/images/gym-launch/02-08-01.png)
 
-<!-- Start of picture text -->
-25 100 167<br>20<br>nhóm lớn (large group)<br>1 kèm 4 (1 on 4)<br>bán riêng tư (semi private)<br>10<br>5<br>225 500 700<br>nhu cầu (demand)<br><!-- End of picture text -->
-
-Được rồi, tôi gọi đây là đường cong quả dưa hấu (watermelon curve). (Màu sắc không thể hiện được trong sách, nhưng hãy tin tôi—nếu có màu, các phần xanh và đỏ trông giống như những lát dưa hấu có hạt bên trong). Đường cong mua hàng này mang lại những insight cực kỳ đắt giá cho doanh nghiệp của bạn. 
+Được rồi, tôi gọi đây là đường cong quả dưa hấu (watermelon curve). (Màu sắc không thể hiện được trong sách, nhưng hãy tin tôi—nếu có màu, các phần xanh và đỏ trông giống như những lát dưa hấu có hạt bên trong). Đường cong mua hàng này mang lại những hiểu biết cực kỳ sâu sắc cho doanh nghiệp của bạn. 
 
 Mỗi đường đứt nét thẳng phân tách các chiến lược thực thi dịch vụ (fulfillment strategies). 
 
 - **Phần A:** Từ mốc cơ sở bên trái đến đường đứt nét đầu tiên là khu vực dành cho **dịch vụ tự phục vụ** (self-service). Đây là mô hình của Planet Fitness, LA Fitness… những chuỗi phòng tập lớn (big-box globe gyms). Họ đặt cược vào thực tế rằng 90% khách hàng sẽ không bao giờ sử dụng phòng tập của họ một cách thường xuyên. Đó là cách mô hình của họ vận hành. Bạn không thể cạnh tranh về giá với họ; họ chơi một mô hình hoàn toàn khác. 
 
-- **Phần B:** Từ đường đứt nét thứ nhất đến đường thứ hai là không gian dành cho **tập nhóm lớn** (large-group training). Đây là mô hình quen屬 thuộc với hơn 16 người mỗi buổi. Các tổ chức liên kết (Affiliate boxes), các lớp bootcamp, v.v. 
+- **Phần B:** Từ đường đứt nét thứ nhất đến đường thứ hai là không gian dành cho **tập nhóm lớn** (large-group training). Đây là mô hình quen thuộc với hơn 16 người mỗi ca. Các tổ chức liên kết (Affiliate boxes), các lớp bootcamp, v.v. 
 
 - **Phần C:** Từ đường đứt nét thứ hai đến thứ ba là khu vực dành cho **lớp học quy mô trung bình** (medium-sized class). Kiểu như một huấn luyện viên kèm từ 5 đến 15 khách hàng. 
 
@@ -2156,68 +2200,67 @@ Trong trường hợp này, bạn đang bị kẹt giữa hai tệp khách hàng
 
 Vậy những bài học cốt lõi từ bốn vùng thực thi dịch vụ này là gì? 
 
-###### **Giá Thấp, Dịch Vụ Thấp: 0 USD đến 99 USD mỗi tháng** 
+**Giá Thấp, Dịch Vụ Thấp: 0 USD đến 99 USD mỗi tháng** 
 
 Bạn KHÔNG HỀ muốn dấn thân vào phân khúc này chút nào. Sự cạnh tranh ở đây cực kỳ khốc liệt, và đối thủ của bạn chính là toàn bộ các chuỗi phòng tập lớn được đầu tư hàng triệu đô la. Lúc này, bạn sẽ phải cạnh tranh bằng chất lượng cơ sở vật chất. Và nếu bạn chỉ là một chủ phòng tập thông thường, bạn không đủ tiềm lực tài chính để chơi cuộc chơi đó đâu. Vì vậy, lời khuyên của tôi là hãy tránh xa. 
 
-###### **Nhóm Lớn (Large Group)** 
+**Nhóm Lớn (Large Group)** 
 
 Bạn nên đặt mức giá ở 199 USD/tháng tại đây. Trên thực tế, khoảng từ 167 đến 225 USD là biên độ chúng tôi khuyên dùng, bởi vì chúng tôi đã kiểm chứng nó mang lại hiệu quả. Bất kỳ mức nào thấp hơn bạn sẽ gặp vấn đề về công suất và bài toán lợi nhuận. Hãy tránh xa vùng giá từ 99 đến 167 USD. Đây là mức giá mà hầu hết các phòng tập đang áp dụng, nhưng nó không đủ nguồn lực tài chính để cung cấp chất lượng dịch vụ cần thiết. Và **hầu hết mọi người sẵn sàng trả nhiều hơn nếu họ nhận được giá trị tương xứng** tiến tới phân khúc cao cấp này… hãy tin tôi đi. Khoảng từ 167 đến 225 USD/tháng chính là "thiên đường" bạn cần sống trong thế giới tập nhóm lớn. 
 
-###### **Nhóm Trung Bình (Medium Group)** 
+**Nhóm Trung Bình (Medium Group)** 
 
 Mặc dù bạn hoàn toàn có thể vận hành dịch vụ ở cấp độ này, nhưng các mức giá đi kèm lại hoàn toàn phi lý. Chúng sẽ quá đắt đỏ đối với một số khách hàng, nhưng lại quá rẻ đối với những người có khả năng chi trả nhiều hơn. Giải pháp là gì? Đừng bám trụ ở đây. Thay vào đó, hãy chia nhỏ dịch vụ của bạn thành hai cấp độ rõ ràng: nhóm lớn và nhóm nhỏ. 
 
-###### **Nhóm Nhỏ (Small Group)** 
+**Nhóm Nhỏ (Small Group)** 
 
 Phân khúc này được định giá hoàn toàn tương đương với hình thức huấn luyện 1 kèm 1 (personal training). Nhưng theo kinh nghiệm của tôi, khách hàng thích bầu không khí tập nhóm nhỏ nhiều hơn hoặc ít nhất là ngang bằng—họ vẫn có được sự gắn kết từ những gương mặt quen thuộc và tinh thần cộng đồng, đồng thời vẫn nhận được sự quan tâm cá nhân hóa. Bất kỳ ai từng làm việc 1 kèm 1 đều biết rằng thường có rất nhiều thời gian lãng phí trong một buổi tập. Do đó, mô hình 1 kèm 4 chính là sự kết hợp hoàn hảo giữa chất lượng thực thi đỉnh cao và mức giá tối ưu. Như vậy, bạn chỉ cần nhân 4 doanh thu trên cùng một khung giờ. Bạn cần phải sống trong khoảng giá từ 500 đến 700 USD/tháng tại đây. 
 
 Tóm lại, bạn có thể coi tất cả mọi người ở Vùng X (X Zone) là những khách hàng có ngưỡng mua hàng hoặc bị vắt kiệt quá mức, hoặc chưa được khai thác hết tiềm năng so với lượng giá trị dịch vụ mà họ nhận được. Các Vùng \$ mới là những vùng an toàn. Đây là nơi mà giá cả, hành vi mua sắm của người tiêu dùng và chất lượng dịch vụ hòa quyện vào nhau một cách hoàn hảo.
 
-###### **Vậy ai sẽ rơi vào nhóm nào?** 
+##### **Vậy ai sẽ rơi vào nhóm nào?** 
 
-Pain points (Điểm đau) là la bàn cực kỳ hữu ích khi bạn quyết định thiết lập các gói hội viên (membership levels). Sơ đồ bốn góc (quadrant) dưới đây thể hiện mối quan hệ giữa pain points, nhu cầu và mức giá. Một pain point thấp đồng nghĩa khách hàng chưa gặp quá nhiều phiền toái, trong khi pain point cao khiến họ thực sự "đau khổ". Những người có pain point cao cực kỳ khao khát thay đổi và chắc chắn sẽ sẵn sàng chi nhiều tiền hơn để giải quyết vấn đề của mình. 
+Pain points (Điểm đau) là la bàn cực kỳ hữu ích khi bạn quyết định thiết lập các gói hội viên (membership levels). Sơ đồ bốn góc (quadrant) dưới đây thể hiện mối quan hệ giữa những nỗi đau, nhu cầu và mức giá. Một NỖI ĐAU thấp đồng nghĩa khách hàng chưa gặp quá nhiều phiền toái, trong khi NỖI ĐAU cao khiến họ thực sự "đau khổ". Những người có NỖI ĐAU cao cực kỳ khao khát thay đổi và chắc chắn sẽ sẵn sàng chi nhiều tiền hơn để giải quyết vấn đề của mình. 
 
 Chúng ta sẽ dùng hai mức giá làm ví dụ cho trường hợp này: \$199/tháng và \$499+/tháng. 
 
 Vậy nhóm khách hàng nào sẽ chi trả cho các mức giá này? 
 
-- **Phân khúc \$199/tháng:** Đây là nhóm người giàu nhưng có pain point thấp, hoặc những người có thu nhập trung bình nhưng có pain point ở mức trung bình. 
+- **Phân khúc \$199/tháng:** Đây là nhóm người giàu nhưng có NỖI ĐAU thấp, hoặc những người có thu nhập trung bình nhưng có NỖI ĐAU ở mức trung bình. 
 
-- **Phân khúc \$499+/tháng:** Đây là nhóm người giàu có pain point từ bình thường đến cao, và những người có thu nhập trung bình nhưng có pain point cao. 
+- **Phân khúc \$499+/tháng:** Đây là nhóm người giàu có NỖI ĐAU từ bình thường đến cao, và những người có thu nhập trung bình nhưng có NỖI ĐAU cao. 
 
-<!-- Start of picture text -->
-499 mo 199 mo<br>499 mo 199 mo<br>PAIN  NEED<br>high low<br>I<br>N<br>C<br>O<br>M<br>E<br>high<br>low<br><!-- End of picture text -->
+![](../assets/images/gym-launch/02-08-02.png)
 
 Dĩ nhiên, định nghĩa thế nào là “người giàu” và “thu nhập thấp” sẽ thay đổi tùy thuộc vào vị trí địa lý và thị trường ngách của bạn. 
 
-Dựa vào thông tin này, bạn có thể xây dựng các cấp độ hội viên của mình. (Lại nhấn mạnh, chúng ta không tính cước theo tháng — đây chỉ là các ví dụ minh họa.) 
+Dựa vào thông tin này, bạn có thể xây dựng các cấp độ hội viên của mình. (Lại nhấn mạnh, chúng ta không tính phí theo tháng — đây chỉ là các ví dụ minh họa.) 
 
 **Cấp độ hội viên thấp hơn:** \$167–\$225/tháng 
 
-1. Người bình thường với pain point bình thường. 
+1. Người bình thường với NỖI ĐAU bình thường. 
 
-2. Người giàu với pain point thấp. 
+2. Người giàu với NỖI ĐAU thấp. 
 
-Dịch vụ cung cấp: Tập 3 buổi/tuần theo nhóm lớn (16+ người). 
+&emsp;Dịch vụ cung cấp: Tập 3 buổi/tuần theo nhóm lớn (16+ người). 
 
 **Cấp độ hội viên cao hơn:** \$500–\$700/tháng 
 
-1. Người bình thường có pain point CAO hoặc NHU CẦU CAO đối với dịch vụ của bạn. 
+1. Người bình thường có NỖI ĐAU CAO hoặc NHU CẦU CAO đối với dịch vụ của bạn. 
 
-2. Người giàu có pain point hoặc nhu cầu BÌNH THƯỜNG HOẶC CAO đối với dịch vụ của bạn. 
+2. Người giàu có NỖI ĐAU hoặc nhu cầu BÌNH THƯỜNG HOẶC CAO đối với dịch vụ của bạn. 
 
-Dịch vụ cung cấp: Tập 3 buổi/tuần theo nhóm bán riêng tư (semi-private) (1 HLV kèm 4 khách hàng). 
+&emsp;Dịch vụ cung cấp: Tập 3 buổi/tuần theo nhóm bán riêng tư (semi-private) (1 HLV kèm 4 khách hàng). 
 
 Chắc bạn đang tự hỏi: “Tại sao cấp độ thứ hai lại có giá đắt gấp ba lần cấp độ đầu tiên?” Câu hỏi rất hay. 
 
-Thứ nhất, vì tệp khách hàng sẵn sàng chi trả (buying pocket) có thể vươn lên mức đó, nên bạn hoàn toàn có quyền thu mức giá ấy. Thứ hai, khách hàng luôn tuân theo quy luật phân phối 80/20 nổi tiếng: 20% khách hàng của bạn có khả năng và sẵn lòng trả mức giá cao hơn, vậy nên hãy tạo cơ hội cho họ. Và đổi lại, bạn phải cung cấp cho họ dịch vụ mà họ thực sự mong muốn và xứng đáng nhận được. 
+Thứ nhất, vì tệp khách hàng sẵn sàng chi trả có thể vươn lên mức đó, nên bạn hoàn toàn có quyền thu mức giá ấy. Thứ hai, khách hàng luôn tuân theo quy luật phân phối 80/20 nổi tiếng: 20% khách hàng của bạn có khả năng và sẵn lòng trả mức giá cao hơn, vậy nên hãy tạo cơ hội cho họ. Và đổi lại, bạn phải cung cấp cho họ dịch vụ mà họ thực sự mong muốn và xứng đáng nhận được. 
 
 Nếu bạn khiến 20% khách hàng chịu chi trả gấp ba lần, doanh nghiệp của bạn sẽ tăng trưởng thêm 60% doanh thu trong khi chỉ phải phục vụ một phần năm tổng lượng khách. Đó chính là sức mạnh của định giá phân khúc cao cấp (premium pricing). 
 
 Như câu chuyện ở phần đầu đã minh họa, nếu bạn tính mức giá cao hơn, bạn có thể cung cấp dịch vụ tốt hơn cho khách hàng và giữ chân họ lâu hơn. 
 
-###### **Vùng Đất Câm Lặng (No Man’s Land)** 
+**Vùng Đất Câm Lặng (No Man’s Land)** 
 
 Nhưng tại sao lại không có mức giá ở giữa hay cấp độ số lượng người ở giữa cho mỗi buổi tập? 
 
@@ -2225,20 +2268,20 @@ Như tôi đã đề cập, tôi gọi đây là Vùng Đất Câm Lặng (No Ma
 
 Mô hình này trông như thế này: 
 
-Mức giá: \$250–\$399/tháng  
-Cấp độ dịch vụ: 5–15 người/buổi 
+&emsp;Mức giá: \$250–\$399/tháng  
+&emsp;Cấp độ dịch vụ: 5–15 người/buổi 
 
-Tại sao tôi khuyên bạn nên tránh? Bởi vì nếu bạn đặt một mức giá nằm ở ngưỡng với (a stretch) đối với nhóm khách hàng thu nhập thấp, bạn sẽ gặp nhiều khó khăn hơn trong việc thu tiền. Điều đó đồng nghĩa với việc các vấn đề thanh toán diễn ra liên tục và khách hàng cứ ra vào thất thường. Thêm vào đó, mức giá này cũng chưa đủ cao để bạn cung cấp dịch vụ đỉnh cao cho họ. Dù ở góc độ nào đi nữa, khách hàng cũng sẽ cảm thấy bất mãn khi phảiật vật trả tiền cho một dịch vụ làng nhàng. 
+Tại sao tôi khuyên bạn nên tránh? Bởi vì nếu bạn đặt một mức giá nằm ở ngưỡng với (a stretch) đối với nhóm khách hàng thu nhập thấp, bạn sẽ gặp nhiều khó khăn hơn trong việc thu tiền. Điều đó đồng nghĩa với việc các vấn đề thanh toán diễn ra liên tục và khách hàng cứ ra vào thất thường. Thêm vào đó, mức giá này cũng chưa đủ cao để bạn cung cấp dịch vụ đỉnh cao cho họ. Dù ở góc độ nào đi nữa, khách hàng cũng sẽ cảm thấy bất mãn khi phải trật vật trả tiền cho một dịch vụ làng nhàng. 
 
-Khi các phòng gym tôi cố vấn áp dụng mô hình hai cấp độ này, lợi nhuận của họ đã tăng vọt từ 3 đến 5 lần chỉ trong vài tháng, đồng thời tỷ lệ khách rời bỏ (churn rate) giảm rõ rệt. Không nói đùa đâu — nó cực kỳ hiệu quả. 
+Khi các phòng gym tôi cố vấn áp dụng mô hình hai cấp độ này, lợi nhuận của họ đã tăng vọt từ 3 đến 5 lần chỉ trong vài tháng, đồng thời tỷ lệ khách rời bỏ giảm rõ rệt. Không nói đùa đâu — nó cực kỳ hiệu quả. 
 
-###### **Đúc Kết Về Chiến Lược Định Giá** 
+##### **Đúc Kết Về Chiến Lược Định Giá** 
 
-Đường cong mua hàng (buying curves) cũng giống như việc thích ứng với đường cong sức mạnh trong thể hình. Bạn muốn tối ưu hóa lực cản sao cho phù hợp với khả năng sinh công của cơ bắp. Bạn mạnh nhất ở điểm cao nhất của bài gánh tạ (squat), nên bạn có thể thêm dây kháng lực hoặc xích để tăng độ khó; và bạn yếu nhất ở điểm thấp nhất, nơi tạ nhẹ hơn. Lý thuyết thể hình là bạn ép cơ bắp hoạt động ở cường độ trung bình cao hơn để từ đó trở nên mạnh mẽ hơn. 
+Đường cong mua hàng  cũng giống như việc thích ứng với đường cong sức mạnh trong thể hình. Bạn muốn tối ưu hóa lực cản sao cho phù hợp với khả năng sinh công của cơ bắp. Bạn mạnh nhất ở điểm cao nhất của bài gánh tạ (squat), nên bạn có thể thêm dây kháng lực hoặc xích để tăng độ khó; và bạn yếu nhất ở điểm thấp nhất, nơi tạ nhẹ hơn. Lý thuyết thể hình là bạn ép cơ bắp hoạt động ở cường độ trung bình cao hơn để từ đó trở nên mạnh mẽ hơn. 
 
 Hãy suy nghĩ về cách định giá của bạn theo cách tương tự. Chỉ có điều, "sức mạnh" ở đây chính là khả năng chi tiền của khách hàng tiềm năng (prospects). Bạn muốn chiến lược định giá và quá trình thực thi dịch vụ (fulfillment) khớp hoàn hảo với khả năng chi trả của họ. 
 
-###### **Hãy Giữ Mọi Thứ Thật Đơn Giản** 
+##### **Hãy Giữ Mọi Thứ Thật Đơn Giản** 
 
 Tôi luôn tin vào các mô hình định giá đơn giản, vì ba lý do sau. 
 
@@ -2250,15 +2293,15 @@ Bạn có bao giờ để ý rằng Apple chỉ cung cấp một vài tùy chọ
 
 **3. Các cấp độ hội viên nên được phân chia dựa trên tệp người mua, chứ không phải loại hình dịch vụ.** Hãy đọc lại câu đó một lần nữa. Rất nhiều lần, tôi thấy các phòng gym tung ra các gói hội viên thế này: 
 
-$119/tháng cho 3 buổi/tuần VÀ \$139/tháng tập không giới hạn 
+&emsp;$119/tháng cho 3 buổi/tuần VÀ \$139/tháng tập không giới hạn 
 
-HOẶC 
+&emsp;HOẶC 
 
-$129/tháng tập không giới hạn VÀ \$149/tháng tập không giới hạn kèm dinh dưỡng 
+&emsp;$129/tháng tập không giới hạn VÀ \$149/tháng tập không giới hạn kèm dinh dưỡng 
 
 Có hàng triệu biến thể cho những gói này tùy thuộc vào việc khách muốn đến tập bao nhiêu buổi một tuần. Cuối cùng, ai nấy đều vướng vào một kế hoạch tùy chỉnh kỳ quặc mà chỉ có nhân viên tư vấn mới nhớ nổi. Và phần lớn khách hàng đang trả mức phí THẤP HƠN so với những gì họ đáng lẽ phải chi trả. 
 
-###### **Hành Động Ngay** 
+##### **Hành Động Ngay** 
 
 1. Gộp các tùy chọn hội viên của bạn thành hai cấp độ để phản ánh đúng hai nhóm người mua trong biểu đồ bốn góc. 
 
@@ -2270,7 +2313,7 @@ Có hàng triệu biến thể cho những gói này tùy thuộc vào việc kh
 
 5. Nếu cơ sở của bạn chỉ chứa được từ 5–15 người mỗi buổi, đừng lo lắng. Chúng ta sẽ bàn về điều đó trong chương tiếp theo. 
 
-###### **Đòn bẩy giá #3: Chu kỳ thanh toán (Billing Cycle)** → **Tăng Doanh Thu, Lợi Nhuận VÀ Chốt Sale Dễ Dàng Hơn** 
+#### **Đòn bẩy giá #3: Chu kỳ thanh toán (Billing Cycle) → Tăng Doanh Thu, Lợi Nhuận VÀ Chốt Sale Dễ Dàng Hơn** 
 
 Trong số tất cả các đòn bẩy được đề cập trong cuốn sách, đây là đòn bẩy dễ áp dụng nhất. Tôi có thể khẳng định gần như 100% các phòng gym trong mạng lưới của chúng tôi đã áp dụng nó chỉ trong vòng hai tháng đầu hợp tác. Nó thực sự mạnh mẽ đến vậy. Tôi thường thích mở đầu mỗi phần bằng một câu chuyện thực tế để chứng minh tính hiệu quả của sự thay đổi. Nhưng trên thực tế, đòn bẩy này quá dễ kéo, đến mức mọi phòng gym trong hệ thống của chúng tôi đều đã chuyển sang áp dụng và gặt hái ngay những trái ngọt. 
 
@@ -2288,19 +2331,19 @@ Bài học đắt giá nhất từ phần này là: **Bạn BẮT BUỘC phải 
 
 Nếu không thu tiền theo tháng, thì còn những lựa chọn nào? Bạn có thể thu tiền sau mỗi 7 ngày, 14 ngày, hoặc 28 ngày. Tùy bạn chọn phương án nào cũng được. Nhưng hãy chủ động đưa ra quyết định—mỗi cách đều có ưu điểm riêng. Tôi đã tổng hợp chúng vào bảng dưới đây để bạn thấy rõ sự khác biệt.
 
-|**Tiêu chí cân nhắc**|**7 Ngày**|14 Ngày|28 Ngày|Theo tháng (Monthly)|
-|---|---|---|---|---|
-|Khả năng bán hàng (Sellability)|4|3|2|2|
-|Khối lượng việc hành chính (Admin Work)|2|3|4|4|
-|Nghỉ ốm / Trống lịch (“Sick Days/Vacancy)|1|3|4|4|
-|**Doanh thu khớp với**<br>**Kỳ trả lương (Revenue/Aligned w Payroll)**|4|4|4|3|
-|TỔNG CỘNG|11|13|14|13|
-|Số kỳ thu tiền mỗi năm|52|26|13|12|
-||↑|||↑|
+|**Tiêu chí cân nhắc**|**7 Ngày**| |14 Ngày| |28 Ngày| |Theo tháng (Monthly)|
+|---|---|---|---|---|---|---|---|
+|Khả năng bán hàng (Sellability)|4| |3| |2| |2|
+|Khối lượng việc hành chính (Admin Work)|2| |3| |4| |4|
+|Nghỉ ốm / Trống lịch (“Sick Days/Vacancy)|1| |3| |4| |4|
+|**Doanh thu khớp với**<br/>**Kỳ trả lương (Revenue/Aligned w Payroll)**|4| |4| |4| |3|
+|TỔNG CỘNG|11| |13| |14| |13|
+|Số kỳ thu tiền mỗi năm|52| |26| |13| |12|
+||↑||||||↑|
 
 **Lựa chọn chu kỳ thanh toán mới của bạn: Cứ mỗi 7 ngày, 14 ngày, hoặc 28 ngày**
 
-###### **Yếu tố #1: Khả năng bán hàng (Sellability)**
+**<u>Yếu tố #1: Khả năng bán hàng (Sellability)</u>**
 
 Người chiến thắng: Chu kỳ 7 ngày
 
@@ -2318,9 +2361,9 @@ Mức giá theo tuần nghe có vẻ nhỏ hơn, nhưng thực tế \$49/tuần 
 
 Nghe có vẻ không đáng kể phải không? Bạn có thể nghĩ rằng sẽ chẳng có hội viên hiện tại nào bỏ đi vì chuyện đó, nhưng thực tế đây là một cú tăng giá khá lớn đấy.
 
-$34 x 4.3 = \$146,20/tháng
+&emsp;$34 x 4.3 = \$146,20/tháng
 
-$39 x 4.3 = \$167,70/tháng
+&emsp;$39 x 4.3 = \$167,70/tháng
 
 Đó là một mức tăng khá ấn tượng (15%), mặc dù khi quy ra con số theo tuần thì bạn hầu như chẳng thấy gì khác biệt.
 
@@ -2328,15 +2371,15 @@ Không biết bạn thế nào, chứ tôi thà nói: *"Chúng tôi điều ch�
 
 Ngày xửa ngày xưa, tôi có một người cố vấn kinh doanh từng bảo tôi rằng: *"Cậu có thể cạo lông cừu suốt đời, nhưng chỉ được lột da nó có một lần thôi."* Ông ấy là fan cuồng của việc thu những khoản tiền nhỏ với tần suất dày hơn. Bằng cách đó, số tiền bị trừ trong tài khoản hội viên trông sẽ nhỏ đi. Họ sẽ không bao giờ cảm thấy bị "sốc" nặng ví vì tiền phí tập gym.
 
-**Yếu tố #2: Khối lượng công việc hành chính và thời gian bảo lưu/nghỉ ốm**
+**<u>Yếu tố #2: Khối lượng công việc hành chính và thời gian bảo lưu/nghỉ ốm</u>**
 
-Người chiến thắng: Chu kỳ 28 ngày
+&emsp;Người chiến thắng: Chu kỳ 28 ngày
 
-Kẻ thua cuộc: Chu kỳ 7 ngày
+&emsp;Kẻ thua cuộc: Chu kỳ 7 ngày
 
 Mặt trái của việc tăng chu kỳ thanh toán là giao dịch càng nhiều, công việc xử lý thanh toán càng nặng. Do đó, việc thu tiền hàng tuần sẽ tạo ra khối lượng giao dịch gấp bốn lần. Tuy nhiên, phần lớn bất lợi này hoàn toàn có thể được giải quyết bằng một chính sách hội viên rõ ràng giống như của chúng tôi.
 
-Chúng tôi không chấp nhận bảo lưu (freeze) thẻ trong bất kỳ khoảng thời gian nào dài hơn hoặc ngắn hơn một tháng. Cụ thể, việc bị ốm vài ngày, đi nghỉ mát một tuần hay một kỳ nghỉ cuối tuần kéo dài, hay đi công tác xa đều không đủ điều kiện để được bảo lưu hoặc hoàn tiền dưới mọi hình thức. Nếu 123 Fitness muốn, họ có thể—với điều kiện khách hàng có lịch sử thanh toán đúng hạn và tư cách tốt—cộng dồn số buổi tương ứng để phân bổ trong thời gian do 123 Fitness quyết định. Việc này nhằm giảm bớt công việc hành chính không cần thiết và bắt buộc mọi người phải có trách nhiệm đến lớp tập luyện.
+> Chúng tôi không chấp nhận bảo lưu (freeze) thẻ trong bất kỳ khoảng thời gian nào dài hơn hoặc ngắn hơn một tháng. Cụ thể, việc bị ốm vài ngày, đi nghỉ mát một tuần hay một kỳ nghỉ cuối tuần kéo dài, hay đi công tác xa đều không đủ điều kiện để được bảo lưu hoặc hoàn tiền dưới mọi hình thức. Nếu 123 Fitness muốn, họ có thể—với điều kiện khách hàng có lịch sử thanh toán đúng hạn và tư cách tốt—cộng dồn số buổi tương ứng để phân bổ trong thời gian do 123 Fitness quyết định. Việc này nhằm giảm bớt công việc hành chính không cần thiết và bắt buộc mọi người phải có trách nhiệm đến lớp tập luyện.
 
 Tại sao phải vượt qua bao nhiêu rào cản chỉ để đổi lấy chu kỳ thanh toán mang lại “lợi nhuận nhiều hơn khoảng 8%”? Bởi vì kinh doanh là một trò chơi toán học, và những xu lẻ cũng tích tiểu thành đại… luôn luôn là vậy. Nếu một phòng gym trung bình hoạt động với biên lợi nhuận 12% một năm, và họ chuyển chu kỳ thanh toán từ hàng tháng sang mỗi 28 ngày, họ sẽ gia tăng lợi nhuận thêm 7,7%. Nhưng trong bối cảnh này, **từ mức 12% nhảy vọt lên 19,7% lợi nhuận giữ lại tương đương với mức tăng trưởng 64% về lợi nhuận ròng.**
 
@@ -2344,9 +2387,7 @@ Giờ hãy nói về những con số tiền thật việc thật.
 
 Một phòng gym trung bình tạo ra \$12.000 doanh thu mỗi tháng, tức là \$144.000 mỗi năm. Họ đang bỏ túi mức trung bình của ngành là 12%, tương đương khoảng \$17.280 mỗi năm. (Lưu ý nhé, nếu vài con số ở đây có chênh lệch một chút so với ví dụ trước, đừng có xoắn. Đây chỉ là ví dụ minh họa thôi).
 
-Nếu bạn áp dụng thay đổi này và chuyển từ chu kỳ thanh toán hàng tháng sang chu kỳ 28 ngày, số tiền bỏ túi của bạn sẽ tăng từ \$17.280 lên \$29.280.
-
-Và bạn PHẢI THAY ĐỔI MỌI THỨ ngoại trừ chu kỳ thanh toán. Nếu bạn kết hợp chiến thuật này với một đợt tăng giá nữa, kết quả sẽ cực kỳ bùng nổ.
+Nếu bạn áp dụng thay đổi này và chuyển từ chu kỳ thanh toán hàng tháng sang chu kỳ 28 ngày, số tiền bỏ túi của bạn sẽ tăng từ \$17.280 lên \$29.280. Và bạn KHÔNG PHẢI THAY ĐỔI MỌI THỨ ngoại trừ chu kỳ thanh toán. Nếu bạn kết hợp chiến thuật này với một đợt tăng giá nữa, kết quả sẽ cực kỳ bùng nổ.
 
 Đó mới là lúc để bạn thấy hào hứng chứ.
 
@@ -2362,7 +2403,7 @@ Vừa muốn ăn bánh lại vừa muốn còn bánh ư? Hoàn toàn được. K
 
 Tóm lại là...
 
-###### **Tóm tắt (Summary)**
+#### **Tóm tắt (Summary)**
 
 Hãy quảng cáo mức giá là \$49/tuần cho tất cả khách hàng mới và cài đặt hệ thống thanh toán tự động theo chu kỳ 28 ngày. Chúng tôi đang áp dụng cách này cho doanh nghiệp của mình và rất hài lòng với nó. Dù chọn phương án nào đi nữa, bạn cũng sẽ thấy lợi nhuận tăng trưởng MẠNH MẼ. Và nếu bạn kết hợp việc thay đổi chu kỳ thanh toán với một đợt tăng giá, bạn sẽ chứng kiến mức lợi nhuận bùng nổ gấp 3–5 lần giống như rất nhiều chủ phòng gym khác đang đạt được.
 
@@ -2372,7 +2413,7 @@ Giá cả không phải là đòn bẩy duy nhất bạn có thể dùng để c
 
 Phần tiếp theo, chúng ta sẽ khám phá sự kỳ diệu mà bạn có thể tạo ra với các đòn bẩy tối ưu công suất (capacity profit levers).
 
-###### **Hành động ngay (Actions to Take)**
+#### **Hành động ngay (Actions to Take)**
 
 1. Cung cấp hai cấp độ dịch vụ: nhóm lớn (large group) và nhóm nhỏ (nhóm 1 kèm 4).
 
@@ -2380,9 +2421,7 @@ Phần tiếp theo, chúng ta sẽ khám phá sự kỳ diệu mà bạn có th�
 
 3. Hãy tin vào bản thân. Hãy nhớ rằng việc thu phí cao hơn sẽ mang lại kết quả tốt hơn cho khách hàng, và việc bạn duy trì được việc kinh doanh sẽ giúp ích cho họ nhiều hơn bất cứ điều gì khác.
 
-###### **chương 9** 
-
-###### **Các Đòn Bẩy Năng lực - Lợi nhuận (Capacity-Profit Levers)** 
+### **Chương 9: Các Đòn Bẩy Năng lực - Lợi nhuận (Capacity-Profit Levers)** 
 
 Tôi vừa đặt chân đến cơ sở Gym Launch đầu tiên của mình, lúc bấy giờ là phòng tập CrossFit WSA do Josh Price làm chủ tại Towson, Maryland. Chúng tôi quen nhau qua lời giới thiệu của một người bạn chung, và tôi có mặt ở khu vực đó vì mẹ tôi đang lâm bệnh nặng. Nếu bạn đã từng phải di chuyển đi thăm một người ốm và chỉ có vài tiếng đồng hồ thăm nom, bạn sẽ hiểu rằng điều tồi tệ nhất lúc đó là ngồi yên một chỗ. Thế là tôi làm việc mà mình giỏi nhất—tôi tìm một phòng tập để giữ cho trí óc và đôi tay luôn bận rộn. 
 
