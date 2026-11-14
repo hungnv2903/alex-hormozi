@@ -2802,13 +2802,9 @@ I believe the service we provide is valuable as well, and therefore should not b
 
 If anyone asks why you don’t have unlimited sessions, you can say something like… 
 
-“We have people commit to certain days because if you can come whenever you want, it really becomes never. So 
+“We have people commit to certain days because if you can come whenever you want, it really becomes never. So we have people schedule their sessions just like appointments, so they’re more likely to make them.” 
 
-Gym Launch Secrets 107 
-
-we have people schedule their sessions just like appointments, so they’re more likely to make them.” 
-
-###### OR 
+OR 
 
 “We added these times to keep track for accountability. We know when to expect you, so we can reach out if you don’t make it for some reason. That way, we can hold you to your commitment and help you reach your goals.” 
 
@@ -2823,8 +2819,6 @@ This micro lever has two components to it:
 - A. Percentage of people who are supposed to show up every day and actually do 
 
 - B. How well are they spread out between available times 
-
-108 Alex Hormozi 
 
 So obviously with this lever, the intention is NOT to get people to come to the gym less often. That would mean your attrition would go through the roof, and you would be worse off than where you started. Besides being ethically uncool, it’s just not good business. 
 
@@ -2846,8 +2840,6 @@ Tell them the times they will get the most attention—in other words, the sessi
 
 When signing up a new customer, or meeting with current customers to introduce a new membership structure, offer session 
 
-Gym Launch Secrets 109 
-
 times in reverse order of popularity. People will make things work if they are asked to solve a problem. So start with your least crowded session, like Tues/Thurs/Sat 8:00 am. If they say yes, you just added a member but didn’t add to your busier class times, which allows you to grow further before hitting capacity. 
 
 This little hack is really effective. Use it. 
@@ -2868,8 +2860,6 @@ Just from these two hacks, you should be able to spread the butter out more even
 
 I believe the general population can achieve amazing results by working out 3 days a week for 45 minutes nonstop, or even 30 minutes of high-intensity interval training. 
 
-110 Alex Hormozi 
-
 They are not us. 
 
 We are obsessed. We program. We plan our cycles way in advance. We cycle our macros. 
@@ -2884,7 +2874,7 @@ The solution to this problem is simple. I recommend that virtually every fitness
 
 This allows you to strategically split packed times into two so you can further increase your facility capacity. Here is an example to show you how this breaks down. 
 
-###### **Problem** 
+**Problem** 
 
 5:00 am 
 
@@ -2898,9 +2888,7 @@ This allows you to strategically split packed times into two so you can further 
 
 6:30 pm 
 
-Gym Launch Secrets 111 
-
-###### **Solution** 
+**Solution** 
 
 5:00 am 
 
@@ -2925,8 +2913,6 @@ But what about those extra 15 minutes of workouts?
 Good question. Short and sweet answer: it doesn’t matter. You may hear some whimpering from your OGs, but they’ll get over it eventually. People hate change, even if it’s better and more convenient for them. This is why I recommend that when you switch, you switch it all. Do it all at once so you can deal with the kickback and get over it. Cut once, cut deep. (I’ll talk more about the switchover in Chapter 11.) 
 
 When clients ask, “Why are you doing this?” you say something like… 
-
-112 Alex Hormozi 
 
 - “We wanted to add more times to make it convenient for everyone. We realized that some session times were more packed than others. By offering more time slots, we can help more people.” 
 
@@ -2962,13 +2948,9 @@ Luckily, the solution hit me like a stack of bricks one day while I was working 
 
 One of the easiest things you can do to double your capacity is partner everyone up. One person rests, spots, or cheers while the other does the programmed exercise. 
 
-When I sold the partners idea to our customers, they loved 
-
-it. 
+When I sold the partners idea to our customers, they loved it. 
 
 Partners increase safety, increase community, increase encouragement, and allow for adequate rest while strength training. 
-
-114 Alex Hormozi 
 
 And, most importantly for the business, partners DOUBLE the number of people you can have in your space. 
 
@@ -2996,8 +2978,6 @@ By all means, go in and check on things, but don’t feel guilty about not being
 
 - → **Enhance Experience** 
 
-Gym Launch Secrets 115 
-
 Okay, so this last micro lever is a big one. It’s one of the things so many gyms struggle with and one of the biggest obstacles my team encounters on sales calls. 
 
 “How will I make sure new people can get acclimated to how we do things?” 
@@ -3014,11 +2994,7 @@ New people coming into the gym should be a great thing. But it’s often a sourc
 
 This problem appears more often with facilities that have more of a barbell and strength emphasis than it does for bootcamp-style ones. But the problem can creep into any type of gym. The big issue is that new people have a hard time integrating into the community. They’re literally segmented with their baby exercises at weird hours, if they show up to them at all, before falling off. And nowadays, there are “pre-beginners” who can barely do a bodyweight squat. 
 
-It’s hard to keep people coming back when they don’t feel welcomed into a facility and when there’s a steep learning curve 
-
-116 Alex Hormozi 
-
-to get them up to speed. (This is central to the attrition problem that I’ll get to in later chapters.) 
+It’s hard to keep people coming back when they don’t feel welcomed into a facility and when there’s a steep learning curve to get them up to speed. (This is central to the attrition problem that I’ll get to in later chapters.) 
 
 Sometimes it feels like you just can’t win. 
 
@@ -3038,11 +3014,7 @@ The good news is, we figured out a way around these problems with my gyms, which
 
 **Solution** → **Set Up Regressive Two-Tier Programming** 
 
-For every workout, create a second easier one that’s done in parallel with the first. This allows you to have new people with no fitness experience get their time in, while also offering workouts that your more advanced OGs can do. The workouts should be 
-
-Gym Launch Secrets 117 
-
-100% in parallel—same muscles and movement patterns, just regressive. This also gives new people another metric besides body composition they can use to measure their progress. 
+For every workout, create a second easier one that’s done in parallel with the first. This allows you to have new people with no fitness experience get their time in, while also offering workouts that your more advanced OGs can do. The workouts should be 100% in parallel—same muscles and movement patterns, just regressive. This also gives new people another metric besides body composition they can use to measure their progress. 
 
 Sara, when you started here just six weeks ago, you could barely finish the Tier 2 workouts. Now twothirds of your exercises are from Tier 1. And that’s just in six weeks. Imagine where you could be in six months. 
 
@@ -3058,8 +3030,6 @@ Here are a few hints to make this strategy work even better.
 
 **Don’t announce that you’re making changes, just make them** . It’s rare that someone “remembers” that you haven’t done something in a while. Just stop doing those exercises, and if someone confronts you about it, tell them the truth: “We believe there is a higher risk of injury and that the risk–reward tradeoff for noncompetitors is simply not there.” 
 
-118 Alex Hormozi 
-
 **Use partners** . Yes, I am repeating this idea. But I believe in having peer partners for all workouts, especially for bigger movements. A buddy system is motivating, and it saves crazy amounts of space, because one person is resting while the other completes the movement. You can sell it as “spotting for safety.” A partner system also allows for great supersets and strength sets. 
 
 **Have the strong help the weak.** Have your OGs act as spotters and partners for newer members. This is motivating for both people. To sell the idea to your OGs, you can say something like this: 
@@ -3068,11 +3038,7 @@ At a certain point, you’ll never be more fulfilled by getting fitter, but you 
 
 This system also helps with morale, because the OGs who might have complained before are now proud mentors. They become brand ambassadors for your gym. And the newbies make friends with their new mentors. There’s no adversarial atmosphere where everyone is competing for the coach’s limited attention. 
 
-Hey, Sarah—meet Tiffany, one of our rock-star clients. Not only has she lost 20 pounds, she can also 
-
-Gym Launch Secrets 119 
-
-do 30 push-ups in a row! Tiffany, it’s Sarah’s first day. Would you mind showing her the ropes? 
+Hey, Sarah—meet Tiffany, one of our rock-star clients. Not only has she lost 20 pounds, she can also do 30 push-ups in a row! Tiffany, it’s Sarah’s first day. Would you mind showing her the ropes? 
 
 A few benefits to two-tier programming include: 
 
@@ -3084,11 +3050,7 @@ It would break most models. The reason this model can handle a surge of customer
 
 ###### **Actions To Take** 
 
-Create two levels of programming for every session. One for new people and one for your more experienced clients. This allows them to tailor their experience to their confidence level while also decreasing your cost of acquisition/fulfillment AND 
-
-120 Alex Hormozi 
-
-allowing them to seamlessly merge with your existing clientele. It also allows you to get as many new customers as needed. Period. 
+Create two levels of programming for every session. One for new people and one for your more experienced clients. This allows them to tailor their experience to their confidence level while also decreasing your cost of acquisition/fulfillment AND allowing them to seamlessly merge with your existing clientele. It also allows you to get as many new customers as needed. Period. 
 
 I know that was a lot to take in. But I wanted this to be as actionable as humanly possible for you. 
 
