@@ -3443,7 +3443,7 @@ Nhưng tại sao việc giữ chân khách hàng lại dễ dàng đến vậy �
 
 Đó là vì bạn đã chủ động vun đắp cho từng mối quan hệ cá nhân đó. Nhưng bạn lại không duy trì được nhịp độ ấy, vì mọi thứ diễn ra ngẫu nhiên chứ không được hệ thống hóa. Ai cũng có thể làm được điều đó với 40 khách hàng đầu tiên của mình (đó là lý do tại sao họ yêu mến bạn và vẫn đang tập luyện tại phòng gym của bạn). Nhưng để làm điều đó ở quy mô lớn (at scale) một cách có chủ đích, lại là một câu chuyện hoàn toàn khác. Đó chính là ranh giới phân định giữa những kẻ chiến thắng và phần còn lại.
 
-###### **Toán học dòng tiền giữ chân khách hàng (Retention Money Math)** 
+### **Toán học dòng tiền giữ chân khách hàng (Retention Money Math)** 
 
 Áp dụng toàn bộ các hệ thống trong phần này, nếu bạn có thể cắt giảm tỷ lệ khách hàng rời bỏ (churn) từ 10% (mức trung bình ngành) xuống còn 3% (mức mà các phòng gym áp dụng các hệ thống này đạt được), bạn sẽ gia tăng giá trị trọn đời (LTV) của mọi khách hàng tại phòng gym lên gấp 3.3 lần.
 
@@ -3481,11 +3481,7 @@ Tò mò muốn biết thêm chứ?
 
 Hãy đọc tiếp nhé. 
 
-###### **Chương 13** 
-
-###### **Sự thất thoát hội viên (Attrition):** 
-
-###### **Vấn đề chiếc xô thủng đáy** 
+### **Chương 13: Sự thất thoát hội viên (Attrition) - Vấn đề chiếc xô thủng đáy** 
 
 Tóm tắt lại một chút về các vấn đề và giải pháp mà chúng ta đã đi qua cho đến thời điểm này… 
 
@@ -3513,8 +3509,7 @@ Các chủ phòng gym thường hỏi tôi những câu hỏi sau:
 
 Hãy nhớ rằng, OGs ở đây chính là những “tay chơi cội cán”—những hội viên sáng lập, là trái tim và linh hồn của phòng gym, những người cực kỳ yêu mến bạn—những người mà bạn đã ưu ái giữ nguyên mức giá cũ 99 USD/tháng, và cũng chính họ là những người kéo mức doanh thu EFT trung bình của bạn xuống còn 118 USD/tháng khi tính toán lại, mặc dù bạn luôn quảng cáo mức giá của mình là 139–159 USD/tháng. Bạn thừa biết tôi đang nhắc đến ai mà. 
 
-<!-- Start of picture text -->
-EFT<br>EFT<br>Ngọn núi<br>mục tiêu<br>sự thất thoát hội viên<br><!-- End of picture text -->
+![](../assets/images/gym-launch/03-13-00.png)
 
 Hãy làm quen với Sisyphus. Trong thần thoại Hy Lạp, anh chàng này bị các vị thần trừng phạt bằng cách phải lăn một khối đá khổng lồ lên đỉnh đồi, để rồi chứng kiến nó lăn ngược trở lại xuống dưới, cứ thế... lặp đi lặp lại mãi mãi. Tôi nghĩ hình ảnh này mô tả chính xác nhất cảm giác chật vật phát triển số lượng EFT khi bạn không áp dụng đúng quy trình. 
 
@@ -3526,7 +3521,7 @@ Và khi đó, bạn có thể đẩy hòn đá chết tiệt ấy qua đỉnh đ
 
 Chúng ta làm một vài câu hỏi đáp nhanh nhé? 
 
-###### **Tại sao phòng gym của tôi lại phát triển nhanh chóng ở giai đoạn đầu nhưng tốc độ tăng trưởng lại chậm dần kể từ đó?** 
+**Tại sao phòng gym của tôi lại phát triển nhanh chóng ở giai đoạn đầu nhưng tốc độ tăng trưởng lại chậm dần kể từ đó?** 
 
 Lý do chính khiến bạn có thể phát triển ở giai đoạn đầu, thậm chí chỉ bằng lời truyền miệng (word of mouth), là vì tỷ lệ khách rời bỏ 10% (tỷ lệ thất thoát, hay những hội viên bỏ đi) lúc đó chưa kịp tác động đáng kể. Khi bạn chỉ có 40 hội viên, nếu mất đi 10%, bạn chỉ mất có 4 người. Việc bù đắp lại con số đó không quá khó nếu bạn cần làm thế.
 
@@ -3534,7 +3529,7 @@ Họ cũng kể cho bạn bè nghe về “cái phòng tập mới mở với m�
 
 Ở giai đoạn đầu, bạn cũng là kẻ lót đường. Vì quy mô còn nhỏ, bạn nhớ mặt từng người, học viên nhận được sự quan tâm sát sao cá nhân hóa, và bạn bán dịch vụ với giá siêu rẻ chỉ \$5/buổi.
 
-###### **Tại sao thành viên mới không ở lại lâu như nhóm thành viên cốt cán (OGs)?** 
+**Tại sao thành viên mới không ở lại lâu như nhóm thành viên cốt cán (OGs)?** 
 
 Lý do chính là chất lượng dịch vụ của bạn bắt đầu giảm xuống khi lượng khách đổ về ngày một đông. Thông thường, mức độ phục vụ này bắt đầu chững lại đối với phần lớn chủ phòng tập khi đạt mốc 70–80 hội viên. Đó là lúc bạn không còn đủ thời gian hay năng lượng để duy trì tiêu chuẩn đỉnh cao như hồi chỉ có 40 hội viên.
 
@@ -3556,8 +3551,7 @@ Vấn đề được tóm gọn lại như thế này:
 
 Khi lượng hội viên phòng tập tăng lên, chất lượng dịch vụ cung cấp lại giảm đi, rào cản để hội viên mới hòa nhập và kết bạn trở nên khó khăn hơn (vì các nhóm cạ cứng đã hình thành sẵn), và giờ đây, khi bạn cố gắng thu hút những người mới, họ không còn nhận được mức dịch vụ tương xứng mà đáng lẽ họ phải nhận được khi phòng tập mới có 40 hội viên, hay bầu không khí cộng đồng đầy chào đón mà nhóm hội viên cốt cán (OGs) từng có. Chính vì thế, dù bạn có tối ưu hóa khâu đầu phễu (front end) thế nào đi nữa, họ cũng không ở lại hay tích lũy dày lên như trước được nữa.
 
-<!-- Start of picture text -->
-phương trình chiếc bánh<br>doanh thu phòng tập<br>giả định tối đa<br>ví dụ:<br>3 khách giới thiệu (referral)<br>15 hợp đồng EFT<br>EFT<br>từ traffic lạnh 18 180 EFT tối đa<br>1<br>10 lượng rời bỏ (churn)<br><!-- End of picture text -->
+![](../assets/images/gym-launch/03-13-01.png)
 
 Vậy làm thế nào để phá vỡ vòng luẩn quẩn tưởng chừng như vô tận này, để thực sự phát triển phòng tập và tạo ra lợi nhuận?
 
@@ -3565,7 +3559,7 @@ Tôi hứa là luôn có giải pháp. Cảm ơn bạn đã kiên nhẫn đồng
 
 Hãy để tôi dẫn dắt chủ đề này bằng cách chia sẻ về một đặc điểm cốt lõi của những chủ phòng tập thành công. Nó sẽ giúp bạn hiểu được yếu tố quan trọng nhất để giữ chân khách hàng ở lại.
 
-###### **Lòng trắc ẩn cấp độ chiến lược (Weapons-Grade Compassion)**
+#### **Lòng trắc ẩn cấp độ chiến lược (Weapons-Grade Compassion)**
 
 Bạn đang nhìn nhận nhân viên và khách hàng của mình như thế nào?
 
@@ -3625,7 +3619,7 @@ Hãy cứ cho đi ngay cả khi bạn cảm thấy mình chẳng còn gì trong 
 
 Sẽ chẳng có ai ghi nhận công sức của bạn nhiều như bạn nghĩ đâu. Không bao giờ có chuyện đó đâu. Thế nên hãy chấp nhận sự thật đi. Hãy thừa nhận rằng cuộc đời này không công bằng, và chọn sống trong một thế giới nơi bạn tự đặt ra luật chơi, bởi vì BẠN là người kiểm soát mức độ cho đi của chính mình.
 
-###### **Lòng trắc ẩn trong thực chiến**
+#### **Lòng trắc ẩn trong thực chiến**
 
 Và đây là cách mà khái niệm lòng trắc ẩn ở cấp độ "vũ khí hạng nặng" này tạo ra tác động cực kỳ mạnh mẽ đến lợi nhuận ròng (bottom line) của chúng ta.
 
@@ -3661,9 +3655,7 @@ Tôi sẽ để bạn suy ngẫm về những câu hỏi này trước khi chún
 
 - Làm thế nào để bạn khiến khách hàng kinh ngạc và chứng minh sự phát triển cá nhân của bạn thông qua sự phát triển của doanh nghiệp?
 
-###### **chương 14**
-
-###### **Cách Tỷ Lệ Giữ Chân Khách Hàng (Retention) Nhân Lên Doanh Thu**
+### **chương 14: Cách Tỷ Lệ Giữ Chân Khách Hàng (Retention) Làm Tăng Doanh Thu**
 
 Việc lôi kéo những vị khách đầu tiên đến phòng gym tương đối đơn giản. Bạn có thể dùng truyền miệng (word of mouth), các mối quan hệ mạng lưới (networks), hay phương thức truyền thống là bắt tay và chào hỏi. Và cách đó hiệu quả… trong một thời gian.
 
@@ -3699,14 +3691,7 @@ Như tôi đã giải thích ở chương trước, khi bạn mới mở phòng 
 
 - Dòng khách hàng của bạn từ những người bạn thân thiết và các lượt giới thiệu (referrals) kiểu "Hãy đến thử phòng gym mới mở này xem" biến thành traffic tự nhiên (cold traffic) và những người hoàn toàn xa lạ kiểu "Ồ, lại có đứa đang chạy quảng cáo khuyến mãi nữa kìa."
 
-###### Chất lượng phục vụ suy giảm
-
-||Thời gian<br>Giai đoạn đầu|Hiện tại|
-|---|---|---|
-|Cấp độ<br>dịch vụ|Mới mẻ, mang tính cá nhân,<br>kẻ dưới cơ (underdog), ưu đãi|Vào guồng, đồng đội<br>làm theo giờ, chủ quán,<br>mang tính đại trà (commoditized)|
-|Tỷ lệ rời bỏ (churn)|Thấp|Cao|
-|Cộng đồng|Cởi mở, chào đón|OGs, hội nhóm khép kín (cliques)|
-|Loại Traffic|Referrals|LBOs (hoặc leads), cold traffic|
+![](../assets/images/gym-launch/03-14-00.png)
 
 Một, hai, hoặc có lẽ là tất cả những điều này đều đang cộng hưởng với bạn. Và đôi khi bạn cảm thấy dường như không còn lối thoát. Hãy nhận ra rằng đó không phải lỗi của bạn. Những điều này xảy ra ở hầu hết mọi doanh nghiệp. Đó là quy luật của thời gian, chứ không phụ thuộc vào việc bạn quan tâm đến mức nào hay bạn làm việc chăm chỉ ra sao.
 
@@ -3714,11 +3699,7 @@ May mắn thay, khi bạn hiểu chuyện gì đang diễn ra, bạn có thể t
 
 Đây là phương trình chiếc bánh (pie equation) mà tôi đã đề cập trước đó. Đây là công thức chúng ta dùng để tính số lượng hợp đồng EFT (Electronic Funds Transfer - hình thức thanh toán định kỳ) tối đa mà bạn sẽ có trong một tháng. Và nó giúp bạn thấy rõ tỷ lệ giữ chân khách hàng (retention) cùng số lượng đăng ký mới có thể thúc đẩy tốc độ tăng trưởng của bạn mạnh mẽ đến nhường nào.
 
-###### phương trình chiếc bánh (pie equation)
-
-```html
-<!-- Start of picture text -->
-doanh thu<br>phòng gym giả định<br>tối đa<br>ví dụ:<br>3 giới thiệu<br>15 EFT (thành viên đóng phí tự động)<br>EFT<br>từ tệp khách hàng lạnh (cold traffic) 18, tối đa 180 EFT<br>1<br>10 rời bỏ (churn)<br><!-- End of picture text -->
+![](../assets/images/gym-launch/03-14-01.png)
 
 Khi tôi đến một phòng gym để hỗ trợ vực dậy cơ sở đó, chúng tôi xem xét cả ba yếu tố sau: 
 
@@ -3752,7 +3733,7 @@ Chúng ta vừa NHÂN ĐÔI mức tối đa của mình. Quá ngọt ngào.
 
 Chúng ta còn có thể làm gì nữa? Giảm tỷ lệ rời bỏ (churn) thì sao nhỉ? 
 
-###### **Ví dụ số 3: Tính toán công suất HGM khi giảm tỷ lệ rời bỏ.** 
+**Ví dụ số 3: Tính toán công suất HGM khi giảm tỷ lệ rời bỏ.** 
 
 Giả sử tỷ lệ rời bỏ giảm từ 10% xuống 5%, trong khi số lượng đăng ký mới giữ nguyên. 
 
@@ -3764,7 +3745,7 @@ Và đây là cách chúng tôi làm khi phát triển các phòng gym: Chúng t
 
 Xem đây… 
 
-###### **Ví dụ số 4: Tính toán SUPAH GYM với quy trình đón tiếp khách hàng (onboarding) và tính giải trình (accountability) tốt hơn.** 
+**Ví dụ số 4: Tính toán SUPAH GYM với quy trình đón tiếp khách hàng (onboarding) và tính giải trình (accountability) tốt hơn.** 
 
 Số lượng đăng ký mới tăng từ 10 lên 20 người mỗi tháng nhờ marketing mới (áp dụng mô hình mua lại khách hàng bằng chính tiền của khách hàng mà tôi đã mô tả trước đó). 
 
@@ -3786,7 +3767,7 @@ Bạn hoàn toàn có thể – và nên – phát triển phòng gym bằng cá
 
 Chúng ta đã bàn chi tiết về khâu thu hút (acquisition) rồi. Giờ thì hãy trực diện giải quyết phần tỷ lệ rời bỏ trong phương trình này. 
 
-###### **Những Vấn Đề Ảnh Hưởng Đến Tỷ Lệ Rời Bỏ (Churn)** 
+#### **Những Vấn Đề Ảnh Hưởng Đến Tỷ Lệ Rời Bỏ (Churn)** 
 
 Mượn lời của Marcus Lemonis từ chương trình truyền hình _The Profit_, bất kỳ doanh nghiệp nào cũng có ba trụ cột lớn: con người (people), quy trình (process) và sản phẩm (product). Tôi cũng sẽ chia làm ba phần tương tự khi thảo luận về tỷ lệ rời bỏ và cách giải quyết nó, nhưng tôi sẽ đề cập theo một thứ tự khác. 
 
@@ -3800,13 +3781,13 @@ Tin vui là những yếu tố này nằm hoàn toàn trong tầm kiểm soát c
 
 Dưới đây là tổng quan nhanh về cách vá cái “lỗ thủng trên xô nước” – hay nói cách khác là các vấn đề về giữ chân (retention), thực hiện dịch vụ (fulfillment) và nhân sự. 
 
-###### **QUY TRÌNH (PROCESS) > Cách Đối Xử Với Khách Hàng** 
+**QUY TRÌNH (PROCESS) > Cách Đối Xử Với Khách Hàng** 
 
 - Xác định Vòng Đời Khách Hàng Lý Tưởng (Ideal Customer Life Cycle) 
 
 - Năm Kỵ Sĩ Giữ Chân Khách Hàng (Five Horsemen of Retention) 
 
-###### **CON NGƯỜI (PEOPLE) > Cách Đối Xử Với Nhân Viên** 
+**CON NGƯỜI (PEOPLE) > Cách Đối Xử Với Nhân Viên** 
 
 - Xác Định Cơ Cấu Tổ Chức và Chính Sách Đãi Ngộ Ở Từng Cấp Độ 
 
@@ -3814,7 +3795,7 @@ Dưới đây là tổng quan nhanh về cách vá cái “lỗ thủng trên x�
 
 - 5 Yếu Tố Bắt Buộc Cho Mọi Vị Trí 
 
-###### **SẢN PHẨM (PRODUCT) > Cách Tạo Ra Những Buổi Tập Đỉnh Cao** 
+**SẢN PHẨM (PRODUCT) > Cách Tạo Ra Những Buổi Tập Đỉnh Cao** 
 
 - Cách Động Lực Hóa Huấn Luyện Viên Về Mặt Tài Chính 
 
@@ -3824,11 +3805,7 @@ Dưới đây là tổng quan nhanh về cách vá cái “lỗ thủng trên x�
 
 Đọc tiếp để tìm hiểu thêm. 
 
-###### **chương 15** 
-
-###### **QUY TRÌNH (PROCESS):** 
-
-###### **Cách Tạo Ra Trải Nghiệm Khách Hàng Tuyệt Vời Một Cách Nhất Quán** 
+### **Chương 15: QUY TRÌNH (PROCESS) - Cách Tạo Ra Trải Nghiệm Khách Hàng Tuyệt Vời Một Cách Nhất Quán** 
 
 Được rồi, hãy bắt đầu bịt kín cái xô nước đó lại. Một trong những điều khó khăn nhất khi điều hành một phòng gym là sự thiếu vắng thứ mà chúng tôi gọi là “cảnh quan lý tưởng” (ideal scene). Nói một cách đơn giản, đó là bức tranh phòng gym sẽ trông như thế nào khi mọi thứ vận hành chuẩn xác. Tất nhiên, rất khó để bắn trúng hồng tâm nếu bạn còn không biết nó nằm ở đâu. Do đó, bước đầu tiên là phải định nghĩa rõ ràng trải nghiệm khách hàng lý tưởng đó. Một khi đã định nghĩa được, chúng ta có thể nhắm đến nó và duy trì nó một cách nhất quán. Tất cả những gì cần làm là cô lập các biến số quan trọng và thực thi kế hoạch cho đến khi những lỗ thủng trên xô được bịt kín và tỷ lệ rời bỏ giảm xuống. 
 
