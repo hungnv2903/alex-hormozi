@@ -2750,7 +2750,7 @@ Hy vọng bạn đừng để mức độ căng thẳng của mình chạm đế
 
 Bây giờ, hãy cùng đi sâu vào ba đòn bẩy vi mô (micro lever) liên quan đến chi phí vận hành chung (Overhead). 
 
-###### **Đòn bẩy vi mô Overhead #1: Số lượng buổi tập** → **Cắt giảm Overhead và Tăng Lợi nhuận trên Mỗi Buổi tập** 
+#### **Đòn bẩy vi mô Overhead #1: Số lượng buổi tập → Cắt giảm Overhead và Tăng Lợi nhuận trên Mỗi Buổi tập** 
 
 Cảm ơn bạn đã kiên trì đồng hành. Hy vọng bạn đang tận hưởng hành trình này. 
 
@@ -2768,14 +2768,14 @@ Dưới đây là ví dụ về một mô hình bootcamp có 100 thành viên đ
 
 Dưới đây là các con số chúng ta cần để tính ra biên lợi nhuận gộp từ dịch vụ: 
 
-###### **#1 Số lượng buổi tập** 
+**#1 Số lượng buổi tập** 
 
 Phòng bootcamp này có bảy buổi tập mỗi ngày từ Thứ Hai đến Thứ Sáu (5:30 sáng, 7:00 sáng, 9:00 sáng, 12:00 trưa, 5:00 chiều, 6:00 chiều, 7:00 tối) và ba buổi vào thứ Bảy (8:00 sáng, 9:00 sáng, 10:00 sáng). 
 
 35 + 3 = 38 buổi mỗi tuần 
 38 x 4.3 tuần mỗi tháng = **163 buổi mỗi tháng** 
 
-###### **#2 Doanh thu trên Mỗi Buổi tập**
+**#2 Doanh thu trên Mỗi Buổi tập**
 
 Số lượng hội viên đóng phí tự động (EFT - recurring members) = 100 người x \$118 (mức trung bình của ngành)
 
@@ -2785,7 +2785,7 @@ Tiếp theo, ta chia tổng doanh thu hàng tháng cho tổng số buổi tập.
 
 $11.800 tổng doanh thu / 163 buổi = **$72 doanh thu/buổi**
 
-###### **#3 Chi Phí Vận Hành Mỗi Buổi Tập (Cost to Fulfill Each Session)**
+**#3 Chi Phí Vận Hành Mỗi Buổi Tập (Cost to Fulfill Each Session)**
 
 Bây giờ, chúng ta tính CHI PHÍ THỰC TẾ của từng buổi tập, đã bao gồm lương nhân sự (payroll). (Tôi dùng con số thực tế mà công ty dịch vụ bảng lương đã tính cho các phòng tập của tôi ở California).
 
@@ -2795,14 +2795,14 @@ Sau đó, chúng ta lấy số buổi tập nhân với chi phí mỗi buổi đ
 
 163 buổi x \$24,40/buổi = \$3.977/tháng tiền lương huấn luyện
 
-###### **#4 Tính Biên Lợi Nhuận (Margin Calculation)**
+**#4 Tính Biên Lợi Nhuận (Margin Calculation)**
 
 Giờ là lúc thực hiện phép tính lớn. Ta lấy số tiền kiếm được từ mỗi buổi tập (#2) trừ đi chi phí vận hành buổi tập đó (#3), rồi tiếp tục chia kết quả cho #2. Con số này cho ra tỷ lệ phần trăm doanh thu thực sự là biên lợi nhuận (margin) – dùng để chi trả các chi phí khác và cuối cùng phần dư ra sẽ thuộc về một thứ điên rồ mà chúng ta gọi là LỢI NHUẬN (PROFIT).
 
 Doanh thu - Chi phí vận hành = Lợi nhuận gộp (Gross Margin) 
 Ví dụ: \$72 doanh thu mỗi buổi - \$24,40 trả HLV = \$47,60 Lợi nhuận gộp
-Lợi nhuận gộp / Doanh thu = % Lợi nhuận gộp (Gross Margin %) 
-Ví dụ: \$47,60 / \$72 = 66% Lợi nhuận gộp
+Lợi nhuận gộp / Doanh thu = % Biên Lợi nhuận gộp (Gross Margin %) 
+Ví dụ: \$47,60 / \$72 = 66% Biên Lợi nhuận gộp
 
 Hầu hết mọi người nhìn vào con số đó và nói: "Tuyệt, tôi chỉ lệch có 14% thôi mà."
 
@@ -2810,19 +2810,22 @@ Nhưng vấn đề nằm ở chỗ này: mức trung bình của ngành gym ch�
 
 Vấn đề ở đây là: bạn kiếm không đủ tiền trên mỗi buổi tập để bù đắp chi phí. Với nhiều người, làm ít đi thực ra lại giúp phòng tập kiếm nhiều tiền hơn. Chỉ mở các buổi tập mới khi bạn chắc chắn 100% rằng mình sẽ lấp đầy được chúng.
 
-Hãy nhớ rằng, nếu bạn bắt đầu với biên lợi nhuận 66%, thì sau khi trả tiền thuê mặt bằng, chi phí hành chính, marketing, điện nước, phần mềm, sửa chữa cơ sở vật chất và các chi phí linh tinh khác, chẳng còn lại mấy cho bạn đâu.
+Hãy nhớ rằng, nếu bạn bắt đầu với biên lợi nhuận gộp 66%, thì sau khi trả tiền thuê mặt bằng, chi phí hành chính, marketing, điện nước, phần mềm, sửa chữa cơ sở vật chất và các chi phí linh tinh khác, chẳng còn lại mấy cho bạn đâu.
 
 Làm thế nào để cứu phòng tập này đây?
 
 Hãy bình tĩnh theo dõi tiếp—phần này sắp trở nên cực kỳ hay ho rồi đấy.
 
-Chúng ta chỉ có ba đòn bẩy vi mô (micro levers) ở đây: 1) số lượng buổi tập, 2) số giờ làm việc, và 3) mức thù lao cho những giờ đó.
+Chúng ta chỉ có ba đòn bẩy vi mô (micro levers) ở đây: 
+1. Số lượng buổi tập 
+2. Số giờ làm việc, và 
+3. Mức thù lao cho những giờ đó.
 
 Xin nhắc lại, tôi không thích điều chỉnh thù lao trừ khi điều đó là tối quan trọng. Và ngay cả khi đó, tôi vẫn không thích làm thế.
 
 Vì vậy, tôi sẽ chỉ cho bạn cách tôi tính toán để xác định xem phòng tập NÊN có bao nhiêu buổi tập.
 
-**Giải pháp** → **Cắt Giảm Buổi Tập Để Tối Ưu Hóa Hiệu Suất**
+##### **Giải pháp** → **Cắt Giảm Buổi Tập Để Tối Ưu Hóa Hiệu Suất**
 
 Nếu dùng các con số như trên, chúng ta biết rằng mình chỉ cần phục vụ 100 khách hàng.
 
@@ -2852,9 +2855,9 @@ Chúng ta vừa tăng thu nhập cho chủ phòng tập thêm \$1.561/tháng và
 
 Bạn có thể nghĩ từng đó không nhiều. nhưng tích tiểu thành đại. Và bí quyết là: bạn cần phải trở nên TỐT HƠN trước khi trở nên LỚN HƠN.
 
-Hai đòn bẩy vi mô cuối cùng—số giờ làm việc của nhân sự và thù lao theo giờ—có mối liên hệ mật tthiết với nhau, nên tôi sẽ gộp lại thảo luận chung.
+Hai đòn bẩy vi mô cuối cùng—số giờ làm việc của nhân sự và thù lao theo giờ—có mối liên hệ mật thiết với nhau, nên tôi sẽ gộp lại thảo luận chung.
 
-###### **Giải pháp** → **Hiệu Chuẩn Lương Huấn Luyện Viên**
+##### **Giải pháp** → **Hiệu Chuẩn Lương Huấn Luyện Viên**
 
 Tôi rất ghét—tôi xin nhắc lại, RẤT GHÉT—việc giảm lương. Nhưng đôi khi đó lại là sự thật phũ phàng. Và đôi khi—à không, RẤT NHIỀU LẦN—các HLV lại kiếm được nhiều tiền hơn cả chủ phòng tập.
 
@@ -2870,7 +2873,7 @@ Xét việc hầu hết các chủ phòng tập hiện nay chỉ đút túi mứ
 
 Như tôi đã nói, tôi KHÔNG THÍCH làm điều này, nhưng nếu lựa chọn là giữ cửa hàng mở hay đóng cửa, bạn bắt buộc phải nuôi sống doanh nghiệp trước tiên. Đó là nghĩa vụ của một người chủ. Nếu không làm được thế, bạn đáng bị sa thải. Và nếu bạn không tự làm, thị trường SẼ sa thải bạn bằng cách đánh sập doanh nghiệp của bạn.
 
-###### **Tính Toán Lợi Nhuận Dịch Vụ Gộp Mới**
+##### **Tính Toán Lợi Nhuận Dịch Vụ Gộp Mới**
 
 Hãy nhớ lại phép tính chúng ta từng làm để ra được biên lợi nhuận 66% chứ? Nào, hãy cùng nhìn lại nó một lần nữa.
 
@@ -2896,11 +2899,9 @@ Hãy xem lại biên lợi nhuận gộp và thực hiện lại các bước t�
 
 Bùm.
 
-Dưới đây là đoạn trích đã được bản địa hóa theo đúng văn phong thực chiến, máu lửa và chuẩn xác của Alex Hormozi:
-
 Hãy dùng công thức toán học ở trên để tính biên lợi nhuận (margin) của bạn. Và nếu con số này thấp hơn 80%, hãy tiến hành thay đổi ngay. Ngay cả khi nó chỉ “thấp hơn” 7%, thì điều đó cũng có thể ngốn ĐẾN MỘT NỬA lợi nhuận ròng của bạn. Nói cách khác, những thay đổi này có thể giúp khoản tiền mang về nhà của bạn tăng vọt 50%. Quá đáng để bận tâm đấy chứ. 
 
-###### **Tóm tắt** 
+##### **Tóm tắt** 
 
 1. Nắm vững bài toán biên lợi nhuận. 
 
@@ -2912,9 +2913,7 @@ Hãy dùng công thức toán học ở trên để tính biên lợi nhuận (m
 
 Ở chương tiếp theo, chúng ta sẽ kết hợp tất cả những yếu tố này lại với nhau. Đúng vậy, chúng ta sẽ kéo tất cả các đòn bẩy cùng một lúc và xem chúng ta có thể làm gì để tối ưu hóa lợi nhuận cho phòng gym của bạn. 
 
-###### **Chương 11** 
-
-###### **Mô Hình Phòng Gym Mới Trên Giấy Của Bạn** 
+### **Chương 11: Mô Hình Phòng Gym Mới Trên Giấy Của Bạn** 
 
 Chương này mang tính toán học nhiều nhất, nhưng tôi đã chia nhỏ nó thành từng bước một để bạn dễ dàng tiêu hóa. 
 
@@ -2926,7 +2925,7 @@ Sau chương này, chúng ta sẽ khép lại phần toán học nặng đô c�
 
 Toàn bộ khung chiến lược mà tôi vừa bắt bạn "kinh qua" ở chương trước là đúc kết từ tất cả những gì tôi học được từ việc quản lý 6 phòng gym của chính mình, từ vô số sai lầm, những lần đứt ruột đau đớn, và từ hơn 1.500 phòng gym mà tôi đang trực tiếp cố vấn. 
 
-Tôi đã từng ngồi hàng giờ qua điện thoại với các chủ phòng gym, chia sẻ màn hình hiển thị toàn bộ các con số và bóc tách từng dòng một. Chẳng có quy trình hành chính rườm rà nào ở đây cả. Nó giống như việc tôi đi hỏi về tất cả những điểm vận hành kém hiệu quả mà tôi thường thấy ở họ, rồi từ đó gỡ rối dần dần. Và chúng tôi luôn kết thúc bằng việc cải thiện một cách ngoạn mục dòng tiền đáy (bottom line) của phòng gym. 
+Tôi đã từng ngồi hàng giờ qua điện thoại với các chủ phòng gym, chia sẻ màn hình hiển thị toàn bộ các con số và bóc tách từng dòng một. Chẳng có quy trình hành chính rườm rà nào ở đây cả. Nó giống như việc tôi đi hỏi về tất cả những điểm vận hành kém hiệu quả mà tôi thường thấy ở họ, rồi từ đó gỡ rối dần dần. Và chúng tôi luôn kết thúc bằng việc cải thiện một cách ngoạn mục lợi nhuận ròng (bottom line) của phòng gym. 
 
 Theo thời gian, tôi đã rà soát lại tất cả các cuộc gọi đó, tổng hợp lại các hành động cần làm và liệt kê chúng thành danh mục. Sau đó, tôi phân loại chúng theo cách mà bạn đang thấy hiện tại – như những đòn bẩy vĩ mô (macro levers). 
 
@@ -2934,19 +2933,19 @@ Tôi muốn phần này của cuốn sách thắp lên cho bạn một tia hy v�
 
 Hãy nhớ rằng, bạn chỉ cách những điều mình muốn vài cuộc trò chuyện khó khăn mà thôi. Bạn có thể nói chuyện đó với vợ/chồng mình và chủ nhà, hoặc bạn có thể nói chuyện đó với các HLV và hội viên của mình. Nhưng chỉ có một lựa chọn trong số đó giúp bạn kiếm được nhiều tiền hơn. 
 
-###### **Đi Vào Chi Tiết Thực Chiến (Nitty Gritty)** 
+#### **Đi Vào Chi Tiết Thực Chiến (Nitty Gritty)** 
 
 Được rồi, đây là lúc bạn lấy bằng Tiến sĩ về nghệ thuật "Hồi Sinh Phòng Gym". 
 
 Hoặc, nếu phòng gym của bạn đang kinh doanh tốt, đây là tấm bằng Tiến sĩ về nghệ thuật "Bùng Nổ Phòng Gym", đưa cơ sở của bạn vươn lên tầm cao mới. 
 
-Chúng tôi có nhiều phòng gym đạt doanh thu bảy con số trong cộng đồng Gym Lords của mình hơn tổng số khách hàng của rất nhiều "guru" (chuyên gia tự phong) cộng lại. Trong thế giới của chúng tôi, đó không còn là một giấc mơ ho đường nữa; nó là một kết cục tất yếu. Hãy nghĩ xem khi nào, chứ đừng hỏi có hay không. 
+Chúng tôi có nhiều phòng gym đạt doanh thu bảy con số trong cộng đồng Gym Lords của mình hơn tổng số khách hàng của rất nhiều "guru" (chuyên gia tự phong) cộng lại. Trong thế giới của chúng tôi, đó không còn là một giấc mơ hoang đường nữa; nó là một kết cục tất yếu. Hãy nghĩ xem khi nào, chứ đừng hỏi có hay không. 
 
 Dù vậy, để giành chiến thắng ở Super Bowl, bạn cần phải nắm vững các "bài" bóng đá cơ bản. Bạn phải ghi được nhiều bàn thắng hơn đối thủ. Trong bối cảnh phòng gym, chiến thắng có nghĩa là kiếm được nhiều tiền hơn chi phí bạn bỏ ra để tạo ra nó. Và việc kéo tất cả các đòn bẩy này là cách tốt nhất mà tôi biết để biến các phòng gym thành những cỗ máy in tiền, gần như ngay lập tức. 
 
 Trong ba chương vừa qua, chúng ta đã đi sâu vào từng đòn bẩy lợi nhuận vĩ mô: giá (price), công suất (capacity), và chi phí vận hành (overhead). 
 
-Và tôi hy vọng bạn cảm thấy tôi đã làm tốt việc phân tách chúng ra. Bởi vì thành thật mà nói, tôi coi tất cả chúng là một hệ thống lợi nhuận khổng lồ duy nhất. Chúng phối hợp nhịp nhàng với nhau như một đội bóng, có cầu thủ phòng ngự, chuyền bóng và ghi bàn. 
+Và tôi hy vọng bạn cảm thấy tôi đã làm tốt việc phân tách chúng ra. Bởi vì thành thật mà nói, tôi coi tất cả chúng là một hệ thống tạo lợi nhuận khổng lồ duy nhất. Chúng phối hợp nhịp nhàng với nhau như một đội bóng, có cầu thủ phòng ngự, chuyền bóng và ghi bàn. 
 
 Phần này chính là bức tranh toàn cảnh khi toàn bộ chiến lược được vận hành đồng bộ cùng một lúc. 
 
@@ -2960,50 +2959,45 @@ Ngoài ra, nếu các bước này có vẻ quen thuộc, thì đơn giản là 
 
 Tôi sẽ sử dụng các con số thống kê của một phòng gym trung bình giả định đang gặp khó khăn. Dưới đây là các thông số của họ: 
 
-###### **Thống Kê Phòng Gym Hiện Tại** 
+##### **Thống Kê Phòng Gym Hiện Tại** 
 
-EFTs (Số lượng hợp đồng tự động trừ tiền) = 100 
-
-- Giá (Price) = \$118/tháng 
-- Số buổi tập/tuần = 38
-
-# Số buổi/tháng = 163 | Thời lượng mỗi buổi = 60 phút (không nghỉ giữa giờ) | Sức chứa tối đa mỗi buổi = 16 học viên 
-
-Chi phí Huấn luyện viên (HLV) mỗi giờ = \$25 (đã bao gồm thuế bảng lương) | Số buổi trong gói hội viên = Không giới hạn | Chu kỳ thanh toán = Hàng tháng | Doanh thu = \$11.800/tháng | Chi phí = \$10.000/tháng (Con số này khá nhỏ, nhưng tôi chỉ đang lấy mức trung bình của ngành). 
+| Chỉ số | Giá trị |
+| --- | --- |
+| EFTs<br/>_(Số lượng thành viên đăng ký định kỳ)_ | 100 |
+| Price | \$118/tháng |
+| Session/week | 38 |
+| Session/month | 163 |
+| Session duration | 60 mins<br/>(_không nghỉ giữa giờ_) |
+| Max Cap/Session | 16 members |
+| Cost of Trainer/Hour | \$25<br/>_(đã bao gồm thuế phí)_ |
+| Số buổi mà hội viên đăng ký có thể sử dụng | Không giới hạn |
+| Doanh thu | \$11.800/tháng |
+| Chi phí | \$10.000/tháng <br/>_(Con số này khá nhỏ, nhưng tôi chỉ đang lấy mức trung bình của ngành)_ |
 
 Chúng ta sẽ tận dụng mọi đòn bẩy có sẵn để cứu vãn phòng gym giả định này và biến nó thành một cỗ máy in tiền. Sẵn sàng chưa? Bắt đầu nào!
 
-###### **Bước 1: Xác định những gì bạn có thể kiểm soát** 
+##### **Bước 1: Xác định những gì bạn có thể kiểm soát** 
 
 Lưu ý: Tất cả các mục có dấu tích ( ✓ ) đều nằm trong tầm kiểm soát của chúng ta. 
 
-EFTs (Số lượng thành viên thanh toán tự động) = 100 
+| | Chỉ số | Giá trị |
+| --- | --- | --- |
+|   | EFTs | 100 |
+| ✓ | Price | \$118/tháng |
+| ✓ | Session/week | 38 |
+| ✓ | Session/month | 163 |
+| ✓ | Session duration | 60 mins<br/>(_không nghỉ giữa giờ_) |
+| ✓ | Max Cap/Session | 16 members |
+| ✓ | Cost of Trainer/Hour | \$25<br/>_(đã bao gồm thuế phí)_ |
+| ✓ | Số buổi mà hội viên đăng ký có thể sử dụng | Không giới hạn |
+| ✓ | Doanh thu | \$11.800/tháng |
+| ✓ | Chi phí | \$10.000/tháng <br/>_(Con số này khá nhỏ, nhưng tôi chỉ đang lấy mức trung bình của ngành)_ |
 
-- ✓ Giá = \$118/tháng 
+##### **Bước 2: Đòn bẩy vĩ mô #1 – Tăng giá và Đổi chu kỳ thanh toán** 
 
-- ✓ Số buổi/tuần = 38 
+1. Nhóm lớn nên có giá từ \$39–$49/tuần hoặc \$167–$225 mỗi 28 ngày. 
 
-- ✓ Số buổi/tháng = 163 
-
-- ✓ Thời lượng mỗi buổi = 60 phút (không nghỉ giữa giờ) 
-
-- ✓ Sức chứa tối đa mỗi buổi = 16 học viên 
-
-- ✓ Chi phí HLV mỗi giờ = \$25 (đã bao gồm thuế bảng lương) 
-
-- ✓ Số buổi trong gói hội viên = Không giới hạn 
-
-- ✓ Chu kỳ thanh toán = Hàng tháng 
-
-- ✓ Doanh thu = \$11.800/tháng 
-
-- ✓ Chi phí = \$10.000/tháng 
-
-###### **Bước 2: Đòn bẩy vĩ mô #1 – Tăng giá và Đổi chu kỳ thanh toán** 
-
-1. Lớp nhóm lớn nên có giá từ \$39–$49/tuần hoặc \$167–$225 mỗi 28 ngày. 
-
-2. Nâng cao: Cung cấp hai cấp độ dịch vụ: lớp nhóm lớn và lớp nhóm nhỏ (tỷ lệ 1 kèm 4). 
+2. Nâng cao: Cung cấp hai cấp độ dịch vụ: nhóm lớn và nhóm nhỏ (tỷ lệ 1 kèm 4). 
 
 Bước đầu tiên là tăng giá và đổi chu kỳ thanh toán. Tôi biết điều này nghe có vẻ đáng sợ, nhưng đừng lo – bạn sẽ thấy lợi nhuận tăng vọt chỉ sau vài tuần. Bạn có thể mất vài khách hàng, nhưng đó chỉ là chuyện tạm thời. Tin tôi đi, tôi đã thấy chiêu này thành công đến cả tỷ lần rồi. 
 
@@ -3015,9 +3009,9 @@ Bạn chỉ đang cộng thêm \$10–$15/tuần thôi, thế nên hãy cứ tho
 
 Vậy hai thay đổi đầu tiên chúng ta làm là giá cả và chu kỳ thanh toán. 
 
-- ✓ Giá = \$118/tháng → \$39/tuần 
+&emsp;✓ Giá = \$118/tháng → \$39/tuần 
 
-- ✓ Chu kỳ thanh toán = Hàng tháng → Hàng tuần 
+&emsp;✓ Chu kỳ thanh toán = Hàng tháng → Hàng tuần 
 
 Tiếp theo, chúng ta sẽ chuyển hình thức thanh toán từ \$118 mỗi tháng sang \$39 mỗi TUẦN. (Tôi hoàn toàn có thể đẩy lên \$49/tuần, mức giá chắc chắn sẽ khiến mấy chủ phòng gym truyền thống "giàu trên Excel" hơn – tức là giàu trên giấy tờ – nhưng hầu hết khách hàng phòng gym của chúng tôi ban đầu đều chọn mức \$39/tuần). 
 
@@ -3029,7 +3023,7 @@ Nếu bạn muốn chơi lớn hơn nữa, bạn có thể tung ra gói tập b�
 
 $555 - \$167 = \$388/tháng 
 
-Đó là số tiền BỔ SUNG bạn kiếm được nhờ có một Core Offer (sản phẩm cốt lõi) giá trị cao hơn. 
+Đó là số tiền BỔ SUNG bạn kiếm được nhờ có một "higher-ticket offer". 
 
 Chỉ một động thái này thôi sẽ làm doanh thu gộp của bạn tăng thêm \$5.432 mỗi tháng CỘNG DỒN VÀO khoản bạn nhận được nếu những người đó chỉ ở lại lớp nhóm lớn. Bạn có thấy bị ngợp không? 
 
@@ -3041,35 +3035,35 @@ Tính ra là thêm \$69.840 mỗi năm. Đó chính là sức mạnh của các 
 
 Nhưng nếu hiện tại bạn vẫn muốn đi những bước cơ bản, hoàn toàn OK thôi. Hãy cứ chuyển từ thanh toán hàng tháng sang hàng tuần (hoặc mỗi 28 ngày), và ấn định mức thanh toán thực tế là \$39 mỗi tuần. 
 
-###### **Bước 3: Tăng sức chứa phục vụ và Cắt giảm chi phí vận hành (Overhead) bằng các Đòn bẩy Lợi nhuận** 
+##### **Bước 3: Tăng sức chứa phục vụ và Cắt giảm chi phí vận hành (Overhead) bằng các Đòn bẩy Lợi nhuận** 
 
-**1. Các cấp độ hội viên (Membership Levels)** 
+- **1. Các cấp độ hội viên (Membership Levels)** 
 
    - a. Chuyển từ không giới hạn số buổi sang 3 buổi/tuần như một Core Offer (sản phẩm cốt lõi). 
 
    - b. Gọi chúng là các "buổi tập" (sessions) thay vì "lớp học" (classes). 
 
-**2. Tỷ lệ chuyên cần (Attendance)** 
+- **2. Tỷ lệ chuyên cần (Attendance)** 
 
    - a. Bắt buộc mọi người phải đặt lịch trước, và sắp xếp họ vào các buổi tập theo thứ tự từ các lớp vắng nhất trở lên. 
 
    - b. Để ghi điểm tuyệt đối, hãy áp dụng phí phạt khi vắng mặt không phép (no-show fee). 
 
-**3. Thời lượng (Duration)** 
+- **3. Thời lượng (Duration)** 
 
    - a. Chuyển sang các buổi tập 45 phút nối tiếp nhau (30 phút nếu bạn chỉ có sức chứa từ 15 người trở xuống). 
 
-**4. Không gian vật lý (Physical Space)** 
+- **4. Không gian vật lý (Physical Space)** 
 
-   - a. Hợp tác chung vốn/không gian (Partner up). 
+   - a. Bạn tập đồng hành (Partner up). 
 
    - b. Đập tường văn phòng đi và biến góc làm việc thành khu bán hàng (cubicle). 
 
-###### **5. Lựa chọn bài tập (Exercise Selection)** 
+- **5. Lựa chọn bài tập (Exercise Selection)** 
 
-- a. Loại bỏ các bài tập chiếm nhiều không gian để thay bằng các bài ít tốn diện tích hơn, nhưng không cần phải thông báo rùm beng. 
+   - a. Loại bỏ các bài tập chiếm nhiều không gian để thay bằng các bài ít tốn diện tích hơn, nhưng không cần phải thông báo rùm beng. 
 
-- b. Cung cấp hai cấp độ bài tập (nặng và nhẹ) để mọi người có thể tập chung trong một khung giờ. 
+   - b. Cung cấp hai cấp độ bài tập (nặng và nhẹ) để mọi người có thể tập chung trong một khung giờ. 
 
 Những con số này gần như tương tự với ví dụ về đòn bẩy công suất vận hành (overhead capacity). Điểm khác biệt duy nhất là tôi cũng sẽ gia tăng SỨC CHỨA của mỗi buổi tập. Tôi gộp hai đòn bẩy vi mô cuối cùng lại vì chúng luôn song hành với nhau. Ví dụ, khi bạn chuyển sang mô hình 3 buổi/tuần làm gói chủ đạo, bạn vừa đồng thời tăng được sức chứa vừa cắt giảm được chi phí vận hành (overhead). Vì vậy, để giữ mạch liền mạch, tôi gom chúng thành một “bước” duy nhất trong công thức tính toán tài chính phòng gym mới của chúng ta. 
 
@@ -3083,7 +3077,7 @@ Những con số này gần như tương tự với ví dụ về đòn bẩy c�
 
 - ✓ Số buổi trong gói hội viên = Không giới hạn → 3 buổi/tuần 
 
-- ✓ Hợp tác đối tác 
+- ✓ Bạn tập đồng hành 
 
 Thứ ba, chúng ta sẽ cắt giảm các khoản chi phí vận hành lãng phí. Một trăm con người KHÔNG HỀ cần tới 38 khung giờ tập mỗi tuần. Giờ thì tính toán nhé. Dù sao bạn cũng sẽ chuyển sang 3 buổi/tuần để tăng sức chứa, nghĩa là bạn chỉ cần phục vụ 50 người một ngày. 
 
@@ -3093,7 +3087,7 @@ Cho nên, dù tôi cá là bạn có thể nhồi nhét đến 24 người, tôi
 
 Nhưng để cho chắc ăn trong giai đoạn chuyển đổi này, chúng ta sẽ mở dư ra thêm một buổi. Lịch trình sẽ là: 5:00 sáng, 9:00 sáng, 5:00 chiều và 6:00 chiều. Bạn có thể linh hoạt tùy tình hình thực tế, nhưng đó thường là những "khung giờ vàng" tại hầu hết các cơ sở. Cách này cũng giúp bạn có tiềm năng phục vụ tới 80 hội viên mỗi ngày – dư dả để làm hài lòng toàn bộ khách hàng hiện tại của bạn rồi.
 
-Bạn sẽ có các khung giờ tập luyện từ Thứ Hai đến Thứ Năm, và nghỉ tối Thứ Sáu. (Cứ tận hưởng đi, đó là quà tôi tặng bạn đấy.) Hoặc nếu thích, bạn cứ giữ lại lịch đó. Vậy là từ Thứ Hai đến Thứ Sáu sẽ là 4 x 5 = 20 buổi. (Nhưng tôi vẫn khuyên bạn nên dẹpấy buổi tối Thứ Sáu đi vì đằng nào chẳng mấy ai muốn tập vào lúc đó.) 
+Bạn sẽ có các khung giờ tập luyện này từ Thứ Hai đến Thứ Năm, và nghỉ tối Thứ Sáu. (Cứ tận hưởng đi, đó là quà tôi tặng bạn đấy.) Hoặc nếu thích, bạn cứ giữ lại lịch đó. Vậy là từ Thứ Hai đến Thứ Sáu sẽ là 4 x 5 = 20 buổi. (Nhưng tôi vẫn khuyên bạn nên dẹp buổi tối Thứ Sáu đi vì đằng nào chẳng mấy ai muốn tập vào lúc đó.) 
 
 Rồi đến sáng Thứ Bảy, bạn sẽ có 3 buổi, vì cũng như trên, lượng học viên đến lớp không thể đông bằng mấy ngày trong tuần. Vậy là tổng cộng bạn có 23 buổi một tuần, và nghỉ Chủ Nhật. Bạn phải nghỉ ngơi chứ. Việc đó sẽ giúp bạn kiếm ra tiền đấy. Tin tôi đi. 
 
@@ -3111,13 +3105,13 @@ Giờ thì, điều cuối cùng bạn có thể làm — và tôi cũng từng 
 
 Tôi từng tìm được những HLV xuất sắc với mức giá \$15 một giờ. Ngoài ra, hãy tính đến việc các HLV của bạn sẽ có cơ hội tiếp cận tệp khách hàng sẵn có tại phòng gym để bán các gói tập bán riêng tư (semi-private). Dù vậy, chi phí thực tế sẽ rơi vào khoảng \$18.30 mỗi giờ nếu bạn cộng thêm thuế nhân công — và bạn bắt buộc phải tính khoản này. 
 
-###### **Bước 4: Tính toán để thấy kết quả thực tế trên giấy – Doanh thu lớp Nhóm Lớn (Large-Group Revenue)** 
+##### **Bước 4: Tính toán để thấy kết quả thực tế trên giấy – Doanh thu lớp Nhóm Lớn (Large-Group Revenue)** 
 
 100 x \$118 = \$11,800 → 90 x \$168 = \$15,120 
 
 Đó là mức tăng \$3,320 ngay cả khi tính đến trường hợp MẤT KHÁCH HÀNG TỐI ĐA — điều mà tôi hiếm khi thấy phòng gym nào thực sự gặp phải. Nếu bạn giữ chân được tất cả mọi người trong giai đoạn chuyển giao này, doanh thu sẽ tăng tới \$5,000 (100 x \$168). 
 
-###### **Chi phí vận hành lớp Nhóm Lớn (Large-Group Training Overhead)** 
+**Chi phí vận hành Nhóm Lớn (Large-Group Training Overhead)** 
 
 $25/giờ x 1.25 giờ/buổi x 163 buổi/tháng = \$5,100/tháng 
 
@@ -3125,13 +3119,13 @@ $25/giờ x 1.25 giờ/buổi x 163 buổi/tháng = \$5,100/tháng
 
 Sự thay đổi cuối cùng này đã giúp bạn cắt giảm được tới \$3,741 chi phí vận hành (overhead). 
 
-Nếu bạn chỉ muốn rút ngắn thời gian lớp học nhưng vẫn giữ nguyên lương của HLV, thì chi phí vận hành sẽ giảm xuống mức… 
+Nếu bạn chỉ muốn rút ngắn thời gian mỗi buổi tập nhưng vẫn giữ nguyên lương của HLV, thì chi phí vận hành sẽ giảm xuống mức… 
 
 $25 x 0.75 giờ/buổi x 99 buổi = \$1,856. 
 
 Đây vẫn là một khoản giảm thuần \$3,244. Vẫn là một mức CẮT GIẢM KHỦNG. 
 
-###### **Động thái nâng cao (Advanced Move)** 
+##### **Hành Động nâng cao (Advanced Move)** 
 
 ###### **Doanh thu lớp Nhóm Nhỏ (Small-Group Revenue)** 
 
@@ -3139,7 +3133,7 @@ $25 x 0.75 giờ/buổi x 99 buổi = \$1,856.
 
 → 15 x \$129/tuần x 4.3 tuần/tháng = \$8,320/tháng 
 
-Bây giờ, chúng ta sẽ trừ đi khoản doanh thu mà nhóm khách này đã đóng góp từ lớp nhóm lớn trước đó. Làm vậy để con số không bị ảo tưởng. Cách này sẽ cho bạn thấy chính xác số doanh thu THỰC SỰ ĐƯỢC CỘNG THÊM vào dòng tiền hiện tại của bạn. 
+Bây giờ, chúng ta sẽ trừ đi khoản doanh thu mà nhóm khách này đã đóng góp từ nhóm lớn trước đó. Làm vậy để con số không bị ảo tưởng. Cách này sẽ cho bạn thấy chính xác số doanh thu THỰC SỰ ĐƯỢC CỘNG THÊM vào dòng tiền hiện tại của bạn. 
 
 15 x \$168/tháng (từ số liệu trên) = \$2,505 
 
@@ -3159,29 +3153,33 @@ Giờ thì, để chốt lại vấn đề, hãy cộng tổng số tiền mà c
 
 Hãy xem 3 kịch bản dưới đây. (Tôi đưa ra các phương án khác nhau để bạn tùy chọn dựa trên định hướng của cơ sở mình, tùy thuộc vào mức độ tự tin của bạn đối với những gì tôi đề xuất.) 
 
-###### **Kịch bản số 1: Cú xoay chuyển hoàn hảo nâng cao (Thêm lớp bán riêng tư, không mất khách, giảm lương HLV)** 
+##### **Kịch bản số 1: Cú xoay chuyển hoàn hảo nâng cao (Thêm lớp bán riêng tư, không mất khách, giảm lương HLV)** 
 
-+ \$5,800 doanh thu bán riêng tư > 15 x \$388 (chênh lệch giữa \$168 và \$555) 
+&emsp;\+\$5,800 doanh thu bán riêng tư > 15 x \$388 (chênh lệch giữa \$168 và \$555) 
 
-+ \$4,250 doanh thu nhóm lớn tăng thêm (85 khách x \$50 doanh thu tăng thêm trên mỗi khách) 
+&emsp;\+\$4,250 doanh thu nhóm lớn tăng thêm (85 khách x \$50 doanh thu tăng thêm trên mỗi khách) 
 
-+ \$1,660 tiết kiệm từ tiền lương (từ việc cắt giảm \$3,741 chi phí thực hiện nhóm lớn, trừ đi \$2,080 chi phí tăng thêm của nhóm bán riêng tư theo mô hình chia sẻ doanh thu). 
+&emsp;\+\$1,660 tiết kiệm từ tiền lương (từ việc cắt giảm \$3,741 chi phí thực hiện nhóm lớn, trừ đi \$2,080 chi phí tăng thêm của nhóm bán riêng tư theo mô hình chia sẻ doanh thu). 
 
-= \$11,710/tháng lợi nhuận phụ trội > **hơn \$140,520/năm** 
+&emsp;\= \$11,710/tháng lợi nhuận phụ trội > **hơn \$140,520/năm** 
 
-###### **Kịch bản số 2: Cú xoay chuyển hoàn hảo (Không thêm lớp bán riêng tư, không mất khách, giảm lương HLV)** 
+##### **Kịch bản số 2: Cú xoay chuyển hoàn hảo (Không thêm lớp bán riêng tư, không mất khách, giảm lương HLV)** 
 
-+ \$5,000 doanh thu (100 khách hàng tăng EFT thêm \$50/tháng) + \$3,741 tiết kiệm chi phí (giảm số buổi và thay đổi lương HLV) = \$8,741 tổng cộng mỗi tháng, giúp bạn đút túi thêm khoảng **$105,000/năm** 
+&emsp;\+\$5,000 doanh thu (100 khách hàng tăng phí định kỳ thêm \$50/tháng)
 
-###### **Kịch bản số 3: Cú xoay chuyển chưa hoàn hảo (Không lớp bán riêng tư, mất 10% khách hàng, giữ nguyên lương HLV)** 
+&emsp;\+\$3,741 tiết kiệm chi phí (giảm số buổi và thay đổi lương HLV) 
+
+&emsp;= \$8,741 tổng cộng mỗi tháng, giúp bạn đút túi thêm khoảng **$105,000/năm** 
+
+##### **Kịch bản số 3: Cú xoay chuyển chưa hoàn hảo (Không lớp bán riêng tư, mất 10% khách hàng, giữ nguyên lương HLV)** 
 
 Ngay cả khi bị sụt giảm một phần khách hàng và giữ nguyên cấu trúc đãi ngộ, kết quả sẽ thế này… 
 
-+ \$3,320 doanh thu (với 10% khách hàng rời đi) 
+&emsp;\+\$3,320 doanh thu (với 10% khách hàng rời đi) 
 
-+ \$3,150 tiết kiệm chi phí (giảm số buổi, giữ nguyên lương HLV) 
+&emsp;\+\$3,150 tiết kiệm chi phí (giảm số buổi, giữ nguyên lương HLV) 
 
-= \$6,470 lợi nhuận ròng phụ trội, giúp bạn đút túi thêm khoảng **$77,640/năm** 
+&emsp;\= \$6,470 lợi nhuận ròng phụ trội, giúp bạn đút túi thêm khoảng **$77,640/năm** 
 
 Hy vọng tôi không làm bạn thấy rối trí với đám toán học này. Nhưng mọi thứ là THẬT đấy. Tôi đã cố gắng tính toán đến mọi kịch bản để xua tan sự hoài nghi và thiếu tự tin của bạn hết mức có thể. 
 
@@ -3189,7 +3187,7 @@ Lấy máy tính ra đi. Cứ tính đi tính lại cho đến khi nào bạn ti
 
 Nếu BẠN VẪN CẦN THÊM BẰNG CHỨNG, hãy truy cập vào trang IDontHateMoney.com và đọc tất cả câu chuyện thành công từ các chủ phòng gym y hệt như bạn — những người đang vận hành những cơ sở vô cùng thành công. Nhưng chỉ vào đó nếu bạn không ghét tiền thôi nhé (haha). 
 
-###### **Những việc cần làm ngay** 
+#### **Những việc cần làm ngay** 
 
 1. Tăng giá dịch vụ. 
 
@@ -3209,9 +3207,7 @@ Có thể bạn đang thắc mắc: “Alex, nghe trên giấy thì hợp lý đ
 
 Giờ thì bạn chẳng còn lý do gì để thoái thác nữa rồi nhé. 
 
-###### **Chương 12** 
-
-###### **Tạo Sự Chuyển Dịch (Making The Shift)** 
+### **Chương 12: Tạo Sự Chuyển Dịch (Making The Shift)** 
 
 Lúc này, câu hỏi tiếp theo xuất hiện một cách rất tự nhiên là: “Được rồi, Alex… Tôi khá chắc là nếu làm thế này, hội viên sẽ ăn tươi nuốt sống tôi và mọi người sẽ bỏ đi hết cho mà xem. Nhưng cứ giả vờ như tôi tin bạn đi. Vậy tôi phải truyền đạt chuyện này thế nào đây?” 
 
