@@ -3217,7 +3217,7 @@ Có hai đối tượng chính mà bạn cần phải giao tiếp và thông bá
 
 (Nhân tiện nói luôn, bạn không bao giờ có thể thông báo QUÁ NHIỀU lần được đâu. Giao tiếp trong các mối quan hệ là điều tốt, còn trong kinh doanh, nó là TẤT CẢ.)
 
-###### **Nói Chuyện Với Đội Ngũ HLV** 
+#### **Nói Chuyện Với Đội Ngũ HLV** 
 
 1. Đặt vấn đề (cho họ, cho doanh nghiệp và cho khách hàng). 
 
@@ -3233,45 +3233,45 @@ Tôi có thể đếm trên đầu ngón tay số lần mình từng nghĩ đế
 
 Cuộc trò chuyện với các HLV của bạn sẽ diễn ra đại loại như thế này: 
 
-Này Tom, anh muốn trao đổi với em vì chúng ta sắp triển khai một vài điểm mới rất thú vị liên quan đến dịch vụ hội viên, chính sách giá, các buổi tập và nhiều thứ khác nữa. 
-
-Anh không biết em có để ý không, nhưng [ _khoảng thời gian qua_ ] doanh nghiệp của chúng ta gần như chỉ đang huề vốn mỗi tháng. Tháng nào cũng chật vật sống qua ngày. 
-
-Điều đó thực sự gây áp lực khủng khiếp cho anh, và chắc chắn nó cũng phần nào ảnh hưởng đến em. 
-
-Thế nên anh đã thuê các chuyên gia và coach trong ngành để giúp đỡ việc kinh doanh. 
-
-Và sau khi nghiên cứu, đánh giá mọi thứ, có vẻ như chúng ta tìm ra cách vừa cứu được doanh nghiệp, vừa mang lại trải nghiệm tốt hơn cho khách hàng, ĐỒNG THỜI giúp các HLV kiếm được nhiều tiền hơn. 
-
-Nhưng anh muốn chắc chắn rằng tất cả mọi người đều đồng lòng, bởi vì chúng ta sẽ phải trải qua khoảng một tháng chông gai trước khi mọi thứ đi vào quỹ đạo ổn định. 
-
-Anh có thể chia sẻ những gì họ đã tư vấn cho chúng ta không? 
-
-Ok, mục tiêu ở đây là chuyển sang mô hình "phân hóa" (bifurcated) hoặc mô hình hai tầng, nói đơn giản là kết hợp giữa lớp nhóm lớn (large group) và lớp nhóm bán riêng tư (semi-private). Điều này sẽ giúp các em kiếm được nhiều tiền hơn còn khách hàng nhận được dịch vụ tốt hơn. Anh chắc chắn chúng ta đều có thể điểm mặt gọi tên vài khách hàng rất muốn nhận được dịch vụ cá nhân hóa và sẵn sàng chi trả cho điều đó. 
-
-Với những thay đổi này, em sẽ có cơ hội kiếm thêm từ 2.000 đến 6.000 USD mỗi tháng và hoàn toàn có thể làm full-time, nhưng chúng ta sẽ phải thay đổi rất nhiều thứ trong vận hành để đạt được điều đó. 
-
-Việc đầu tiên chúng ta làm là chấm dứt việc "bán rẻ sức lao động" ở các lớp nhóm lớn. Thay vào đó, chúng ta sẽ tối ưu để các lớp này mang tính cá nhân hóa hơn một chút. Thay vì cho phép tập không giới hạn, mỗi hội viên sẽ được tập 3 buổi một tuần. Điều đó cho phép chúng ta chăm sóc họ kỹ hơn khi ở phòng tập, đồng thời tăng giá gói tập vì họ nhận được nhiều sự quan tâm hơn. 
-
-Đừng nhìn nhận vấn đề theo hướng họ bị cắt giảm thời lượng tập, mà hãy thấy rằng họ đang nhận được nhiều sự chú ý hơn. Một buổi tập cá nhân (private training) một tuần đáng giá hơn năm buổi tập nhóm chứ, phải không? Lần thay đổi này cũng vậy. Ngoài kia, các phòng tập nhóm lớn với mức giá rẻ bèo như chúng ta mọc lên như nấm, nên chúng ta bắt buộc phải tạo sự khác biệt bằng cách cung cấp nhiều giá trị hơn. 
-
-Nhờ những thay đổi này, chúng ta có thể cắt giảm bớt các lớp nhóm lớn để nhường chỗ cho các lớp bán riêng tư (semi-private). Điều này giúp em lấp đầy lịch trống và tận dụng những ngày ít việc bằng các lớp semi-private tỷ lệ 1 kèm 4. Chúng ta sẽ thu phí 125 USD/tuần cho 3 buổi semi-private. Bằng cách này, nếu hội viên nào muốn tập nhiều hơn nữa, họ có thể đăng ký thêm các gói semi-private kết hợp cùng lịch 3 buổi/tuần ở lớp nhóm lớn. 
-
-Và nói thật lòng nhé, rất nhiều người ở đây đang coi phòng tập như một câu lạc bộ giao lưu xã hội. Anh muốn đảm bảo rằng họ thực sự nhận được thứ mà họ đã trả tiền để mua — đó là kết quả. Vì vậy, việc cắt giảm các lớp nhóm lớn rõ ràng sẽ làm giảm tổng số giờ dạy, nhưng nó lại mở ra nhiều thời gian trống hơn để em dạy lớp semi và kiếm được nhiều tiền hơn trên mỗi giờ làm việc. Em thấy điều này có hợp lý không? 
-
-Tóm lại, nếu em kèm được 15 khách tập semi, con số đó tương đương khoảng 8.000 USD/tháng. Và em nhận về 25% hoa hồng. Đó là khoản tiền bỏ túi thêm 2.000 USD/tháng, chưa kể em được phục vụ khách hàng ở một đẳng cấp cao hơn. Nếu em kèm được 30 khách semi, con số sẽ là 4.000 USD/tháng cộng thêm vào thu nhập từ lớp nhóm lớn. Hãy coi lớp nhóm lớn chính là phễu để **generate leads** và chốt sale vào các gói semi của em. Em thấy chiến lược này có hợp lý hơn không? 
-
-Mục tiêu của anh là giúp tất cả mọi người có một mức thu nhập đủ sống thoải mái chỉ bằng cách mặc đồ tập, giao lưu với bạn bè ở phòng tập cả ngày, đồng thời doanh nghiệp vẫn dư dả để vượt qua những mùa thấp điểm mà không phải lo âu gì. 
-
-Thú thật là anh cũng hơi hồi hộp, nhưng anh rất cần sự hậu thuẫn từ em để có thể giải thích rõ ràng với phần còn lại của đội ngũ và giữ một tiếng nói thống nhất. Nếu bất kỳ thành viên nào trong team hoài nghi — hoặc tệ hơn, gieo rắc sự hoang mang cho hội viên — việc vận hành sẽ trở nên vô cùng khó khăn, và anh muốn triệt tiêu điều đó bằng mọi giá. 
-
-Em đã sẵn sàng đồng hành cùng anh chưa? 
+> &emsp;Này Tom, anh muốn trao đổi với em vì chúng ta sắp triển khai một vài điểm mới rất thú vị liên quan đến dịch vụ hội viên, chính sách giá, các buổi tập và nhiều thứ khác nữa. 
+> 
+> &emsp;Anh không biết em có để ý không, nhưng [ _khoảng thời gian qua_ ] doanh nghiệp của chúng ta gần như chỉ đang huề vốn mỗi tháng. Tháng nào cũng chật vật sống qua ngày. 
+> 
+> &emsp;Điều đó thực sự gây áp lực khủng khiếp cho anh, và chắc chắn nó cũng phần nào ảnh hưởng đến em. 
+> 
+> &emsp;Thế nên anh đã thuê các chuyên gia và coach trong ngành để giúp đỡ việc kinh doanh. 
+> 
+> &emsp;Và sau khi nghiên cứu, đánh giá mọi thứ, có vẻ như chúng ta tìm ra cách vừa cứu được doanh nghiệp, vừa mang lại trải nghiệm tốt hơn cho khách hàng, ĐỒNG THỜI giúp các HLV kiếm được nhiều tiền hơn. 
+> 
+> &emsp;Nhưng anh muốn chắc chắn rằng tất cả mọi người đều đồng lòng, bởi vì chúng ta sẽ phải trải qua khoảng một tháng chông gai trước khi mọi thứ đi vào quỹ đạo ổn định. 
+> 
+> &emsp;Anh có thể chia sẻ những gì họ đã tư vấn cho chúng ta không? 
+> 
+> &emsp;Ok, mục tiêu ở đây là chuyển sang mô hình "phân hóa" (bifurcated) hoặc mô hình hai tầng, nói đơn giản là kết hợp giữa lớp nhóm lớn (large group) và lớp nhóm bán riêng tư (semi-private). Điều này sẽ giúp các em kiếm được nhiều tiền hơn còn khách hàng nhận được dịch vụ tốt hơn. Anh chắc chắn chúng ta đều có thể điểm mặt gọi tên vài khách hàng rất muốn nhận được dịch vụ cá nhân hóa và sẵn sàng chi trả cho điều đó. 
+> 
+> &emsp;Với những thay đổi này, em sẽ có cơ hội kiếm thêm từ 2.000 đến 6.000 USD mỗi tháng và hoàn toàn có thể làm full-time, nhưng chúng ta sẽ phải thay đổi rất nhiều thứ trong vận hành để đạt được điều đó. 
+> 
+> &emsp;Việc đầu tiên chúng ta làm là chấm dứt việc "bán rẻ sức lao động" ở các lớp nhóm lớn. Thay vào đó, chúng ta sẽ tối ưu để các lớp này mang tính cá nhân hóa hơn một chút. Thay vì cho phép tập không giới hạn, mỗi hội viên sẽ được tập 3 buổi một tuần. Điều đó cho phép chúng ta chăm sóc họ kỹ hơn khi ở phòng tập, đồng thời tăng giá gói tập vì họ nhận được nhiều sự quan tâm hơn. 
+> 
+> &emsp;Đừng nhìn nhận vấn đề theo hướng họ bị cắt giảm thời lượng tập, mà hãy thấy rằng họ đang nhận được nhiều sự chú ý hơn. Một buổi tập cá nhân (private training) một tuần đáng giá hơn năm buổi tập nhóm chứ, phải không? Lần thay đổi này cũng vậy. Ngoài kia, các phòng tập nhóm lớn với mức giá rẻ bèo như chúng ta mọc lên như nấm, nên chúng ta bắt buộc phải tạo sự khác biệt bằng cách cung cấp nhiều giá trị hơn. 
+> 
+> &emsp;Nhờ những thay đổi này, chúng ta có thể cắt giảm bớt các lớp nhóm lớn để nhường chỗ cho các lớp bán riêng tư (semi-private). Điều này giúp em lấp đầy lịch trống và tận dụng những ngày ít việc bằng các lớp semi-private tỷ lệ 1 kèm 4. Chúng ta sẽ thu phí 125 USD/tuần cho 3 buổi semi-private. Bằng cách này, nếu hội viên nào muốn tập nhiều hơn nữa, họ có thể đăng ký thêm các gói semi-private kết hợp cùng lịch 3 buổi/tuần ở lớp nhóm lớn. 
+> 
+> &emsp;Và nói thật lòng nhé, rất nhiều người ở đây đang coi phòng tập như một câu lạc bộ giao lưu xã hội. Anh muốn đảm bảo rằng họ thực sự nhận được thứ mà họ đã trả tiền để mua — đó là kết quả. Vì vậy, việc cắt giảm các lớp nhóm lớn rõ ràng sẽ làm giảm tổng số giờ dạy, nhưng nó lại mở ra nhiều thời gian trống hơn để em dạy lớp semi và kiếm được nhiều tiền hơn trên mỗi giờ làm việc. Em thấy điều này có hợp lý không? 
+> 
+> &emsp;Tóm lại, nếu em kèm được 15 khách tập semi, con số đó tương đương khoảng 8.000 USD/tháng. Và em nhận về 25% hoa hồng. Đó là khoản tiền bỏ túi thêm 2.000 USD/tháng, chưa kể em được phục vụ khách hàng ở một đẳng cấp cao hơn. Nếu em kèm được 30 khách semi, con số sẽ là 4.000 USD/tháng cộng thêm vào thu nhập từ lớp nhóm lớn. Hãy coi lớp nhóm lớn chính là phễu để **generate leads** và chốt sale vào các gói semi của em. Em thấy chiến lược này có hợp lý hơn không? 
+> 
+> &emsp;Mục tiêu của anh là giúp tất cả mọi người có một mức thu nhập đủ sống thoải mái chỉ bằng cách mặc đồ tập, giao lưu với bạn bè ở phòng tập cả ngày, đồng thời doanh nghiệp vẫn dư dả để vượt qua những mùa thấp điểm mà không phải lo âu gì. 
+> 
+> &emsp;Thú thật là anh cũng hơi hồi hộp, nhưng anh rất cần sự hậu thuẫn từ em để có thể giải thích rõ ràng với phần còn lại của đội ngũ và giữ một tiếng nói thống nhất. Nếu bất kỳ thành viên nào trong team hoài nghi — hoặc tệ hơn, gieo rắc sự hoang mang cho hội viên — việc vận hành sẽ trở nên vô cùng khó khăn, và anh muốn triệt tiêu điều đó bằng mọi giá. 
+> 
+> &emsp;Em đã sẵn sàng đồng hành cùng anh chưa? 
 
 Hiển nhiên là buổi nói chuyện không cần phải rập khuôn từng câu chữ như vậy. Đó chỉ là khung sườn các ý chính. Hãy giải thích rằng mọi sự thay đổi đều nhằm bảo vệ doanh nghiệp, đồng thời mang lại nhiều giá trị và chất lượng dịch vụ cao hơn cho khách hàng. Và hãy luôn móc nối mọi thứ về các lớp semi sắp ra mắt như một giải pháp tự nhiên dành cho những ai muốn tập luyện nhiều hơn hoặc nhận được sự quan tâm sát sao hơn. 
-
+ 
 Nói thẳng ra là ai cũng ghét sự thay đổi. Sẽ luôn có những tiếng la ó, phàn nàn. Nhưng thà đối mặt với những cuộc trò chuyện khó khăn đó còn hơn là phải đối đầu với chủ nhà thuê mặt bằng hay phải thông báo với team rằng bạn không đủ tiền trả lương cho họ. 
-
-###### **Thông Báo Cho Hội Viên Của Bạn** 
+ 
+#### **Thông Báo Cho Hội Viên Của Bạn** 
 
 Đây mới là thứ khiến ai nấy đều sợ hãi: *"Thành viên trong team sẽ nói gì hay nghĩ gì? Group Facebook có bùng nổ không? Liệu nửa đêm họ có ném bom xăng vào phòng tập và thiêu rụi những gì mình gầy dựng không?"* Như tôi đã đề cập trước đó, truyền thông minh bạch chính là chiến lược tối ưu nhất. 
 
@@ -3279,7 +3279,7 @@ Bạn sẽ muốn đưa ra thông báo qua nhiều kênh truyền thông khác n
 
 - Thư tín trực tiếp qua đường bưu điện (kiểu truyền thống, dán tem hẳn hoi) 
 
-- **●** Email 
+- Email 
 
 - Bài đăng mạng xã hội kèm video (và đã tắt tính năng bình luận) 
 
@@ -3289,65 +3289,73 @@ Bạn sẽ muốn đưa ra thông báo qua nhiều kênh truyền thông khác n
 
 Bức thư thông báo có thể sẽ trông giống như thế này. Cứ thoải mái "mượn" trọn bộ khung này nhé — tôi tặng bạn đấy. 
 
-Gửi [ _Tên_ ], 
+> Gửi [ _Tên_ ], 
+> 
+> Như bạn đã biết hoặc chưa biết, tháng tới sẽ đánh dấu cột mốc phòng tập của chúng ta chính thức hoạt động được [ _số năm/tháng_ ].
+> 
+> Như các bạn có thể thấy, chúng ta đã đạt được sự tăng trưởng vượt bậc trong suốt thời gian qua. Một bức thư với những con chữ đen trắng chắc chắn không bao giờ có thể truyền tải hết lòng biết ơn sâu sắc của tôi khi có bạn đồng hành trên chặng đường này. Các bạn đã tin tưởng và ủng hộ chúng tôi, và tôi muốn đền đáp lại sự tin tưởng đó bằng sự minh bạch tuyệt đối cùng một bước nhảy vọt về chất lượng dịch vụ. Chúng tôi muốn kiến tạo những sự thay đổi thực sự trong cuộc sống của các bạn, chứ không chỉ nói suông.
+> 
+> Để xứng đáng với điều đó, tôi muốn các bạn biết rằng chúng tôi vẫn đang nỗ lực không ngừng nghỉ mỗi ngày, và những dự án sắp tới là điều mà đội ngũ HLV (coaching staff) và cá nhân tôi cực kỳ tâm huyết. Dưới đây là một số cải tiến sắp được triển khai:
+> 
+> **NHỮNG GÌ CHÚNG TÔI ĐANG LÀM** 
+> 
+> **Tuyển dụng và giữ chân những HLV xuất sắc nhất:** Chúng tôi nỗ lực chiêu mộ những huấn luyện viên sắc sảo, có đạo đức nghề nghiệp tuyệt vời và một trái tim ấm áp. Chúng tôi muốn xóa bỏ mô hình thể hình truyền thống—nhìn đồng hồ đếm giờ, đếm số reps, thiếu nhiệt huyết, thiếu kiến thức hoặc sự cá nhân hóa—bằng những gương mặt thân thiện nhớ rõ tên bạn, dịch vụ coaching đỉnh cao, và nguồn động lực không chỉ giúp bạn bước chân vào phòng tập, mà còn giữ chân bạn quay trở lại đều đặn.
+> 
+> **Đầu tư đào tạo liên tục:** Những HLV giỏi nhất trong ngành luôn giữ vững phong độ vì họ đầu tư phát triển chuyên môn. Do đó, chúng tôi liên tục đầu tư vào các chương trình đào tạo cho đội ngũ HLV của mình như [_các chứng chỉ/workshop_]. Chúng tôi huấn luyện đội ngũ để mang lại dịch vụ tốt nhất khu vực, giúp bạn đạt được kết quả mong muốn trong thời gian ngắn nhất.
+> 
+> **Cung cấp trang thiết bị mới:** Khi chúng tôi cập nhật các hệ thống và phương pháp tập luyện mới, chúng tôi cũng liên tục đầu tư vào các thiết bị tối tân. Điều này áp dụng cho cả thiết bị mới như [_tên thiết bị_] mà chúng tôi vừa mua, lẫn việc thay thế các thiết bị hỏng hóc như [_tên thiết bị_]. Trong vài tháng tới, chúng tôi cũng dự định mang về [_thiết bị mới_] để mang lại nhiều trải nghiệm đáng mong đợi hơn và giúp bạn tăng tốc đạt kết quả.
+> 
+> **NHỮNG GÌ SẮP TỚI** 
+> 
+> **Nâng cấp cơ sở vật chất:** Chúng tôi giống như con tàu _Millennium Falcon_: bề ngoài không hào nhoáng, nhưng sẽ đưa bạn tới đích... cực nhanh. Dù chúng tôi không có khăn tắm thơm mùi dưa leo hay phòng tắm lát đá cẩm thạch, nhưng bạn xứng đáng có hệ thống điều hòa và phòng tắm hoạt động tốt. Do đó, mục tiêu của chúng tôi là nâng cấp mạnh mẽ cơ sở này hoặc chuyển đến một địa điểm mới để cải thiện trải nghiệm tập luyện của bạn, sở hữu một phòng gym có chất lượng tương xứng với đẳng cấp của hội viên.
+> 
+> **Sự kiện cộng đồng:** Để gắn kết cộng đồng này chặt chẽ hơn và tạo cơ hội cho mọi người giao lưu, chúng tôi đang lên kế hoạch tổ chức các sự kiện để bạn có thêm những buổi sinh hoạt đáng mong chờ. (Đừng lo—bạn hoàn toàn có thể "phạm luật" chế độ ăn uống một chút vào dịp đó). Mục tiêu là để tất cả chúng ta hiểu nhau hơn giống như cách chúng tôi hiểu các bạn, mà tôi tin đó là một trong những giá trị tuyệt vời nhất khi sở hữu phòng gym này.
+> 
+> **Chương trình chuyên biệt (Specialty Programs):** Chúng tôi cũng sẽ tung ra các chương trình chuyên biệt dành cho những hội viên cần sự quan tâm sâu sát hơn và HLV cá nhân hóa để giải quyết các mục tiêu cụ thể, giúp bạn tiến bộ với tốc độ thậm chí còn nhanh hơn so với lớp học nhóm lớn.
+> 
+> **Nâng cấp TOÀN DIỆN chất lượng dịch vụ:** Đây là điều khiến chúng tôi phấn khích nhất, nhưng cũng là điều khiến tôi lo sợ nhất khi thông báo. Chúng tôi dự định chuyển đổi hình thức tập luyện từ "đến tập bất cứ lúc nào bạn muốn" sang "bạn có lịch hẹn cố định với HLV 3 lần/tuần". Việc này hoàn toàn nhằm mục đích thu nhỏ quy mô lớp học để chúng tôi có thể phục vụ bạn tốt hơn nữa. Nó cũng sẽ giải quyết một phần các vấn đề về bãi đỗ xe mà thành phố liên tục phàn nàn với chúng tôi, giúp bạn không còn phải chật vật tranh giành chỗ đậu xe nữa.
+> 
+> Thành thật mà nói, chúng tôi chưa bao giờ muốn trở thành một cơ sở chỉ để "đổ mồ hôi" cho xong chuyện. Chúng tôi muốn trở thành một phòng gym tự hào về những cú lột xác thực sự (cả về vóc dáng lẫn tư duy). Và chúng tôi nhận ra rằng việc để hội viên tập "lúc nào tùy thích" cuối cùng lại biến thành "không bao giờ" đối với rất nhiều người. Điều này khiến tôi thực sự trăn trở.
+> 
+> Chúng ta cũng nhận thấy rằng mọi người thường có kết quả rất tốt ở giai đoạn đầu, nhưng sau đó tiến độ sẽ chậm lại khi sự hào hứng ban đầu phai nhạt. Bạn vẫn tiếp tục tập luyện, điều đó rất tuyệt, nhưng tôi muốn bạn phải lột xác với sự tiến bộ liên tục.
+> 
+> Do đó, chúng tôi sẽ thắt chặt tính chịu trách nhiệm (accountability) bên cạnh dịch vụ thông thường. Bạn sẽ được điểm danh từ trước, và nếu vì lý do nào đó bạn bỏ lỡ buổi tập, chúng tôi sẽ "bám đuổi" và khiến bạn thấy day dứt vì điều đó (đùa thôi). Nhưng quả thực chúng tôi muốn bạn có mặt ở đây và coi nó như một cuộc hẹn quan trọng với chính mình.
+> 
+> Tất nhiên, tất cả những khoản đầu tư liên tục và nâng cấp chất lượng dịch vụ này sẽ đòi hỏi nguồn tài chính đáng kể để trở thành hiện thực.
+> 
+> Và để tiếp tục đồng hành với sứ mệnh mang lại trải nghiệm xuất sắc cho khách hàng, chúng tôi sẽ thay đổi cấu trúc thanh toán. Thay vì hình thức "tập không giới hạn bất cứ lúc nào", chúng tôi sẽ chuyển sang thanh toán theo tuần. Mức tăng sẽ dao động khoảng \$10–$15/tuần tùy thuộc vào gói hội viên hiện tại của bạn. Mức giá cuối cùng sẽ là \$39/tuần, áp dụng từ ngày [_MM/DD/YYYY_]. (_Lưu ý: Bạn cũng có thể đính kèm một bức thư hoặc biểu đồ ở mặt sau nếu có nhiều hạng mức hội viên để hiển thị mức giá cụ thể theo tuần._)
+> 
+> Vì chúng ta sẽ chuyển sang các buổi tập có lịch trình cố định, tôi đã đính kèm tờ lịch tập mới ở mặt sau bức thư này. Hãy xem qua và chụp lại nó nhé. Chúng tôi sẽ áp dụng khung giờ mới này kể từ ngày [_MM/DD/YYYY_]. Điều này một phần là do sự thay đổi theo mùa và xu hướng đi tập của hội viên từ năm ngoái.
+> 
+> [_Hãy thoải mái bỏ qua phần này nếu bạn chưa từng áp dụng chính sách giá trọn đời hoặc đưa ra cam kết nào gần đây._] Như các bạn đã biết, chỉ mới một tháng trước, tôi đã tăng giá dịch vụ. Và vào thời điểm đó, tôi đã hứa rằng mức phí của các bạn sẽ không thay đổi. Vì vậy, tôi muốn làm rõ vấn đề này ngay bây giờ.
+> 
+> Tôi đã dành toàn bộ tuổi trưởng thành của mình để đầu tư phát triển bản thân thành một HLV giỏi. Tuy nhiên, điểm mà tôi chưa làm tốt là vai trò của một chủ doanh nghiệp và việc thấu hiểu thực tế tài chính khi vận hành một doanh nghiệp nhỏ.
+> 
+> Dù vậy, cũng giống như các bạn, tôi đang nỗ lực mỗi ngày để phát triển và hoàn thiện bản thân. Và hệt như những gì chúng tôi khuyên mọi người tại đây, tôi gần đây đã đầu tư thuê các business coach và chuyên gia tư vấn hàng đầu để mổ xẻ doanh nghiệp, nắm rõ các con số tài chính, và nâng cấp sản phẩm gửi đến các bạn.
+> 
+> Giờ đây, khi họ buộc chúng tôi phải nhìn thẳng vào những con số với máy tính trên tay, thì việc tiếp tục phát triển và duy trì chất lượng dịch vụ cũng như cơ sở vật chất xứng đáng với bạn là điều hoàn toàn bất khả thi nếu không có sự thay đổi này.
+> 
+> Đối với những ai đang lo lắng về khoản tăng \$10–$15/tuần, tôi muốn bạn biết rằng chúng tôi đồng thời tung ra chương trình Giới thiệu bạn bè (Refer-a-Friend): bạn sẽ nhận ngay một tháng tập miễn phí cho mỗi người bạn được giới thiệu đăng ký làm hội viên. Chỉ cần giới thiệu 12 người bạn trong năm tới, bạn sẽ nhận được cả năm tập miễn phí hoàn toàn—đó là cách chúng tôi nói lời cảm ơn vì bạn đã giúp chúng tôi kiến tạo thêm nhiều cuộc đời thay đổi. Tôi cũng sẽ thông báo chi tiết về chương trình này qua video trong nhóm Facebook.
+> 
+> Bây giờ, hãy thẳng thắn với nhau nhé. Con người rất **GHÉT** sự thay đổi. Nhưng sâu thẳm trong lòng, ai cũng hiểu thay đổi là một phần của sự phát triển. Điều tôi KHÔNG MUỐN xảy ra bằng bất cứ giá nào là việc những lời đồn thổi nhảm nhí bắt đầu lan truyền. Do đó, tôi và đội ngũ của mình rất sẵn lòng giải đáp trực tiếp mọi thắc mắc của bạn về sự thay đổi này.
+> 
+> Không qua tin nhắn… hay FB Messenger… hay Instagram DM… hay email… hay trên một bài đăng Facebook (Chúa phù hộ cho tất cả chúng ta).
+> 
+> Chúng ta muốn nói chuyện TRỰC TIẾP. Bằng cách đó, sẽ có 0% cơ hội xảy ra hiểu lầm. Vì vậy, chúng tôi sẽ không cho phép bất kỳ bài đăng nào trên mạng xã hội liên quan đến “khía cạnh kinh doanh” của phòng tập. Nhóm (group) sẽ tiếp tục tập trung đúng vào mục đích ban đầu của nó—một diễn đàn để cộng đồng kết nối và động viên lẫn nhau trên hành trình lột xác này.
+> 
+> Tôi rất mong nhận được sự ủng hộ của các bạn để chúng tôi tiếp tục được phục vụ các bạn theo cách tốt nhất mà chúng tôi biết.
+> 
+> Trân trọng, 
+>
+> _(Ký tên)_ 
+>
+> TÊN CỦA BẠN Chủ phòng tập
+>
+> TÊN PHÒNG TẬP 
+>
+> P.S. Tôi yêu tất cả các bạn, nói thật đấy.
 
-Như bạn đã biết hoặc chưa biết, tháng tới sẽ đánh dấu cột mốc phòng tập của chúng ta chính thức hoạt động được [ _số năm/tháng_ ].
-
-Như các bạn có thể thấy, chúng ta đã đạt được sự tăng trưởng vượt bậc trong suốt thời gian qua. Một bức thư với những con chữ đen trắng chắc chắn không bao giờ có thể truyền tải hết lòng biết ơn sâu sắc của tôi khi có bạn đồng hành trên chặng đường này. Các bạn đã tin tưởng và ủng hộ chúng tôi, và tôi muốn đền đáp lại sự tin tưởng đó bằng sự minh bạch tuyệt đối cùng một bước nhảy vọt về chất lượng dịch vụ. Chúng tôi muốn kiến tạo những sự thay đổi thực sự trong cuộc sống của các bạn, chứ không chỉ nói suông.
-
-Để xứng đáng với điều đó, tôi muốn các bạn biết rằng chúng tôi vẫn đang nỗ lực không ngừng nghỉ mỗi ngày, và những dự án sắp tới là điều mà đội ngũ HLV (coaching staff) và cá nhân tôi cực kỳ tâm huyết. Dưới đây là một số cải tiến sắp được triển khai:
-
-###### **NHỮNG GÌ CHÚNG TÔI ĐANG LÀM** 
-
-**Tuyển dụng và giữ chân những HLV xuất sắc nhất:** Chúng tôi nỗ lực chiêu mộ những huấn luyện viên sắc sảo, có đạo đức nghề nghiệp tuyệt vời và một trái tim ấm áp. Chúng tôi muốn xóa bỏ mô hình thể hình truyền thống—nhìn đồng hồ đếm giờ, đếm số reps, thiếu nhiệt huyết, thiếu kiến thức hoặc sự cá nhân hóa—bằng những gương mặt thân thiện nhớ rõ tên bạn, dịch vụ coaching đỉnh cao, và nguồn động lực không chỉ giúp bạn bước chân vào phòng tập, mà còn giữ chân bạn quay trở lại đều đặn.
-
-**Đầu tư đào tạo liên tục:** Những HLV giỏi nhất trong ngành luôn giữ vững phong độ vì họ đầu tư phát triển chuyên môn. Do đó, chúng tôi liên tục đầu tư vào các chương trình đào tạo cho đội ngũ HLV của mình như [_các chứng chỉ/workshop_]. Chúng tôi huấn luyện đội ngũ để mang lại dịch vụ tốt nhất khu vực, giúp bạn đạt được kết quả mong muốn trong thời gian ngắn nhất.
-
-**Cung cấp trang thiết bị mới:** Khi chúng tôi cập nhật các hệ thống và phương pháp tập luyện mới, chúng tôi cũng liên tục đầu tư vào các thiết bị tối tân. Điều này áp dụng cho cả thiết bị mới như [_tên thiết bị_] mà chúng tôi vừa mua, lẫn việc thay thế các thiết bị hỏng hóc như [_tên thiết bị_]. Trong vài tháng tới, chúng tôi cũng dự định mang về [_thiết bị mới_] để mang lại nhiều trải nghiệm đáng mong đợi hơn và giúp bạn tăng tốc đạt kết quả.
-
-###### **NHỮNG GÌ SẮP TỚI** 
-
-**Nâng cấp cơ sở vật chất:** Chúng tôi giống như con tàu _Millennium Falcon_: bề ngoài không hào nhoáng, nhưng sẽ đưa bạn tới đích... cực nhanh. Dù chúng tôi không có khăn tắm thơm mùi dưa leo hay phòng tắm lát đá cẩm thạch, nhưng bạn xứng đáng có hệ thống điều hòa và phòng tắm hoạt động tốt. Do đó, mục tiêu của chúng tôi là nâng cấp mạnh mẽ cơ sở này hoặc chuyển đến một địa điểm mới để cải thiện trải nghiệm tập luyện của bạn, sở hữu một phòng gym có chất lượng tương xứng với đẳng cấp của hội viên.
-
-**Sự kiện cộng đồng:** Để gắn kết cộng đồng này chặt chẽ hơn và tạo cơ hội cho mọi người giao lưu, chúng tôi đang lên kế hoạch tổ chức các sự kiện để bạn có thêm những buổi sinh hoạt đáng mong chờ. (Đừng lo—bạn hoàn toàn có thể "phạm luật" chế độ ăn uống một chút vào dịp đó). Mục tiêu là để tất cả chúng ta hiểu nhau hơn giống như cách chúng tôi hiểu các bạn, mà tôi tin đó là một trong những giá trị tuyệt vời nhất khi sở hữu phòng gym này.
-
-**Chương trình chuyên biệt (Specialty Programs):** Chúng tôi cũng sẽ tung ra các chương trình chuyên biệt dành cho những hội viên cần sự quan tâm sâu sát hơn và HLV cá nhân hóa để giải quyết các mục tiêu cụ thể, giúp bạn tiến bộ với tốc độ thậm chí còn nhanh hơn so với lớp học nhóm lớn.
-
-**Nâng cấp TOÀN DIỆN chất lượng dịch vụ:** Đây là điều khiến chúng tôi phấn khích nhất, nhưng cũng là điều khiến tôi lo sợ nhất khi thông báo. Chúng tôi dự định chuyển đổi hình thức tập luyện từ "đến tập bất cứ lúc nào bạn muốn" sang "bạn có lịch hẹn cố định với HLV 3 lần/tuần". Việc này hoàn toàn nhằm mục đích thu nhỏ quy mô lớp học để chúng tôi có thể phục vụ bạn tốt hơn nữa. Nó cũng sẽ giải quyết một phần các vấn đề về bãi đỗ xe mà thành phố liên tục phàn nàn với chúng tôi, giúp bạn không còn phải chật vật tranh giành chỗ đậu xe nữa.
-
-Thành thật mà nói, chúng tôi chưa bao giờ muốn trở thành một cơ sở chỉ để "đổ mồ hôi" cho xong chuyện. Chúng tôi muốn trở thành một phòng gym tự hào về những cú lột xác thực sự (cả về vóc dáng lẫn tư duy). Và chúng tôi nhận ra rằng việc để hội viên tập "lúc nào tùy thích" cuối cùng lại biến thành "không bao giờ" đối với rất nhiều người. Điều này khiến tôi thực sự trăn trở.
-
-Chúng ta cũng nhận thấy rằng mọi người thường có kết quả rất tốt ở giai đoạn đầu, nhưng sau đó tiến độ sẽ chậm lại khi sự hào hứng ban đầu phai nhạt. Bạn vẫn tiếp tục tập luyện, điều đó rất tuyệt, nhưng tôi muốn bạn phải lột xác với sự tiến bộ liên tục.
-
-Do đó, chúng tôi sẽ thắt chặt tính chịu trách nhiệm (accountability) bên cạnh dịch vụ thông thường. Bạn sẽ được điểm danh từ trước, và nếu vì lý do nào đó bạn bỏ lỡ buổi tập, chúng tôi sẽ "bám đuổi" và khiến bạn thấy day dứt vì điều đó (đùa thôi). Nhưng quả thực chúng tôi muốn bạn có mặt ở đây và coi nó như một cuộc hẹn quan trọng với chính mình.
-
-Tất nhiên, tất cả những khoản đầu tư liên tục và nâng cấp chất lượng dịch vụ này sẽ đòi hỏi nguồn tài chính đáng kể để trở thành hiện thực.
-
-Và để tiếp tục đồng hành với sứ mệnh mang lại trải nghiệm xuất sắc cho khách hàng, chúng tôi sẽ thay đổi cấu trúc thanh toán. Thay vì hình thức "tập không giới hạn bất cứ lúc nào", chúng tôi sẽ chuyển sang thanh toán theo tuần. Mức tăng sẽ dao động khoảng \$10–$15/tuần tùy thuộc vào gói hội viên hiện tại của bạn. Mức giá cuối cùng sẽ là \$39/tuần, áp dụng từ ngày [_MM/DD/YYYY_]. (_Lưu ý: Bạn cũng có thể đính kèm một bức thư hoặc biểu đồ ở mặt sau nếu có nhiều hạng mức hội viên để hiển thị mức giá cụ thể theo tuần._)
-
-Vì chúng ta sẽ chuyển sang các buổi tập có lịch trình cố định, tôi đã đính kèm tờ lịch tập mới ở mặt sau bức thư này. Hãy xem qua và chụp lại nó nhé. Chúng tôi sẽ áp dụng khung giờ mới này kể từ ngày [_MM/DD/YYYY_]. Điều này một phần là do sự thay đổi theo mùa và xu hướng đi tập của hội viên từ năm ngoái.
-
-[_Hãy thoải mái bỏ qua phần này nếu bạn chưa từng áp dụng chính sách giá trọn đời hoặc đưa ra cam kết nào gần đây._] Như các bạn đã biết, chỉ mới một tháng trước, tôi đã tăng giá dịch vụ. Và vào thời điểm đó, tôi đã hứa rằng mức phí của các bạn sẽ không thay đổi. Vì vậy, tôi muốn làm rõ vấn đề này ngay bây giờ.
-
-Tôi đã dành toàn bộ tuổi trưởng thành của mình để đầu tư phát triển bản thân thành một HLV giỏi. Tuy nhiên, điểm mà tôi chưa làm tốt là vai trò của một chủ doanh nghiệp và việc thấu hiểu thực tế tài chính khi vận hành một doanh nghiệp nhỏ.
-
-Dù vậy, cũng giống như các bạn, tôi đang nỗ lực mỗi ngày để phát triển và hoàn thiện bản thân. Và hệt như những gì chúng tôi khuyên mọi người tại đây, tôi gần đây đã đầu tư thuê các business coach và chuyên gia tư vấn hàng đầu để mổ xẻ doanh nghiệp, nắm rõ các con số tài chính, và nâng cấp sản phẩm gửi đến các bạn.
-
-Giờ đây, khi họ buộc chúng tôi phải nhìn thẳng vào những con số với máy tính trên tay, thì việc tiếp tục phát triển và duy trì chất lượng dịch vụ cũng như cơ sở vật chất xứng đáng với bạn là điều hoàn toàn bất khả thi nếu không có sự thay đổi này.
-
-Đối với những ai đang lo lắng về khoản tăng \$10–$15/tuần, tôi muốn bạn biết rằng chúng tôi đồng thời tung ra chương trình Giới thiệu bạn bè (Refer-a-Friend): bạn sẽ nhận ngay một tháng tập miễn phí cho mỗi người bạn được giới thiệu đăng ký làm hội viên. Chỉ cần giới thiệu 12 người bạn trong năm tới, bạn sẽ nhận được cả năm tập miễn phí hoàn toàn—đó là cách chúng tôi nói lời cảm ơn vì bạn đã giúp chúng tôi kiến tạo thêm nhiều cuộc đời thay đổi. Tôi cũng sẽ thông báo chi tiết về chương trình này qua video trong nhóm Facebook.
-
-Bây giờ, hãy thẳng thắn với nhau nhé. Con người rất **GHÉT** sự thay đổi. Nhưng sâu thẳm trong lòng, ai cũng hiểu thay đổi là một phần của sự phát triển. Điều tôi KHÔNG MUỐN xảy ra bằng bất cứ giá nào là việc những lời đồn thổi nhảm nhí bắt đầu lan truyền. Do đó, tôi và đội ngũ của mình rất sẵn lòng giải đáp trực tiếp mọi thắc mắc của bạn về sự thay đổi này.
-
-Không qua tin nhắn… hay FB Messenger… hay Instagram DM… hay email… hay trên một bài đăng Facebook (Chúa phù hộ cho tất cả chúng ta).
-
-Chúng ta muốn nói chuyện TRỰC TIẾP. Bằng cách đó, sẽ có 0% cơ hội xảy ra hiểu lầm. Vì vậy, chúng tôi sẽ không cho phép bất kỳ bài đăng nào trên mạng xã hội liên quan đến “khía cạnh kinh doanh” của phòng tập. Nhóm (group) sẽ tiếp tục tập trung đúng vào mục đích ban đầu của nó—một diễn đàn để cộng đồng kết nối và động viên lẫn nhau trên hành trình lột xác này.
-
-Tôi rất mong nhận được sự ủng hộ của các bạn để chúng tôi tiếp tục được phục vụ các bạn theo cách tốt nhất mà chúng tôi biết.
-
-Trân trọng, _(Ký tên)_ TÊN CỦA BẠN Chủ phòng tập, TÊN PHÒNG TẬP P.S. Tôi yêu tất cả các bạn, nói thật đấy.
-
-###### **Đối Phó Với Những Khách Hàng Làm Âm Hĩ**
+#### **Đối Phó Với Những Khách Hàng Làm Ầm Ĩ**
 
 Hãy tùy chỉnh kịch bản và nội dung thư cho phù hợp với doanh nghiệp của bạn. Nhớ đính kèm lịch tập mới và bảng giá (price matrix) nếu bạn cung cấp nhiều gói tập khác nhau. Thế là đủ dùng rồi.
 
@@ -3355,15 +3363,7 @@ Dù vậy, đây là một vài mẹo nhanh giúp quá trình chuyển đổi di
 
 1. Khi bạn quay video đăng lên nhóm Facebook, hãy nhớ tắt tính năng bình luận của bài viết. Bạn có thể tận dụng lại nội dung bức thư làm lời thoại cho video.
 
-2. Gửi một thông báo hàng loạt (blast) để kéo mọi người vào nhóm Facebook, và hãy sẵn sàng đối phó với những khách hàng LÀM ÂM HĨ trong vài tuần tới. Nhưng hãy nhìn nhận nó đúng bản chất—đó chỉ là TIẾP ỒN (NOISE). Việc họ cố thuyết phục bạn ĐỪNG thay đổi hoàn toàn là vì lợi ích của chính họ.
-
-Sẽ rất đáng sợ đấy.
-
-Bạn sẽ tự hỏi liệu tất cả có bỏ đi hết không.
-
-Nhưng họ sẽ không đi đâu cả.
-
-Chi phí để rời khỏi một cộng đồng, tìm một mái nhà mới, những người bạn mới và một thói quen mới là rất cao—cao hơn nhiều con số 10–15 USD/tuần. Nếu thực sự có người dọa bỏ đi, hãy nhắc họ rằng việc từ bỏ lịch tập thể fitness sẽ khiến họ mất đi đà tiến mà họ đã gầy dựng được khi tập luyện tại cơ sở của bạn.
+2. Gửi một thông báo hàng loạt (blast) để kéo mọi người vào nhóm Facebook, và hãy sẵn sàng đối phó với những khách hàng LÀM ÂM HĨ trong vài tuần tới. Nhưng hãy nhìn nhận nó đúng bản chất—đó chỉ là TIẾP ỒN (NOISE). Việc họ cố thuyết phục bạn ĐỪNG thay đổi hoàn toàn là vì lợi ích của chính họ.<br/><br/>Sẽ rất đáng sợ đấy.<br/><br/>Bạn sẽ tự hỏi liệu tất cả có bỏ đi hết không.<br/><br/>Nhưng họ sẽ không đi đâu cả.<br/><br/>Chi phí để rời khỏi một cộng đồng, tìm một mái nhà mới, những người bạn mới và một thói quen mới là rất cao—cao hơn nhiều con số 10–15 USD/tuần. Nếu thực sự có người dọa bỏ đi, hãy nhắc họ rằng việc từ bỏ lịch tập thể fitness sẽ khiến họ mất đi đà tiến mà họ đã gầy dựng được khi tập luyện tại cơ sở của bạn.
 
 3. Hãy nhắc nhở những ai lo lắng về chi phí tăng thêm rằng họ hoàn toàn có thể điều chỉnh ngân sách và thói quen chi tiêu để kham nổi mức giá mới, và đây là một sự đầu tư cho sức khỏe của chính họ. Hãy kể cho họ nghe những câu chuyện về những người ở hoàn cảnh khó khăn hơn nhưng vẫn xoay sở được tiền bởi vì sức khỏe là ưu tiên hàng đầu.
 
@@ -3371,11 +3371,7 @@ Chi phí để rời khỏi một cộng đồng, tìm một mái nhà mới, nh
 
 Bạn có hai sự lựa chọn: con đường cầm chắc cái kết kiệt sức (burnout) hoặc cơ hội lột xác toàn diện doanh nghiệp của mình. Cả hai đều có rủi ro, nhưng chỉ có một con đường mang lại cho bạn những gì bạn muốn.
 
-###### **<u>Phần iii</u>**
-
-**Giữ chân khách hàng (Retention): Thôi Thúc Họ Mua Nhiều Hơn**
-
-159
+## **Phần III: Giữ chân khách hàng (Retention) - Thôi Thúc Họ Mua Nhiều Hơn**
 
 Bạn đã vượt qua phần mang nặng tính toán học này (thở phào nhẹ nhõm chưa). Vậy là bạn đã biết cách đưa họ bước qua cửa bằng chiến lược mua khách hàng tự tài trợ từ Phần I. Bạn đã biết mình phải làm gì để kiếm lợi nhuận từ việc họ có mặt tại phòng tập thông qua các đòn bẩy lợi nhuận ở Phần II. Vậy bây giờ chúng ta sẽ bàn về điều gì? Kẻ sát nhân thầm lặng của mọi phòng tập—sự thất thoát khách hàng (attrition). Hay như tôi từng gọi trước đây: cái lỗ thủng trên chiếc xô.
 
